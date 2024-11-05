@@ -4,7 +4,10 @@ version = "0.1.0"
 description = "Stay in compliance with the power of AI"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "beautifulsoup4>=4.12.3",
+    "scrapy>=2.11.2",
+]
 
 [dependency-groups]
 dev = [
