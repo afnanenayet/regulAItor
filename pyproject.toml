@@ -1,0 +1,7 @@
+[project]
+name = "regulaitor"
+version = "0.1.0"
+description = "Stay in compliance with the power of AI"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
