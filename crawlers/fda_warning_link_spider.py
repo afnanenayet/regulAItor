@@ -10,10 +10,14 @@ so we need to use playwright to dynamically update the page.
 You need to run this via scrapy:
 
 ```bash
-uv run scrapy runspider fda_warning_link_spider.py -o warning_letter_links.json
+uv run scrapy runspider crawlers/fda_warning_link_spider.py -o warning_letter_links.json
 ```
 
 You can omit `uv run` if you're not using `uv`.
+
+# Perf
+
+It took 4 minutes to crawl every page on my machine (Apple M1 Max).
 """
 
 from playwright.async_api import Page
