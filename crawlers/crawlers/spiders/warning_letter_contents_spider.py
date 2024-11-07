@@ -31,6 +31,17 @@ URL_JSON_ENV_VAR_KEY = "URL_JSON"
 class WarningLetterContentsSpider(Spider):
     name = "warning_letter_contents"
 
+    custom_settings = {
+        "TWISTED_REACTOR": "twisted.internet.asyncioreactor.AsyncioSelectorReactor",
+        "DOWNLOAD_HANDLERS": {
+            "https": "scrapy_playwright.handler.ScrapyPlaywrightDownloadHandler",
+            "http": "scrapy_playwright.handler.ScrapyPlaywrightDownloadHandler",
+        },
+        "PLAYWRIGHT_LAUNCH_OPTIONS": {
+            "headless": True  # Set to False if you want to see the browser while debugging
+        },
+    }
+
     def start_requests(self):
         if URL_JSON_ENV_VAR_KEY not in os.environ:
             raise ValueError(
@@ -49,7 +60,13 @@ class WarningLetterContentsSpider(Spider):
         all_links = list(all_links)
 
         for link in all_links:
-            yield Request(link)
+            yield Request(
+                link,
+                meta={
+                    "playwright": True,
+                    "playwright_include_page": True,
+                },
+            )
 
     @override
     def parse(self, response, **kwargs):
