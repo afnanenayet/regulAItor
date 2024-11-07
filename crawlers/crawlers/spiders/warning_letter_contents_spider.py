@@ -64,7 +64,6 @@ class WarningLetterContentsSpider(Spider):
                 link,
                 meta={
                     "playwright": True,
-                    "playwright_include_page": True,
                 },
             )
 
