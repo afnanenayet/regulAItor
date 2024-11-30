@@ -1,5 +1,16 @@
 # FDA Warning Letter Processing System
 
+## Running
+
+### Prerequisites
+
+* Install [docker](https://www.docker.com/)
+* Run `qdrant` using the instructions to [run locally](https://qdrant.tech/documentation/quickstart/)
+* Create a JSON file with the autogen config. This should have 
+  your OpenAI API credentials and will look like the file called `OAI_CONFIG_LIST`
+  in this directory.
+* Run the example script with `uv run warning-letter-state-machine-example`
+
 ## Workflow
 
 1. **Initialization**: Start of the warning letter processing

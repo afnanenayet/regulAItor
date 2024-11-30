@@ -14,13 +14,18 @@ dependencies = [
   "autogen>=0.4",
   "torch>=2.5.1",
   "sentence-transformers>=3.3.1",
+  "pydantic>=2.10.2",
+  "click>=8.1.7",
+  "rich>=13.9.4",
+  "click-help-colors>=0.9.4",
+  "dspy-ai[qdrant]>=2.5.41",
 ]
 
 [dependency-groups]
 dev = ["black>=24.10.0", "isort>=5.13.2"]
 
 [project.scripts]
-warning-letter-state-machine-example = "regulaitor.Framework:main"
+warning-letter-state-machine-example = "regulaitor.Framework.fda_warning_letter_example:warning_letter_example"
 
 [build-system]
 requires = ["hatchling"]
