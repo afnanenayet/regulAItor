@@ -2,3 +2,4 @@ __pycache__/
 .direnv/
 *.pyc
 /data/*
+qdrant_storage/
