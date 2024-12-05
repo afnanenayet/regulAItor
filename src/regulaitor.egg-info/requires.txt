@@ -1,0 +1,5 @@
+beautifulsoup4>=4.12.3
+scrapy-playwright>=0.0.41
+scrapy>=2.11.2
+pyautogen
+tenacity

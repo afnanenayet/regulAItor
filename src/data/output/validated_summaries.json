@@ -1,0 +1,84 @@
+[
+  {
+    "letter_name": "1-stop-chicken-health-shop-689150-07292024",
+    "violated_terms": [
+      "Marketing of unapproved new animal drugs in violation of the Federal Food Drug and Cosmetic Act (FD&C Act)",
+      "Products are misbranded under section 502(o) of the FD&C Act",
+      "Introducing or delivering unapproved and misbranded new animal drugs for introduction into interstate commerce violates section 301(a) of the FD&C Act",
+      "Products are not generally recognized as safe and effective under section 201(v) of the FD&C Act",
+      "Products are unsafe within the meaning of section 512(a) of the FD&C Act",
+      "Products are adulterated under section 501(a)(5) of the FD&C Act"
+    ],
+    "recommendations": [
+      "Investigate and determine the causes of any violations",
+      "Implement corrective actions to prevent recurrence of violations",
+      "Notify the FDA in writing within fifteen (15) working days of receipt of the letter about the specific steps taken to address violations",
+      "Include an explanation of each step being taken to prevent recurrence of violations",
+      "Provide copies of related documentation",
+      "If unable to complete corrective action within fifteen (15) working days, state the reason for the delay and the time frame for completion",
+      "If believing the product is not in violation, include reasoning and supporting information for FDA's consideration"
+    ]
+  },
+  {
+    "letter_name": "1-party-time-609781-09012020",
+    "violated_terms": [
+      "Section 505(a) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. § 355(a)",
+      "Section 502 of the FD&C Act, 21 U.S.C. § 352",
+      "Sections 301(a) and (d) of the FD&C Act, 21 U.S.C. § 331(a) and (d)",
+      "FTC Act, 15 U.S.C. 41 et seq."
+    ],
+    "recommendations": [
+      "Cease the sale of unapproved and unauthorized products for the mitigation, prevention, treatment, diagnosis, or cure of COVID-19.",
+      "Review websites, product labels, and promotional materials to ensure compliance with the FD&C Act.",
+      "Email the FDA within 48 hours detailing specific steps taken to correct the violations.",
+      "Cease making claims that the product can prevent, treat, or cure COVID-19 without competent and reliable scientific evidence.",
+      "Email the FTC within 48 hours describing actions taken to address their concerns."
+    ]
+  },
+  {
+    "letter_name": "13-vapor-co-llc-619153-11092021",
+    "violated_terms": [
+      "Failure to obtain marketing authorization for new tobacco products as required under section 910 of the FD&C Act",
+      "Manufacturing and distributing adulterated and misbranded tobacco products under sections 902(6)(A) and 903(a)(6) of the FD&C Act",
+      "Failure to provide required reports under section 905(j) of the FD&C Act",
+      "Prohibited acts under section 301(k) and 301(p) of the FD&C Act"
+    ],
+    "recommendations": [
+      "Discontinue the sale and distribution of the violative tobacco products",
+      "Submit a written response within 15 working days detailing corrective actions taken to address the violations",
+      "Provide a plan for maintaining compliance with the FD&C Act",
+      "Include reasoning and supporting information if disputing the violations"
+    ]
+  },
+  {
+    "letter_name": "1-stop-supply-corp-dba-1-stop-vapor-supply-685573-06122024",
+    "violated_terms": [
+      "Section 201(rr) of the FD&C Act (21 U.S.C. § 321(rr)) - Definition of tobacco products",
+      "Section 901(b) of the FD&C Act (21 U.S.C. § 387a(b)) - FDA jurisdiction over tobacco products",
+      "Section 910(a) of the FD&C Act (21 U.S.C. § 387j(a)) - Requirement for premarket authorization for new tobacco products",
+      "Section 902(6)(A) of the FD&C Act (21 U.S.C. § 387b(6)(A)) - Adulteration of products without marketing authorization",
+      "Section 903(a)(6) of the FD&C Act (21 U.S.C. § 387c(a)(6)) - Misbranding of products lacking required information under section 905(j) of the FD&C Act (21 U.S.C. § 387e(j))"
+    ],
+    "recommendations": [
+      "Discontinue the sale and distribution of the identified ENDS and e-liquid products lacking marketing authorization.",
+      "Submit a written response to the FDA within 15 working days detailing actions taken to address the violations.",
+      "Provide a plan for maintaining compliance with the FD&C Act moving forward.",
+      "Ensure all tobacco products sold and related advertising comply with the FD&C Act and FDA regulations."
+    ]
+  },
+  {
+    "letter_name": "11-11-11-brands-627690-11162022",
+    "violated_terms": [
+      "Section 402(a)(2)(C)(i) of the FD&C Act - Adulterated food due to unsafe food additive",
+      "Section 301(ll) of the FD&C Act - Prohibited act to introduce food with added drug",
+      "Section 301(a) of the FD&C Act - Prohibited act to introduce adulterated food into interstate commerce"
+    ],
+    "recommendations": [
+      "Investigate and determine the causes of the violations",
+      "Implement corrective actions to prevent recurrence of violations",
+      "Notify FDA in writing within fifteen working days of receipt of the letter about specific steps taken to correct the violations",
+      "Include an explanation of each step taken and related documentation in the response",
+      "If unable to complete corrective action within fifteen working days, provide reasons for the delay and a timeline for completion"
+    ]
+  }
+]
