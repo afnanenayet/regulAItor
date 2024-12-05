@@ -3,62 +3,68 @@
     "letter_name": "1-stop-chicken-health-shop-689150-07292024",
     "violated_terms": [
       "Marketing of unapproved new animal drugs in violation of the FD&C Act",
-      "Misbranding under section 502(o) of the FD&C Act [21 U.S.C. § 352(o)]",
-      "Introduction of adulterated drugs under section 301(a) of the FD&C Act [21 U.S.C. § 331(a)]"
+      "Misbranding of animal drugs under section 502(o) of the FD&C Act [21 U.S.C. § 352(o)]",
+      "Introduction of adulterated drugs under section 501(a)(5) of the FD&C Act [21 U.S.C. § 351(a)(5)]",
+      "Violation of section 301(a) of the FD&C Act [21 U.S.C. § 331(a)]"
     ],
     "recommendations": [
-      "Obtain an approved new animal drug application for the products",
-      "Cease marketing the unapproved and misbranded products",
-      "Provide a written response detailing corrective actions within 15 working days",
-      "Ensure all products are drug listed with FDA before marketing"
+      "Obtain an approved new animal drug application, conditionally approved new animal drug application, or index listing for the products.",
+      "Notify the FDA in writing of specific steps taken to address the violations within fifteen (15) working days.",
+      "Include an explanation of each step being taken to prevent the recurrence of violations, along with copies of related documentation."
+    ]
+  },
+  {
+    "letter_name": "1-party-time-609781-09012020",
+    "violated_terms": [
+      "Unapproved new drug under section 505(a) of the FD&C Act, 21 U.S.C. § 355(a)",
+      "Misbranded drug under section 502 of the FD&C Act, 21 U.S.C. § 352",
+      "Introduction or delivery for introduction of this product into interstate commerce prohibited under sections 301(a) and (d) of the FD&C Act, 21 U.S.C. § 331(a) and (d)",
+      "Violations of the FTC Act, 15 U.S.C. 41 et seq."
+    ],
+    "recommendations": [
+      "Cease the sale of BetterFly and any similar products claiming to treat or prevent COVID-19.",
+      "Remove misleading claims from the website and promotional materials.",
+      "Provide a detailed response to the FDA and FTC within 48 hours outlining corrective actions.",
+      "Ensure that all advertising claims are supported by competent and reliable scientific evidence."
     ]
   },
   {
     "letter_name": "13-vapor-co-llc-619153-11092021",
     "violated_terms": [
-      "Manufacturing and distributing e-liquid products without a marketing authorization order.",
-      "Selling a new tobacco product that was not commercially marketed as of February 15, 2007, without required premarket authorization.",
-      "Failure to provide required reports under section 905(j) of the FD&C Act.",
-      "Adulteration under section 902(6)(A) of the FD&C Act.",
-      "Misbranding under section 903(a)(6) of the FD&C Act.",
-      "Prohibited acts under section 301(k) of the FD&C Act.",
-      "Prohibited acts under section 301(p) of the FD&C Act."
+      "Manufacturing and distributing a new tobacco product without required marketing authorization (21 U.S.C. § 387j(c)(1)(A)(i)).",
+      "Product is adulterated under section 902(6)(A) of the FD&C Act (21 U.S.C. § 387b(6)(A)).",
+      "Product is misbranded under section 903(a)(6) of the FD&C Act (21 U.S.C. § 387c(a)(6)).",
+      "Failure to provide required report under section 905(j) of the FD&C Act (21 U.S.C. § 387e(j))."
     ],
     "recommendations": [
-      "Obtain the necessary marketing authorization for the e-liquid products.",
-      "Submit a written response to the FDA within 15 working days detailing corrective actions taken.",
-      "Discontinue the sale and distribution of the violative products until compliance is achieved.",
-      "Ensure all tobacco products comply with applicable provisions of the FD&C Act and FDA regulations.",
-      "Review and adhere to the guidance titled 'Enforcement Priorities for Electronic Nicotine Delivery Systems (ENDS) and Other Deemed Products on the Market Without Premarket Authorization.'"
+      "Submit a written response within 15 working days detailing corrective actions taken to address violations.",
+      "Discontinue the sale and distribution of the 13 Vapor Ripe Strawberry 3mg 20mL e-liquid product.",
+      "Ensure all tobacco products comply with the FD&C Act and FDA regulations.",
+      "Consider submitting a marketing authorization application for any new tobacco products."
     ]
   },
   {
     "letter_name": "1-stop-supply-corp-dba-1-stop-vapor-supply-685573-06122024",
     "violated_terms": [
-      "Sale of new tobacco products without required marketing authorization (21 U.S.C. § 387j(c)(1)(A)(i)).",
-      "Products are considered adulterated under section 902(6)(A) of the FD&C Act (21 U.S.C. § 387b(6)(A)).",
-      "Products are misbranded under section 903(a)(6) of the FD&C Act (21 U.S.C. § 387c(a)(6)).",
-      "Failure to provide required notice or information regarding the products under section 905(j) of the FD&C Act (21 U.S.C. § 387e(j)).",
-      "Products likely to appeal to youth, raising public health concerns."
+      "Marketing new tobacco products without required premarket authorization.",
+      "Products are adulterated under section 902(6)(A) of the FD&C Act.",
+      "Products are misbranded under section 903(a)(6) of the FD&C Act."
     ],
     "recommendations": [
-      "Discontinue the sale and distribution of the listed products immediately.",
-      "Submit a written response to the FDA within 15 working days detailing actions taken to address the violations.",
-      "Obtain the necessary marketing authorization for all tobacco products before selling or distributing them.",
-      "Ensure all tobacco products comply with the FD&C Act and its implementing regulations, including those related to youth appeal."
+      "Discontinue the sale and distribution of the identified products.",
+      "Obtain the necessary premarket authorization for all tobacco products.",
+      "Submit a written response to the FDA within 15 working days detailing actions taken to address the violations."
     ]
   },
   {
     "letter_name": "11-11-11-brands-627690-11162022",
     "violated_terms": [
       "Products are adulterated under section 402(a)(2)(C)(i) of the FD&C Act due to the presence of an unsafe food additive (CBD).",
-      "Introduction of adulterated food into interstate commerce is prohibited under sections 301(ll) and 301(a) of the FD&C Act."
+      "Introduction of adulterated foods into interstate commerce is prohibited under sections 301(ll) and 301(a) of the FD&C Act."
     ],
     "recommendations": [
       "Obtain premarket approval for the use of CBD in food products.",
-      "Revise product labeling to accurately reflect the presence of CBD and any potential health risks associated with its consumption.",
-      "Investigate and determine the causes of violations and implement measures to prevent recurrence.",
-      "Notify FDA in writing within fifteen working days of receipt of the letter regarding corrective actions taken."
+      "Ensure proper labeling of products to disclose the presence of CBD and any potential interactions with other ingredients like caffeine."
     ]
   }
 ]
