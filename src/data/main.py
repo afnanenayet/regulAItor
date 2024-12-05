@@ -10,7 +10,9 @@ from processor import FDALetterProcessor
 async def main():
     config = ProcessorConfig(
         input_dir=Path("warning_letter_data"),
-        output_dir=Path("output")
+        output_dir=Path("output"),
+        max_validation_attempts=3,  # Maximum revision attempts
+        max_turns=3  # Maximum number of conversation rounds
     )
     
     processor = FDALetterProcessor(config)
@@ -32,7 +34,7 @@ async def main():
                     content = f.read()
                 
                 letter_name = file_path.stem
-                validated_summary = await processor.summarize_and_validate(letter_name, content)
+                validated_summary = await processor.process_letter(letter_name, content)
                 
                 if validated_summary:
                     summaries.append(validated_summary)

@@ -1,3 +1,4 @@
+# models.py
 
 from dataclasses import dataclass, field
 from datetime import datetime
@@ -32,4 +33,3 @@ class WarningLetter:
             "processed_date": self.processed_date.isoformat(),
             "metadata": self.metadata
         }
-

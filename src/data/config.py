@@ -2,25 +2,26 @@
 
 import os
 from dataclasses import dataclass, field
-from typing import Dict
 from pathlib import Path
+from typing import Dict
 import logging
 
 @dataclass
 class ProcessorConfig:
     input_dir: Path
     output_dir: Path
-    max_validation_attempts: int = 3
+    max_validation_attempts: int = 3  # Maximum number of revision attempts
     batch_size: int = 5
     timeout_seconds: int = 300
     cache_enabled: bool = True
     log_level: int = logging.INFO
     rate_limit_per_minute: int = 20
+    max_turns: int = 3  # Maximum turns for the conversations
 
 @dataclass
 class AgentConfig:
     api_key: str = field(default_factory=lambda: os.getenv("OPENAI_API_KEY"))
-    model: str = "gpt-4o-mini"  # Updated model name
+    model: str = "gpt-4o-mini"  # Specify the model to be used
     temperature: float = 0.2
     max_retries: int = 3
     retry_delay: int = 1
