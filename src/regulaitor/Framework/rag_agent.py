@@ -92,16 +92,7 @@ class FDAWarningLetterSystem:
         self.input_guardrail = dspy.Predict(InputGuardrail)
 
         # Agent 1: Summary Extractor (using DSPy)
-        summary_prompt = """Read the FDA warning letter and extract a one-paragraph summary that lists:
-                            1. All violated terms and regulations (with specific references)
-                            2. Compliance issues alleged in the document
-                            3. Brief description of each violation
-                            4. Impact on pharmaceutical standards compliance
-                            Make the summary concise yet comprehensive, capturing all key compliance failures."""
-
-        self.summary_generator = dspy.ChainOfThought(
-            GenerateSummary, prompt_template=summary_prompt
-        )
+        self.summary_generator = dspy.ChainOfThought(GenerateSummary)
 
         # Agent 2: Similar Cases Retriever
         self.retrieval_agent = AssistantAgent(
@@ -192,8 +183,8 @@ class FDAWarningLetterSystem:
         similar_cases = self.retrieve_similar_cases(summary_embedding)
 
         # Process retrieved cases with Agent 2
-        similar_cases_analysis = self.retrieval_agent.generate_response(
-            {"summary": results["summary"], "similar_cases": similar_cases}
+        similar_cases_analysis = self.retrieval_agent.generate_reply(
+            [{"summary": results["summary"], "similar_cases": similar_cases}]
         )
         results["similar_cases"] = {
             "cases": similar_cases,
@@ -202,7 +193,7 @@ class FDAWarningLetterSystem:
 
         # Step 4: Extract Regulations
         logger.info("Extracting regulation references...")
-        regulations = self.regulation_agent.generate_response(warning_letter)
+        regulations = self.regulation_agent(warning_letter)
         results["regulations"] = regulations
 
         # Step 5: Get Law Content. Here we need to define a new funtion to provide the law content
