@@ -49,7 +49,7 @@ def main():
     ragproxyagent = RetrieveUserProxyAgent(
         name="ragproxyagent",
         human_input_mode="NEVER",
-        max_consecutive_auto_reply=2,
+        max_consecutive_auto_reply=5,
         retrieve_config=retrieve_config,
         code_execution_config=False,
     )
