@@ -7,3 +7,4 @@ src/data/.cache/*
 .venv/
 .env
 src/Framework/RAG/scripts/.cache/*
+src/data/.cache/*
