@@ -1,5 +1,3 @@
-# scripts/run_agent.py
-
 import os
 from qdrant_client import QdrantClient
 from sentence_transformers import SentenceTransformer
@@ -61,22 +59,18 @@ def main():
     assistant.reset()
 
     def custom_message_generator(sender, recipient, kwargs):
-        # Access the user query from kwargs
         user_query = kwargs.get('problem')
         if not user_query:
             raise ValueError("User query ('problem') not provided in kwargs.")
 
-        # Encode user query
         query_embedding = sender._retrieve_config['embedding_function'](user_query).tolist()
 
-        # Search in Qdrant
         search_results = sender._retrieve_config['db_config']['client'].search(
             collection_name=sender._retrieve_config['collection_name'],
             query_vector=query_embedding,
             limit=2
         )
 
-        # Build context from search results
         context = ''
         if search_results:
             for result in search_results:
@@ -90,10 +84,8 @@ def main():
         else:
             context = "No relevant context found."
 
-        # Debug: Print context
         print("Context:\n", context)
 
-        # Construct message
         message = (
             "You are a compliance assistant. Provide violated terms and corresponding recommendations "
             "based on user queries and the provided context.\n"
@@ -110,14 +102,12 @@ def main():
     )
 
 
-    # Extract the assistant's response
     assistant_response = ''
     for message in chat_results.chat_history:
         if message['name'] == 'assistant' and message['role'] == 'user':
             assistant_response = message['content']
             break  # Stop after finding the assistant's response
 
-    # If assistant_response is still empty, handle accordingly
     if not assistant_response:
         assistant_response = 'No response received.'
 

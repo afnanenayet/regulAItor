@@ -1,5 +1,3 @@
-# scripts/prepare_data.py
-
 import os
 import json
 from qdrant_client import QdrantClient
@@ -19,7 +17,6 @@ def main():
 
     embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
 
-    # Prepare data for Qdrant
     vectors = []
     for idx, entry in enumerate(data_samples):
         for term_idx, term in enumerate(entry['violated_terms']):
@@ -34,7 +31,6 @@ def main():
     collection_name = "violations_collection"
     vector_size = len(vectors[0].vector)
 
-    # Check if the collection exists and delete it if it does
     try:
         client.get_collection(collection_name=collection_name)
         print(f"Collection '{collection_name}' exists. Deleting it...")
@@ -42,7 +38,6 @@ def main():
     except UnexpectedResponse:
         print(f"Collection '{collection_name}' does not exist. Creating a new one...")
 
-    # Create the collection
     client.create_collection(
         collection_name=collection_name,
         vectors_config={
@@ -51,7 +46,6 @@ def main():
         }
     )
 
-    # Upload data to Qdrant
     client.upsert(
         collection_name=collection_name,
         points=vectors
