@@ -36,18 +36,23 @@ def main():
         llm_config=llm_config,
     )
 
+    retrieve_config = {
+        "task": "qa",
+        "vector_db": "qdrant",
+        "collection_name": "violations_collection",
+        "docs_path": None,
+        "db_config": {"client": client},
+        "embedding_function": embedding_model.encode,
+        "model": openai_model,
+        "get_or_create": False,
+        "overwrite": False,
+    }
+
     ragproxyagent = RetrieveUserProxyAgent(
         name="ragproxyagent",
         human_input_mode="NEVER",
-        max_consecutive_auto_reply=3,
-        retrieve_config={
-            "task": "violations_lookup",
-            "vector_db": "qdrant",
-            "collection_name": "violations_collection",
-            "db_config": {"client": client},
-            "embedding_function": embedding_model.encode,
-            "model": openai_model,
-        },
+        max_consecutive_auto_reply=2,
+        retrieve_config=retrieve_config,
         code_execution_config=False,
     )
 
@@ -55,15 +60,69 @@ def main():
 
     assistant.reset()
 
+    def custom_message_generator(sender, recipient, kwargs):
+        # Access the user query from kwargs
+        user_query = kwargs.get('problem')
+        if not user_query:
+            raise ValueError("User query ('problem') not provided in kwargs.")
+
+        # Encode user query
+        query_embedding = sender._retrieve_config['embedding_function'](user_query).tolist()
+
+        # Search in Qdrant
+        search_results = sender._retrieve_config['db_config']['client'].search(
+            collection_name=sender._retrieve_config['collection_name'],
+            query_vector=query_embedding,
+            limit=2
+        )
+
+        # Build context from search results
+        context = ''
+        if search_results:
+            for result in search_results:
+                violated_term = result.payload.get('violated_term', '')
+                recommendations = '\n'.join(result.payload.get('recommendations', []))
+                context += (
+                    f"Violated Term: {violated_term}\n"
+                    f"Recommendations:\n{recommendations}\n"
+                    f"---\n"
+                )
+        else:
+            context = "No relevant context found."
+
+        # Debug: Print context
+        print("Context:\n", context)
+
+        # Construct message
+        message = (
+            "You are a compliance assistant. Provide violated terms and corresponding recommendations "
+            "based on user queries and the provided context.\n"
+            "Be concise and specific.\n\n"
+            f"User's question: {user_query}\n\n"
+            f"Context:\n{context}\n"
+        )
+        return message
+
     chat_results = ragproxyagent.initiate_chat(
         assistant,
-        message=ragproxyagent.message_generator,
+        message=custom_message_generator,
         problem=user_query
     )
 
+
+    # Extract the assistant's response
+    assistant_response = ''
+    for message in chat_results.chat_history:
+        if message['name'] == 'assistant' and message['role'] == 'user':
+            assistant_response = message['content']
+            break  # Stop after finding the assistant's response
+
+    # If assistant_response is still empty, handle accordingly
+    if not assistant_response:
+        assistant_response = 'No response received.'
+
     print("\nAssistant's Response:")
-    for message in chat_results:
-        print(f"{message.sender}: {message.content}")
+    print(assistant_response)
 
 if __name__ == "__main__":
     main()
