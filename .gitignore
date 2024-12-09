@@ -6,3 +6,4 @@ src/data/.cache/*
 .DS_Store
 .venv/
 .env
+src/Framework/RAG/scripts/.cache/*
