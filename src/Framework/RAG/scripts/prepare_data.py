@@ -4,6 +4,7 @@ import os
 import json
 from qdrant_client import QdrantClient
 from qdrant_client.http.models import PointStruct
+from qdrant_client.http.exceptions import UnexpectedResponse
 from sentence_transformers import SentenceTransformer
 from dotenv import load_dotenv
 
@@ -11,10 +12,13 @@ def main():
     load_dotenv()
     with open('../data/violations_data.json', 'r') as f:
         data_samples = json.load(f)
+
     qdrant_host = os.getenv("QDRANT_HOST", "localhost")
     qdrant_port = int(os.getenv("QDRANT_PORT", "6333"))
     client = QdrantClient(host=qdrant_host, port=qdrant_port)
+
     embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
+
     # Prepare data for Qdrant
     vectors = []
     for idx, entry in enumerate(data_samples):
@@ -27,18 +31,29 @@ def main():
             }
             vectors.append(PointStruct(id=idx*100 + term_idx, vector=vector, payload=payload))
 
-    # Create a collection and upload data to Qdrant
+    collection_name = "violations_collection"
     vector_size = len(vectors[0].vector)
-    client.recreate_collection(
-        collection_name="violations_collection",
+
+    # Check if the collection exists and delete it if it does
+    try:
+        client.get_collection(collection_name=collection_name)
+        print(f"Collection '{collection_name}' exists. Deleting it...")
+        client.delete_collection(collection_name=collection_name)
+    except UnexpectedResponse:
+        print(f"Collection '{collection_name}' does not exist. Creating a new one...")
+
+    # Create the collection
+    client.create_collection(
+        collection_name=collection_name,
         vectors_config={
             "size": vector_size,
             "distance": 'Cosine'  # or 'Euclidean' based on your preference
         }
     )
 
+    # Upload data to Qdrant
     client.upsert(
-        collection_name="violations_collection",
+        collection_name=collection_name,
         points=vectors
     )
 
@@ -46,3 +61,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
