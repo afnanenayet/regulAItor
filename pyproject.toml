@@ -10,8 +10,15 @@ dependencies = [
     "scrapy>=2.11.2",
     "pyautogen>=0.2",
     "tenacity",
-    "flaml[automl]"
-]
+    "flaml[automl]",
+    "qdrant_client",
+    "sentence_transformers>=2.2.2",
+    "ipython",
+    "chromadb",
+    "markdownify",
+    "pypdf"
+    ]
+
 
 [dependency-groups]
 dev = [
