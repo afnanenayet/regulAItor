@@ -8,3 +8,4 @@ src/data/.cache/*
 .env
 src/Framework/RAG/scripts/.cache/*
 src/data/.cache/*
+openai_keys.env
