@@ -83,7 +83,7 @@ Return **ONLY** the JSON object and no additional text.
         )
         self.logger = logging.getLogger(__name__)
 
-    async def process_letter(self, letter_name: str, content: str) -> Optional[Dict]:
+    def process_letter(self, letter_name: str, content: str) -> Optional[Dict]:
         """
         Processes the FDA warning letter by summarizing, validating, and revising it.
         """

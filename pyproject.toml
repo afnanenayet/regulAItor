@@ -6,7 +6,7 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "beautifulsoup4>=4.12.3",
-    "scrapy-playwright>=0.0.41", 
+    "scrapy-playwright>=0.0.41",
     "scrapy>=2.11.2",
     "pyautogen>=0.2",
     "tenacity",
@@ -16,8 +16,10 @@ dependencies = [
     "ipython",
     "chromadb",
     "markdownify",
-    "pypdf"
-    ]
+    "pypdf",
+    "streamlit>=1.41.0",
+    "watchdog>=6.0.0",
+]
 
 
 [dependency-groups]

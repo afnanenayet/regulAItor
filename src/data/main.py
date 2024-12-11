@@ -8,7 +8,7 @@ from config import ProcessorConfig
 from processor import FDALetterProcessor
 
 
-async def main():
+def main():
     config = ProcessorConfig(
         input_dir=Path("warning_letter_data"),
         output_dir=Path("output"),
@@ -35,7 +35,7 @@ async def main():
                     content = f.read()
 
                 letter_name = file_path.stem
-                validated_summary = await processor.process_letter(letter_name, content)
+                validated_summary = processor.process_letter(letter_name, content)
 
                 if validated_summary:
                     summaries.append(validated_summary)
@@ -72,4 +72,4 @@ async def main():
 
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO)
-    asyncio.run(main())
+    main()
