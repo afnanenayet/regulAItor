@@ -3,3 +3,4 @@ __pycache__/
 *.pyc
 /data/*
 qdrant_storage/
+api_keys.env
