@@ -27,3 +27,14 @@ Set up the virtual environment by running `uv venv`.
 
 Run `direnv allow` in your shell so that the virtual environment is loaded whenever
 you navigate to the directory.
+
+# Running locally
+
+You can run the streamlit dashboard for extracting FDA warning letter summaries locally.
+Simply run:
+
+```bash
+./scripts/run_dashboard.bash
+```
+
+This script will run streamlit for you.
