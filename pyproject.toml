@@ -5,25 +5,22 @@ description = "Stay in compliance with the power of AI"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
-    "beautifulsoup4>=4.12.3",
-    "scrapy-playwright>=0.0.41",
-    "scrapy>=2.11.2",
-    "pyautogen>=0.2",
-    "tenacity",
-    "flaml[automl]",
-    "qdrant_client",
-    "sentence_transformers>=2.2.2",
-    "ipython",
-    "chromadb",
-    "markdownify",
-    "pypdf",
-    "streamlit>=1.41.0",
-    "watchdog>=6.0.0",
+  "beautifulsoup4>=4.12.3",
+  "scrapy-playwright>=0.0.41",
+  "scrapy>=2.11.2",
+  "pyautogen>=0.2",
+  "tenacity",
+  "flaml[automl]",
+  "qdrant_client",
+  "sentence_transformers>=2.2.2",
+  "ipython",
+  "chromadb",
+  "markdownify",
+  "pypdf",
+  "streamlit>=1.41.0",
+  "watchdog>=6.0.0",
 ]
 
 
 [dependency-groups]
-dev = [
-    "black>=24.10.0",
-    "isort>=5.13.2",
-]
+dev = ["black>=24.10.0", "isort>=5.13.2"]
