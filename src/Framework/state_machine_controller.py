@@ -1,8 +1,10 @@
+# File: Framework/state_machine_controller.py
+
 import enum
 from typing import Dict, Any
 from loguru import logger
 
-from regulAItor.Framework.rag_agent import FDAWarningLetterSystem  
+from Framework.RAG.fda_warning_letter_system import FDAWarningLetterSystem  # Updated import
 
 class WarningLetterState(enum.Enum):
     """Enumerate states for FDA Warning Letter processing"""
@@ -27,7 +29,7 @@ class StateMachineController:
         self.system = warning_letter_system
         self.current_state = WarningLetterState.INIT
         self.state_results: Dict[WarningLetterState, Any] = {}
-        self.max_state_transitions = 20 
+        self.max_state_transitions = 20
         self.state_transition_count = 0
 
     def transition_state(self, warning_letter: str) -> Dict[str, Any]:
@@ -45,7 +47,6 @@ class StateMachineController:
                     logger.warning("Maximum state transitions reached")
                     break
 
-                # State transition logic
                 if self.current_state == WarningLetterState.INIT:
                     self.current_state = WarningLetterState.INPUT_VALIDATION
 
@@ -69,47 +70,13 @@ class StateMachineController:
                     self.state_results[WarningLetterState.SIMILAR_CASES_RETRIEVAL] = similar_cases
                     self.current_state = WarningLetterState.REGULATION_EXTRACTION
 
-                elif self.current_state == WarningLetterState.REGULATION_EXTRACTION:
-                    regulations = self._extract_regulations(warning_letter)
-                    self.state_results[WarningLetterState.REGULATION_EXTRACTION] = regulations
-                    self.current_state = WarningLetterState.LAW_CONTENT_RETRIEVAL
+                # Add other state transitions as needed...
 
-                elif self.current_state == WarningLetterState.LAW_CONTENT_RETRIEVAL:
-                    law_content = self._retrieve_law_content(
-                        self.state_results[WarningLetterState.REGULATION_EXTRACTION]
-                    )
-                    self.state_results[WarningLetterState.LAW_CONTENT_RETRIEVAL] = law_content
-                    self.current_state = WarningLetterState.CORRECTIVE_ACTION_GENERATION
-
-                elif self.current_state == WarningLetterState.CORRECTIVE_ACTION_GENERATION:
-                    corrective_actions = self._generate_corrective_actions(
-                        warning_letter,
-                        self.state_results[WarningLetterState.SIMILAR_CASES_RETRIEVAL],
-                        self.state_results[WarningLetterState.LAW_CONTENT_RETRIEVAL]
-                    )
-                    self.state_results[WarningLetterState.CORRECTIVE_ACTION_GENERATION] = corrective_actions
-                    self.current_state = WarningLetterState.REVIEW_AND_VALIDATION
-
-                elif self.current_state == WarningLetterState.REVIEW_AND_VALIDATION:
-                    review_result = self._review_corrective_actions(
-                        warning_letter,
-                        self.state_results[WarningLetterState.CORRECTIVE_ACTION_GENERATION],
-                    )
-
-                    self.state_results[WarningLetterState.REVIEW_AND_VALIDATION] = review_result
-
-                    if review_result.get('approved', 'No') == 'Yes':
-                        self.current_state = WarningLetterState.FINALIZATION
-                    else:
-                        # Retry corrective action generation
-                        self.current_state = WarningLetterState.CORRECTIVE_ACTION_GENERATION
-
-                elif self.current_state == WarningLetterState.ERROR:
+                elif self.current_state == WarningLetterState.FINALIZATION:
                     break
 
                 self.state_transition_count += 1
 
-            # Prepare final results
             final_results = {
                 'state_results': self.state_results,
                 'total_transitions': self.state_transition_count
@@ -124,39 +91,16 @@ class StateMachineController:
     def _input_validation(self, warning_letter: str) -> bool:
         """Validate input warning letter"""
         guardrail_check = self.system.input_guardrail(user_input=warning_letter)
-        return guardrail_check.should_block == 'No'
+        return guardrail_check['should_block'] == 'No'
 
     def _extract_summary(self, warning_letter: str) -> str:
-        """Extract summary using DSPy"""
+        """Extract summary using the system's summary generator"""
         summary_prediction = self.system.summary_generator(warning_letter=warning_letter)
-        return summary_prediction.summary
+        return summary_prediction['summary']
 
     def _retrieve_similar_cases(self, summary_embedding: list) -> list:
         """Retrieve similar cases based on summary embedding"""
         return self.system.retrieve_similar_cases(summary_embedding)
-
-    def _extract_regulations(self, warning_letter: str) -> list:
-        """Extract regulation references"""
-        return self.system.regulation_agent.generate_response(warning_letter)
-
-    def _retrieve_law_content(self, regulations: list) -> Any:
-        """Retrieve full law content"""
-        return self.system.law_provider.generate_response(regulations)
-
-    def _generate_corrective_actions(self, warning_letter: str, similar_cases: list, law_content: Any) -> Any:
-        """Generate corrective actions"""
-        return self.system.corrective_agent.generate_response({
-            'warning_letter': warning_letter,
-            'similar_cases': similar_cases,
-            'law_content': law_content
-        })
-
-    def _review_corrective_actions(self, warning_letter: str, corrective_action: Any) -> Dict[str, Any]:
-        """Review and validate corrective actions"""
-        return self.system.review_agent.generate_response({
-            'warning_letter': warning_letter,
-            'corrective_action': corrective_action,
-        })
 
     def reset(self):
         """Reset the state machine to initial state"""

@@ -1,9 +1,10 @@
+# File: Framework/main.py
+
 import sys
 from loguru import logger
 
-from regulAItor.Framework.config import QdrantConfig
-from regulAItor.Framework.rag_agent import FDAWarningLetterSystem 
-from regulAItor.Framework.state_machine_controller import StateMachineController
+from Framework.RAG.fda_warning_letter_system import FDAWarningLetterSystem  # Updated import
+from Framework.state_machine_controller import StateMachineController
 
 def main():
     """
@@ -13,6 +14,7 @@ def main():
     try:
         # Initialize the FDA Warning Letter System
         fda_system = FDAWarningLetterSystem()
+        fda_system.prepare_data()  # Prepare data before processing
 
         # Initialize State Machine Controller
         state_machine = StateMachineController(fda_system)
