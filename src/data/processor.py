@@ -17,57 +17,81 @@ class FDALetterProcessor:
 
         # Initialize the agents with updated prompts
         self.summarizer_agent = ConversableAgent(
-            name="Summarizer",
+            name="Extractor",
             system_message="""
-You are an FDA regulatory expert. Please extract the following types of data from an FDA warning letter:
-
-1. All violated terms/regulations with specific citations. These are usually listed in abbreviated 
-   form in the letter, for example, '(21 CFR 211.100(a))'. Sometimes the FDA letter will
-   say something like 'Title 21 Code of Federal Regulations, Parts 200 and 211', but you want to extract
-   the abbreviated forms if possible. They will usually be in parenthesis. There may be more than one.
-   Do not include the outer parenthesis in the output. If you see a regulation listed like this: '(21 U.S.C. 342(a)(2)(C)(i))'
-   then the output you want to record is '21 U.S.C. 342(a)(2)(C)(i)'. Normalize the forms so they are easy to search.
-2. Recommendations from the FDA to ensure compliance. The FDA will state what the recipient of the warning letter can do
-   in order to correct their violations. Capture each recommendation separately.
-
-Return **ONLY** a JSON object with the following format:
-{
-    "violated_terms": ["...", "..."],
-    "recommendations": ["...", "..."]
-}
-
-Do not include any additional text outside the JSON object.
-""",
+            {
+                "role": "FDA Regulatory Compliance Extractor",
+                "task": "Extract detailed regulatory violations and recommendations from FDA warning letters",
+                "input_format": "FDA warning letter text",
+                "output_format": {
+                    "violated_terms": ["array of detailed violations with citations"],
+                    "recommendations": ["array of FDA compliance recommendations"]
+                },
+                "instructions": [
+                    "1. Extract comprehensive violation descriptions:",
+                    "   - Include full contextual description of the violation",
+                    "   - Include the relevant Act section (e.g., FD&C Act)",
+                    "   - Include the specific citation in brackets",
+                    "   - Format: 'Description under section X of Act [citation]'",
+                    "",
+                    "2. Extract FDA recommendations:",
+                    "   - Identify specific corrective actions required",
+                    "   - Include detailed manufacturing-specific requirements",
+                    "   - Maintain connection to specific violations",
+                    "   - Include timeframes if specified"
+                ],
+                "output_rules": [
+                    "Return results in JSON format only",
+                    "Maintain full context of violations",
+                    "Ensure recommendations align with specific violations",
+                    "Include both descriptive text and legal citations"
+                ]
+            }
+            """,
             llm_config=self.agent_config.llm_config,
             human_input_mode="NEVER",
         )
         self.validator_agent = ConversableAgent(
             name="Validator",
-            system_message="""You are an FDA compliance validator. Your task is to review the summarized extraction against the original letter and decide whether it is acceptable.
-
-Instructions:
-1. Verify all violations are captured.
-2. Ensure recommendations match violations.
-3. Check for missing critical information.
-
-If the summary is acceptable, respond with the following JSON:
-{
-    "status": "APPROVED",
-    "feedback": "Optional feedback or comments."
-}
-
-If the summary is not acceptable, respond with the following JSON:
-{
-    "status": "REJECTED",
-    "feedback": "Detailed explanation of issues.",
-    "revised_summary": {
-        "violated_terms": ["...", "..."],
-        "recommendations": ["...", "..."]
-    }
-}
-
-Return **ONLY** the JSON object and no additional text.
-""",
+            system_message="""
+                {
+                    "role": "FDA Compliance Validation Agent",
+                    "task": "Validate extracted violations and recommendations against original warning letter",
+                    "validation_criteria": {
+                        "1. Violation Context Validation": [
+                            "Verify complete violation descriptions are captured",
+                            "Confirm both context and citations are accurate",
+                            "Check for proper reference to relevant Acts/sections",
+                            "Ensure violation descriptions match the original letter"
+                        ],
+                        "2. Recommendation Validation": [
+                            "Verify recommendations address specific manufacturing contexts",
+                            "Ensure recommendations match violation contexts",
+                            "Confirm technical accuracy of corrective actions",
+                            "Check for manufacturing-specific details"
+                        ],
+                        "3. Completeness Validation": [
+                            "Verify all contextual information is preserved",
+                            "Confirm no critical details are omitted",
+                            "Check for proper connection between violations and recommendations"
+                        ]
+                    },
+                    "output_format": {
+                        "if_approved": {
+                            "status": "APPROVED",
+                            "feedback": "Validation notes on context and completeness"
+                        },
+                        "if_rejected": {
+                            "status": "REJECTED",
+                            "feedback": "Detailed explanation of missing context or inaccuracies",
+                            "revised_summary": {
+                                "violated_terms": ["full violation descriptions with citations"],
+                                "recommendations": ["detailed corrective actions"]
+                            }
+                        }
+                    }
+                }
+                """,
             llm_config=self.agent_config.llm_config,
             human_input_mode="NEVER",
         )
@@ -88,75 +112,83 @@ Return **ONLY** the JSON object and no additional text.
         Processes the FDA warning letter by summarizing, validating, and revising it.
         """
         try:
-            # Initiate the summarization chat
+            # Step 1: Summarization by the summarizer agent
             summarization_chat = self.summarizer_agent.initiate_chat(
-                self.validator_agent, message=content, max_turns=self.config.max_turns
+                self.validator_agent,
+                message=content,
+                max_turns=self.config.max_turns
             )
 
             # Extract the assistant's final message from the summarization chat
             summarization_response = self.extract_assistant_response(
-                summarization_chat, letter_name
+                summarization_chat,
+                letter_name
             )
             if summarization_response is None:
                 return None
 
             # Parse the summarization response
             summarization_result = self.parse_json_response(
-                summarization_response, letter_name, "summarization"
+                summarization_response,
+                letter_name,
+                "summarization"
             )
             if summarization_result is None:
                 return None
 
-            # Start the validation loop
+            # Step 2: Validation loop
             for attempt in range(self.config.max_validation_attempts):
-                # Initiate validation
+                # Validation by the validator agent
                 validation_chat = self.validator_agent.initiate_chat(
                     self.summarizer_agent,
                     message=json.dumps(summarization_result),
-                    max_turns=self.config.max_turns,
+                    max_turns=self.config.max_turns
                 )
 
                 # Extract the assistant's final message from the validation chat
                 validation_response = self.extract_assistant_response(
-                    validation_chat, letter_name
+                    validation_chat,
+                    letter_name
                 )
                 if validation_response is None:
                     return None
 
                 # Parse the validation response
                 validation_result = self.parse_json_response(
-                    validation_response, letter_name, "validation"
+                    validation_response,
+                    letter_name,
+                    "validation"
                 )
                 if validation_result is None:
                     return None
 
-                # Check validation status
-                if validation_result.get("status") == "APPROVED":
+                # Check the validation status
+                status = validation_result.get("status") or validation_result.get("validation_status")
+                if status == "APPROVED":
                     logging.info(f"Validation approved for {letter_name}.")
+                    # Return the approved result immediately to prevent extra steps
                     return {
                         "letter_name": letter_name,
-                        "violated_terms": summarization_result.get(
-                            "violated_terms", []
-                        ),
-                        "recommendations": summarization_result.get(
-                            "recommendations", []
-                        ),
+                        "violated_terms": summarization_result.get("violated_terms", []),
+                        "recommendations": summarization_result.get("recommendations", []),
                     }
-                elif validation_result.get("status") == "REJECTED":
+                elif status == "REJECTED":
                     logging.warning(
                         f"Validation rejected for {letter_name} on attempt {attempt + 1}. Revising..."
                     )
+                    # Update the summarization result with the revised summary
                     summarization_result = validation_result.get("revised_summary")
                     if not summarization_result:
                         logging.error(f"No revised summary provided for {letter_name}.")
                         return None
-                    # Proceed to the next validation attempt with the revised summary
+                    # Continue to the next validation attempt
                 else:
                     logging.error(
-                        f"Invalid status in validation result for {letter_name}: {validation_result.get('status')}"
+                        f"Invalid status in validation result for {letter_name}: {status}"
                     )
                     return None
 
+            # If maximum validation attempts are reached without approval
             logging.error(f"Max validation attempts reached for {letter_name}.")
             return None
 
