@@ -19,6 +19,7 @@ dependencies = [
   "pypdf",
   "streamlit>=1.41.0",
   "watchdog>=6.0.0",
+  "python-dotenv"
 ]
 
 
