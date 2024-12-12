@@ -13,18 +13,18 @@ load_dotenv()
 class ProcessorConfig:
     input_dir: Path
     output_dir: Path
-    max_validation_attempts: int = 1  
+    max_validation_attempts: int = 1
     batch_size: int = 5
     timeout_seconds: int = 300
     cache_enabled: bool = True
     log_level: int = logging.INFO
     rate_limit_per_minute: int = 20
-    max_turns: int = 1 
+    max_turns: int = 1
 
 @dataclass
 class AgentConfig:
     api_key: str = field(default_factory=lambda: os.getenv("OPENAI_API_KEY"))
-    model: str = "gpt-4o-mini"  
+    model: str = "gpt-4o-mini"
     temperature: float = 0.2
     max_retries: int = 3
     retry_delay: int = 1

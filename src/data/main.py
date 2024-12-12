@@ -7,8 +7,7 @@ from pathlib import Path
 from config import ProcessorConfig
 from processor import FDALetterProcessor
 
-
-def main():
+async def main():
     config = ProcessorConfig(
         input_dir=Path("warning_letter_data"),
         output_dir=Path("output"),
@@ -28,7 +27,7 @@ def main():
 
         summaries = []
 
-        for file_path in files[:1]:
+        for file_path in files:
             logging.info(f"Processing file: {file_path}")
             try:
                 with open(file_path, "r", encoding="utf-8") as f:
@@ -69,7 +68,6 @@ def main():
         await processor.cleanup()
         logging.info("Processing completed.")
 
-
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO)
-    main()
+    asyncio.run(main())
