@@ -18,7 +18,7 @@ You are a compliance assistant tasked with drafting a full corrective action pla
         )
     
     def handle_message(self, messages, sender, **kwargs):
-        logging.debug(f"corrective_action_agent: handle_message: messages={messages}, sender={sender}, kwargs={kwargs}")
+        logging.debug(f"{self.name}: Received messages from {sender}: {messages}")
         violated_terms = self.context.get("violated_terms", [])
         recommendations = self.context.get("recommendations", "")
         regulation_texts = self.context.get("regulation_texts", {})
@@ -42,6 +42,11 @@ Regulation Texts:
 
 Ensure that the corrective action plan addresses each violated term and follows the structure of the template.
 """
+        logging.debug(f"{self.name}: Prompt for LLM:\n{prompt}")
+
         corrective_action_plan = self.llm.generate(prompt)
+
+        logging.debug(f"{self.name}: Generated corrective action plan:\n{corrective_action_plan.strip()}")
+
         self.context["corrective_action_plan"] = corrective_action_plan.strip()
         return {"role": "assistant", "content": "Corrective action plan drafted."}
