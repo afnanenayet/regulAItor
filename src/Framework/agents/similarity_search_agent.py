@@ -19,7 +19,7 @@ class SimilaritySearchAgent(ConversableAgent):
         self.embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
         qdrant_host = os.getenv("QDRANT_HOST", "localhost")
         qdrant_port = int(os.getenv("QDRANT_PORT", "6333"))
-        self.client = QdrantClient(host=qdrant_host, port=qdrant_port)
+        self.clientQ = QdrantClient(host=qdrant_host, port=qdrant_port)
         self.collection_name = "violations_collection"
 
     def handle_message(self, messages, sender, **kwargs):
@@ -33,7 +33,7 @@ class SimilaritySearchAgent(ConversableAgent):
         similar_cases = []
         for term in violated_terms:
             vector = self.embedding_model.encode(term).tolist()
-            search_results = self.client.search(
+            search_results = self.clientQ.search(
                 collection_name=self.collection_name,
                 query_vector=vector,
                 limit=5
