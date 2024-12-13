@@ -3,6 +3,7 @@
 from autogen import ConversableAgent
 import os
 import json
+import logging
 
 class CorrectiveActionValidationAgent(ConversableAgent):
     def __init__(self):
@@ -18,6 +19,7 @@ You validate corrective action plans for compliance, accuracy, and completeness.
         )
     
     def handle_message(self, messages, sender, **kwargs):
+        logging.debug(f"corrective_action_validation_agent: handle_message: messages={messages}, sender={sender}, kwargs={kwargs}")
         corrective_action_plan = self.context.get("corrective_action_plan", "")
         violated_terms = self.context.get("violated_terms", [])
         template = self.context.get("template", "")

@@ -3,6 +3,7 @@
 from autogen import ConversableAgent
 import os
 import json
+import logging
 
 class ViolationExtractionAgent(ConversableAgent):
     def __init__(self):
@@ -45,7 +46,16 @@ class ViolationExtractionAgent(ConversableAgent):
         )
 
     def handle_message(self, messages, sender, **kwargs):
+            logging.debug("ViolationExtractionAgent handling message.")
+
             warning_letter = self.context.get("warning_letter", "")
+
+            if not warning_letter:
+                logging.warning("Warning letter not found in context.")
+            else:
+                logging.debug(f"Warning letter content: {warning_letter[:100]}...")  # Log sample content
+
+
             # Use the LLM to extract violations and recommendations
             prompt = f"""
     Extract detailed regulatory violations and recommendations from the following FDA warning letter:

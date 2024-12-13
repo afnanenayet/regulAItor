@@ -1,7 +1,7 @@
 # File: /Framework/agents/agent_manager.py
 
 import os
-from autogen import GroupChat, GroupChatManager
+from autogen import GroupChat
 
 from .input_validation_agent import InputValidationAgent
 from .violation_extraction_agent import ViolationExtractionAgent
@@ -21,6 +21,8 @@ recommendation_agent = RecommendationAgent()
 corrective_action_agent = CorrectiveActionAgent()
 corrective_action_validation_agent = CorrectiveActionValidationAgent()
 
+
+
 agents = [
     input_validation_agent,
     violation_extraction_agent,
@@ -39,5 +41,3 @@ group_chat = GroupChat(
     speaker_selection_method="round_robin",  # You can choose other methods like "auto"
     allow_repeat_speaker=True,
 )
-
-agent_manager = GroupChatManager(group_chat)

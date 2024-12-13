@@ -2,6 +2,7 @@
 
 from autogen import AssistantAgent
 import os
+import logging
 
 class RegulationExtractionAgent(AssistantAgent):
     def __init__(self):
@@ -15,6 +16,7 @@ class RegulationExtractionAgent(AssistantAgent):
         )
 
     def handle_message(self, message):
+        logging.debug(f"Received message: {message}")
         warning_letter = message.get("warning_letter", "")
         regulations = self.extract_regulations(warning_letter)
         return {"regulations": regulations}

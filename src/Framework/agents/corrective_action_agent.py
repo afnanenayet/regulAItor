@@ -2,6 +2,7 @@
 
 from autogen import ConversableAgent
 import os
+import logging
 
 class CorrectiveActionAgent(ConversableAgent):
     def __init__(self):
@@ -17,6 +18,7 @@ You are a compliance assistant tasked with drafting a full corrective action pla
         )
     
     def handle_message(self, messages, sender, **kwargs):
+        logging.debug(f"corrective_action_agent: handle_message: messages={messages}, sender={sender}, kwargs={kwargs}")
         violated_terms = self.context.get("violated_terms", [])
         recommendations = self.context.get("recommendations", "")
         regulation_texts = self.context.get("regulation_texts", {})

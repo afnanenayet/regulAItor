@@ -22,7 +22,8 @@ dependencies = [
   "python-dotenv",
   "flask",
   "requests",
-  "dspy"
+  "dspy",
+  "python-docx"
 ]
 
 

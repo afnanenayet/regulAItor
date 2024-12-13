@@ -4,6 +4,7 @@ from autogen import ConversableAgent
 from sentence_transformers import SentenceTransformer
 from qdrant_client import QdrantClient
 import os
+import logging
 
 class SimilaritySearchAgent(ConversableAgent):
     def __init__(self):
@@ -22,6 +23,7 @@ class SimilaritySearchAgent(ConversableAgent):
         self.collection_name = "violations_collection"
 
     def handle_message(self, messages, sender, **kwargs):
+        logging.debug(f"SimilaritySearchAgent: handle_message: messages={messages}, sender={sender}, kwargs={kwargs}")
         violated_terms = self.context.get("violated_terms", [])
         similar_cases = self.retrieve_similar_cases(violated_terms)
         self.context["similar_cases"] = similar_cases

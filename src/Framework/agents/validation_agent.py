@@ -3,6 +3,7 @@
 from autogen import ConversableAgent
 import os
 import json
+import logging
 
 class ValidationAgent(ConversableAgent):
     def __init__(self):
@@ -54,6 +55,7 @@ class ValidationAgent(ConversableAgent):
         )
 
     def handle_message(self, messages, sender, **kwargs):
+            logging.debug("ValidationAgent handling message.")
             extraction_result = self.context.get("extraction_result", {})
             warning_letter = self.context.get("warning_letter", "")
             
