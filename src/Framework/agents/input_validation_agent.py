@@ -20,7 +20,10 @@ class InputValidationAgent(ConversableAgent):
     def handle_message(self, messages, sender, **kwargs):
         logging.debug(f"input_validation_agent: handle_message: messages={messages}, sender={sender}, kwargs={kwargs}")
         # Access the warning letter from the message content
-        warning_letter = messages[-1]['content'].get("warning_letter", "")
+        warning_letter = self.context.get("warning_letter", "")
+        
+        logging.debug(f"{self.name}: Warning letter content:\n{warning_letter}")
+
         # Implement validation logic here
         is_valid = self.validate_warning_letter(warning_letter)
         response_content = {"is_valid": is_valid}
