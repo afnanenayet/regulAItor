@@ -1,27 +1,41 @@
-# File: Framework/agents/regulation_content_agent.py
+# File: /Framework/agents/regulation_content_agent.py
 
-from autogen import AssistantAgent
+from autogen import ConversableAgent
 import json
 import os
 
-class RegulationContentAgent(AssistantAgent):
+class RegulationContentAgent(ConversableAgent):
     def __init__(self):
         super().__init__(
             name="regulation_content_agent",
             system_message="You provide the full text of specific regulations based on their citations.",
             llm_config={
-                "model": "gpt-4",
-                "api_key": "YOUR_OPENAI_API_KEY",
+                "model": os.getenv("OPENAI_MODEL", "gpt-4"),
+                "api_key": os.getenv("OPENAI_API_KEY"),
             },
         )
         data_path = os.path.join(os.path.dirname(__file__), '..', 'data', 'full_regulations.json')
-        with open(data_path, 'r') as f:
-            self.regulations_data = json.load(f)
+        try:
+            with open(data_path, 'r') as f:
+                self.regulations_data = json.load(f)
+        except FileNotFoundError:
+            self.regulations_data = {}
+            print(f"Warning: 'full_regulations.json' not found at {data_path}.")
 
-    def handle_message(self, message):
-        regulations = message.get("regulations", [])
+    def handle_message(self, messages, sender, **kwargs):
+        violated_terms = self.context.get("violated_terms", [])
+        regulations = self.extract_regulation_numbers(violated_terms)
         regulation_texts = self.get_regulation_texts(regulations)
-        return {"regulation_texts": regulation_texts}
+        self.context["regulation_texts"] = regulation_texts
+        return {"role": "assistant", "content": "Regulation texts provided."}
+
+    def extract_regulation_numbers(self, violated_terms):
+        import re
+        regulation_numbers = []
+        for term in violated_terms:
+            matches = re.findall(r'\b\d+\sCFR\s\d+(?:\.\d+)?', term)
+            regulation_numbers.extend(matches)
+        return list(set(regulation_numbers))
 
     def get_regulation_texts(self, regulations):
         regulation_texts = {}

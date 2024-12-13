@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 
 def main():
     load_dotenv()
-    with open('../data/violations_data.json', 'r') as f:
+    with open('../../data/violations_data.json', 'r') as f:
         data_samples = json.load(f)
 
     qdrant_host = os.getenv("QDRANT_HOST", "localhost")

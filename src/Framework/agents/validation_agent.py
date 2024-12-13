@@ -1,10 +1,10 @@
 # File: src/Framework/agents/validation_agent.py
 
-from autogen import AssistantAgent
+from autogen import ConversableAgent
 import os
 import json
 
-class ValidationAgent(AssistantAgent):
+class ValidationAgent(ConversableAgent):
     def __init__(self):
         super().__init__(
             name="validation_agent",
@@ -53,28 +53,39 @@ class ValidationAgent(AssistantAgent):
             },
         )
 
-    def handle_message(self, message):
-        extraction_result = message.get("extraction_result", {})
-        warning_letter = message.get("warning_letter", "")
-        # Prepare the validation prompt
-        prompt = f"""
-Validation Task:
-Validate the following extracted violations and recommendations against the original warning letter.
+    def handle_message(self, messages, sender, **kwargs):
+            extraction_result = self.context.get("extraction_result", {})
+            warning_letter = self.context.get("warning_letter", "")
+            
+            prompt = f"""
+                        Validate the following extracted violations and recommendations against the original warning letter.
 
-Original Warning Letter:
-{warning_letter}
+                        Original Warning Letter:
+                        {warning_letter}
 
-Extraction Result:
-{json.dumps(extraction_result, indent=2)}
+                        Extraction Result:
+                        {json.dumps(extraction_result, indent=2)}
 
-Instructions:
-Follow the validation criteria and output format specified in your system message.
-"""
-        # Use the LLM to perform validation
-        response = self.llm.generate(prompt=prompt)
-        # Parse the response as JSON
-        try:
-            result = json.loads(response)
-            return result
-        except json.JSONDecodeError:
-            return {}
+                        Provide your feedback in JSON format with the following structure:
+                        If approved:
+                        {{
+                        "status": "APPROVED",
+                        "feedback": "Validation notes."
+                        }}
+                        If rejected:
+                        {{
+                        "status": "REJECTED",
+                        "feedback": "Detailed explanation of issues.",
+                        "revised_summary": {{
+                            "violated_terms": ["corrected violations"],
+                            "recommendations": ["corrected recommendations"]
+                        }}
+                        }}
+                        """
+            response = self.llm.generate(prompt)
+            try:
+                result = json.loads(response)
+                self.context["validation_feedback"] = result
+                return {"role": "assistant", "content": "Validation completed."}
+            except json.JSONDecodeError:
+                return {"role": "assistant", "content": "Failed to validate."}

@@ -1,10 +1,10 @@
 # File: src/Framework/agents/violation_extraction_agent.py
 
-from autogen import AssistantAgent
+from autogen import ConversableAgent
 import os
 import json
 
-class ViolationExtractionAgent(AssistantAgent):
+class ViolationExtractionAgent(ConversableAgent):
     def __init__(self):
         super().__init__(
             name="violation_extraction_agent",
@@ -44,13 +44,24 @@ class ViolationExtractionAgent(AssistantAgent):
             },
         )
 
-    def handle_message(self, message):
-        warning_letter = message.get("warning_letter", "")
-        # Use the LLM to extract violations and recommendations
-        response = self.llm.generate(prompt=warning_letter)
-        # Parse the response as JSON
-        try:
-            result = json.loads(response)
-            return result
-        except json.JSONDecodeError:
-            return {}
+    def handle_message(self, messages, sender, **kwargs):
+            warning_letter = self.context.get("warning_letter", "")
+            # Use the LLM to extract violations and recommendations
+            prompt = f"""
+    Extract detailed regulatory violations and recommendations from the following FDA warning letter:
+
+    {warning_letter}
+
+    Provide the extracted information in JSON format with the following structure:
+    {{
+        "violated_terms": ["array of detailed violations with citations"],
+        "recommendations": ["array of FDA compliance recommendations"]
+    }}
+    """
+            response = self.llm.generate(prompt)
+            try:
+                result = json.loads(response)
+                self.context["extraction_result"] = result
+                return {"role": "assistant", "content": "Extracted violations and recommendations."}
+            except json.JSONDecodeError:
+                return {"role": "assistant", "content": "Failed to extract violations."}

@@ -1,6 +1,7 @@
 # File: Framework/agents/regulation_extraction_agent.py
 
 from autogen import AssistantAgent
+import os
 
 class RegulationExtractionAgent(AssistantAgent):
     def __init__(self):
@@ -8,8 +9,8 @@ class RegulationExtractionAgent(AssistantAgent):
             name="regulation_extraction_agent",
             system_message="You extract specific violated regulations from FDA warning letters.",
             llm_config={
-                "model": "gpt-4",
-                "api_key": "YOUR_OPENAI_API_KEY",
+                "model": os.getenv("OPENAI_MODEL", "gpt-4"),
+                "api_key": os.getenv("OPENAI_API_KEY"),
             },
         )
 

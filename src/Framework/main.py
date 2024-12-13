@@ -1,4 +1,4 @@
-# File: Framework/main.py
+# File: /Framework/main.py
 
 from flask import Flask, request, jsonify
 from agents.agent_manager import agent_manager
@@ -10,14 +10,18 @@ app = Flask(__name__)
 def process_warning_letter():
     data = request.get_json()
     warning_letter = data.get('warning_letter', '')
+    template = data.get('template', '')
 
-    # Set the warning letter in the agent manager context
-    agent_manager.set_context({"warning_letter": warning_letter})
+    # Set context for all agents
+    for agent in agent_manager.groupchat.agents:
+        agent.context = {"warning_letter": warning_letter, "template": template}
 
     # Run the conversation workflow
-    result = conversation_workflow(agent_manager)
+    conversation_workflow(agent_manager)
 
-    return jsonify(result)
+    # Collect results from the corrective action agent
+    corrective_action_plan = agent_manager.groupchat.agents[-2].context.get("corrective_action_plan", "")
+    return jsonify({"corrective_action_plan": corrective_action_plan})
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=8000)

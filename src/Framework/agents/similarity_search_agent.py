@@ -1,11 +1,11 @@
-# File: src/Framework/agents/similarity_search_agent.py
+# File: /Framework/agents/similarity_search_agent.py
 
-from autogen import AssistantAgent
+from autogen import ConversableAgent
 from sentence_transformers import SentenceTransformer
-from qdrant_client import QdrantClient, models
+from qdrant_client import QdrantClient
 import os
 
-class SimilaritySearchAgent(AssistantAgent):
+class SimilaritySearchAgent(ConversableAgent):
     def __init__(self):
         super().__init__(
             name="similarity_search_agent",
@@ -21,24 +21,26 @@ class SimilaritySearchAgent(AssistantAgent):
         self.client = QdrantClient(host=qdrant_host, port=qdrant_port)
         self.collection_name = "violations_collection"
 
-    def handle_message(self, message):
-        violated_term = message.get("violated_term", "")
-        similar_cases = self.retrieve_similar_cases(violated_term)
-        return {"similar_cases": similar_cases}
+    def handle_message(self, messages, sender, **kwargs):
+        violated_terms = self.context.get("violated_terms", [])
+        similar_cases = self.retrieve_similar_cases(violated_terms)
+        self.context["similar_cases"] = similar_cases
+        return {"role": "assistant", "content": "Similar cases retrieved."}
 
-    def retrieve_similar_cases(self, violated_term):
-        vector = self.embedding_model.encode(violated_term).tolist()
-        search_results = self.client.search(
-            collection_name=self.collection_name,
-            query_vector=vector,
-            limit=5
-        )
+    def retrieve_similar_cases(self, violated_terms):
         similar_cases = []
-        for result in search_results:
-            payload = result.payload
-            similar_cases.append({
-                "letter_name": payload.get('letter_name', ''),
-                "violated_term": payload.get('violated_term', ''),
-                "recommendations": payload.get('recommendations', [])
-            })
+        for term in violated_terms:
+            vector = self.embedding_model.encode(term).tolist()
+            search_results = self.client.search(
+                collection_name=self.collection_name,
+                query_vector=vector,
+                limit=5
+            )
+            for result in search_results:
+                payload = result.payload
+                similar_cases.append({
+                    "letter_name": payload.get('letter_name', ''),
+                    "violated_term": payload.get('violated_term', ''),
+                    "recommendations": payload.get('recommendations', [])
+                })
         return similar_cases
