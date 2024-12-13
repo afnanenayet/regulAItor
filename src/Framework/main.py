@@ -6,8 +6,13 @@ from agents.conversation_workflow import conversation_workflow
 import os
 import asyncio  
 import logging
+from autogen import runtime_logging
 
-logging.basicConfig(level=logging.DEBUG)
+
+logging.basicConfig(
+    level=logging.DEBUG,
+    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+)
 
 app = Flask(__name__)
 
@@ -47,7 +52,11 @@ def process_warning_letter():
     logging.debug(f"Group chat context set: {group_chat.context}")
     logging.debug("Starting conversation workflow...")
     # Run the conversation workflow asynchronously
+
+    logging_session_id = runtime_logging.start(logger_type="file", config={"filename": "runtime.log"})
+
     result = asyncio.run(conversation_workflow(group_chat))
+    runtime_logging.stop()
 
     # Collect results from the corrective action plan
     corrective_action_plan = result.get("corrective_action_plan", "")
