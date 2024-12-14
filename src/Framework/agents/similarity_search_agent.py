@@ -23,7 +23,7 @@ class SimilaritySearchAgent(ConversableAgent):
         self.collection_name = "violations_collection"
 
     def handle_message(self, messages, sender, **kwargs):
-        logging.debug(f"SimilaritySearchAgent: handle_message: messages={messages}, sender={sender}, kwargs={kwargs}")
+      #  logging.debug(f"SimilaritySearchAgent: handle_message: messages={messages}, sender={sender}, kwargs={kwargs}")
         violated_terms = self.context.get("violated_terms", [])
         similar_cases = self.retrieve_similar_cases(violated_terms)
         self.context["similar_cases"] = similar_cases

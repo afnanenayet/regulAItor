@@ -24,7 +24,7 @@ class RegulationContentAgent(ConversableAgent):
             print(f"Warning: 'full_regulations.json' not found at {data_path}.")
 
     def handle_message(self, messages, sender, **kwargs):
-        logging.debug(f"Received message: {messages}")
+      #  logging.debug(f"Received message: {messages}")
         violated_terms = self.context.get("violated_terms", [])
         regulations = self.extract_regulation_numbers(violated_terms)
         regulation_texts = self.get_regulation_texts(regulations)

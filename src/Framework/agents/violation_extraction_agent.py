@@ -46,14 +46,14 @@ class ViolationExtractionAgent(ConversableAgent):
         )
 
     def handle_message(self, messages, sender, **kwargs):
-            logging.debug("ViolationExtractionAgent handling message.")
+         #   logging.debug("ViolationExtractionAgent handling message.")
 
             warning_letter = self.context.get("warning_letter", "")
 
-            if not warning_letter:
-                logging.warning("Warning letter not found in context.")
-            else:
-                logging.debug(f"Warning letter content: {warning_letter[:100]}...")  # Log sample content
+            #if not warning_letter:
+             #   logging.warning("Warning letter not found in context.")
+            #else:
+               # logging.debug(f"Warning letter content: {warning_letter[:100]}...")  # Log sample content
 
 
             # Use the LLM to extract violations and recommendations

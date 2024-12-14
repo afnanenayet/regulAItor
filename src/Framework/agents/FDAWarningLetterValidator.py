@@ -4,7 +4,7 @@ import logging
 class FDAWarningLetterValidator(dspy.Module):
     def __call__(self, text):
         # Define a list of key phrases that might indicate FD&C Act violations
-        logging.debug(f"Validating FDA warning letter")
+        #logging.debug(f"Validating FDA warning letter")
         violation_phrases = [
             "violations of the FD&C Act",
             "violation of the Federal Food, Drug, and Cosmetic Act",

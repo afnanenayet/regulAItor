@@ -16,7 +16,7 @@ class RegulationExtractionAgent(AssistantAgent):
         )
 
     def handle_message(self, message):
-        logging.debug(f"Received message: {message}")
+     #   logging.debug(f"Received message: {message}")
         warning_letter = self.context.get("warning_letter", "")
         regulations = self.extract_regulations(warning_letter)
         return {"regulations": regulations}

@@ -19,7 +19,7 @@ You validate corrective action plans for compliance, accuracy, and completeness.
         )
     
     def handle_message(self, messages, sender, **kwargs):
-        logging.debug(f"corrective_action_validation_agent: handle_message: messages={messages}, sender={sender}, kwargs={kwargs}")
+        #logging.debug(f"corrective_action_validation_agent: handle_message: messages={messages}, sender={sender}, kwargs={kwargs}")
         corrective_action_plan = self.context.get("corrective_action_plan", "")
         violated_terms = self.context.get("violated_terms", [])
         template = self.context.get("template", "")
@@ -56,6 +56,7 @@ If changes are needed:
             self.context["corrective_action_validation"] = result
             return {"role": "assistant", "content": "Corrective action plan validated."}
         except json.JSONDecodeError:
+            self.context["corrective_action_validation"] = {"status": "CHANGES_REQUIRED", "feedback": "Invalid JSON response."}
             return {
                 "role": "assistant",
                 "content": "Validation failed. Response could not be parsed."

@@ -8,12 +8,15 @@ import asyncio
 import logging
 from autogen import runtime_logging
 
-
+log_file_path = "autogen_logs/runtime.log"
+if os.path.exists(log_file_path):
+    os.remove(log_file_path)
+"""
 logging.basicConfig(
-    level=logging.DEBUG,
+    level=logging.ERROR,
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
 )
-
+"""
 app = Flask(__name__)
 
 app.config['MAX_CONTENT_LENGTH'] = 16 * 1024 * 1024  # Limit files to 16 MB
@@ -49,13 +52,18 @@ def process_warning_letter():
         "warning_letter": warning_letter_content,
         "template": template_content
     }
-    logging.debug(f"Group chat context set: {group_chat.context}")
-    logging.debug("Starting conversation workflow...")
+    #logging.debug(f"Group chat context set: {group_chat.context}")
+    #logging.debug("Starting conversation workflow...")
     # Run the conversation workflow asynchronously
 
     logging_session_id = runtime_logging.start(logger_type="file", config={"filename": "runtime.log"})
 
     result = asyncio.run(conversation_workflow(group_chat))
+
+        # Check if user input is required
+    if result.get("user_input_required", False):
+        error_message = "Validation failed. Please provide a valid FDA warning letter."
+        return render_template('reupload.html', error_message=error_message)
     runtime_logging.stop()
 
     # Collect results from the corrective action plan

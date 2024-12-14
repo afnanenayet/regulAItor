@@ -1,10 +1,11 @@
 # File: /Framework/agents/input_validation_agent.py
 
 from autogen import ConversableAgent
-from .FDAWarningLetterValidator import FDAWarningLetterValidator
 import os
-import dspy
 import logging
+import re
+from dotenv import load_dotenv
+load_dotenv()
 
 class InputValidationAgent(ConversableAgent):
     def __init__(self):
@@ -18,22 +19,48 @@ class InputValidationAgent(ConversableAgent):
         )
 
     def handle_message(self, messages, sender, **kwargs):
-        logging.debug(f"input_validation_agent: handle_message: messages={messages}, sender={sender}, kwargs={kwargs}")
-        # Access the warning letter from the message content
+        # Access the warning letter from the context
         warning_letter = self.context.get("warning_letter", "")
+        if not warning_letter:
+            logging.error(f"{self.name}: No warning letter found in context.")
+            self.context["input_validation_result"] = False
+            response_content = "Validation failed. No warning letter provided."
+            return {"role": "assistant", "content": response_content}
         
-        logging.debug(f"{self.name}: Warning letter content:\n{warning_letter}")
+        # Perform validation on the warning letter
+        is_valid, validation_feedback = self.validate_warning_letter(warning_letter)
+        self.context["input_validation_result"] = is_valid
+        if is_valid:
+            response_content = "Validation successful."
+        else:
+            response_content = f"Validation failed. {validation_feedback}"
 
-        # Implement validation logic here
-        is_valid = self.validate_warning_letter(warning_letter)
-        response_content = {"is_valid": is_valid}
         return {"role": "assistant", "content": response_content}
 
     def validate_warning_letter(self, warning_letter):
-        validator = FDAWarningLetterValidator()
-        try:
-            validator(warning_letter)
-            return True  # Validation passed
-        except dspy.DSPyError as e:
-            print(f"Input validation failed: {e}")
-            return False
+        # Define key phrases that should be present in a valid FDA warning letter
+        violation_phrases = [
+            "violations of the FD&C Act",
+            "violation of the Federal Food, Drug, and Cosmetic Act",
+            "not in compliance with the FD&C Act",
+            "FD&C Act compliance issues",
+            "violative under the FD&C Act",
+            "contrary to the FD&C Act",
+        ]
+        
+        # Check for violation phrases
+        if not any(phrase.lower() in warning_letter.lower() for phrase in violation_phrases):
+            return False, "Missing key phrase indicating legal violations under the FD&C Act."
+        
+        # Check for FDA identification
+        if not ("Food and Drug Administration" in warning_letter or "FDA" in warning_letter):
+            return False, "Missing FDA identification."
+        
+        # Check for required corrective action phrases
+        corrective_phrases = ["corrective action", "corrections", "remediation steps"]
+        if not any(phrase.lower() in warning_letter.lower() for phrase in corrective_phrases):
+            return False, "Missing required corrective actions or remediation steps."
+
+        # Additional checks can be added here as necessary
+        
+        return True, ""

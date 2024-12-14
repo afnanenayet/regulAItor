@@ -16,7 +16,7 @@ class RecommendationAgent(ConversableAgent):
         )
 
     def handle_message(self, messages, sender, **kwargs):
-        logging.debug(f"recommendation_agent: handle_message: messages={messages}, sender={sender}, kwargs={kwargs}")
+      #  logging.debug(f"recommendation_agent: handle_message: messages={messages}, sender={sender}, kwargs={kwargs}")
         violations = self.context.get("violated_terms", [])
         regulation_texts = self.context.get("regulation_texts", {})
         similar_cases = self.context.get("similar_cases", [])

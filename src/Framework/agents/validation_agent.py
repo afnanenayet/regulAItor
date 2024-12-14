@@ -55,7 +55,7 @@ class ValidationAgent(ConversableAgent):
         )
 
     def handle_message(self, messages, sender, **kwargs):
-            logging.debug("ValidationAgent handling message.")
+          #  logging.debug("ValidationAgent handling message.")
             extraction_result = self.context.get("extraction_result", {})
             warning_letter = self.context.get("warning_letter", "")
             
@@ -90,4 +90,5 @@ class ValidationAgent(ConversableAgent):
                 self.context["validation_feedback"] = result
                 return {"role": "assistant", "content": "Validation completed."}
             except json.JSONDecodeError:
+                self.context["validation_feedback"] = {"status": "REJECTED", "feedback": "Invalid JSON response."}
                 return {"role": "assistant", "content": "Failed to validate."}
