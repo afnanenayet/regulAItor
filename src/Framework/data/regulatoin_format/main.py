@@ -7,7 +7,7 @@ file_211_path = "/Users/mobin.azimipanah/Downloads/title-21-part 211 XML.xml"
 
 
 # Path to save the JSON file
-output_path = "/Users/mobin.azimipanah/Desktop/Berkley/regulAItor/src/Framework/RAG/data/full_regulations.json"
+output_path = "/Users/mobin.azimipanah/Desktop/Berkley/regulAItor/src/Framework/data/full_regulations1.json"
 
 def parse_and_save_xml_to_json(file_paths, output_path):
     """
