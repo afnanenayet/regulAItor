@@ -3,7 +3,6 @@
 import asyncio
 from agents.conversation_workflow import conversation_workflow
 from agents.agent_manager import group_chat
-from agents.agent_manager import create_group_chat
 
 
 async def main():
@@ -299,13 +298,10 @@ We consider this item to be closed.
 
 
 """
-    shared_context = {
+    group_chat.context = {
         "warning_letter": warning_letter,
         "template": template
     }
-    
-    # Create the group chat with the shared context
-    group_chat = create_group_chat(shared_context)
 
     # Run the conversation workflow
     result = await conversation_workflow(group_chat)

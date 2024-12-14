@@ -57,8 +57,8 @@ def state_transition(last_speaker, groupchat):
             # Proceed to violation_extraction_agent
             return violation_extraction_agent
         else:
-            context['user_input_required'] = True
-            return None
+            #context['user_input_required'] = True
+            return violation_extraction_agent      #EXPERIMENTAL
 
     elif last_speaker is violation_extraction_agent:
         # Proceed to validation_agent
