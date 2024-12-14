@@ -17,8 +17,10 @@ class InputValidationAgent(ConversableAgent):
                 "api_key": os.getenv("OPENAI_API_KEY"),
             },
         )
-
+        print("HHHHHHHHHHHH")
     def handle_message(self, messages, sender, **kwargs):
+        print("HHHHHHH4343434HHHHH")
+
         # Access the warning letter from the context
         warning_letter = self.context.get("warning_letter", "")
         if not warning_letter:
@@ -29,6 +31,7 @@ class InputValidationAgent(ConversableAgent):
         
         # Perform validation on the warning letter
         is_valid, validation_feedback = self.validate_warning_letter(warning_letter)
+        print(f"Validation result: {is_valid}")
         self.context["input_validation_result"] = is_valid
         if is_valid:
             response_content = "Validation successful."

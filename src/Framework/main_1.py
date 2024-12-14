@@ -5,6 +5,9 @@ from agents.conversation_workflow import conversation_workflow
 from agents.agent_manager import group_chat
 
 
+import logging
+
+
 async def main():
     # Manually provide the warning letter and template
     warning_letter = """\

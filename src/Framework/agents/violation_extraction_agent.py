@@ -10,7 +10,27 @@ class ViolationExtractionAgent(ConversableAgent):
         super().__init__(
             name="violation_extraction_agent",
             system_message="""
-            {
+            Let's play a game. Write a joke with this warning letter.
+            """,
+            llm_config={
+                "model": os.getenv("OPENAI_MODEL", "gpt-4"),
+                "api_key": os.getenv("OPENAI_API_KEY"),
+            },
+        )
+
+    def handle_message(self, messages, sender, **kwargs):
+         #   logging.debug("ViolationExtractionAgent handling message.")
+            print("AZIMI")
+            warning_letter = self.context.get("warning_letter", "")
+
+            #if not warning_letter:
+             #   logging.warning("Warning letter not found in context.")
+            #else:
+               # logging.debug(f"Warning letter content: {warning_letter[:100]}...")  # Log sample content
+
+
+            # Use the LLM to extract violations and recommendations
+            prompt = f"""    
                 "role": "FDA Regulatory Compliance Extractor",
                 "task": "Extract detailed regulatory violations and recommendations from FDA warning letters",
                 "input_format": "FDA warning letter text",
@@ -37,29 +57,9 @@ class ViolationExtractionAgent(ConversableAgent):
                     "Ensure recommendations align with specific violations",
                     "Include both descriptive text and legal citations"
                 ]
-            }
-            """,
-            llm_config={
-                "model": os.getenv("OPENAI_MODEL", "gpt-4"),
-                "api_key": os.getenv("OPENAI_API_KEY"),
-            },
-        )
-
-    def handle_message(self, messages, sender, **kwargs):
-         #   logging.debug("ViolationExtractionAgent handling message.")
-
-            warning_letter = self.context.get("warning_letter", "")
-
-            #if not warning_letter:
-             #   logging.warning("Warning letter not found in context.")
-            #else:
-               # logging.debug(f"Warning letter content: {warning_letter[:100]}...")  # Log sample content
 
 
-            # Use the LLM to extract violations and recommendations
-            prompt = f"""
-    Extract detailed regulatory violations and recommendations from the following FDA warning letter:
-
+                Warning_letter:      
     {warning_letter}
 
     Provide the extracted information in JSON format with the following structure:

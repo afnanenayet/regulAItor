@@ -12,6 +12,9 @@ from .recommendation_agent import RecommendationAgent
 from .corrective_action_agent import CorrectiveActionAgent
 from .corrective_action_validation_agent import CorrectiveActionValidationAgent
 
+import logging
+
+
 input_validation_agent = InputValidationAgent()
 violation_extraction_agent = ViolationExtractionAgent()
 validation_agent = ValidationAgent()
@@ -53,12 +56,13 @@ def state_transition(last_speaker, groupchat):
     elif last_speaker is input_validation_agent:
         # Check if input validation passed
         validation_result = context.get("input_validation_result")  # True or False
+        logging.debug(f"Input validation result: {validation_result}")
         if validation_result:
             # Proceed to violation_extraction_agent
             return violation_extraction_agent
         else:
-            #context['user_input_required'] = True
-            return violation_extraction_agent      #EXPERIMENTAL
+            context['user_input_required'] = True
+            return violation_extraction_agent   #Experiment, return back it to None later.
 
     elif last_speaker is violation_extraction_agent:
         # Proceed to validation_agent
