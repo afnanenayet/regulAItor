@@ -119,11 +119,12 @@ def state_transition(last_speaker, groupchat):
         return similar_agent
     
     elif last_speaker is similar_agent:
+        context['similar_case'] = similar_agent.last_message()
         return regulation_content_agent
 
     elif last_speaker is regulation_content_agent:
         # Proceed to recommendation_agent
-        print(f"HERE IS regu: {context.get('regulation_texts')}")
+        print(f"HERE IS regu11: {context.get('regulation_full_texts')}")
         return recommendation_agent
 
     elif last_speaker is recommendation_agent:
@@ -135,13 +136,18 @@ def state_transition(last_speaker, groupchat):
         return corrective_action_validation_agent
 
     elif last_speaker is corrective_action_validation_agent:
-        # Check if corrective action plan is approved
-        validation_result = context.get("corrective_action_validation", {})
-        if validation_result.get("status") == "APPROVED":
-            # Finish the workflow
-            return None
-        else:
-            # Re-ask corrective_action_agent to regenerate
+        last_validation = corrective_action_validation_agent.last_message()
+        
+        if isinstance(last_validation, dict) and 'content' in last_validation:
+            last_validation = last_validation['content']
+        
+        last_validation = last_validation.replace("```json", "").replace("```", "").strip()
+        
+        json_data = json.loads(last_validation)
+        is_valid = True
+        if json_data.get('status') == 'APPROVED':
+            print(f"HERE IS the Approved Corrective Action: {context.get('corrective_action_plan')}")
+        elif json_data.get('status') == 'REJECTED':
             return corrective_action_agent
 
     else:

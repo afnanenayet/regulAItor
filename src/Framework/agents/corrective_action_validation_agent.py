@@ -21,7 +21,8 @@ You validate corrective action plans for compliance, accuracy, and completeness.
     def handle_message(self, messages, sender, **kwargs):
         #logging.debug(f"corrective_action_validation_agent: handle_message: messages={messages}, sender={sender}, kwargs={kwargs}")
         corrective_action_plan = self.context.get("corrective_action_plan", "")
-        violated_terms = self.context.get("violated_terms", [])
+        summary = self.context.get('summary', {})
+        violated_terms = summary.get('violated_terms', [])
         template = self.context.get("template", "")
         
         # Prepare the validation prompt
@@ -50,14 +51,13 @@ If changes are needed:
   "feedback": "Detailed feedback on required changes."
 }}
 """
-        response = self.llm.generate(prompt)
-        try:
-            result = json.loads(response)
-            self.context["corrective_action_validation"] = result
-            return {"role": "assistant", "content": "Corrective action plan validated."}
-        except json.JSONDecodeError:
-            self.context["corrective_action_validation"] = {"status": "CHANGES_REQUIRED", "feedback": "Invalid JSON response."}
-            return {
-                "role": "assistant",
-                "content": "Validation failed. Response could not be parsed."
-            }
+        max_retries = 5  # maximum number of retries
+        retries = 0
+        while retries < max_retries:
+            response = self.llm.generate(prompt)
+            try:
+                result = json.loads(response)
+                self.context["corrective_action_validation"] = result
+                return {"role": "assistant", "content": "Corrective action plan validated."}
+            except json.JSONDecodeError:
+                retries += 1

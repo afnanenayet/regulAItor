@@ -18,7 +18,17 @@ class InputValidationAgent(ConversableAgent):
                 "api_key": os.getenv("OPENAI_API_KEY"),
             },
         )
-    def handle_message(self):
+
+
+        self.register_reply(
+            trigger=self._always_true_trigger, # Add a specific trigger string
+            reply_func=self.handle_message,
+            position=0
+        )
+    def _always_true_trigger(self, sender):
+        # This trigger function always returns True
+        return True
+    def handle_message(self, *args, **kwargs):
         # Access the warning letter from the context
         warning_letter = self.context.get("warning_letter", "")
         if not warning_letter:

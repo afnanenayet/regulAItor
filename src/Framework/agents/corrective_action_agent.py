@@ -17,30 +17,39 @@ You are a compliance assistant tasked with drafting a full corrective action pla
             },
         )
     
-    def handle_message(self, messages, sender, **kwargs):
+        self.register_reply(
+                trigger=self._always_true_trigger, # Add a specific trigger string
+                reply_func=self.handle_message,
+                position=0
+            )
+    def _always_true_trigger(self, sender):
+        # This trigger function always returns True
+        return True
+    def handle_message(self, *args, **kwargs):
         #logging.debug(f"{self.name}: Received messages from {sender}: {messages}")
-        violated_terms = self.context.get("violated_terms", [])
+        summary = self.context.get('summary', {})
+        violated_terms = summary.get('violated_terms', [])
         recommendations = self.context.get("recommendations", "")
-        regulation_texts = self.context.get("regulation_texts", {})
+        regulation_texts = self.context.get("regulation_full_texts", {})
         template = self.context.get("template", "")
         
         # Prepare the prompt
         prompt = f"""
-Using the following template, write a full corrective action plan addressing all violated terms.
+Using the following template, create a comprehensive corrective action plan that addresses all violated terms.  
 
-Template:
-{template}
+**Template:**  
+{template}  
 
-Violated Terms:
-{violated_terms}
+**Violated Terms:**  
+{violated_terms}  
 
-Recommendations:
-{recommendations}
+**Recommendations:**  
+{recommendations}  
 
-Regulation Texts:
-{regulation_texts}
+**Regulation Context:**  
+{regulation_texts}  
 
-Ensure that the corrective action plan addresses each violated term and follows the structure of the template.
+Ensure the corrective action plan incorporates the recommendations and aligns thoroughly with the full regulatory context, addressing each violated term systematically.
 """
        # logging.debug(f"{self.name}: Prompt for LLM:\n{prompt}")
 
