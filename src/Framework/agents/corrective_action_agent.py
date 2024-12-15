@@ -3,6 +3,8 @@
 from autogen import ConversableAgent
 import os
 import logging
+from openai import OpenAI
+
 
 class CorrectiveActionAgent(ConversableAgent):
     def __init__(self):
@@ -16,6 +18,8 @@ You are a compliance assistant tasked with drafting a full corrective action pla
                 "api_key": os.getenv("OPENAI_API_KEY"),
             },
         )
+        self.client = OpenAI(api_key=self.llm_config["api_key"])
+
     
         self.register_reply(
                 trigger=self._always_true_trigger, # Add a specific trigger string
@@ -27,6 +31,7 @@ You are a compliance assistant tasked with drafting a full corrective action pla
         return True
     def handle_message(self, *args, **kwargs):
         #logging.debug(f"{self.name}: Received messages from {sender}: {messages}")
+        warning_letter = self.context.get("warning_letter", "")
         summary = self.context.get('summary', {})
         violated_terms = summary.get('violated_terms', [])
         recommendations = self.context.get("recommendations", "")
@@ -34,28 +39,38 @@ You are a compliance assistant tasked with drafting a full corrective action pla
         template = self.context.get("template", "")
         
         # Prepare the prompt
-        prompt = f"""
-Using the following template, create a comprehensive corrective action plan that addresses all violated terms.  
+        messages = [{
+            "role": "user",
+            "content": f"""
+        Using the following template, create a comprehensive corrective action plan that addresses all violated terms.  
 
-**Template:**  
-{template}  
+        **Template:**  
+        {template}  
 
-**Violated Terms:**  
-{violated_terms}  
+        **Warning Letter**
+        {warning_letter}
 
-**Recommendations:**  
-{recommendations}  
+        **Violated Terms:**  
+        {violated_terms}  
 
-**Regulation Context:**  
-{regulation_texts}  
+        **Recommendations:**  
+        {recommendations}  
 
-Ensure the corrective action plan incorporates the recommendations and aligns thoroughly with the full regulatory context, addressing each violated term systematically.
-"""
+        **Regulation Context:**  
+        {regulation_texts}  
+
+        Ensure the corrective action plan incorporates the recommendations and aligns thoroughly with the full regulatory context, addressing each violated term systematically.
+        """
+        }]
        # logging.debug(f"{self.name}: Prompt for LLM:\n{prompt}")
 
-        corrective_action_plan = self.llm.generate(prompt)
-
+        response = self.client.chat.completions.create(
+            model=self.llm_config["model"],
+            messages=messages,
+            temperature=0.3,
+            max_tokens=1000
+        )
       #  logging.debug(f"{self.name}: Generated corrective action plan:\n{corrective_action_plan.strip()}")
 
-        self.context["corrective_action_plan"] = corrective_action_plan.strip()
+        self.context["corrective_action_plan"] = response.choices[0].message.content.strip()
         return {"role": "assistant", "content": "Corrective action plan drafted."}

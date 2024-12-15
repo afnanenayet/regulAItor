@@ -23,7 +23,8 @@ dependencies = [
   "flask",
   "requests",
   "dspy",
-  "python-docx"
+  "python-docx",
+  "openai"
 ]
 
 

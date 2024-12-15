@@ -129,6 +129,7 @@ def state_transition(last_speaker, groupchat):
 
     elif last_speaker is recommendation_agent:
         # Proceed to corrective_action_agent
+        print(context["recommendations"])
         return corrective_action_agent
 
     elif last_speaker is corrective_action_agent:
