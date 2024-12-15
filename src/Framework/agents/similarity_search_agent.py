@@ -21,13 +21,24 @@ class SimilaritySearchAgent(ConversableAgent):
         qdrant_port = int(os.getenv("QDRANT_PORT", "6333"))
         self.clientQ = QdrantClient(host=qdrant_host, port=qdrant_port)
         self.collection_name = "violations_collection"
+        
+        # Register the retrieval function with a specific trigger
+        self.register_reply(
+            trigger="retrieve_similar", # Add a specific trigger string
+            reply_func=self._retrieve_similar_cases_reply,
+            position=0
+        )
 
-    def handle_message(self, messages, sender, **kwargs):
-      #  logging.debug(f"SimilaritySearchAgent: handle_message: messages={messages}, sender={sender}, kwargs={kwargs}")
-        violated_terms = self.context.get("violated_terms", [])
+    def _retrieve_similar_cases_reply(self, recipient, messages, sender, config):
+        # Access the violated terms from the nested context structure
+        summary = self.context.get('summary', {})
+        violated_terms = summary.get('violated_terms', [])
+        
         similar_cases = self.retrieve_similar_cases(violated_terms)
+        print(f"Similar cases: {similar_cases}")
         self.context["similar_cases"] = similar_cases
-        return {"role": "assistant", "content": "Similar cases retrieved."}
+        return True, {"role": "assistant", "content": "Similar cases retrieved and stored in context."}
+
 
     def retrieve_similar_cases(self, violated_terms):
         similar_cases = []

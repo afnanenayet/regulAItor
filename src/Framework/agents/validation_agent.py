@@ -12,7 +12,7 @@ class ValidationAgent(ConversableAgent):
             system_message="""
             {
                 "role": "FDA Compliance Validation Agent",
-                "task": "Validate extracted violations and recommendations against original warning letter",
+                "task": "Validate extracted violations and recommendations against original warning letter by returning an approval status and summary or revised summary in a json format",
                 "validation_criteria": {
                     "1. Violation Context Validation": [
                         "Verify complete violation descriptions are captured",
@@ -35,7 +35,9 @@ class ValidationAgent(ConversableAgent):
                 "output_format": {
                     "if_approved": {
                         "status": "APPROVED",
-                        "feedback": "Validation notes on context and completeness"
+                        "summary": {
+                            "violated_terms": ["full violation descriptions with citations"],
+                            "recommendations": ["detailed corrective actions"]
                     },
                     "if_rejected": {
                         "status": "REJECTED",
@@ -53,42 +55,3 @@ class ValidationAgent(ConversableAgent):
                 "api_key": os.getenv("OPENAI_API_KEY"),
             },
         )
-
-    def handle_message(self, messages, sender, **kwargs):
-          #  logging.debug("ValidationAgent handling message.")
-            extraction_result = self.context.get("extraction_result", {})
-            warning_letter = self.context.get("warning_letter", "")
-            
-            prompt = f"""
-                        Validate the following extracted violations and recommendations against the original warning letter.
-
-                        Original Warning Letter:
-                        {warning_letter}
-
-                        Extraction Result:
-                        {json.dumps(extraction_result, indent=2)}
-
-                        Provide your feedback in JSON format with the following structure:
-                        If approved:
-                        {{
-                        "status": "APPROVED",
-                        "feedback": "Validation notes."
-                        }}
-                        If rejected:
-                        {{
-                        "status": "REJECTED",
-                        "feedback": "Detailed explanation of issues.",
-                        "revised_summary": {{
-                            "violated_terms": ["corrected violations"],
-                            "recommendations": ["corrected recommendations"]
-                        }}
-                        }}
-                        """
-            response = self.llm.generate(prompt)
-            try:
-                result = json.loads(response)
-                self.context["validation_feedback"] = result
-                return {"role": "assistant", "content": "Validation completed."}
-            except json.JSONDecodeError:
-                self.context["validation_feedback"] = {"status": "REJECTED", "feedback": "Invalid JSON response."}
-                return {"role": "assistant", "content": "Failed to validate."}

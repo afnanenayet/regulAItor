@@ -5,6 +5,7 @@ import os
 import logging
 import re
 from dotenv import load_dotenv
+
 load_dotenv()
 
 class InputValidationAgent(ConversableAgent):
@@ -17,10 +18,7 @@ class InputValidationAgent(ConversableAgent):
                 "api_key": os.getenv("OPENAI_API_KEY"),
             },
         )
-        print("HHHHHHHHHHHH")
-    def handle_message(self, messages, sender, **kwargs):
-        print("HHHHHHH4343434HHHHH")
-
+    def handle_message(self):
         # Access the warning letter from the context
         warning_letter = self.context.get("warning_letter", "")
         if not warning_letter:
@@ -28,10 +26,9 @@ class InputValidationAgent(ConversableAgent):
             self.context["input_validation_result"] = False
             response_content = "Validation failed. No warning letter provided."
             return {"role": "assistant", "content": response_content}
-        
+
         # Perform validation on the warning letter
         is_valid, validation_feedback = self.validate_warning_letter(warning_letter)
-        print(f"Validation result: {is_valid}")
         self.context["input_validation_result"] = is_valid
         if is_valid:
             response_content = "Validation successful."
@@ -59,11 +56,6 @@ class InputValidationAgent(ConversableAgent):
         if not ("Food and Drug Administration" in warning_letter or "FDA" in warning_letter):
             return False, "Missing FDA identification."
         
-        # Check for required corrective action phrases
-        corrective_phrases = ["corrective action", "corrections", "remediation steps"]
-        if not any(phrase.lower() in warning_letter.lower() for phrase in corrective_phrases):
-            return False, "Missing required corrective actions or remediation steps."
 
-        # Additional checks can be added here as necessary
         
         return True, ""

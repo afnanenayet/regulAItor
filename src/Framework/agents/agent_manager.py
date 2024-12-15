@@ -11,6 +11,8 @@ from .regulation_content_agent import RegulationContentAgent
 from .recommendation_agent import RecommendationAgent
 from .corrective_action_agent import CorrectiveActionAgent
 from .corrective_action_validation_agent import CorrectiveActionValidationAgent
+import json
+
 
 import logging
 
@@ -55,31 +57,61 @@ def state_transition(last_speaker, groupchat):
 
     elif last_speaker is input_validation_agent:
         # Check if input validation passed
+        response = input_validation_agent.handle_message()
+        print(f"Input validation response: {response}")
         validation_result = context.get("input_validation_result")  # True or False
         logging.debug(f"Input validation result: {validation_result}")
+        print(f"Input validation result: {validation_result}")
         if validation_result:
             # Proceed to violation_extraction_agent
             return violation_extraction_agent
         else:
             context['user_input_required'] = True
-            return violation_extraction_agent   #Experiment, return back it to None later.
+            return None   #Experiment, return back it to None later.
+
 
     elif last_speaker is violation_extraction_agent:
-        # Proceed to validation_agent
         return validation_agent
-
+    
     elif last_speaker is validation_agent:
-        # Check if validation passed
-        validation_feedback = context.get("validation_feedback", {})
-        if validation_feedback.get("status") == "APPROVED":
-            # Proceed to similarity_search_agent
-            return similarity_search_agent
-        else:
-            # Re-ask violation_extraction_agent to regenerate
-            return violation_extraction_agent
+        is_valid = False
+        while not is_valid:
+            try:
+                last_validation = validation_agent.last_message()
+                
+                # Extract the JSON string from the dict's content field
+                if isinstance(last_validation, dict) and 'content' in last_validation:
+                    last_validation = last_validation['content']
+                
+                # Remove markdown code block markers if present
+                last_validation = last_validation.replace("```json", "").replace("```", "").strip()
+                
+                json_data = json.loads(last_validation)
+                is_valid = True
+                if json_data.get('status') == 'APPROVED':
+                    context['summary'] = {
+                        'violated_terms': json_data['summary']['violated_terms'],
+                        'recommendations': json_data['summary']['recommendations']
+                    }
+                elif json_data.get('status') == 'REJECTED':
+                    context['summary'] = {
+                        'violated_terms': json_data['revised_summary']['violated_terms'],
+                        'recommendations': json_data['revised_summary']['recommendations']
+                    }
+            except (json.JSONDecodeError, TypeError) as e:
+                print(f"Error exception: {str(e)}")
+                print(f"Debug - Failed validation content: {last_validation}")
+                return violation_extraction_agent
+
+                
+
+        return similarity_search_agent
+
+
 
     elif last_speaker is similarity_search_agent:
         # Proceed to regulation_content_agent
+        print(f"HERE IS SIMILAR:{context.get("similar_cases")}")
         return regulation_content_agent
 
     elif last_speaker is regulation_content_agent:
