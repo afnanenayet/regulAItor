@@ -133,6 +133,7 @@ def state_transition(last_speaker, groupchat):
         return corrective_action_agent
 
     elif last_speaker is corrective_action_agent:
+        print(context.get('corrective_action_plan'))
         # Proceed to corrective_action_validation_agent
         return corrective_action_validation_agent
 
@@ -149,6 +150,9 @@ def state_transition(last_speaker, groupchat):
         if json_data.get('status') == 'APPROVED':
             print(f"HERE IS the Approved Corrective Action: {context.get('corrective_action_plan')}")
         elif json_data.get('status') == 'REJECTED':
+            feedback = json_data.get('feedback')
+            context['revision_feedback'] = feedback
+            print(f"Here is the revised feedback: {feedback}")
             return corrective_action_agent
 
     else:
@@ -159,7 +163,7 @@ def state_transition(last_speaker, groupchat):
 group_chat = GroupChat(
     agents=agents,  
     messages=[],
-    max_round=20,
+    max_round=30,
     speaker_selection_method=state_transition,
     allow_repeat_speaker=True,
 )
