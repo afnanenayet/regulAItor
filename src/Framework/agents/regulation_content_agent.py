@@ -22,10 +22,20 @@ class RegulationContentAgent(ConversableAgent):
         except FileNotFoundError:
             self.regulations_data = {}
             print(f"Warning: 'full_regulations.json' not found at {data_path}.")
+                # Register the retrieval function with a specific trigger
+        self.register_reply(
+            trigger=self._always_true_trigger, # Add a specific trigger string
+            reply_func=self.handle_message,
+            position=0
+        )
+    def _always_true_trigger(self, sender):
+        # This trigger function always returns True
+        return True
 
-    def handle_message(self, messages, sender, **kwargs):
+    def handle_message(self, messages=None, sender=None, **kwargs):
       #  logging.debug(f"Received message: {messages}")
-        violated_terms = self.context.get("violated_terms", [])
+        summary = self.context.get('summary', {})
+        violated_terms = summary.get('violated_terms', [])       
         regulations = self.extract_regulation_numbers(violated_terms)
         regulation_texts = self.get_regulation_texts(regulations)
         self.context["regulation_texts"] = regulation_texts

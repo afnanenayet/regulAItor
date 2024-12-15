@@ -11,6 +11,7 @@ from .regulation_content_agent import RegulationContentAgent
 from .recommendation_agent import RecommendationAgent
 from .corrective_action_agent import CorrectiveActionAgent
 from .corrective_action_validation_agent import CorrectiveActionValidationAgent
+from .similar_case_agent import Similar_case_Recommendation
 import json
 
 
@@ -23,8 +24,11 @@ validation_agent = ValidationAgent()
 similarity_search_agent = SimilaritySearchAgent()
 regulation_content_agent = RegulationContentAgent()
 recommendation_agent = RecommendationAgent()
+similar_agent = Similar_case_Recommendation()
 corrective_action_agent = CorrectiveActionAgent()
 corrective_action_validation_agent = CorrectiveActionValidationAgent()
+
+
 
 initiating_agent = autogen.UserProxyAgent(
                                             name="Init",
@@ -38,6 +42,7 @@ agents = [
     similarity_search_agent,
     regulation_content_agent,
     recommendation_agent,
+    similar_agent,
     corrective_action_agent,
     corrective_action_validation_agent,
 ]
@@ -111,11 +116,14 @@ def state_transition(last_speaker, groupchat):
 
     elif last_speaker is similarity_search_agent:
         # Proceed to regulation_content_agent
-        print(f"HERE IS SIMILAR:{context.get("similar_cases")}")
+        return similar_agent
+    
+    elif last_speaker is similar_agent:
         return regulation_content_agent
 
     elif last_speaker is regulation_content_agent:
         # Proceed to recommendation_agent
+        print(f"HERE IS regu: {context.get('regulation_texts')}")
         return recommendation_agent
 
     elif last_speaker is recommendation_agent:

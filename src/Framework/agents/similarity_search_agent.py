@@ -10,7 +10,7 @@ class SimilaritySearchAgent(ConversableAgent):
     def __init__(self):
         super().__init__(
             name="similarity_search_agent",
-            system_message="You retrieve similar past violations based on provided violated terms.",
+            system_message="From the Rerieved Similar cases, filter out and extract recommendations to address each violation from the original warning letter.",
             llm_config={
                 "model": os.getenv("OPENAI_MODEL", "gpt-4"),
                 "api_key": os.getenv("OPENAI_API_KEY"),
@@ -24,10 +24,13 @@ class SimilaritySearchAgent(ConversableAgent):
         
         # Register the retrieval function with a specific trigger
         self.register_reply(
-            trigger="retrieve_similar", # Add a specific trigger string
+            trigger=self._always_true_trigger, # Add a specific trigger string
             reply_func=self._retrieve_similar_cases_reply,
             position=0
         )
+    def _always_true_trigger(self, sender):
+        # This trigger function always returns True
+        return True
 
     def _retrieve_similar_cases_reply(self, recipient, messages, sender, config):
         # Access the violated terms from the nested context structure
@@ -35,7 +38,6 @@ class SimilaritySearchAgent(ConversableAgent):
         violated_terms = summary.get('violated_terms', [])
         
         similar_cases = self.retrieve_similar_cases(violated_terms)
-        print(f"Similar cases: {similar_cases}")
         self.context["similar_cases"] = similar_cases
         return True, {"role": "assistant", "content": "Similar cases retrieved and stored in context."}
 
@@ -52,7 +54,6 @@ class SimilaritySearchAgent(ConversableAgent):
             for result in search_results:
                 payload = result.payload
                 similar_cases.append({
-                    "letter_name": payload.get('letter_name', ''),
                     "violated_term": payload.get('violated_term', ''),
                     "recommendations": payload.get('recommendations', [])
                 })
