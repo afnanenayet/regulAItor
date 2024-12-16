@@ -45,19 +45,28 @@ class RegulationContentAgent(ConversableAgent):
     def extract_regulation_numbers(self, violated_terms):
         import re
         regulation_numbers = []
+        
+        # Pattern to match citations like "21 CFR 211.208" or "21 U.S.C. 331"
+        pattern = r'(21)\s+(CFR|C\.F\.R\.|USC|U\.S\.C\.)\s+(\d+(?:\.\d+)*)'
+
         for term in violated_terms:
-            matches = re.findall(r'section \d+ of the FD&C Act \[21 U.S.C. § \d+(?:\.\d+)?\]', term)
+            term_str = str(term)
+            matches = re.finditer(pattern, term_str, re.IGNORECASE)
+            
             for match in matches:
-                section_match = re.search(r'section (\d+)', match)
-                if section_match:
-                    section_number = section_match.group(1)
-                    regulation_number = f"21 U.S.C. § {section_number}"
-                    regulation_numbers.append(regulation_number)
-                usc_match = re.search(r'\[21 U.S.C. § (\d+(?:\.\d+)?)\]', match)
-                if usc_match:
-                    usc_section_number = usc_match.group(1)
-                    regulation_numbers.append(f"21 U.S.C. § {usc_section_number}")
-        return list(set(regulation_numbers))
+                # Extract parts of the citation
+                title = match.group(1)
+                cfr_or_usc = match.group(2).upper().replace('.', '')  # Normalize to "CFR" or "USC"
+                section_number = match.group(3)
+                
+                # Construct the regulation key
+                regulation_key = f"{title} {cfr_or_usc} {section_number}"
+                
+                # Avoid duplicates
+                if regulation_key not in regulation_numbers:
+                    regulation_numbers.append(regulation_key)
+                    
+        return regulation_numbers
 
     def get_regulation_texts(self, regulations):
         regulation_texts = {}
