@@ -1,0 +1,261 @@
+Delivery Method: 
+        Electronic Mail
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Ms. Barbara T. Choi
+          
+
+                                
+  
+    Recipient Title
+              President and Owner
+          
+
+          
+            Cosmobeauti Laboratories & Manufacturing Inc.
+
+          
+                      480 East Arrow Highway
+San Dimas, CA 91773-3340
+United States
+          
+          
+            
+            
+
+     barbara@cosmobeautilab.com
+
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research | CDER
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+WARNING LETTER
+
+August 11, 2023
+
+Dear Ms. Choi:
+
+The U.S. Food and Drug Administration inspected your drug manufacturing facility, Cosmobeauti Laboratories & Manufacturing Inc., FEI 3003921470, at 480 East Arrow Highway San Dimas, California, from March 6, 2023 to March 15, 2023.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We acknowledge receipt of your response to our Form FDA 483. Your response is inadequate because it did not provide sufficient detail or evidence of corrective actions to bring your operations into compliance with CGMP.
+
+During our inspection, our investigator observed specific violations including, but not limited to, the following.
+
+1. Your firm’s quality control unit failed to exercise its responsibility to ensure drug products manufactured are in compliance with CGMP, and meet established specifications for identity, strength, quality, and purity (21 CFR 211.22).
+
+Your quality unit (QU) did not provide adequate oversight for the manufacture of your over-the-counter (OTC) sun protection factor (SPF) sunscreen drug products. For example, your QU, which includes you and your regulatory consultant, failed to ensure that the review of batch production record steps was contemporaneously recorded. During the inspection, your regulatory consultant told FDA investigators that you both backdated review steps on batch production records for your OTC drug products.
+
+CGMP activities must be documented at the time of performance. Non-contemporaneous documentation on batch production records raises concerns about the validity and integrity of your firm’s production records.
+
+In response to this letter, provide:
+
+
+	A complete assessment of documentation systems used throughout your manufacturing and laboratory operations to determine where documentation practices are insufficient. Include a detailed corrective action and preventive action (CAPA) plan that comprehensively remediates your firm’s documentation practices to ensure you retain attributable, legible, complete, original, accurate, contemporaneous records throughout your operation.
+	A comprehensive assessment and remediation plan to ensure your QU is given the authority and resources to effectively function. The assessment should also include, but not be limited to:
+
+
+    o A determination of whether procedures used by your firm are robust and appropriate.
+    o Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices.
+    o A complete and final review of each batch and its related information before the QU disposition decision.
+    o Oversight and approval of investigations and discharging of all other QU duties to ensure identity, strength, quality, and purity of all products.
+    o Also describe how top management supports quality assurance and reliable operations, including but not limited to timely provision of resources to proactively address emerging manufacturing/quality issues and to assure a continuing state of control.
+
+2. Your firm failed to conduct, for each batch of drug product, appropriate laboratory testing, as necessary, required to be free of objectionable organisms. Your firm also failed to test an adequate number of batches of each drug product to determine an appropriate expiration date. (21 CFR 211.165(b) and 21 CFR 211.166(b)).
+
+You failed to perform microbiological testing on each batch of your finished drug products. In addition, you lacked sufficient stability data to support the assigned shelf-life for your OTC drug products.
+
+Testing is an essential part of ensuring that the drug products you manufacture conform to all pre-determined quality attributes and are appropriate for their intended use, including microbiological specifications.
+
+In response to this letter, provide:
+
+
+	A comprehensive, independent assessment and CAPA plan to ensure the adequacy of your stability program. Your remediated program should include, but not be limited to:
+
+
+    o Stability-indicating methods.
+    o Stability studies for each drug product in its marketed container-closure system before distribution is permitted.
+    o An ongoing program in which representative batches of each product are added each year to the program to determine if the shelf-life claim remains valid.
+    o Detailed definition of the specific attributes to be tested at each station (timepoint).
+
+
+	All procedures that describe these and other elements of your remediated stability program.
+	A list of chemical and microbiological test methods and specifications used to analyze each batch of your drug products before making a batch disposition decision, and the associated written procedures.
+	A comprehensive, independent assessment of your laboratory practices, procedures, methods, equipment, documentation, and analyst competencies. Based on this review, provide a detailed plan to remediate and evaluate the effectiveness of your laboratory system.
+
+
+3. Your firm failed to establish adequate written procedures for production and process control designed to assure that the drug products you manufacture have the identity, strength, quality, and purity they purport or are represented to possess. Your firm also failed to prepare batch production and control records with complete information relating to the production and control of each batch of drug product produced (21 CFR 211.100(a) and 21 CFR 211.188).
+
+Batch Production Records and Process Validation
+
+Your batch production records for your sunscreen drug products do not include adequate production details, including but not limited to, identification of major manufacturing equipment and critical steps in your manufacturing processes such as critical parameters (e.g., mixing speed and mixing times). Additionally, numerous steps were not recorded on your batch production records for the sunscreen drug products. Complete and accurate batch production and control records are necessary to ensure that manufacturing processes are consistently followed and reproducible. Additionally, incomplete manufacturing records deprive you of the ability to adequately investigate deviations and batch failures, and to perform process validation.
+
+Water System Validation and Cleaning Validation
+
+You lack adequate validation for your (b)(4) water system. You use water from your (b)(4) water system to rinse your non-dedicated drug manufacturing equipment.
+
+You also failed to perform cleaning validation for your non-dedicated drug manufacturing equipment. You must demonstrate that your cleaning processes for equipment prevents cross-contamination between the products manufactured at your facility.
+
+In response to this letter, provide:
+
+
+	A detailed summary of your validation program for ensuring a state of control throughout the product lifecycle, along with associated procedures. Describe your program for process performance qualification (PPQ), and ongoing monitoring of both intra-batch and inter-batch variation to ensure a continuing state of control.
+	A timeline for performing appropriate PPQ for each of your marketed drug products.
+	Include your process performance protocol(s), and written procedures for qualification of equipment and facilities.
+	Provide a detailed program for designing, validating, maintaining, controlling, and monitoring each of your manufacturing processes that includes vigilant monitoring of intra-batch and inter-batch variation to ensure an ongoing state of control. Also, include your program for qualification of your equipment and facility.
+	A comprehensive remediation plan for the design, control, and maintenance of the water system.
+
+
+    o A (b)(4) water system validation report. Also include the summary of any improvements made to system design and to the program for ongoing control and maintenance
+
+
+	A procedure for your water system monitoring that specifies routine microbial testing of water to ensure its acceptability for use in each batch of drug products produced by your firm.
+	The current action/alert limits for total counts and objectionable organisms used for your (b)(4) Water system. Ensure that the total count limits for your (b)(4) water are appropriately stringent in view of the intended use of each of the products produced by your firm.
+	A procedure governing your program for ongoing control, maintenance, and monitoring that ensures the remediated system consistently produces water that meets (b)(4) Water, USP monograph specifications and appropriate microbial limits.
+	Appropriate improvements to your cleaning validation program, with special emphasis on incorporating conditions identified as worst case in your drug manufacturing operation. This should include but not be limited to identification and evaluation of all worst-case:
+
+
+    o Drugs with higher toxicities.
+    o Drugs with higher drug potencies.
+    o Drugs of lower solubility in their cleaning solvents.
+    o Drugs with characteristics that make them difficult to clean.
+    o Swabbing locations for areas that are most difficult to clean.
+    o Maximum hold times before cleaning.
+
+
+	In addition, describe the steps that must be taken in your change management system before introduction of new manufacturing equipment or a new product.
+
+
+    o A summary of updated standard operating procedures (SOPs) that ensure an appropriate program is in place for verification and validation of cleaning procedures for products, processes, and equipment.
+
+Responsibilities as a Contractor
+
+You manufacture drugs as a contractor. Drugs must be manufactured in conformance with CGMP. The FDA is aware that many drug manufacturers use independent contractors such as production facilities, testing laboratories, packagers, and labelers. The FDA regards contractors as extensions of the manufacturer.
+
+You are responsible for the quality of drugs you produce as a contract facility regardless of agreements in place with product owners. You are required to ensure that drugs are made in accordance with section 501(a)(2)(B) of the FD&C Act for safety, identity, strength, quality, and purity. See FDA’s guidance document Contract Manufacturing Arrangements for Drugs: Quality Agreements at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/contract-manufacturing-arrangements-drugs-quality-agreements-guidance-industry.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, you should engage a consultant qualified as set forth in 21 CFR 211.34 to evaluate your operations and to assist your firm in meeting CGMP requirements. The qualified consultant should also perform a comprehensive six-system audit1 of your entire operation for CGMP compliance and evaluate the completion and efficacy of your CAPA before you pursue resolution of your firm’s compliance status with the FDA.
+
+Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Repeat Observations at Facility
+
+In a previous inspection, dated November 14 to November 17, 2017, the FDA cited similar CGMP observations. You proposed specific remediation for these observations in your response. Repeated failures demonstrate that executive management oversight and control over the manufacture of drugs is inadequate.
+
+Quality Systems
+
+Your firm’s quality systems are inadequate. See FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations for help implementing quality systems and risk management approaches to meet the requirements of CGMP regulations 21 CFR, parts 210 and 211 at https://www.fda.gov/media/71023/download.
+
+Data Integrity Remediation
+
+Your quality system does not adequately ensure the accuracy and integrity of data to support the safety, effectiveness, and quality of the drugs you manufacture. See FDA’s guidance document Data Integrity and Compliance With Drug CGMP for guidance on establishing and following CGMP compliant data integrity practices at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/data-integrity-and-compliance-drug-cgmp-questions-and-answers.
+
+We strongly recommend that you retain a qualified consultant to assist in your remediation. In response to this letter, provide:
+
+
+	A comprehensive investigation into the extent of the inaccuracies in data records and reporting including results of the data review for drugs distributed to the United States. Include a detailed description of the scope and root causes of your data integrity lapses.
+	A current risk assessment of the potential effects of the observed failures on the quality of your drugs. Your assessment should include analyses of the risks to patients caused by the release of drugs affected by a lapse of data integrity and analyses of the risks posed by ongoing operations.
+	A management strategy for your firm that includes the details of your global CAPA plan. The detailed corrective action plan should describe how you intend to ensure the reliability and completeness of all data generated by your firm including microbiological and analytical data, manufacturing records, and all data submitted to the FDA.
+
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+Correct any violations promptly. Failure to promptly and adequately address this matter may result in regulatory or legal action without further notice including, without limitation, seizure, and injunction. Unresolved violations may also prevent other federal agencies from awarding contracts.
+
+Failure to address violations may also cause the FDA to withhold issuance of export certificates. The FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to address any violations.
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to orapharm4_responses@fda.hhs.gov or by mail your reply to:
+
+CDR Steven E. Porter, Jr.
+Program Division Director
+Division of Pharmaceutical Quality Operations IV
+U.S. Food and Drug Administration
+19701 Fairchild Road
+Irvine, CA 92612-2506
+
+Please identify your response with unique identifier CMS 657682.
+
+If you have questions regarding this letter, please contact Compliance Officer William V. Millar by email at william.millar@fda.hhs.gov or by phone at (503) 671-9711 Ext. 30.
+
+Sincerely,
+/S/
+
+CDR Steven E. Porter, Jr.
+Program Division Director
+Division of Pharmaceutical Quality Operations IV
+
+_______________________
+
+1 i.e., Quality System, Facilities & Equipment System, Materials System, Production System, Packaging & Labeling System, and Laboratory Control System per FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations.

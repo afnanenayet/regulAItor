@@ -1,0 +1,290 @@
+Delivery Method: 
+        VIA Electronic Mail
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. John Puckett
+          
+
+                                
+  
+    Recipient Title
+              President and COO
+          
+
+          
+            Cosmetic Solutions, LLC
+
+          
+                      6101 Park of Commerce Blvd.
+Boca Raton, FL 33487-8208
+United States
+          
+          
+            
+            
+
+     johnp@csinnovationlabs.com
+
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Division of Pharmaceutical Quality Operations II
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+DATE: 5/31/2024
+
+Case #: 670486
+
+WARNING LETTER
+
+
+Dear Mr. Puckett:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Cosmetic Solutions, LLC, FEI 3002692859, at 6101 Park of Commerce Blvd., Boca Raton, from September 12 to 21, 2023.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+In addition, the (b)(4), and (b)(4) drug products are unapproved new drugs introduced or delivered for introduction into interstate commerce in violation of section 505(a) of the FD&C Act, 21 U.S.C. 355(a). Introduction or delivery for introduction of such products into interstate commerce is prohibited under section 301(d) and 505(a) of the FD&C Act, 21 U.S.C. 331(d) and 355(a). These violations are described in more detail below.
+
+We reviewed your October 11, 2023 response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence.
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+CGMP Violations
+
+1. Your firm failed to establish adequate written responsibilities and procedures applicable to the quality control unit and to follow such written procedures (21 CFR 211.22(d)).
+
+Your quality unit (QU) did not provide adequate oversight to ensure procedures for manufacturing your over-the-counter (OTC) drug products were established and followed. For example:
+
+
+	You failed to follow your stability testing procedure. You manufactured multiple batches of (b)(4), and (b)(4) but have not placed samples of either product into your stability program as required by your procedure (21 CFR 211.166(a) and (b)).
+	You failed to establish the reliability of your component suppliers’ test analyses at appropriate intervals. You also failed to follow your written procedure for incoming sampling, inspection, and release of raw materials. Without adequate testing, you do not have scientific evidence that the components conform to appropriate specifications prior to use in the manufacture of your drug products (21 CFR 211.84(d)(2)).
+	You failed to follow your written change control procedure. During the manufacture of (b)(4), you noted the batch became crystallized when cooling to the target temperature range after the addition of phase B ingredients. You then expanded the target temperature range of this batch and subsequent batches outside of the predetermined manufacturing process range. In addition, you added a step to heat a later batch after the addition of phase C ingredients. These changes were executed without following the steps required in your change control procedure (21 CFR 211.100(a)).
+
+
+In your response, you state (b)(4), and (b)(4) will be placed on stability. You also explain your supplier qualification procedure has been revised to require sampling and testing of raw materials for comparison with your suppliers’ certificate of analysis (COA). Further, you state you have revised your change control procedure, and you consider this issue closed.
+
+Your response is inadequate.
+
+
+	You fail to provide a comprehensive assessment of your stability program that extends to all drug products you manufacture. Further, your response does not include a retrospective assessment of the impact your stability deficiencies have on marketed drug batches within their expiry period.
+	You fail to assess how the lack of supplier qualification impacts the quality of your marketed drug batches.
+	You fail to evaluate the quality impact of changes you made outside your change control system to the (b)(4) manufacturing process. Furthermore, you fail to assess the scope of this issue to determine if manufacturing changes to other drug products were made outside your change control system.
+	You lack an adequate investigation, including a detailed corrective action and preventive action (CAPA) plan to remediate your firm’s failure to follow approved procedures.
+
+
+An adequate QU overseeing all elements of CGMP is necessary to consistently ensure drug product quality.
+
+Your firm’s quality systems are inadequate. See FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations at: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/qualitysystems-approach-pharmaceutical-current-good-manufacturing-practice-regulations for help in implementing quality systems and risk management approaches to meet the requirements of CGMP regulations 21 CFR parts 210 and 211.
+
+In response to this letter, provide:
+
+
+	A comprehensive assessment and remediation plan to ensure your QU is given the authority and resources to effectively function. The assessment should also include, but not be limited to:
+
+
+    o A determination of whether procedures used by your firm are robust and appropriate
+    o Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices
+    o A complete and final review of each batch and its related information before the QU disposition decision
+    o Oversight and approval of investigations and discharging of all other QU duties to ensure identity, strength, quality, and purity of all products
+
+
+	 A comprehensive independent assessment and CAPA plan to ensure the adequacy of your stability program. Your remediated program should include, but not be limited to:
+
+
+    o Stability indicating methods
+    o Stability studies for each drug product in its marketed container-closure system before distribution is permitted
+    o An ongoing program in which representative batches of each product are added each year to the program to determine if the shelf-life claim remains valid
+    o Detailed definition of the specific attributes to be tested at each station (timepoint)
+    o Improved procedures that describe the listed elements above and any other elements of your remediated stability program
+
+
+	A comprehensive independent review of your material system to determine whether all suppliers of components, containers, and closures are each qualified and the materials are assigned appropriate expiration or retest dates. The review should also determine whether incoming material controls are adequate to prevent use of unsuitable components, containers, and closures.
+	A comprehensive assessment of your change management system. This assessment should include, but not be limited to, your procedure(s) to ensure changes are justified, reviewed, and approved by your QU. Your change management program should also include provisions for determining change effectiveness.
+
+
+2. Your firm failed to establish adequate written procedures for production and process control designed to assure that drug products you manufacture have the identity, strength, quality, and purity they purport or are represented to possess, and to follow all of your written production and process control procedures (21 CFR 211.100 (a) and 211.100 (b)).
+
+A. Lack of Water System Qualification and Validation
+
+You failed to qualify your purified water system. You use water from this system as a component in manufacturing drug products, but failed to ensure it consistently produces (b)(4) water that meets appropriate microbial limits. For example, your (b)(4) water failed microbial testing on several occasions throughout August 2023. Multiple drug batches were manufactured with (b)(4) water during this period. Your investigation failed to identify and quantify the microbial contamination. Routine monitoring of microbial counts and identity of contamination in the system is integral to maintaining a state of control and suitability of water for use in drug manufacturing operations.
+
+
+	You also failed to adequately validate your alternative rapid microbiological test methods. For example, you use the (b)(4) system for rapid microbiological testing of your (b)(4) water. You stated this system was validated by the manufacturer, but you failed to verify it upon installation at your facility. Furthermore, you did not demonstrate the system adequately quantifies and identifies objectionable microbes, and you failed to demonstrate it was equivalent to, or better than United States Pharmacopeia (USP) compendial methods, and suitable for its intended use.
+
+
+B. Lack of Cleaning Validation
+
+
+	Your cleaning validation is inadequate because you did not include all products you manufacture, and all pieces of product-contact equipment currently used for manufacturing your drug products. For example, your cleaning validation protocol did not include various kettles, fillers, and mixers you currently use to manufacture drug products. You also manufacture drug products using the same equipment that you use to manufacture nonpharmaceutical products, such as cosmetics. Chemical and microbiological residues on equipment from previous manufacturing activities can adversely impact the purity, quality, and safety of drug products also manufactured on that equipment.
+
+
+In your response, you state batches manufactured while the water system failed microbial testing were released only after finished product results from an outside laboratory passed.
+
+Additionally, you explain batches manufactured with water from a port that demonstrates microbial contamination will be held until “results” from an outside laboratory are within specification. You also commit to decommissioning a failing port until the investigation and corrective actions are complete. Furthermore, you provide approximately (b)(4) of microbial testing results of your (b)(4) water to show validation of your microbial monitoring system, yet this documentation was not available at the time of the inspection.
+
+You also explain future cleaning validations will be modified by using a revised equipment list, and you will include equipment in contact with active pharmaceutical ingredients (APIs). You will also use (b)(4) cleaning verification system where applicable. Furthermore, you state you have engaged a consultant to help implement an enhanced cleaning and sanitization program.
+
+Your response is inadequate.
+
+
+	You fail to address the lack of qualification and validation of your (b)(4) water system.
+	You lack sound scientific data to demonstrate your (b)(4) water testing methods are adequate for your firm’s operations. Furthermore, your response does not include identification of the microbes present in your failing water samples and lacks a comprehensive investigation of your water system’s impact on the quality of your drug products. Microbiological contamination is not uniformly distributed, and your plan to test batches until samples are within specification does not scientifically prove your products are free of contaminants. It is essential that stringent upstream controls be employed to assure the quality of a batch.
+	Additionally, you do not provide an assessment of the impact of your deficient cleaning validation on the quality of your drug products in the market within expiry.
+
+
+In response to this letter, provide:
+
+
+	A comprehensive remediation plan for the design, control, and maintenance of the water system.
+
+
+    o A (b)(4) water system validation report. Also include the summary of any improvements made to system design and to the program for ongoing control and maintenance.
+
+
+	Your total microbial count limits to monitor whether this system is producing water suitable for the intended uses for each of your products.
+	A detailed risk assessment addressing the potential effects of the observed water system failures on the quality of all drug product lots currently in U.S. distribution. Specify actions that you will take in response to the risk assessment, such as customer notifications and product recalls.
+	A procedure for your water system monitoring that specifies routine microbial testing of water to ensure its acceptability for use in each batch of drug products produced by your firm.
+	The current action/alert limits for total counts and objectionable organisms used for your (b)(4) Water system. Ensure that the total count limits for your (b)(4) water are appropriately stringent in view of the intended use of each of the products produced by your firm.
+	A procedure governing your program for monitoring that ensures the system consistently produces water that meets (b)(4) monograph specifications and appropriate microbial limits.
+	A validation study of your (b)(4) microbiological testing system, or other testing system to show it consistently quantifies and identifies microbes as described in (b)(4) Water monograph.
+	Appropriate improvements to your cleaning validation program, with special emphasis on incorporating conditions identified as worst case in your drug manufacturing operation. This should include but not be limited to identification and evaluation of all worst-case:
+
+
+    o Drugs with higher toxicities
+    o Drugs with higher drug potencies
+    o Drugs of lower solubility in their cleaning solvents
+    o Drugs with characteristics that make them difficult to clean
+    o Swabbing locations for areas that are most difficult to clean
+    o Maximum hold times before cleaning
+
+In addition, describe the steps that must be taken in your change management system before introduction of new manufacturing equipment or a new product.
+
+
+	A summary of updated standard operating procedures (SOPs) that ensure an appropriate program is in place for verification and validation of cleaning procedures for products, processes, and equipment.
+
+
+Unapproved New Drug Violations
+
+Examples of claims observed on the (b)(4), and (b)(4) product labels and labeling, including the product websites, that provide evidence of the intended uses (as defined in 21 CFR 201.128) of the products include, but may not be limited to, the following:
+
+(b)(4):
+
+(b)(4)
+
+(b)(4):
+
+(b)(4)
+
+(b)(4):
+
+(b)(4)
+
+(b)(4):
+
+(b)(4)
+
+Based on the products’ labeled intended uses, (b)(4), and (b)(4) are “drugs” as defined by section 201(g)(1)(B) of the FD&C Act, 21 U.S.C. 321(g)(1)(B), because they are intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease, and/or under section 201(g)(1)(C) of the FD&C Act, 21 U.S.C. 321(g)(1)(C), because they are intended to affect the structure or any function of the body.
+
+Your (b)(4), and (b)(4)1 products are not generally recognized as safe and effective (GRASE) for their above referenced uses. We are not aware of any adequate and well-controlled clinical trials in the published literature that support a determination that these products are generally recognized as safe and effective (GRASE) for use under the conditions prescribed, recommended, or suggested in their labeling. Therefore, these products are “new drugs” within the meaning of section 201(p) of the FD&C Act, 21 U.S.C. 321(p). In general, new drugs may not be introduced or delivered for introduction into interstate commerce without an approved application from FDA in effect, as described in section 505(a) of the FD&C Act, 21 U.S.C. 355(a). No FDA-approved application pursuant to section 505 of the FD&C Act, 21 U.S.C. 355, is in effect for (b)(4), and (b)(4).
+
+Thus, the introduction or delivery for introduction into interstate commerce of these products violates sections 301(d) and 505(a) of the FD&C Act, 21 U.S.C. 331(d) and 355(a).
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, you should engage a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements.
+
+Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+Correct any violations promptly. Failure to promptly and adequately address this matter may result in regulatory or legal action without further notice including, without limitation, seizure and injunction. Unresolved violations may also prevent other Federal agencies from awarding contracts.
+
+Failure to address violations may also cause FDA to withhold issuance of Export Certificates. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to address any violations.
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days2. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Your written notification should refer to case # 670486.
+
+Please electronically submit your reply, on company letterhead, to Mark W. Rivero, Compliance Officer, at ORAPHARM2_RESPONSES@fda.hhs.gov.
+
+If you have questions regarding the contents of this letter, you may contact Mr. Rivero via phone at (504) 759-7718 or email at mark.rivero@fda.hhs.gov.
+
+Sincerely,
+/S/
+
+Monica R. Maxwell
+Program Division Director
+Office of Pharmaceutical Quality Operations,
+Division II
+
+____________________
+
+1 We note your (b)(4) product is an external analgesic, and your (b)(4) product is a combination external analgesic and skin protectant drug product, both of which are subject to section 505G of the FD&C Act, 21 U.S.C. 355h, which governs nonprescription drugs marketed without an approved application. However, there is no basis under the FD&C Act under which these products would be legally marketed without an approved application. Specifically, with respect to external analgesic drug products, such products are deemed to be generally recognized as safe and effective (GRASE) and not new drugs if, among other things, they conform to the conditions of use set forth in Over-the-Counter (OTC) Monograph M017: External Analgesic Drug Products for Over-the-Counter Human Use (henceforth “M017”) and for combination external analgesic and skin protectant drug products, they must conform to the conditions of use set forth in both M017 and OTC Monograph M016: Skin Protectant Drug Products for Over-the-Counter Human Use (henceforth “M016”). However, (b)(4) and (b)(4) do not conform to the conditions specified in the relevant orders. Neither product is formulated in a manner that is consistent with the applicable final administrative orders and (b)(4) includes intended uses outside both monographs. Specifically, (b)(4) is formulated to contain eucalyptus oil, which falls under section 505G(a)(5) of the FD&C Act because FDA has determined that no counterirritant external analgesic products containing eucalyptus oil as an active ingredient are GRASE under a final determination issued under 21 CFR part 330. In addition, your (b)(4) labeling purports to promote cell repair, which is an intended use not permitted under any OTC Monograph or relevant rulemaking. Although you do not distinguish between active and inactive ingredients for your (b)(4) product, no combination of the labeled ingredients is permitted by M017 and M016 for a combination external analgesic and skin protectant drug product.
+
+2 Under program enhancements for the Generic Drug User Fee Amendments (GDUFA) reauthorization for fiscal years (FYs) 2023-2027, also known as the GDUFA III Commitment Letter, your facility may be eligible for a Post-Warning Letter Meeting to obtain preliminary feedback from FDA on the adequacy and completeness of your corrective action plans.

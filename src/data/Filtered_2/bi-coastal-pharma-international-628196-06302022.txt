@@ -1,0 +1,221 @@
+Delivery Method: 
+        Electronic Mail
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Ralph Massa, Jr.
+          
+
+                                
+  
+    Recipient Title
+              President and CEO
+          
+
+          
+            Bi-Coastal Pharma International
+
+          
+                      1161 Broad St Ste 216
+Shrewsbury, NJ 07702-4362
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Office of Pharmaceutical Quality Operations Division I
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter 628196
+
+June 30, 2022
+
+Dear Mr. Massa:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Bi-Coastal Pharma International, FEI 3013263547, located at 1161 Broad St Ste 216, Shrewsbury, New Jersey, from December 15, 2021, to January 14, 2022.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your February 2, 2022, response to our Form FDA 483 in detail.
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to establish and follow adequate written procedures describing the handling of all written and oral complaints regarding a drug product, including provisions for review by the quality control unit of any complaint involving the possible failure of a drug product to meet any of its specifications and, for such drug products, a determination as to the need for an investigation in accordance with 21 CFR 211.192. (21 CFR 211.198(a)).
+
+You failed to adequately investigate a complaint. On June 2, 2020, FDA notified your firm of a complaint that reported an adverse reaction after taking Chlordiazepoxide Hydrochloride (HCl) and Clidinium Bromide (Br), 5 mg/2.5 mg, distributed by your firm. This notification also included the complainant’s contact information. During this inspection we observed there was no investigation initiated to evaluate the manufacturing and packaging of Chlordiazepoxide HCl and Clidinium Br in accordance with your established procedure. On July 6, 2020, you responded to FDA you reviewed “all” certificates of analysis provided by your contract manufacturing organization (CMO) and concluded results were consistent with all previously released batches. This drug product was manufactured by your CMO (b)(4), located in (b)(4). FDA issued a Warning Letter1 to (b)(4), on (b)(4), which specifically noted a violation related to potential for mix-ups of various drug products including Chlordiazepoxide HCl and Clidinium Br. However, at the time of receiving the complaint, you did not attempt to obtain samples of the drug or additional information from the complainant.
+
+You stated during the inspection that your CMO was no longer in business, and you were unable to share the complaint with the CMO for further investigation. However, as the product owner, you are ultimately responsible for ensuring adequate control over outsourced activities, including quality oversight of the drug products you distribute.
+
+In your response, you explained you will revise your process for handling complaints. Your response is inadequate. You failed to provide evidence of your investigation into the product quality impact of this complaint, including the two batches of Chlordiazepoxide HCl and Clidinium Br, 5 mg/2.5 mg manufactured since 2018. In addition, your response lacks systemic evaluation of complaint investigations to ensure adequate and sustainable corrections and corrective actions are implemented in a timely manner.
+
+In response to this letter, provide:
+
+• A comprehensive, independent assessment of your overall system for investigating deviations, discrepancies, complaints, out of specification (OOS) results, and failures. Provide a detailed action plan to remediate this system. Your action plan should include, but not be limited to, significant improvements in investigation competencies, scope determination, root cause evaluation, corrective action and preventive action (CAPA) effectiveness, quality unit oversight, and written procedures. Address how your firm will ensure all phases of investigations are appropriately conducted.
+• A retrospective review of all records that may constitute a complaint for U.S. products and provide a report summarizing the findings of this review including any actions that your firm may take based on the review.
+• An evaluation of your existing processes and procedures that define, establish, and document quality and manufacturing related controls to ensure CGMP responsibilities will be carried out if a CMO is no longer in business. Provide a summary of this evaluation.
+
+2. Your firm failed to establish an adequate quality unit and the responsibilities and procedures applicable to the quality control unit are not in writing and fully followed (21 CFR 211.22(a) and (d)).
+
+You failed to establish adequate written responsibilities and procedures for reviewing manufacturing operations performed by your CMOs. You also failed to follow your established procedures, and review each batch produced for you to determine appropriate disposition. For example:
+
+A. Lack of Quality Unit (QU) oversight over CMO
+
+• You use a CMO, (b)(4), to manufacture Hydroquinone USP 4% Skin Bleaching Cream. Your CMO released batch (b)(4) to you on November 16, 2020. You distributed this batch to numerous customers. During the inspection you were unable to provide adequate stability data for your batch and formulation.
+
+• You use a CMO, (b)(4) to manufacture the following products:
+  o Hydroquinone USP 4% Skin Bleaching Cream
+  o Sodium Sulfacetamide 10% & Sulfur 5% Cleanser
+  o Sodium Sulfacetamide 10% and Sulfur 2% Cleanser
+  o Sodium Sulfacetamide 9.8% and Sulfur 4.8% Cleanser
+  o Selenium Sulfide 2.25% Shampoo
+
+Your manufacturing and supply agreement requires (b)(4) to ensure products manufactured on your behalf will not be in violation of FDA regulations. However, this document lacks specificity in defining responsibilities for documenting and performing various oversight activities related to reviewing OOS results, deviations, complaints, and change controls.
+
+Your response is inadequate. We acknowledge receipt of your CMO’s annual review for Hydroquinone 4% Cream. However, the review does not provide stability characteristics representative of this batch over its shelf life. In addition, you state you will establish written responsibilities for managing your CMOs. However, you have not provided details of your interim controls or an evaluation of the adequacy of your existing agreements with each of your CMOs.
+
+In response to this letter, provide:
+
+• A retrospective evaluation of all drug product batches currently in distribution to ensure regulatory responsibilities are adequately delineated between your firm and your CMO to ensure compliance. Provide a summary of this evaluation.
+• A summary of your program for qualifying and overseeing CMOs that perform CGMP activities on your behalf. This summary should document the roles and responsibilities of each packager, labeler, distributor, contract manufacturer, contract testing laboratory, or other organization performing activities related to your drug product. Include names, addresses, FDA registration information, and a description of services provided.
+
+B. Failure to follow procedures and lack of written responsibilities
+
+• You failed to follow your established procedure for batch record review and release. During the inspection, you stated you do not receive or verify executed batch records unless requested by FDA during inspections. This is despite a requirement in your procedure that states you will review and verify executed batch records for completeness prior to drug product release. Numerous batches of various drug products have been distributed since December 2019 without your firm receiving or verifying executed batch records.
+
+In addition, after verification of the executed batch record, your procedure requires signatures for the “Reviewed by” space and the “Reviewed and Released by” space in your Certificate of Release. However, our inspection found that Hydroquinone Gel 4% bulk lot number (b)(4) was released for distribution though the “Reviewed by” space was not signed.
+
+• Your training procedure states a QU representative will counter sign and date employee training forms, confirming that the employee is appropriately trained on the procedures. However, QU representative signatures were missing on 2020 and 2021 employee training records for various individuals, including QU staff who continued to perform quality duties.
+
+Establishing and following adequate written procedures is essential for the proper functioning of your manufacturing operations.
+
+Your response is inadequate. You failed to provide an investigation into the impact of inadequate batch review and release practices on batches that have been released and remain on the market within their expiry period.
+
+In response to this letter, provide a comprehensive assessment and remediation plan to ensure your QU is given the authority and resources to effectively function. The assessment should also include, but not be limited to:
+
+• A determination of whether procedures used by your firm are robust and appropriate
+• Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices
+• A complete and final review of each batch and its related information before the QU disposition decision
+• Oversight and approval of investigations and discharging of all other QU duties to ensure identity, strength, quality, and purity of all products
+
+3. Your firm failed to ensure that each person responsible for supervising the manufacture, processing, packing, or holding of a drug product has the education, training or experience, or any combination thereof, to perform assigned functions in such a manner as to provide assurance that the drug product has the safety, identity, strength, quality, and purity that it purports or is represented to possess (21 CFR 211.25(b)).
+
+You failed to ensure personnel with oversight of quality related functions have the appropriate combination of training, education, and experience to perform the job adequately. For example, your QA manager:
+
+• Does not have previous experience or educational training in quality assurance, the pharmaceutical industry, or the sciences. Nonetheless, he is responsible for overseeing CMOs, certificates of analysis, and batch release; and
+• Was unaware of CGMP stability testing and process validation requirements for drug products manufactured by CMOs on your behalf.
+
+Adequate training and personnel qualifications are essential to ensure proper performance of job functions by your employees, including those responsible for oversight and management of the quality system.
+
+In your response you stated your firm’s “Vice President & General Manager” will help ensure proper adherence to procedures while you seek to hire a new quality assurance manager. This response is inadequate. You failed to provide evidence showing this individual is qualified to provide oversight of CGMP activities. In addition, you have not provided details as to how you will ensure the new quality assurance manager will have the appropriate combination of training, education, and experience to perform the job adequately.
+
+In response to this letter, provide:
+
+• A comprehensive assessment and CAPA for your training program, including practices, records, staff competencies, and effectiveness throughout your operations. Specific gaps should be identified for remediation after assessing the capability of your program to ensure:
+  o Qualified individuals perform training
+  o Provisions are implemented for evaluating staff comprehension, training effectiveness, and ensuring appropriate modifications where needed
+• A summary of your current training program.
+• Your plan to improve oversight of your training program.
+• An assessment of the impact of the lack of appropriate training on marketed drug products.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements. Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Use of Contract Manufacturers
+
+Drugs must be manufactured in conformance with CGMP. FDA is aware that many drug manufacturers use independent contractors such as production facilities, testing laboratories, packagers, and labelers. FDA regards contractors as extensions of the manufacturer. You are responsible for the quality of your drugs regardless of agreements in place with your contract facilities. You are required to ensure that drugs are made in accordance with section 501(a)(2)(B) of the FD&C Act to ensure safety, identity, strength, quality, and purity. See FDA’s guidance document Contract Manufacturing Arrangements for Drugs: Quality Agreements at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/contract-manufacturing-arrangements-drugs-quality-agreements-guidance-industryExternal Link Disclaimer.
+
+Quality Systems
+
+Your firm’s quality systems are inadequate. See FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations for help implementing quality systems and risk management approaches to meet the requirements of CGMP regulations 21 CFR, parts 210 and 211 at https://www.fda.gov/media/71023/download.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+If you are considering an action that is likely to lead to a disruption in the supply of drugs produced at your facility, FDA requests that you contact CDER’s Drug Shortages Staff immediately, at drugshortages@fda.hhs.gov, so that the FDA can work with you on the most effective way to bring your operations into compliance with the law. Contacting the Drug Shortages Staff also allows you to meet any obligations you may have to report discontinuances or interruptions in your drug manufacture under 21 U.S.C. 356C(b). This also allows FDA to consider, as soon as possible, what actions, if any, may be needed to avoid shortages and protect the health of patients who depend on your products.
+
+Correct any violations promptly. Failure to promptly and adequately address this matter may result in regulatory or legal action without further notice including, without limitation, seizure and injunction. Unresolved violations may also prevent other Federal agencies from awarding contracts.
+
+Failure to address violations may also cause FDA to withhold issuance of Export Certificates. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to address any violations.
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to ORAPHARM1_RESPONSES@fda.hhs.gov. Your written notification should refer to Warning Letter #628196 and include FEI number 3013263547.
+
+If you have questions regarding the content of this letter, please contact us through ORAPHARM1_RESPONSES@fda.hhs.gov, and “cc” Compliance Officers, CAPT Liatte Closs (Liatte.Closs@fda.hhs.gov) and Nancy Scheraga (Nancy.Scheraga@fda.hhs.gov).
+
+Sincerely,
+/S/
+
+Nerizza Guerin
+Acting Program Division Director/District Director
+Office of Pharmaceutical Quality Operations
+Division I/New Jersey District
+
+______________________
+
+1 https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/andapharm-llc-566492-02282019

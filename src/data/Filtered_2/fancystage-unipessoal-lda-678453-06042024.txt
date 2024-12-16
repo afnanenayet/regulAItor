@@ -1,0 +1,243 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Pedro Branco
+          
+
+                                
+  
+    Recipient Title
+              Chief Executive Officer
+          
+
+          
+            Fancystage Unipessoal, LDA
+
+          
+                      Rua da Cumieira 31
+Santiago Do Bougado Trofa
+4785-618 Porto
+Portugal
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research | CDER
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter 320-24-38
+
+June 4, 2024
+
+Dear Mr. Branco:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Fancystage Unipessoal, Lda, FEI 3015282935, at Rua da Cumieira 31, Santiago Do Bougado Trofa, Porto, from January 22 to 26, 2024.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+In addition, “THE HUMBLE CO. sodium fluoride 0.05% anticavity mouthwash FRESH MINT” drug product is misbranded under section 502(f)(1) of the FD&C Act, 21 U.S.C. 352(f)(1). Introduction or delivery for introduction of such product into interstate commerce is prohibited under section 301(a) of the FD&C Act, 21 U.S.C. 331(a). This violation is described in more detail below.
+
+We reviewed your February 16, 2024 response to our Form FDA 483 in detail. Your response is inadequate because you failed to provide supportive documentation for evaluation or adequate evidence of corrective actions taken to bring your operations into compliance with CGMP.
+
+During our inspection, our investigator observed specific violations including, but not limited to, the following:
+
+CGMP Violations
+
+1. Your firm failed to test samples of each component for identity and conformity with all appropriate written specifications for purity, strength, and quality. Your firm also failed to validate and establish the reliability of your component supplier’s test analyses at appropriate intervals (21 CFR 211.84(d)(1) and 211.84(d)(2)).
+
+You manufacture over-the-counter (OTC) drug products such as (b)(4). You failed to adequately test your incoming components for identity before using them to manufacture your drug products. Specifically, you failed to conduct an adequate identity test on each shipment of each lot of components used in the production of your drug products. Additionally, you relied on the certificates of analysis (COA) from your suppliers and failed to establish the reliability of each of your suppliers’ COA for component specifications and characteristics.
+
+Without adequate testing and confirmation of reliability of supplier and external laboratory testing results, you lack scientific evidence that the components or drug products conform to appropriate specifications.
+
+In response to this letter, provide:
+
+• A description of how you will test each component lot for conformity with all appropriate specifications for identity, strength, quality, and purity. If you intend to accept any results from your supplier’s COA instead of testing each component lot for strength, quality, and purity, specify how you will robustly establish the reliability of your supplier’s results through initial validation as well as periodic revalidation. In addition, include a commitment to always conduct at least one specific identity test for each incoming component lot. In the case of (b)(4), and certain additional high-risk components we note that this includes the performance of parts A, B, and C of the United States Pharmacopeia (USP) monograph.
+• The chemical and microbiological quality control specifications you use to test each incoming lot of high-risk drug components to determine acceptability for use in manufacturing.
+• A comprehensive, independent review of your material system to determine whether all suppliers of components, containers, and closures, are each qualified and the materials are assigned appropriate expiration or retest dates. The review should also determine whether incoming material controls are adequate to prevent use of unsuitable components, containers, and closures.
+• A summary of results obtained from testing all components to evaluate the reliability of the COA from each component manufacturer. Include your standard operating procedure (SOP) that describes this COA validation program.
+• A summary of your program for qualifying and overseeing contract facilities that test the components and drug products you manufacture.
+
+2. Your firm failed to establish adequate written procedures for production and process control designed to assure that the drug products you manufacture have the identity, strength, quality, and purity they purport or are represented to possess (21 CFR 211.100(a)).
+
+Lack of Process Validation
+
+You failed to provide data to demonstrate you have adequately validated your manufacturing processes used to manufacture your OTC drug products and to demonstrate your processes are reproducible and controlled to consistently yield drugs of uniform character and quality. Additionally, you failed to provide data to demonstrate the qualification of your manufacturing equipment (e.g., (b)(4), bottle filling, tube filling, etc.).
+
+Process validation evaluates the soundness of design and state of control of a process throughout its lifecycle. Each significant stage of a manufacturing process must be designed appropriately and assure the quality of raw material inputs, in-process materials, and finished drugs. Process qualification studies determine whether an initial state of control has been established. Successful process qualification studies are necessary before commercial distribution. Thereafter, ongoing vigilant oversight of process performance and product quality is necessary to ensure you maintain a stable manufacturing operation throughout the product lifecycle. See FDA’s guidance for industry, Process Validation: General Principles and Practices for general principles and approaches that the FDA considers appropriate elements of process validation at https://www.fda.gov/media/71021/download.
+
+Inadequate (b)(4) System
+
+You failed to provide data regarding the validation of your (b)(4) system that is used as a component for your products and during equipment cleaning. Furthermore, you also failed to show that your (b)(4) system is adequately monitored to ensure it consistently produces (b)(4) that meets appropriate microbial limits.
+
+(b)(4) must be suitable for its intended use and routinely tested to ensure ongoing conformance with appropriate chemical and microbiological attributes. Routine monitoring of microbial counts and identity of contamination in the system is integral to ensuring oversight of ongoing state of control and suitability of (b)(4) for use in manufacturing operations. (b)(4)
+
+In response to this letter, provide:
+
+• A detailed summary of your validation program for ensuring a state of control throughout the product lifecycle, along with associated procedures. Describe your program for process performance qualification (PPQ), and ongoing monitoring of both intra-batch and inter-batch variation to ensure a continuing state of control.
+• A timeline for performing appropriate PPQ for each of your marketed drug products.
+• Include your process performance protocols, and written procedures for qualification of equipment and facilities.
+• A detailed program for designing, validating, maintaining, controlling, and monitoring each of your manufacturing processes that includes vigilant monitoring of intra-batch and inter-batch variation to ensure an ongoing state of control. Also, include your program for qualification of your equipment and facility.
+• A comprehensive independent remediation plan for the design, control, and maintenance of the (b)(4) system.
+    o A (b)(4) system validation report. Also include the summary of any improvements made to system design and to the program for ongoing control and maintenance.
+• A procedure for your (b)(4) system monitoring that specifies routine microbial testing of (b)(4) to ensure its acceptability for use in each batch of drug products produced by your firm.
+• The current action/alert limits for total counts and objectionable organisms used for your (b)(4) system.
+• A procedure governing your program for ongoing control, maintenance, and monitoring that ensures the system consistently produces (b)(4) that meets (b)(4), USP monograph specifications and appropriate microbial limits.
+
+3. Your firm failed to establish laboratory controls that include scientifically sound and appropriate specifications, standards, sampling plans, and test procedures designed to assure that components, drug product containers, closures, in-process materials, labeling, and drug products conform to appropriate standards of identity, strength, quality, and purity (21 CFR 211.160(b)).
+
+You used testing kits labeled for cosmetic products to determine the total microbial count of your OTC drug products and failed to provide data to demonstrate that your non-compendial microbial testing methods have been properly validated and the methods used are equivalent to, or better than, USP methods. You also failed to perform growth promotion testing on media in accordance with USP monograph requirements and lacked scientific rationale for the sample quantities required for microbial testing.
+
+Additionally, you have not qualified your contract testing laboratories that are used for the microbiological testing of OTC drug products.
+
+The ability of microbial testing methods to detect objectionable microorganisms in the presence of each drug product must be established and validated. Results generated using unverified or unvalidated methods may put consumers at risk.
+
+In response to this letter, provide:
+
+• A list of chemical and microbiological test methods and specifications used to analyze each batch of your drug products before making a batch disposition decision, and the associated written procedures.
+• A comprehensive, independent assessment of your laboratory practices, procedures, methods, equipment, documentation, and analyst competencies. Based on this review, provide a detailed plan to remediate and evaluate the effectiveness of your laboratory system.
+
+4. Your firm’s quality control unit failed to exercise its responsibility to ensure drug products manufactured are in compliance with CGMP, and meet established specifications for identity, strength, quality, and purity (21 CFR 211.22).
+
+Your quality unit (QU) failed to ensure adequate control over CGMP records. For example, employees were able to print out and discard documents (e.g., batch records) without adequate QU approval or reconciliation. Additionally, your QU did not adequately review the accuracy and integrity of data to assure the quality of the drugs you manufactured and released. Furthermore, essential original data is not maintained, in that results are transcribed and the original record is discarded.
+
+Your firm’s quality systems are inadequate. See FDA’s guidance document, Quality Systems Approach to Pharmaceutical CGMP Regulations, for help implementing quality systems and risk management approaches to meet the requirements of CGMP regulations 21 CFR, parts 210 and 211 at https://www.fda.gov/media/71023/download.
+
+Your QU must review all the raw data generated during each test and all the completed laboratory control records before batch release.
+
+In response to this letter, provide:
+
+• A comprehensive assessment and remediation plan to ensure your QU is given the authority and resources to effectively function. The assessment should also include, but not be limited to:
+    o A determination of whether procedures used by your firm are robust and appropriate.
+    o Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices.
+    o A complete and final review of each batch and its related information before the QU disposition decision.
+    o Oversight and approval of investigations and discharging of all other QU duties to ensure identity, strength, quality, and purity of all products.
+    o Also describe how top management supports quality assurance and reliable operations, including, but not limited to, timely provision of resources to proactively address emerging manufacturing/quality issues and to assure a continuing state of control.
+
+• A complete assessment of documentation systems used throughout your manufacturing and laboratory operations to determine where documentation practices are insufficient. Include a detailed corrective action and preventive action (CAPA) plan that comprehensively remediates your firm’s documentation practices to ensure you retain attributable, legible, complete, original, accurate, contemporaneous records throughout your operation.
+
+Misbranding Violations
+
+Your product, “THE HUMBLE CO. sodium fluoride 0.05% anticavity mouthwash FRESH MINT,” is a “drug” as defined by section 201(g)(1)(B) of the FD&C Act, 21 U.S.C. 321(g)(1)(B), because it is intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease, and/or under section 201(g)(1)(C) of the FD&C Act, 21 U.S.C. 321(g)(1)(C), because it is intended to affect the structure or any function of the body. Specifically, it is intended for use as an anticaries drug product.
+
+Examples of claims from the “THE HUMBLE CO. sodium fluoride 0.05% anticavity mouthwash FRESH MINT” product labeling, that provide evidence of the intended uses (as defined by 21 CFR 201.128) of this product include, but are not limited to, the following:
+
+“THE HUMBLE CO. sodium fluoride 0.05% anticavity mouthwash FRESH MINT”
+“Drug Facts…Use ■ aids in the prevention of dental cavities”
+
+The labeling for such drug, like all OTC drugs, must comply with all of the requirements of section 502 of the FD&C Act and all pertinent regulations found in Title 21 of the Code of Federal Regulations (21 CFR).
+
+However, your anticaries drug product is misbranded under section 502(f)(1) of the FD&C Act, 21 U.S.C. 352(f)(1), because the label fails to bear adequate directions for use as specified in M021.50(d)(2) of the Over-the-Counter Monograph M021: Anticaries Drug Products for Over-the-Counter Human Use.1
+
+Specifically, the directions for your product, “THE HUMBLE CO. sodium fluoride 0.05% anticavity mouthwash FRESH MINT,” direct adults and children 6 years of age and older to “Vigorously swish 10 milliliters of rinse between your teeth for 30 seconds [emphasis added] …” However, M021.50(d)(2) requires anticaries treatment rinse products to state “Vigorously swish 10 milliliters of rinse between your teeth for 1 minute [emphasis added] and then spit out…”
+
+The introduction or delivery for introduction of a misbranded drug into interstate commerce is prohibited under section 301(a) of the FD&C Act, 21 U.S.C. 331(a).
+
+Repeat Violations
+
+In a previous warning letter (#320-23-25) issued on August 3, 2023, FDA cited similar CGMP violations. You proposed specific remediation for these violations in your response. Repeated failures demonstrate that executive management oversight and control over the manufacture of drugs is inadequate.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, you should engage a consultant qualified as set forth in 21 CFR 211.34 to evaluate your operations and to assist your firm in meeting CGMP requirements if your firm intends to resume manufacturing drugs for the U.S. market. The qualified consultant should also perform a comprehensive six-system audit of your entire operation for CGMP compliance and evaluate the completion and efficacy of your CAPA before you pursue resolution of your firm’s compliance status with FDA.
+
+Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+FDA placed your firm on Import Alert 66-40 on May 8, 2023, after your response to our 704(a)(4) Request for Records sent to you on March 17, 2023, demonstrated CGMP violations related to controls for (b)(4) and (b)(4) in high-risk components used in your drugs.
+
+The inspectional findings detailed above further demonstrate your firm’s noncompliance.
+
+Your firm remains on Import Alert 66-40.
+
+Correct any violations promptly. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to any violations.
+
+Failure to address any violations may also result in the FDA continuing to refuse admission of articles manufactured at Fancystage Unipessoal, Lda in Porto, Portugal into the United States under section 801(a)(3) of the FD&C Act, 21 U.S.C. 381(a)(3). Articles under this authority that appear to be adulterated or misbranded may be detained or refused admission, in that the methods and controls used in their manufacture do not appear to conform to CGMP within the meaning of section 501(a)(2)(B) of the FD&C Act, 21 U.S.C. 351(a)(2)(B) and are misbranded under section 502 of the FD&C Act, respectively.
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov. Identify your response with FEI 3015282935 and ATTN: Frank Wackes.
+
+Sincerely,
+/S/
+
+Francis Godwin
+Director
+Office of Manufacturing Quality
+Office of Compliance
+Center for Drug Evaluation and Research
+
+CC (U.S. Agent via email):
+Registrar Corp.
+Drugs@registrarcorp.com
+
+_________________
+
+1 Section 505G(a)(1) of the FD&C Act specifies criteria under which certain nonprescription drugs without an approved application are deemed GRASE and not "new drugs", notably conformance with conditions detailed in applicable OTC monograph documents issued by FDA under 21 CFR part 330, prior to enactment of the CARES Act. In the case of OTC anticaries drug products, relevant documents were deemed under section 505G to be a final administrative order, Over-the-Counter Monograph M021: Over-the-Counter Monograph M021: Anticaries Drug Products for Over-the-Counter Human Use. (See Order ID OTC000034, available at FDA’s website OTC https://dps.fda.gov/omuf.)

@@ -1,0 +1,210 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Charles Wachsberg
+          
+
+                                
+  
+    Recipient Title
+              Chief Executive Officer
+          
+
+          
+            Apollo Health And Beauty Care, Inc.
+
+          
+                      1 Apollo Place
+North York ON M3J 0H2
+Canada
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+December 23, 2019
+
+Warning Letter 320-20-15
+
+Dear Mr. Wachsberg:
+
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Apollo Health and Beauty Care, Inc., FEI: 3003173295, at 1 Apollo Place, North York, Ontario from August 12 to August 16, 2019.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your September 03, 2019 response to our Form FDA 483 in detail. We acknowledge receipt of your subsequent correspondence. Your response is inadequate because it did not provide sufficient detail or evidence of corrective actions to bring your operations into compliance with CGMP.
+
+During our inspection, our investigator observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to routinely calibrate, inspect, or check according to a written program designed to assure proper performance and to maintain adequate written records of calibration checks and inspections of automatic, mechanical, electronic equipment, or other types of equipment, including computers, used in the manufacture, processing, packing, and holding of a drug product (21 CFR 211.68(a)).
+
+Your firm contract manufactures over-the-counter (OTC) drug products, some of which are labeled to be used for children. During a review of an out-of-specification (OOS) investigation for (b)(4) content in your bulk (b)(4) lot (b)(4), our investigator identified multiple discrepancies between the human machine interface (HMI) data, and the entries made by operators into batch records. For example, the operator recorded (b)(4) the batch during Step (b)(4) for (b)(4) at (b)(4). However, HMI data indicated that (b)(4) were not operational at that time.
+
+At the time of inspection, your quality unit acknowledged that operators do not (b)(4) the product as the batch record indicates. However, you failed to adequately investigate and resolve these discrepancies.
+
+In your response, you stated that you will randomly select batch records to compare against HMI data and will investigate any discrepancies between batch records and HMI data. Your response is inadequate. You did not commit to fully evaluate the scope of the discrepancies between HMI data and batch records or practices of operators not following batch instructions. You did not establish a root cause for these discrepancies. In addition, you did not expand the investigation to include potential records discrepancies in other operational areas or provide an assessment into distributed product. Furthermore, you did not adequately address the failure of operations management and quality unit (QU) oversight over documentation and data integrity.
+
+Your quality system does not adequately ensure the accuracy and integrity of the data to support the safety, effectiveness and quality of the drugs you manufacture. Without complete and accurate records, you cannot assure appropriate.decisions regarding batch release, product stability, and other matters that are fundamental to ongoing assurance of quality. See FDA's guidance document Data Integrity and Compliance with Drug CGMP, for guidance on establishing and following CGMP compliant data integrity practices at Data Integrity and Compliance with CGMP Guidance for Industry https://www.fda.gov/media/97005/download.
+
+In response to this letter, provide the following:
+
+• A comprehensive investigation into the extent of the inaccuracies in data records and reporting including results of the data review for drugs distributed to the United States. Include a detailed description of the scope and root causes of your data integrity lapses.
+
+• A current risk assessment of the potential effects of the observed failures on the quality of your drugs. Your assessment should include analyses of the risks to patients caused by the release of drugs affected by a lapse of data integrity and analyses of the risks posed by ongoing operations.
+
+• A management strategy for your firm that includes the details of your global corrective action and preventive action plan. The detailed corrective action plan should describe how you intend to ensure the reliability and completeness of all data generated by your firm including microbiological and analytical data, manufacturing records, and all data submitted to FDA.
+
+• A complete assessment of documentation systems used throughout your manufacturing and laboratory operations to determine where documentation practices are insufficient. Include a detailed corrective action and preventive action (CAPA) plan that comprehensively remediates your firm's documentation practices to ensure you retain attributable, legible, complete, original, accurate, contemporaneous records throughout your operation.
+
+2. Your firm failed to establish adequate written procedures for production and process control designed to assure that the drug products you manufacture have the identity, strength, quality, and purity they purport or are represented to possess. (21 CFR 211.100 (a)).
+
+Your firm failed to validate multiple processes used to manufacture your drug products. For example, your firm lacked process validation for (b)(4).
+
+This is a repeat observation that was also cited during our inspection conducted in December 2016.
+
+Additionally, your operators failed to follow batch record instructions or document deviations which may be used to investigate and assess the impact on the finished drug products.
+
+Furthermore, your firm permits a lengthy bulk hold time of (b)(4) prior to filling drug products. You failed to assure that this practice does not impact the chemical and microbiological quality of your drug products.
+
+Your response lacks specifics on your approach to perform process validation.
+
+Process validation evaluates the soundness of design and state of control of a process throughout its lifecycle. Each significant stage of a manufacturing process must be designed appropriately and assure the quality of raw material inputs, in-process materials, and finished drugs. Process qualification studies determine whether an initial state of control has been established. Successful process qualification studies are necessary before commercial distribution. Thereafter, ongoing vigilant oversight of process performance and product quality is necessary to ensure you maintain a stable manufacturing operation throughout the product lifecycle. See FDA's guidance document, Process Validation: General Principles and Practices, for general principles and approaches that FDA considers appropriate elements of process validation at http://www.fda.gov/media/71021/download.
+
+In response to this letter, provide the following:
+
+• A detailed summary of your validation program for ensuring a state of control throughout the product lifecycle, along with associated procedures.
+• A timeline for performing appropriate process performance qualification (PPQ) for each of your marketed drug products.
+• Include your process performance protocol(s), and written procedures for qualification of equipment and facilities.
+• Provide a detailed program for designing, validating, maintaining, controlling and monitoring each of your manufacturing processes that includes vigilant monitoring of intra-batch and inter-batch variation to ensure an ongoing state of control. Also, include your program for qualification of your equipment and facility.
+
+3. Your firm failed to thoroughly investigate any unexplained discrepancy or failure of a batch or any of its components to meet any of its specifications, whether the batch has already been distributed (21 CFR 211.192).
+
+Your firm failed to perform adequate investigations. For example,
+
+a. You failed to adequately investigate and document the presence of (b)(4) particles in (b)(4) Lot (b)(4). You concluded that the particles were from a broken belt on the filling line, Your corrective action was to reject approximately (b)(4) units of this lot. However, this corrective action did not expand to cover batches that were previously filled at the same line or preventative maintenance plan to prevent recurrence of similar incidents.
+
+b. You failed to conduct an adequate investigation into an OOS test result for low (b)(4) content for your (b)(4) Lot (b)(4). Your investigation stated "as per previous similar OOS on beg [sic] samples, it has been found that at the beginning of filling process, it may be affected for dilution which explain the low results." You then released the units filled after a timepoint of 13:45. You clarified during the inspection that residual water from the (b)(4) process led to rinse water contamination at the beginning of the batch, however, you could not provide a manufacturing investigation to confirm the residual water was the root cause. You lacked assurance that the released units from this batch were not contaminated, and you did expand your investigation to evaluate your (b)(4) process.
+
+In your response you indicated that you will improve your investigation process. Your response is inadequate. You did not commit to perform a retrospective review of all your drug products to ensure you are attributing root cause appropriately, reporting OOS results correctly, and implementing adequate CAPA.
+
+This is a repeat observation that was also cited during the inspection conducted in December 2016.
+
+In response to this letter, provide the following:
+
+• A comprehensive, independent assessment of your overall system for investigating deviations, discrepancies, complaints, OOS results, and failures. Provide a detailed action plan to remediate this system. Your action plan should include, but not be limited to, significant improvements in investigation competencies, scope determination, root cause evaluation, CAPA effectiveness, quality assurance oversight, and written procedures. Address how your firm will ensure all phases of investigations are appropriately conducted.
+• An independent assessment and remediation plan for your CAPA program. Provide a report that evaluates if it includes staff with proper investigation competencies, effectively conducts root cause analysis, assures CAPA effectiveness, regularly reviews investigations trends, implements improvements to the CAPA program when needed, ensures appropriate quality assurance decision rights, and is fully supported by executive management.
+• A comprehensive assessment and remediation plan to ensure your QU is given the authority and resources to effectively function. The assessment should also include, but not be limited to:
+
+o A determination of whether procedures used by your firm are robust and appropriate
+o Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices
+o A complete and final review of each batch and its related information before the QU disposition decision
+o Oversight and approval of investigations and discharging of all other QU duties to ensure identity, strength, quality, and purity of all products. Also describe how top management supports quality assurance and reliable operations, including but not limited to timely provision of resources to proactively address emerging manufacturing/quality issues and to assure a continuing state of control.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements if your firm intends to resume manufacturing drugs for the U.S. market. We also recommend that the qualified consultant perform a comprehensive audit of your entire operation for CGMP compliance and that the consultant evaluates the completion and efficacy of your corrective actions and preventive actions before you pursue resolution of your firm 's compliance status with FDA.
+
+Your use of a consultant does not relieve your firm's obligation to comply with CGMP. Your firm 's executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the·causes of these violations and for preventing their recurrence or the occurrence of other violations.
+
+If you are considering an action that is likely to lead to a disruption in the supply of drugs produced at your facility, FDA requests that you contact CDER's Drug Shortages Staff immediately, at drugshortages@fda.hhs.gov, so that FDA can work with you on the most effective way to bring your operations into compliance with the law. Contacting the Drug Shortages Staff also allows you to meet any obligations you may have to report discontinuances or interruptions in your drug manufacture under 21 U.S.C. 356C(b). This also allows FDA to consider, as soon as possible, what actions, if any, may be needed to avoid shortages and protect the health of patients who depend on your products.
+
+FDA placed your firm on Import Alert 66-40 on December 16, 2019.
+
+Until you correct all violations completely and we confirm your compliance with CGMP, FDA may withhold approval of any new drug applications or supplements listing your firm as a drug manufacturer. ·
+
+Failure to correct these violations may also result in the FDA continuing to refuse admission of articles manufactured at Apollo Health and Beauty Care, lnc., at 1 Apollo Place, North York, Ontario into the United States under section 801(a)(3) of the FD&C Act, 21 U.S.C. 381(a)(3). Articles under this authority may be subject to refusal of admission, in that the methods and controls used in their manufacture do not appear to conform to CGMP within the meaning of section 501 (a)(2)(B) of the FD&C Act, 21 U.S.C. 351 (a)(2)(B).
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov or mail your reply to:
+
+Deyaa Shaheen
+Compliance Officer
+U.S. Food and Drug Administration
+White Oak Building 51, Room 4235
+10903 New Hampshire A venue
+Silver Spring, MD 20993
+USA
+
+Please identify your response with FEI 3003173295.
+
+Sincerely,
+/S/
+
+Franic Godwin
+Director
+Office of Manufacturing Quality
+Office of Compliance
+Center for Drug Evaluation and Research

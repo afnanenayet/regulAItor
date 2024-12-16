@@ -1,0 +1,250 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+              Reference #: 
+        320-25-06
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Sudhir Shah
+          
+
+                                
+  
+    Recipient Title
+              President
+          
+
+          
+            Choice All Natural, Inc. dba Om Botanical 
+
+          
+                      1019 Classic Road
+Apex, NC 27539-4402
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research (CDER)
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+October 21, 2024
+
+Warning Letter 320-25-06
+
+Dear Mr. Shah:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Choice All Natural, Inc. dba Om Botanicals, Inc., FEI 3015097434, at 1019 Classic Road, Apex, from January 17 to February 26, 2024.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).  
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).  
+
+In addition, your “Om Botanical Rash & Itch Cream” drug product is an unapproved new drug introduced or delivered for introduction into interstate commerce in violation of sections 505(a) and 301(d) of the FD&C Act, 21 U.S.C. 355(a), 331(d). This product is also misbranded under section 502(ee) of the FD&C Act, 21 U.S.C. 352(ee). Introduction or delivery for introduction of misbranded products into interstate commerce is prohibited under section 301(a) of the FD&C Act, 21 U.S.C. 331(a). These violations are described in more detail below.
+
+In addition, Choice All Natural, Inc. dba OM Botanical (FEI: 3015097434) is not duly registered with FDA as required by section 510 of the FD&C Act and 21 CFR Part 207. In addition, Om Botanical Rash & Itch, Om Botanical Acne Treatment, Om Botanical Eczema & Psoriasis Relief, Om Botanical Pain Relief, and Om Botanical Reef Safe Sunscreen SPF 30 are not listed with FDA as required by section 510(j) of the FD&C Act.  
+
+Failure to register in accordance with section 510 of the FD&C Act and failure to provide listing information in accordance with 510(j) of the FD&C Act are prohibited under section 301(p) of the FD&C Act, 21 U.S.C. 331(p), and will render a drug misbranded under section 502(o) of the FD&C Act, 21 U.S.C. 352(o). The introduction or delivery for introduction of a misbranded drug into interstate commerce is prohibited under section 301(a) of the FD&C Act, 21 U.S.C. 331(a). These violations are described in more detail below.
+
+We acknowledge receipt of your response and subsequent correspondence to our Form FDA 483.
+
+CGMP Violations
+
+During our inspection, our investigator observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to maintain the buildings used in the manufacture, processing, packing, or holding of a drug product in a clean and sanitary condition and to keep them free of infestation by rodents, birds, insects, and other vermin (21 CFR 211.56(a)).
+
+Your firm manufactures over-the-counter (OTC) topical drug products. Our investigator observed pest activity in your raw material storage area, and evidence of water leaks and missing ceiling tiles in your drug manufacturing area. In addition, our investigator observed that your quality control (QC) laboratory was used by employees for meal preparation, dishwashing, and storage of soiled employee garments.  
+
+In your response, you state that you are “[s]cheduling periodic pest control” and that you cleaned the areas observed by our investigator. Your response is inadequate because you did not provide sufficient details of your planned pest control services and how you will ensure that your drug manufacturing areas are free from pests and vermin. You also did not commit to discontinue all non-CGMP activities in your QC laboratory, and that all drug manufacturing areas will only be used for CGMP activities. Further, you did not consider a risk assessment of components stored, and drug products manufactured, in these respective areas.  
+
+In response to this letter, provide:  
+
+
+	Your corrective action and preventive action (CAPA) plan to implement routine, vigilant operations management oversight of facilities and equipment. This plan should ensure, among other things, prompt detection of equipment/facilities performance issues, effective execution of repairs, adherence to appropriate preventive maintenance schedules, timely technological upgrades to the equipment/facility infrastructure, and improved systems for ongoing management review.
+	Detailed procedures that demonstrate your firm can maintain buildings free from pests and that they remain in a clean and sanitary state.
+	Your risk assessment for all drug products distributed to the U.S. market and within expiry that used raw materials potentially contaminated with insects or other vermin.
+
+
+2. Your firm failed to have, for each batch of drug product, appropriate laboratory determination of satisfactory conformance to final specifications for the drug product, including the identity and strength of each active ingredient, prior to release. Your firm also failed to conduct, for each batch of drug product, appropriate laboratory testing, as necessary, required to be free of objectionable microorganisms (21 CFR 211.165(a) and 211.165(b)).
+
+Your firm failed to adequately test your drug products, including the identity and strength of each active ingredient, and testing for objectionable microorganisms, prior to release and distribution into the U.S. market.  
+
+In your response, you state that you will conduct, through a contract testing laboratory, microbial testing, and preservative challenge testing. Your response is inadequate because you did not commit to testing for identity and strength of each active ingredient in your finished drug products. You also did not provide sufficient details regarding the specific tests to be performed for each finished drug product, and the analytical methods to be used.
+
+Full release testing, including for identity, strength, and purity, must be performed prior to batch release and distribution. Without adequate finished product release testing, you do not have scientific evidence that each batch of drug product conforms to appropriate specifications before release.
+
+On August 22, 2024, FDA notified you of FDA testing results for a sample of your OM BOTANICAL Rash & Itch drug product that was collected during the inspection. We requested additional information including an investigation into all batches with potential contamination including but not limited to Candida parapsilosis for the past two years, and microbial testing results from a reserve sample of lot 2025113. Your September 21, 2024 response did not include results of an investigation into potentially contaminated drug product batches.
+
+In response to this letter, provide:
+
+
+	A comprehensive assessment of your laboratory practices, procedures, methods, equipment, documentation, and analyst competencies. Based on this review, provide a detailed plan to remediate and evaluate the effectiveness of your laboratory system.
+	A list of chemical and microbial test methods and specifications used to analyze each batch of your drug product before making a batch disposition decision, and the associated written procedures.
+	An investigation into all batches of drug products with potential microbial contamination including but not limited to Candida parapsilosis for the past two years. The investigation should detail your findings regarding the root causes of the contamination.
+
+
+3. Your firm failed to assure that the drug product bore an expiration date that was supported by appropriate stability testing (21 CFR 211.137(a)).
+
+You failed to establish and maintain an ongoing stability testing program to support the labeled expiry on your distributed drug products. There is no assurance that your drug products will remain acceptable throughout their labeled expiry period without an ongoing stability program.
+
+In your response, you state that you are in the process of procuring a contract testing laboratory to perform stability testing. Your response is inadequate because you did not provide a timeline for implementing adequate stability testing or consider a risk assessment for distributed drug products that lack stability testing data.
+
+In response to this letter, provide:
+
+
+	A comprehensive assessment and CAPA plan to ensure the adequacy of your stability program. Your remediated program should include, but not be limited to:
+
+
+o Stability-indicating methods.
+
+o Stability studies for each drug product in its marketed container-closure system before distribution is permitted.
+
+o An ongoing program in which representative batches of each product are added each year to the program to determine if the shelf-life claim remains valid.
+
+o Detailed definition of the specific attributes to be tested at each station (timepoint).
+
+
+	All procedures that describe these and other elements of your remediated stability program.
+
+
+Unapproved New Drug Violations
+
+“Om Botanical Rash & Itch Cream” is a “drug” as defined by section 201(g)(1)(B) of the FD&C Act, 21 U.S.C. 321(g)(1)(B) because it is intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease, and/or under section 201(g)(1)(C) of the FD&C Act, 21 U.S.C. 321(g)(1)(C) because it is intended to affect the structure or any function of the body.  Examples from the product labeling that provide evidence of the intended uses (as defined by 21 CFR 201.128) of this product include, but may not be limited to, the following:
+
+“Om Botanical Rash & Itch Cream”  
+
+“This topical cream soothes inflamed, irritated, and itching skin...Great for poison ivy and bug bites. Safe enough for diaper rashes…Uses…Temporarily protects and helps relieve minor skin irritation and itching due to ∙ minor cuts ∙ minor scrapes ∙ rashes ∙ poison ivy, oak, or sumac…Helps treat and prevent diaper rash.” [from your product carton labeling]  
+
+Based on the above labeling evidence, “Om Botanical Rash & Itch Cream” is intended for use as a skin protectant drug product. As described below, this drug product is an unapproved new drug marketed in violation of sections 505(a) and 301(d) of the FD&C Act, 21 U.S.C 355(a) and 331(d).  
+
+A drug product is a “new drug” within the meaning of section 201(p) of the FD&C Act, 21 U.S.C. 321(p) if it is not generally recognized as safe and effective (GRASE) for use under the conditions prescribed, recommended, or suggested in its labeling. With certain exceptions not applicable here, a new drug may not be introduced or delivered for introduction into interstate commerce without an approved application from FDA in effect, as described in section 505(a) of the FD&C Act, 21 U.S.C. 355(a). No FDA-approved application pursuant to section 505 of the FD&C Act, 21 U.S.C. 355, is in effect for this drug product identified above.
+
+Under section 505G of the FD&C Act, certain nonprescription drugs marketed without an approved application —commonly referred to as “over-the-counter (OTC) monograph drugs”— may be legally marketed if they meet applicable requirements. With respect to nonprescription skin protectant drug products, such as your “Om Botanical Rash & Itch Cream” drug product, in order to be GRASE and not a new drug, the product must, among other things, conform to the conditions in the applicable OTC monograph(s), here, “Over-the-Counter Monograph M016: Skin Protectant Drug Products for Over-the-Counter Human Use” (“M016”).1 However, your “Om Botanical Rash & Itch Cream” drug product does not conform to the conditions specified in M016 for the reasons described below.
+
+As formulated, your “Om Botanical Rash & Itch Cream” drug product does not comply with the applicable monograph. Specifically, the combination of active ingredients does not conform with the requirements for the lawful marketing of a nonprescription skin protectant drug product under the final monograph. While each of the active ingredients identified in the product labeling-- Zinc Oxide 5.0 %, Witch Hazel 5.0 %, and Colloidal Oatmeal 3.0 %-- is allowed as an active ingredient in a skin protectant product, the combination of these three active ingredients is not permitted under M016.20(a).
+
+Thus, your “Om Botanical Rash & Itch Cream” drug product does not comply with the applicable conditions specified in M016 and not otherwise been found GRASE.2 Accordingly, this product is a new drug within the meaning of section 201(p) of the FD&C Act, 21 U.S.C. 321(p), and there is no basis under section 505G of the FD&C Act under which this product would be legally marketed without an approved application. Because there are no approved applications in effect for this product, this product is an unapproved new drug.
+
+The introduction or delivery for introduction of this unapproved new drug product into interstate commerce violates sections 505(a) and 301(d) of the FD&C Act, 21 U.S.C. 355(a) and 331(d).
+
+Misbranded Drug Violations
+
+In addition, your “Om Botanical Rash & Itch Cream” drug product is misbranded under section 502(ee) of the FD&C Act, 21 U.S.C. 352(ee), because this product is a nonprescription drug subject to section 505G of the FD&C Act, 21 U.S.C. 355h, but does not comply with the requirements for marketing under that section, and is not the subject of an application approved under section 505 of the FD&C Act, 21 U.S.C. 355.
+
+The introduction or delivery for introduction of a misbranded drug into interstate violates section 301(a) of the FD&C Act, 21 U.S.C. 331(a).
+
+Establishment Registration and Drug Listing Violations
+
+Choice All Natural, Inc. dba OM Botanical manufactures drug products as detailed in an FDA inspection conducted during January 17 – February 26, 2024. Under section 510(b) of the FD&C Act, 21 U.S.C. 360(b), and 21 CFR 207.17(a), all manufacturers must register each domestic establishment. Additionally, under 21 CFR 207.29, firms must review and update their registration information annually or certify that there are no changes.  
+
+Choice All Natural, Inc. dba OM Botanical (FEI: 3015097434) has not fulfilled its establishment registration obligations and its registration expired on December 31, 2021. As Choice All Natural, Inc. dba OM Botanical (FEI: 3015097434) has continued manufacturing and distributing drugs beyond December 31, 2021, it is required to submit registration information annually by electronic means for each establishment it owns or operates that is engaged in the manufacture, preparation, propagation, compounding, or processing of a drug that is in commercial distribution in the United States. As a result, all drugs manufactured in this establishment, including but not limited to Om Botanical Rash & Itch, Om Botanical Acne Treatment, Om Botanical Eczema & Psoriasis Relief, Om Botanical Pain Relief, and Om Botanical Reef Safe Sunscreen SPF 30 are misbranded under Section 502(o) of the FD&C Act, 21 U.S.C. 352(o).  
+
+In addition, every person who is required to register must, at the time of initial registration, list all drugs manufactured, prepared, propagated, compounded, or processed for commercial distribution under section 510(j)(1) of the FD&C Act, 21 U.S.C. 360(j)(1). Om Botanical Rash & Itch, Om Botanical Acne Treatment, Om Botanical Eczema & Psoriasis Relief, Om Botanical Pain Relief, and Om Botanical Reef Safe Sunscreen SPF 30 are not duly listed with FDA but remain in U.S. commercial distribution.  
+
+In accordance with section 510(j)(2) of the FD&C Act, 21 U.S.C. section 360(j)(2), and 21 CFR 207.57(b), registrants are required to submit updated drug listing information to FDA twice each year, in June and December, notifying FDA if this information has changed. Under 21 CFR 207.57(b)(2) registrants may satisfy the listing update requirement with respect to unchanged listing information by making a single no change certification during the October 1st through December 31st annual registration period. If the drug listing data is not updated or certified through the no change certification, the product’s status becomes uncertified, and the listing data will get inactivated at the next scheduled FDA inactivation period (see 84 FR 404173).  
+
+Failure to register in accordance with section 510 of the FD&C Act and failure to provide listing information in accordance with 510(j) of the FD&C Act are prohibited under section 301(p) of the FD&C Act, 21 U.S.C. 331(p), and will render a drug misbranded under section 502(o) of the FD&C Act, 21 U.S.C. 352(o). The introduction or delivery for introduction of a misbranded drug into interstate commerce is prohibited under section 301(a) of the FD&C Act, 21 U.S.C. 331(a).
+
+It is your responsibility to ensure that your establishment remains registered if you are manufacturing drug product for U.S. commercial distribution and all products manufactured at your establishments comply with all registration and listing requirements under section 510 of the FD&C Act, 21 U.S.C. 360, and 21 CFR Part 207 of FDA regulations. Registration and listing information and instructions on how to properly register an establishment or submit drug listings can be found at Electronic Drug Registration and Listing Instructions.  
+
+Cosmetics Manufactured for Distribution in the United States
+
+In addition, we note that some of the products you manufacture may be regulated as cosmetics, as defined in section 201(i) of the FD&C Act. A cosmetic is deemed adulterated under section 601(c) of the FD&C Act [21 U.S.C. 361(c)] if it has been prepared, packed, or held under insanitary conditions whereby it may have become contaminated with filth, or whereby it may have been rendered injurious to health. Some of the conditions that cause the drug products you manufacture to be adulterated may also cause any cosmetic products you manufacture to be adulterated. Under section 301(a) of the FD&C Act [21 U.S.C. 331(a)], it is a prohibited act to introduce or deliver for introduction into interstate commerce a cosmetic that is adulterated.  
+
+Any cosmetics you manufacture must comply with applicable statutory and regulatory requirements, including the FD&C Act. Further, your facility may be subject to requirements of the Modernization of Cosmetic Regulations Act of 2022 (MoCRA). Information on MoCRA requirements may be found at https://www.fda.gov/cosmetics/cosmetics-lawsregulations/modernization-cosmetics-regulation-act-2022-mocra.  
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, you should engage a consultant qualified as set forth in 21 CFR 211.34 to evaluate your operations and to assist your firm in meeting CGMP requirements. The qualified consultant should also perform a comprehensive six-system audit of your entire operation for CGMP compliance and evaluate the completion and efficacy of your CAPA before you pursue resolution of your firm’s compliance status with FDA. See FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations at https://www.fda.gov/media/71023/download.
+
+Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.  
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.  
+
+Correct any violations promptly. Failure to promptly and adequately address this matter may result in regulatory or legal action without further notice including, without limitation, seizure and injunction. Unresolved violations may also prevent other Federal agencies from awarding contracts.  
+
+Failure to address violations may also cause FDA to withhold issuance of Export Certificates. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to address any violations.  
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.  
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov. Identify your response with FEI 301509434 and ATTN: Joel Hustedt.        
+
+Sincerely,
+/S/      
+Francis Godwin      
+Director      
+Office of Manufacturing Quality      
+Office of Compliance      
+Center for Drug Evaluation and Research
+
+____________________
+
+1 M016 reflects the conditions as set forth in the relevant final order established and in effect under section 505G. (See Order ID OTC000005, available at FDA’s website OTC Monographs@FDA, https://dps.fda.gov/omuf.)
+
+2 FDA is not aware of any adequate and well-controlled clinical trials in the published literature that support a determination that “Om Botanical Rash & Itch Cream” drug product is GRASE for use under the conditions prescribed, recommended, or suggested in its labeling, nor has FDA determined this drug product to be GRASE pursuant to an order issued under section 505G(b).
+
+3 https://www.regulations.gov/document/FDA-2019-N-2374-0001

@@ -1,0 +1,247 @@
+Delivery Method: 
+        VIA EMAIL CONFIRMED DELIVERY
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Chad M. Thayer
+          
+
+                                
+  
+    Recipient Title
+              Chief Operating Officer
+          
+
+          
+            Episciences Inc.
+
+          
+                      10211 West Emerald Street
+Boise, ID 83704-8987
+United States
+          
+          
+            
+            
+
+     (b)(4)
+
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+           Division of Pharmaceutical Quality Operations IV
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+WARNING LETTER
+
+August 25, 2022
+
+Dear Mr. Thayer:
+
+The U.S. Food and Drug Administration inspected your drug manufacturing facility, Episciences Inc., FEI 3006435842, at 10211 West Emerald Street, Boise, from March 7 to 11, 2022.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your March 17, 2022, response to our Form FDA 483 in detail.
+
+During our inspection, our investigator observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to thoroughly investigate any unexplained discrepancy or failure of a batch or any of its components to meet any of its specifications, whether the batch has already been distributed (21 CFR 211.192).
+
+Your investigations into out-of-specification (OOS) laboratory results are inadequate because they do not include scientifically supported conclusions and lack corrective actions and preventive actions (CAPA). For example:
+
+A. Your investigation into bulk drug product assay OOS result of active ingredient zinc oxide reported by your contract testing laboratory for “(b)(4)” Sunscreen, Lot # (b)(4), was inadequate. You determined the root cause to be sampling error and attributed it to a non-homogenous blending sample collected from the “top of the mixer scrapings.” The bulk batch was subsequently resampled, retested for assay, and released after obtaining passing results. Your investigation lacked hypothesis testing and adequate evidence to identify the root cause and you did not document whether other batches and drug products manufactured in your facility were affected. In addition, your investigation failed to address the non-homogeneity of your products based on where test samples are collected.
+
+B. Your investigation into OOS bulk test results for appearance and viscosity for “Purifying Wash,” Lot #s 21A044, 21A045, 21A046, and 21A085, reported by your contract testing laboratory was inadequate. You failed to adequately determine the root cause for these failures. Instead, you inspected sample tubes from each lot for appearance, retested only one of the four lots for assay and subsequently released all four lots on the basis of this limited testing.
+
+You failed to identify appropriate CAPA for these investigations to prevent recurrence of such events. There is no assurance that all batches produced under inadequate conditions have been thoroughly evaluated, and that your firm has identified all significant variables associated with your manufacturing process.
+
+Moreover, your standard operating procedure (SOP) titled “Out of Specification Investigations,” states that batches may be released with OOS results at the discretion of the Quality Assurance (QA) manager.
+
+For more information about handling failing, OOS, out-of-trend, or other unexpected results and documentation of your investigations, see FDA’s guidance document, Investigating Out-of-Specification (OOS) Test Results for Pharmaceutical Production at: https://www.fda.gov/media/158416/download.
+
+In your response, you stated that you revised your OOS investigation SOP to include elements of FDA’s guidance. Your response is inadequate because it provided no assurance that these discrepancies were fully investigated and corrected. There is also no assurance that you conducted a comprehensive investigation into your manufacturing operation (e.g., equipment design, process capability) and that other potentially affected batches or products were evaluated. Furthermore, you failed to perform a risk assessment for the drug products released with inadequate OOS investigations.
+
+In response to this letter, provide the following:
+
+
+	A retrospective, independent review of all invalidated OOS including in-process and release/stability testing results for US products for the last three years from the initial date of inspection and a report summarizing the findings of the analysis, including the following for each OOS:
+
+
+    ο Determine whether the scientific justification and evidence relating to the invalidated OOS result conclusively or inconclusively demonstrates causative laboratory error.
+    ο For investigations that conclusively establish laboratory root cause, provide rationale and ensure that all other laboratory methods vulnerable to the same or similar root cause are identified for remediation.
+    ο For all OOS results found by the retrospective review to have an inconclusive or no root cause identified in the laboratory, include a thorough review of production (e.g., batch manufacturing records, adequacy of the manufacturing steps, suitability of equipment/facilities, variability of raw materials, process capability, deviation history, complaint history, batch failure history). Provide a summary of potential manufacturing root causes for each investigation, and any manufacturing operation improvements.
+
+
+	A comprehensive review and remediation plan for your OOS result investigation systems. The CAPA should include but not be limited to addressing the following:
+
+
+    ο Quality unit oversight of laboratory investigations
+    ο Identification of adverse laboratory control trends
+    ο Resolution of causes of laboratory variation
+    ο Initiation of thorough investigations of potential manufacturing causes whenever a laboratory cause cannot be conclusively identified
+    ο Adequately scoping of each investigation and its CAPA
+    ο Revised OOS investigation procedures with these and other remediations
+
+
+	A risk assessment for the products released to market with inadequate OOS investigations, for all batches that are within expiry.
+
+
+2. Your firm failed to establish adequate written procedures for production and process control designed to assure that the drug products you manufacture have the identity, strength, quality, and purity they purport or are represented to possess, and to follow all of your written production and process control procedures (21 CFR 211.100(a) & 211.100(b)).
+
+You failed to adequately validate the drug manufacturing processes for your Over-the-Counter (OTC) drug products. For example:
+
+Your records from the last two years showed (b)(4) lots of “Purifying Wash” were OOS for appearance and (b)(4) lots were OOS for viscosity, which affirms the inconsistent performance of your inadequately validated process.
+
+You did not follow your validation procedure, which identifies critical quality attributes such as pH, viscosity, micelle size, color, odor, appearance, and Active Pharmaceutical Ingredient (API) concentration. Specifically, the Process Validation Report PV02.002R001 for “Epionce Purifying Wash Blemish Tx” included only API concentration and microbiology test results but did not include results for any other critical quality attributes. Your validation report lacks demonstration of homogeneity across batches, which could be impacted by other critical quality attributes and influential factors, including but not limited to, mixing speeds and times. However, a meaningful evaluation of these critical control parameters was not included in your validation report.
+
+Your firm lacks an adequate process validation program. Process validation evaluates the soundness of design and state of control of a process throughout its lifecycle. Each significant stage of a manufacturing process must be designed appropriately and assure the quality of raw material inputs, in-process materials, and finished drugs. Process qualification studies determine whether an initial state of control has been established. Successful process qualification studies are necessary before commercial distribution. Thereafter, ongoing vigilant oversight of process performance and product quality is necessary to ensure you maintain a stable manufacturing operation throughout the product lifecycle.
+
+Without adequate process validation, incorporating all manufacturing inputs and parameters that can affect product quality, your firm lacks basic assurance that you can reproducibly deliver products that meet specifications.
+
+See FDA’s guidance document Process Validation: General Principles and Practices for general principles and approaches that FDA considers appropriate elements of process validation at: https://www.fda.gov/media/71021/download
+
+In your response you acknowledged the violation, revised the SOP titled “Validation Procedure,” to include performance parameters, and committed to revalidate manufacturing processes for all your drug products in accord with the FDA guidance document.
+
+Your response is inadequate because you did not perform a risk assessment and provide a mitigation plan for the drug products you produced and distributed using inadequately validated processes.
+
+In response to this letter, provide the following:
+
+
+	A detailed summary of your validation program for ensuring a state of control throughout the product lifecycle, along with associated procedures. Describe your program for process performance qualification, and ongoing monitoring of both intra-batch and inter-batch variation to ensure a continuing state of control.
+	A timeline for performing appropriate process performance qualification (PPQ) for each of your marketed drug products.
+	Include your process performance protocols, and written procedures for qualification of equipment and facilities.
+	Provide a detailed program for designing, validating, maintaining, controlling, and monitoring each of your manufacturing processes that includes vigilant monitoring of intra-batch and inter-batch variation to ensure an ongoing state of control. Also, include your program for qualification of your equipment and facility.
+	A risk assessment for the distributed drug product produced using inadequately validated process.
+
+
+3. Your firm failed to perform, for each batch of drug product, appropriate laboratory determination of satisfactory conformance to final specifications for the drug product, including the identity and strength of each active ingredient, prior to release, and for each batch of drug product required to be free of objectionable microorganisms, appropriate laboratory testing, as necessary (21 CFR 211.165(a) & 211.165(b)).
+
+You failed to perform adequate release testing for each batch of your drug products prior to their distribution. During the inspection, you stated that finished product assay and microbiological release testing is performed only on batches that are placed on stability studies. In the last two years you manufactured and released approximately (b)(4) batches of “Purifying Wash”, and approximately (b)(4) batches of “Daily Shield Tinted SPF 50”. However, you conducted full testing only for approximately (b)(4) batches of each product that were placed on stability studies.
+
+In your Process Validation Report PV02.001R001 for “(b)(4)” and Report PV02.002R001 for “Purifying Wash Blemish Tx,” you concluded that "Active ingredient indicates consistency enough to justify specification change from release test to one lot per quarter stability test." Also, your SOP titled “QA Finished Product Testing for Release,” requires (b)(4), but only for certain products. Your failure to perform microbiological testing on each lot of finished drug product is a repeat observation from the FDA inspection conducted in 2017.
+
+Drug product batches must be tested for identity, strength, quality, and purity prior to release. Testing is an essential part of ensuring that the drug products you manufacture conform to all pre-determined quality attributes and are appropriate for their intended use, including microbiological specifications. Without adequate testing, you lack basic data to support that each drug product batch conforms to appropriate specifications before release.
+
+We acknowledge that you updated SOPs requiring assay and microbiological release testing for each batch of your finished drug products, and you plan to perform the assay and microbiological testing on retain samples of previously released drug product batches that were still within expiry.
+
+In response to this letter, provide the following:
+
+
+	A list of chemical and microbial specifications, including test methods, used to analyze each batch of your drug products before a batch disposition decision.
+	An action plan and timelines for conducting full chemical and microbiological testing of retain samples to determine the quality of all batches of drug product distributed to the United States that are within expiry as of the date of this letter.
+	A summary of all results obtained from testing retain samples from each batch. If such testing reveals substandard quality drug products, take rapid corrective actions, such as notifying customers and product recalls.
+	A comprehensive, independent assessment of your laboratory practices, procedures, methods, equipment, documentation, and analyst competencies. Based on this review, provide a detailed plan to remediate and evaluate the effectiveness of your laboratory system.
+
+
+4. Your firm failed to conduct at least one test to verify the identity of each component of a drug product. Your firm also failed to validate and establish the reliability of your component supplier’s test analyses at appropriate intervals (21 CFR 211.84(d)(1) & 211.84(d)(2)).
+
+You did not perform identity testing on each component lot prior to use in manufacture of your drug product. Several API lots were released into production without performing adequate acceptance testing, including identity.
+
+In addition, you have not adequately established the reliability of your raw material suppliers, including your API suppliers. During the inspection you acknowledged that you have not qualified your suppliers.
+
+In your response you state that you revised your SOP to include identity testing for API and plan to test retain samples of previously released lots of components. You revised the SOP to require full testing of one random lot of API annually.
+
+Your response is inadequate because you do not provide a detailed plan to establish supplier reliability. Random lot testing alone is not sufficient to establish supplier reliability.
+
+In response to this letter, provide the following:
+
+
+	The chemical and microbiological quality control specifications you use to test and release each incoming lot of components for use in manufacturing.
+	A description of how you will test each component lot for conformity with all appropriate specifications for identity, strength, quality, and purity. If you intend to accept any results from your supplier’s Certificate of Analysis (COA) instead of testing each component lot for strength, quality, and purity, specify how you will robustly establish the reliability of your supplier’s results through initial validation as well as periodic re-validation. In addition, include a commitment to always conduct at least one specific identity test for each incoming component lot.
+	A summary of results obtained from testing all components to evaluate the reliability of the COA from each component manufacturer. Include your SOP that describes this COA validation program.
+	A summary of your program for qualifying and overseeing contract facilities that test the drug products you manufacture.
+	A risk assessment of components released without testing for purity, strength and quality, and used in manufacturing.
+
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements. Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+Correct any violations promptly. Failure to promptly and adequately address this matter may result in regulatory or legal action without further notice including, without limitation, seizure and injunction. Unresolved violations may also prevent other Federal agencies from awarding contracts.
+
+Failure to address violations may also cause FDA to withhold issuance of Export Certificates. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to address any violations.
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Your response should refer to unique identifier CMS 631902 and be sent electronically to ORAPHARM4_Responses@fda.hhs.gov or mailed to:
+
+CDR Steven E. Porter, Jr.
+Director, Division of Pharmaceutical Quality Operations IV
+U.S. Food and Drug Administration
+19701 Fairchild Road
+Irvine, CA 92612
+
+If you have any questions regarding this letter, please contact Jamie Dion, Compliance Officer, at 303-236-3133 or by email at Jamie.Dion@fda.hhs.gov.
+
+Sincerely,
+/S/
+
+CDR Steven E. Porter
+Director, Division of Pharmaceutical Quality Operations IV

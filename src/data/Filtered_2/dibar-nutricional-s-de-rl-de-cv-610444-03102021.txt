@@ -1,0 +1,202 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+              Reference #: 
+        320-21-33
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. José Antonio Díaz Barriga Ahued
+          
+
+                                
+  
+    Recipient Title
+              President & CEO
+          
+
+          
+            Dibar Nutricional S. de R.L. de C.V.
+
+          
+                      Eucalipto No. 20, Col. Puerto de Buenavista
+58302 Morelia, Mich.
+Mexico
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter 320-21-33
+
+March 10, 2021
+
+Dear Mr. Ahued:
+
+Your facility is registered with the United States Food and Drug Administration (FDA) as a manufacturer of over-the-counter (OTC) drug products. FDA has reviewed the records you submitted in response to our April 22, 2020, request for records and other information pursuant to section 704(a)(4) of the Federal Food, Drug, and Cosmetic Act (FD&C Act) for your facility, Dibar Nutricional S. de R.L. de C.V, FEI 3012040386, Eucalipto No. 20, Col. Puerto de Buenavista, Morelia, Michoacán.
+
+This warning letter summarizes significant violations of current good manufacturing practices (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act) (21 U.S.C. 351(a)(2)(B)).
+
+1. Your firm failed to conduct at least one test to verify the identity of each component of a drug product (21 CFR 211.84(d)(1)).
+
+In response to multiple requests for records pertaining to identity testing of incoming component ingredients, your firm did not demonstrate adequate testing of the identity of incoming components used in the manufacture of your drug products before release and distribution to the United States. For example, we requested details about your raw material identity testing for each lot of each component, and you stated in your response identity testing of active ingredients consists of evaluating a batch or group of suppliers by collecting random samples. You also stated that your quality department conducts identification tests based on a sensory evaluation.
+
+In response to this letter, provide the following:
+
+• The chemical and microbiological quality control specifications you use to test and release each incoming lot of component for use in manufacturing.
+
+• A description of how you will test each component lot for conformity with all appropriate specifications for identity, strength, quality, and purity. If you intend to accept any results from your supplier’s Certificates of Analysis (COA) instead of testing each component lot for strength, quality, and purity, specify how you will robustly establish the reliability of your supplier’s results through initial validation as well as periodic re-validation. In addition, include a commitment to always conduct at least one specific identity test for each incoming component lot.
+
+• A summary of results obtained from testing all components to evaluate the reliability of the COA from each component manufacturer. Include your SOP that describes this COA validation program.
+
+• A summary of your program for qualifying and overseeing contract facilities that test the drug products you manufacture.
+
+• A comprehensive, independent review of your material system to determine whether all suppliers of components, containers, and closures, are each qualified and the materials are assigned appropriate expiration or retest dates. The review should also determine whether incoming material controls are adequate to prevent use of unsuitable components, containers, and closures.
+
+2. Your firm failed to perform, for each batch of drug product, appropriate laboratory determination of satisfactory conformance to final specifications for the drug product, including the identity and strength of each active ingredient, prior to release (21 CFR 211.165(a)).
+
+A review of import records indicates your firm has distributed over (b)(4) lots of OTC drug products, including (b)(4), to the United States. Your firm did not adequately test your finished OTC drug products before release. For example, we asked you for the (b)(4) most recent lots shipped and your response stated that you do not issue COAs to your customers but that you conduct stability testing on your product after release. The records you provided in your 704(a)(4) response indicated that you have not conducted any release testing. Full release testing including strength and identity testing of the active ingredient must be performed prior to drug release and distribution.
+
+In response to this letter, provide the following:
+
+• A list of chemical and microbial specifications, including test methods, used to analyze each lot of your drug products before a lot disposition decision:
+    o An action plan and timelines for conducting full chemical and microbiological testing of retain samples to determine the quality of all batches of drug product distributed to the United States that are within expiry as of the date of this letter
+    o A summary of all results obtained from testing retain samples from each batch. If such testing reveals substandard quality drug products, take rapid corrective actions, such as notifying customers and product recalls
+
+• A comprehensive, independent assessment of your laboratory practices, procedures, methods, equipment, documentation, and analyst competencies. Based on this review, provide a detailed plan to remediate and evaluate the effectiveness of your laboratory system.
+
+• A list of all raw materials used to manufacture all of your (b)(4) drug products, including the suppliers’ names, addresses, and contact information.
+
+• A list of all batches of any (b)(4) drug products shipped to the United States by your firm, and a full reconciliation of all material you distributed.
+
+• Copies of the complete batch records for all batches distributed to the United States.
+
+• (b)(4) test results for all (b)(4) batches shipped to the United States.
+
+3. Your firm failed to establish and follow an adequate written testing program designed to assess the stability characteristics of drug products (21 CFR 211.166(a)).
+
+Your response to our records request indicates that your firm lacked an adequate stability testing program to show that the chemical properties of your drug products are acceptable throughout the claimed (labeled) expiry period of (b)(4). For example, we requested details about your stability program, including a list of all stability studies, and you responded with the shelf life stability results for only your (b)(4) drug product, (b)(4) batch (b)(4). The records you provided in your 704(a)(4) response indicated that samples are not held or tested in the same container-closure system as that in which the drug is marketed, and lacks testing of the active ingredient at each testing interval. Your stability program did not provide for assay determination of active ingredients and determination of degradation products for drug product released and distributed to the United States. In addition, you did not provide stability data to support the shelf life of (b)(4) batches released and distributed to the United States.
+
+In response to this letter, provide the following:
+
+• A comprehensive, independent assessment and corrective actions and preventive actions (CAPA) plan to ensure the adequacy of your stability program. Your remediated program should include, but not be limited to:
+    o Stability-indicating methods, including both analytical and microbiological test methods
+    o Stability studies for each drug product in its marketed container-closure system before distribution is permitted
+    o An ongoing program in which representative batches of each product are added each year to the program to determine if the shelf-life claim remains valid
+    o Detailed definition of the specific attributes to be tested at each station (timepoint)
+
+• All procedures that describe these and other elements of your remediated stability program.
+
+• Stability data to support your (b)(4) drug product shelf life.
+
+4. Your firm failed to use equipment in the manufacture, processing, packing, or holding of drug products that is of appropriate design, adequate size, and suitably located to facilitate operations for its intended use and for its cleaning and maintenance (21 CFR 211.63).
+
+Your response to our records requests indicates that you failed to establish that your manufacturing equipment are appropriate for their intended use and consistently operate during the manufacture of your OTC drug products. For example, we requested details about your equipment qualification program. You responded that you did not have installation qualification and operation qualification documentation for your manufacturing equipment and that you would have those documents as soon as possible. However, we noted that you shipped over (b)(4) lots of drug product and yet to provide such documents showing qualification of the equipment.
+
+Additionally, you did not provide recent calibration information for your equipment, including the scales used to weigh active drug ingredients in the manufacture of your drug products. Qualification of equipment show suitability for use and is an integral part of your process validation program.
+
+In response to this letter, provide the following:
+
+Your CAPA plan to implement routine, vigilant operations management oversight of facilities and equipment. This plan should ensure, among other things, prompt detection of equipment/facilities performance issues, effective execution of repairs, adherence to appropriate preventive maintenance schedules, timely technological upgrades to the equipment/facility infrastructure, and improved systems for ongoing management review.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements for drug products. We also recommend that the qualified consultant perform a comprehensive audit of your entire operation for CGMP compliance and evaluate the completion and efficacy of your corrective actions and preventive actions before you pursue resolution of your firm’s compliance status with FDA. Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations associated with your drug products. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+Note that FDA placed all drugs and drug products manufactured by your firm on Import Alert 66-40 on November 6, 2020, as the methods used in and controls used for the manufacture, processing, packing, or holding of these products do not appear to conform to current good manufacturing practices within the meaning of section 501(a)(2)(B) of the FD&C Act. Drugs and drug products that appear to be adulterated or misbranded may be detained or refused admission without physical examination pursuant to section 801(a)(3) of the FD&C Act, 21 U.S.C. 381(a)(3).
+
+All drugs and drug products manufactured by your firm may remain listed on this import alert, until there is evidence establishing that the conditions that gave rise to the appearance of this violation have been resolved, and the Agency has confidence that future entries will be in compliance with the FD&C Act. This may include an inspection prior to the agency considering the appearance of adulteration to be addressed.
+
+Until all violations are addressed completely and we confirm your compliance with CGMP, they may be cause for FDA to withhold approval of any new drug applications or supplements listing your firm as a drug manufacturer.
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any deviations and violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov. Identify your response with FEI 3012040386 and ATTN: Michael Klapal.
+
+Sincerely,
+/S/
+
+Francis Godwin
+Director
+Office of Manufacturing Quality
+Office of Compliance
+Center for Drug Evaluation and Research
+
+CC:
+Registered US Agent
+David Lennarz
+Registrar Corp
+144 Research Drive
+Hampton, VA US 23666
+drugs@registrarcorp.com
+
+CC (via email):
+(b)(4)

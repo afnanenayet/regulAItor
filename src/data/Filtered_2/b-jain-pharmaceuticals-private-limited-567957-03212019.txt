@@ -1,0 +1,269 @@
+Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Kuldeep Jain 
+          
+
+                                
+  
+    Recipient Title
+              Owner and Managing Director
+          
+
+          
+            B. Jain Pharmaceuticals Private Limited
+
+          
+                      E-41/F, RIICO Industrial Area
+Khuskhera District
+Bhiwadi 301707
+Rajasthan
+India
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research
+        
+         
+          10903 New Hampshire Avenue
+Silver Spring, MD 20993
+United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Via UPS                                                                                  Warning Letter 320-19-17
+
+Return Receipt Requested
+
+ 
+
+March 21, 2019
+
+           
+
+Mr. Kuldeep Jain
+
+Owner and Managing Director
+
+Mr. Nishant Jain, CEO
+
+B. Jain Pharmaceuticals Pvt. Ltd.
+
+E-41/F, RIICO Industrial Area
+
+Khuskhera District
+
+Bhiwadi-301707 Rajasthan, India
+
+ 
+
+Dear Mr. Kuldeep Jain and Mr. Nishant Jain:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, B. Jain Pharmaceuticals Pvt., Ltd, FEI 3010212308, located at E-41/F RIICO Industrial Area, Bhiwadi Rajasthan, from August 13, 2018 to August 29, 2018.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See 21 CFR, parts 210 and 211.
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+In addition, based on our review, your firm’s products, The Relief Products Ring Relief (Ear Drops and Fast Dissolving Tablets), are misbranded drugs under section 503(b) of the FD&C Act, 21 U.S.C. 353(b).
+
+We reviewed your September 19, 2018 response in detail and acknowledge receipt of your subsequent correspondence.
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+1.    Your firm failed to maintain the buildings used in the manufacture, processing, packing, or holding of a drug product in a clean and sanitary condition and to keep them free of infestation by rodents, birds, insects, and other vermin (21 CFR 211.56(a)).
+
+In the raw material storage room our investigator observed numerous flying insects. FDA observed your staff dispensing (b)(4) raw material for use in production, batch #(b)(4), in this room and a live moth was observed floating in this raw material. You use (b)(4) to manufacture your homeopathic drug products. When the investigator pointed out the presence of this moth in your (b)(4) raw material, you continued to manufacture homeopathic drug products using the raw material contaminated with the insect.
+
+In addition, various raw materials, some packaged in burlap sacks, were observed scattered across your quarantine room, and the ceiling in this room was stained with what appeared to be mold. Leaking containers of one raw material were observed in close proximity to other raw materials in your warehouse and what appeared to be unidentified (b)(4) were observed adhering to the air vents in the production areas which are used to manufacture multiple homeopathic drug products.
+
+In your response you included a Corrective Action and Preventive Action (CAPA) for each element of the observation and stated that you were revising procedures and providing training to your operators as a corrective action.
+
+We cannot evaluate the adequacy of your response because you failed to include supporting documentation such as the procedures you are revising and a timeline for implementation of these corrective actions.
+
+In your response to this letter provide the following:
+
+
+	A retrospective review for the (b)(4) material batch #(b)(4), including the disposition of the batch or batches of finished product that this component was used in
+	A review of your pest control and manufacturing procedures that ensure your drug manufacturing areas are free from insects or other vermin
+	Detailed procedures that demonstrate your firm can maintain buildings free from pests and that they remain in a clean and sanitary state
+	Your risk assessment for all drug products distributed to the U.S. market and within expiry that used raw materials potentially contaminated with insects or other vermin 
+
+
+2.    Your firm failed to clean, maintain, and, as appropriate for the nature of the drug, sanitize and/or sterilize equipment and utensils at appropriate intervals to prevent malfunctions or contamination that would alter the safety, identity, strength, quality, or purity of the drug product beyond the official or other established requirements (21 CFR 211.67(a)).
+
+You generate (b)(4) at your facility for use as a component of your homeopathic drug products, including (b)(4), which is labeled as (b)(4). During the inspection the investigator observed that the holding tank for your (b)(4) system, located on the roof of your facility, was cracked and exposed to the outside environment. In addition, the piping of the (b)(4) system appeared to have been patched with tape or cloth-like material, indicating the system may have been leaking at some time in the past.
+
+Given the state of disrepair of your (b)(4) system, the investigator asked for your (b)(4) system’s microbial test results for 2018, which you were unable to provide. In your response you acknowledged that no microbial testing was conducted for the period from November 2017 to March 2018. Without adequate monitoring and control of your (b)(4) system, you cannot ensure that it was maintained in a validated state.
+
+In response to this letter, provide the following:
+
+
+	A comprehensive CAPA plan for remedying design, control, and maintenance of the (b)(4) system.
+	A (b)(4) system validation report. Also include the summary of improvements made to system design and to the program for ongoing control and maintenance.
+	Data demonstrating appropriate microbial total count to ensure this system produces (b)(4) suitable for the intended uses of each of your drug products.
+	A detailed risk assessment addressing the potential effects of the observed water system failures on the quality of all drug product lots currently in U.S. distribution and within expiry. Specify actions that you will take in response to the risk assessment, such as customer notifications and product recalls.
+
+
+3.     Your firm failed to establish an adequate quality control unit with the responsibility and authority to approve or reject all components, drug product containers, closures, in-process materials, packaging material, labeling, and drug products (21 CFR 211.22(a)).
+
+During the inspection, our investigator observed that your quality unit did not provide adequate oversight for the manufacture of your homeopathic drug products. For example, your quality unit failed to ensure the following: 
+
+
+	That the (b)(4) used to manufacture your homeopathic drug products had been analyzed for microbial attributes prior to release
+	Manufacturing areas are adequate for their intended use, and properly cleaned and sanitized
+
+
+In your response you submitted numerous CAPA to address each example of your quality unit failures cited above.
+
+Your response is not adequate or cannot be fully evaluated because you failed to include supporting documentation. You failed to review the scope of your quality unit deficiencies and provide evidence that you have drafted and implemented procedures that ensure adequate control over your drug manufacturing processes. You also failed to address the potential effects of your lack of quality oversight on the quality of drugs that you manufactured without such oversight and which remain within expiry.
+
+In response to this letter, provide: 
+
+
+	A comprehensive assessment with CAPA to ensure your quality unit is given the authority and resources to effectively function in accordance with 21 CFR 211.22(a). The assessment should also include, but not be limited to:
+	A determination of whether procedures used by your firm are robust and appropriate
+	Provisions for quality unit oversight throughout your operations to evaluate adherence to appropriate practices
+	A retrospective review of each batch to determine if those batches met their specifications, including a risk assessment for those batches released without adequate microbiological testing. 
+
+
+See FDA’s guidance document, Quality Systems Approach to Pharmaceutical CGMP Regulations, for recommendations on implementing modern quality systems and risk management approaches to meet the requirements of CGMP regulations (2l CFR parts 210 and 211), at
+
+https://www.fda.gov/downloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/UCM070337.pdf.
+
+Misbranded Homeopathic Drugs
+
+Your firm’s products, The Relief Products Ring Relief (Ear Drops and Fast Dissolving Tablets) are drugs under section 201(g)(1) of the FD&C Act, 21 U.S.C. 321(g)(1), because they are intended to diagnose, cure, mitigate, treat, or prevent disease and/or intended to affect the structure or any function of the body.
+
+Examples of claims from the products’ labeling that establish the intended uses for The Relief Products Ring Relief (Ear Drops and Fast Dissolving Tablets) include, but may not be limited to, the following: 
+
+The Relief Products Ring Relief (Ear Drops):
+
+
+	“[T]hese ingredients provide temporary relief from symptoms such as: Ringing, buzzing, roaring . . . Nerve and noise sensitivity . . . Pounding . . . Discomfort . . ..”
+	“For Tinnitus Symptoms”
+
+
+The Relief Products Ring Relief (Fast Dissolving Tablets) – “[T]hese ingredients temporarily relieve symptoms of Tinnitus such as: ringing, buzzing, roaring . . . nerve and noise sensitivity . . . pounding . . . discomfort . . ..”
+
+We recognize that The Relief Products Ring Relief (Ear Drops and Fast Dissolving Tablets) are represented as being homeopathic drugs with active ingredients measured in homeopathic strengths. Under section 201(g)(1) of the FD&C Act, the term “drug” includes articles recognized in the official Homeopathic Pharmacopeia of the United States (HPUS), or any supplement to it. Homeopathic drugs are subject to the same regulatory requirements as other drugs; nothing in the FD&C Act exempts homeopathic drugs from any of the requirements related to adulteration, labeling, misbranding, or approval.
+
+We acknowledge that many homeopathic drugs are manufactured and distributed without FDA approval under enforcement policies set out in the FDA’s Compliance Policy Guide entitled, Conditions Under Which Homeopathic Drugs May be Marketed (CPG 400.400). As its title suggests, the CPG identifies specific conditions under which homeopathic drugs may ordinarily be marketed; thus, in order to fall under the enforcement policies, set forth in the CPG, a homeopathic product must meet the conditions set forth in the CPG. One of those conditions is compliance with section 503(b) of the FD&C Act. The CPG states that homeopathic products intended solely for self-limiting disease conditions amenable to self-diagnosis (of symptoms) and treatment may be marketed over-the-counter (OTC). Homeopathic products offered for conditions not amenable to OTC use must be marketed as prescription products.
+
+Section 503(b)(1) of the FD&C Act, 21 U.S.C. 353(b)(1), identifies criteria for determining the prescription status of a product. Your above products are prescription drugs as defined in section 503(b)(1)(A) of the FD&C Act, 21 U.S.C. 353(b)(1)(A), because in light of their toxicity or other potentiality for harmful effect, or the method of their use, or the collateral measures necessary to their use, they are not safe for use except under the supervision of a practitioner licensed by law to administer such drugs. Therefore, these products are misbranded under section 503(b)(4) of the FD&C Act, 21 U.S.C. 353(b)(4), in that their labels fail to bear the symbol, “Rx only.”[1] The introduction or delivery for introduction of these misbranded drugs into interstate commerce is a violation of section 301(a) of the FD&C Act, 21 U.S.C. § 331(a).
+
+CGMP Consultant 
+
+In your response you state you have hired a third-party consultant. Based upon the nature of the violations we identified at your firm, we strongly recommend assuring that your consultant is qualified as set forth in 21 CFR 211.34, to assist your firm in meeting CGMP requirements. We also recommend that the qualified consultant perform a comprehensive audit of your entire operations for CGMP compliance and that the consultant evaluates the completion and efficacy of your corrective and preventive actions before you pursue resolution of your firm’s compliance status with FDA. 
+
+Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+Violations cited in this letter are not intended as an all-inclusive list. You are responsible for investigating these violations, for determining the causes, for preventing their recurrence, and for preventing other violations in all your facilities.
+
+FDA placed your firm on Import Alert 66-40 on January 9, 2019.
+
+Until you correct all violations completely and we confirm your compliance with CGMP, FDA may withhold approval of any new applications or supplements listing your firm as a drug manufacturer.
+
+Failure to correct these violations may also result in FDA continuing to refuse admission of articles manufactured at B. Jain Pharmaceuticals Pvt., Ltd, FEI 3010212308, located at E-41/F RIICO Industrial Area, Bhiwadi Rajasthan, into the United States under section 801(a)(3) of the FD&C Act, 21 U.S.C. 381(a)(3). Under the same authority, articles may be subject to refusal of admission, in that the methods and controls used in their manufacture do not appear to conform to CGMP within the meaning of section 501(a)(2)(B) of the FD&C Act, 21 U.S.C. 351(a)(2)(B).
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov or mail your reply to:
+
+ 
+
+Carla Norris
+
+Compliance Officer
+
+U.S. Food and Drug Administration
+
+White Oak Building 51, Room 4359
+
+10903 New Hampshire Avenue
+
+Silver Spring, MD 20993
+
+USA
+
+Please identify your response with FEI 3010212308.
+
+ 
+
+Sincerely,
+
+/S/ 
+
+Francis Godwin
+
+Director
+
+Office of Manufacturing Quality
+
+Office of Compliance
+
+Center for Drug Evaluation and Research
+
+ 
+
+ 
+
+
+[1] CPG 400.400 states that, in accordance with 503(b)(1) of the FD&C Act, homeopathic drug products offered for conditions that require diagnosis or treatment by a licensed practitioner must bear the prescription legend, “Caution: Federal law prohibits dispensing without prescription.” This CPG was issued by the agency in 1988. In 1997, Congress enacted the Food and Drug Administration Modernization Act (FDAMA); section 126 of FDAMA amended 503(b)(4) of the FD&C Act to require that the label of a prescription drug must bear, at a minimum, the symbol “Rx only.”

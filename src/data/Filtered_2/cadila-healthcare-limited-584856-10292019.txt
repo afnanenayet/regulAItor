@@ -1,0 +1,317 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Pankaj R. Patel
+          
+
+                                
+  
+    Recipient Title
+              Chairman
+          
+
+          
+            Cadila Healthcare Limited
+
+          
+                      Zydus Tower, Satellite Cross Roads
+Ahmedabad 380015
+Gujarat
+India
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research
+        
+         
+          10903 New Hampshire Avenue,
+Silver Spring, MD 20993
+United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter 320-20-05
+
+ 
+
+October 29, 2019
+
+            
+
+Dear Mr. Patel:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Cadila Healthcare Limited, FEI 3002984011, at 419 & 420 8a Village-Moraiya, Ahmedabad, from April 22 to May 3, 2019.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See 21 CFR, parts 210 and 211.
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B). 
+
+We reviewed your May 24, 2019 response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence. 
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+1.    Your firm failed to clean, maintain, and, as appropriate for the nature of the drug, sanitize and/or sterilize equipment and utensils at appropriate intervals to prevent malfunctions or contamination that would alter the safety, identity, strength, quality, or purity of the drug product beyond the official or other established requirements (21 CFR 211.67(a))
+
+Your cleaning procedure for non-dedicated equipment, including your (b)(4), is inadequate.  Our investigators observed multiple (b)(4), used in the production of potent and non-potent compounds, marked as clean and containing residues of what appeared to be different products. The residues were observed on the back of the (b)(4), after product change-over cleaning. The (b)(4) system of your equipment interacts with the interior of the equipment in which products are processed. 
+
+Significant equipment flaws and cleaning deficiencies resulted in cross-contamination between your drug products.  For example, you lacked provisions for inspecting or cleaning the area behind the (b)(4). 
+
+After our inspection, your firm observed residues in additional non-dedicated equipment and confirmed the recovery of multiple active ingredients through swab samples and visible (b)(4) residues collected from product-contact surfaces. For example: 
+
+
+	Equipment ID #CH/PM/013 – (b)(4) active ingredients were identified in swab and (b)(4) residues out of (b)(4) products processed in the equipment.
+	Equipment ID #CH/PP/028 – (b)(4) active ingredients were identified in swab and (b)(4) residues out of (b)(4) products processed in the equipment.
+	Equipment ID #CH/TS/013 - (b)(4) active ingredients were identified in swab and (b)(4) residues out of (b)(4) products processed in the equipment.
+	Equipment ID #CH/MC/TAB/1999/19 - (b)(4) active ingredients were identified in swab and (b)(4) residues out of (b)(4) products processed in the equipment.
+	Equipment ID #CH/MC/TAB/2004/176 - (b)(4) active ingredients were identified in swab and (b)(4) residues out of (b)(4) products processed in the equipment.
+
+
+After our inspection, your firm also tested reserve samples of selected batches to assess the potential for cross contamination. Your testing confirmed the presence of active ingredients manufactured in numerous samples tested, including but not limited to: 
+
+
+	Residues of (b)(4) active ingredients in (b)(4) tablets
+	Residues of (b)(4) active ingredients in (b)(4) tablets
+	Residues of (b)(4) active ingredients in (b)(4) tablets
+	Residues of (b)(4) active ingredients in (b)(4) tablets
+	Residues of (b)(4) active ingredients in (b)(4) tablets
+	Residues of (b)(4) active ingredients in (b)(4) tablets
+	Residues of (b)(4) active ingredients in (b)(4) tablets
+	Residues of (b)(4) active ingredients in (b)(4) tablets
+	Residues of (b)(4) active ingredients in (b)(4) tablets
+	Residues of (b)(4) active ingredients in (b)(4) tablets
+
+
+As a result of these inspectional findings your firm initiated a recall of numerous batches manufactured in your (b)(4) #CH/TS/013 (dedicated to potent compounds).  
+
+In your response, you committed to corrective and preventive actions (CAPA) for non-dedicated equipment, including revisions to cleaning procedures, mechanical changes to equipment to prevent (b)(4), cleaning validation for all processing equipment, and further testing to analyze reserve samples of batches manufactured using (b)(4) to quantify the potential carryover of previous products.
+
+Your firm’s review concluded that the significant cross-contamination identified by your firm does not represent a risk to patients. 
+
+Your response is insufficient. Your response stated that any potential residue that enters the (b)(4) and contaminates the next drug product can produce a nearly uniform distribution in the (b)(4) and that (b)(4) steps minimize localization of carryover residue. Your rationale is not scientifically sound in that cross-contamination cannot be assumed to be uniformly distributed. 
+
+In addition, your response described failure modes that may have contributed to the accumulation of residues in the (b)(4). But you failed to explain when the cross-contamination involving numerous products started and why it had not been detected. Your response also stated that testing for cross-contamination in the products provides good assurance that any carryover is detected. However, reserve sample testing alone is insufficient to mitigate associated risks.  The extent of the cross-contamination found suggests a lack of assurance that products meet appropriate standards for identity, quality, purity and safety. 
+
+In response to this letter provide the following:
+
+
+	Your CAPA plan to implement routine, vigilant operations management oversight of facilities and equipment.  This plan should ensure, among other things, prompt detection of equipment/facilities performance issues, effective execution of repairs, adherence to appropriate preventive maintenance schedules, timely technological upgrades to the equipment/facility infrastructure, and improved systems for ongoing management review.  
+	A comprehensive, independent retrospective assessment of your cleaning effectiveness to evaluate the scope of cross-contamination hazards and recalls initiated to determine if additional batches were affected. This should include, but not be limited to:
+	
+		Identification of any inadequacies of cleaning procedures and practices for each piece of manufacturing equipment used to manufacture more than one product.
+		Any updates to your investigation regarding the identity of residues, other manufacturing equipment that may have been improperly cleaned, and an assessment whether additional cross-contaminated products may have been released for distribution. 
+	
+	
+	A CAPA plan based on the retrospective assessment, that includes appropriate remediations to your cleaning processes and practices, and timelines for completion.  Provide a detailed summary of vulnerabilities in your process for lifecycle management of equipment cleaning.  Describe improvements to your cleaning program, including enhancements to cleaning effectiveness; improved ongoing verification of proper cleaning execution for all products and equipment; and all other needed remediations.  
+	Appropriate improvements to your cleaning validation program with special emphasis on incorporating conditions identified as worst case in your drug manufacturing operation. This should include but not be limited to identification and evaluation of all worst-case:
+
+
+
+	drugs with higher toxicities
+	drugs with higher drug potencies 
+	drugs of lower solubility in their cleaning solvents
+	drugs with characteristics that make them difficult to clean
+	swabbing locations for areas that are most difficult to clean
+	maximum hold times before cleaning 
+
+
+In addition, describe the steps that must be taken in your change management system before introduction of new manufacturing equipment or a new product.
+
+
+	A summary of updated SOPs that ensure an appropriate program is in place for verification and validation of cleaning procedures for products, processes, and equipment. Also, include a copy of your cleaning validation report once completed.
+
+
+2.    Your firm failed to thoroughly investigate any unexplained discrepancy or failure of a batch or any of its components to meet any of its specifications, whether or not the batch has already been distributed (21 CFR 211.192).
+
+Your investigations into failures during periodic qualification of the (b)(4) cycles are inadequate. For example, investigation DC/2018/381 was initiated on June 9, 2018 for a failure during periodic requalification of the (b)(4) used for (b)(4) Injection (b)(4) ml in (b)(4) ml vial. The required F0 was not achieved and there was significant (b)(4) variation for at least (b)(4). You concluded that the root cause was improper (b)(4). As part of the impact assessment, you evaluated the qualification reports for other products that utilize the same (b)(4) and concluded that there was no impact on other (b)(4) products. Therefore, you did not extend the CAPA to other products. 
+
+However, in March 2019, you initiated investigation DC/2019/190 and DC/2019/195 because of another failure during the periodic requalification of the same (b)(4) used for the (b)(4) of (b)(4) Injection (b)(4) ml in (b)(4) ml vial. Again, several sensors did not achieve the required F0, and one did not reach the (b)(4) temperature. In addition, at the end of the incubation, the biological indicators at multiple locations in the (b)(4) showed microbiological growth. This resulted in the recall of (b)(4) batch of (b)(4) Injection, USP, (b)(4) mg per (b)(4) ml ((b)(4) mg per ml), due to lack of (b)(4) assurance.  
+
+In this instance you also concluded that the root cause was improper (b)(4). There was no assurance that your assessment of other (b)(4) products using this (b)(4) was thorough and that adequate CAPA were identified and implemented. In addition, your investigation did not sufficiently address why your originally validated cycle parameters were not met and why the process fell out of a state of control.  
+
+Your response adds that there has been some drift in the calibration of the built-in (b)(4) that control the (b)(4) cycle since 2017.  However, your response lacks an assessment of the adequacy of the (b)(4) calibration standards, as you acknowledge in the response that the variation observed is within your established acceptance criteria. Also, calibration of (b)(4) was verified as part of your original investigation. 
+
+According to your firm’s investigation report there have been seven deviations during the periodic requalification of this (b)(4) in the past two years. Recurrent failures suggest that you have not adequately identified the root cause and lack (b)(4) assurance. 
+
+In response to this letter provide the following:
+
+
+	A comprehensive retrospective, independent review of all batches (b)(4) with this (b)(4) that were distributed in the U.S. market and remain within expiry. This review should include, but not be limited, to:
+
+	
+		Review of your (b)(4) parameters, including time and (b)(4) settings to ensure a (b)(4) assurance level of (b)(4) or more.  
+		Evaluations of F-value and Z-value data and any related assumptions; (b)(4); D-value determinations and population enumerations for each biological indicator lot; and commercial batch data to determine whether (b)(4) cycles used for your products were complete/adequate.
+	
+	
+	A comprehensive and independent assessment of your system for investigating deviations, and failures. Your CAPA plan should include, but not be limited to, improvements in investigations, root cause analysis, written procedures, staff competencies (e.g., evaluating potential root causes), and quality unit oversight. Also, include your process for evaluating CAPA plan effectiveness.
+
+
+3.    Your firm failed to follow appropriate written procedures that are designed to prevent microbiological contamination of drug products purporting to be sterile, and that include validation of all aseptic and sterilization processes (21 CFR 211.113(b)).
+
+Poor Aseptic Behavior
+
+Operators displayed poor aseptic practices during aseptic set-up and filling operations. For example:
+
+
+	Operators leaned over the open bag of sterilized stoppers. These bags are subsequently introduced into the stopper chute. Also, the operator’s hands passed over the sterile stopper chute and over sterilized stoppers already added into the chute. Notably, your procedures specifically prohibit personnel leaning over the product or sterilized containers and closures.
+	Operators used (b)(4) Restricted Access Barrier Systems ((b)(4)RABS) (b)(4) to pick up sterile forceps and remove fallen vials. During that intervention, the (b)(4) extend over open vials without clearing them. According to your procedures, (b)(4)RABS (b)(4) are sterilized only (b)(4). Your firm’s staff confirmed that these (b)(4) cannot be considered sterile during this extended use period.
+
+
+Inadequate Cleanroom Design and Smoke Study Deficiencies
+
+Your stopper chute leans (b)(4) of the filling line during stopper loading operations thereby creating turbulence as the air flows (b)(4) filters (b)(4) the chute. 
+
+In addition to this inadequate design, your smoke studies performed for your (b)(4) areas also lacked simulation of multiple critical interventions that occur during aseptic manufacturing operations. 
+
+Thorough smoke studies are essential to evaluate the effects of such interventions on unidirectional airflow and to ensure design modifications are made wherever necessary.
+
+The (b)(4) area is critical because sterile product is exposed and therefore vulnerable to contamination. Your aseptic filling process should be designed, and operations executed, to prevent contamination hazards to your sterile product. The flawed design of the filling line and execution of the aseptic operations promoted influx of contamination into the critical filling areas.
+
+Your firm’s response is inadequate. You did not provide a thorough evaluation of all batches produced under inadequate conditions.
+
+In response to this letter, provide the following:
+
+
+	A risk assessment of all contamination hazards with respect to your aseptic processes, equipment, and facilities, including an independent assessment that includes, but is not limited to:
+
+	
+		All human interactions within the (b)(4) area 
+		Equipment placement and ergonomics 
+		Air quality in the (b)(4) area and surrounding room 
+		Facility layout 
+		Personnel Flows and Material Flows (throughout all rooms used to conduct and support sterile operations)
+	
+	
+	A comprehensive, independent retrospective review of all batches that remain within expiry in the U.S. market, which incorporates the knowledge of hazards gained from your risk assessment.  Include any additional actions you intend to initiate because of the retrospective review. 
+
+
+4.    Your firm failed to establish an adequate system for monitoring environmental conditions in aseptic processing areas (21 CFR 211.42(c)(10)(iv)).
+
+Your environmental and personnel monitoring program is deficient. For example, your procedures allowed personnel performing aseptic interventions (e.g., (b)(4)) in the (b)(4) area to have (b)(4) colony-forming units (CFU) on their (b)(4) without triggering an appropriate investigation.  During our inspection, a firm official indicated that your firm does not consider the (b)(4) to be an (b)(4) intervention and operators are only held to ISO 7 limits. 
+
+The (b)(4) step in your operation is a critical aseptic intervention, and it is manually intensive. Our inspection noted significant aseptic technique breaches during performance of this intervention. 
+
+Your firm’s response is inadequate. We acknowledge your commitment to conduct a protocol-based assessment to evaluate the adequacy of limits of viable monitoring based on the classification of the area and the criticality of the operation. However, your response did not include a retrospective review of your personnel monitoring data to identify the instances in which operators held to ISO 7 limits conducted activities in the (b)(4) area, and if the (b)(4) limits were exceeded. Growth observed on (b)(4) samples taken from personnel performing any activities within the (b)(4) area should, at a minimum, lead to trending and assessment, and could trigger further actions and investigation. 
+
+In response to this letter, provide the following for products that remain within expiry in the U.S. market: 
+
+
+	A risk assessment of personnel and environmental monitoring data since April 2017, including but not limited to identification of adverse trends or acute findings, and any potential impact on marketed products. Place special emphasis on data from your aseptic processing rooms, as well as any adverse trends that indicate any loss of environmental control in your facility’s overall suite of cleanrooms.
+	A detailed update to the CAPAs implemented and their current status in light of your decision to permanently close down the injectable manufacturing lines that serve the U.S. market. 
+	Describe how your firm will ensure continued accountability and responsibility for all products remaining in distribution from this facility (e.g. complaint evaluation, stability testing, handling of reserve samples, post-marketing reporting activities, OOS investigations and document retention).  State who will be performing these duties and procedures that will be followed for all marketed products.
+
+
+Cessation of Sterile Drug Manufacturing for U.S. Marketed Products 
+
+In your October 2, 2019 communication, you informed the FDA that you would permanently cease production of injectable drug products for the United States. It is important to note that full remediation of the related CGMP violations cited will be necessary if you decide to resume the manufacturing of injectable drug products at this site, or if any successor firm assumes responsibility over the site’s operation in the future. In your response include your action plan for transferring any of your injectable drug products to other facilities. Notify this office in writing if you decide to revisit your decision and resume manufacturing injectable drugs for the U.S. in the future.   
+
+Additional Guidance on Aseptic Processing
+
+See FDA’s guidance document Sterile Drug Products Produced by Aseptic Processing—Current Good Manufacturing Practice to help you meet the CGMP requirements when manufacturing sterile drugs using aseptic processing at https://www.fda.gov/media/71026/download.
+
+Repeat Violations at Facility
+
+In previous warning letters (WL 320-11-015 and 320-16-05), FDA cited similar CGMP violations. You proposed specific remediation for these violations in your response. Repeated failures demonstrate that executive management oversight and control over the manufacture of drugs is inadequate. 
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of these violations and for preventing their recurrence or the occurrence of other violations. 
+
+If you are considering an action that is likely to lead to a disruption in the supply of drugs produced at your facility, FDA requests that you contact CDER’s Drug Shortages Staff immediately, at drugshortages@fda.hhs.gov, so that FDA can work with you on the most effective way to bring your operations into compliance with the law. Contacting the Drug Shortages Staff also allows you to meet any obligations you may have to report discontinuances or interruptions in your drug manufacture under 21 U.S.C. 356C(b). This also allows FDA to consider, as soon as possible, what actions, if any, may be needed to avoid shortages and protect the health of patients who depend on your products.
+
+Until you correct all violations completely and we confirm your compliance with CGMP, FDA may withhold approval of any new drug applications or supplements listing your firm as a drug manufacturer. 
+
+Failure to correct these violations may also result in the FDA refusing admission of articles manufactured at Cadila Healthcare Limited, 3002984011, at 419 & 420 8a Village-Moraiya, Ahmedabad, into the United States under section 801(a)(3) of the FD&C Act, 21 U.S.C. 381(a)(3). Articles under this authority may be subject to refusal of admission, in that the methods and controls used in their manufacture do not appear to conform to CGMP within the meaning of section 501(a)(2)(B) of the FD&C Act, 21 U.S.C. 351(a)(2)(B). 
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion. 
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov or mail your reply to:
+
+            Rebecca Parrilla, M.S.
+
+Compliance Officer
+
+            U.S. Food and Drug Administration
+
+            White Oak Building 51, Room 4235
+
+10903 New Hampshire Avenue
+
+            Silver Spring, MD 20993           
+
+Please identify your response with FEI 3002984011.
+
+ 
+
+Sincerely,
+
+/S/
+
+Francis Godwin                                                                        
+
+Director
+
+Office of Manufacturing Quality
+
+Office of Compliance
+
+Center for Drug Evaluation and Research

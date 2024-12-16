@@ -1,0 +1,195 @@
+Delivery Method: 
+        VIA Electronic Mail
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Lawrence Lau Chief
+          
+
+                                
+  
+    Recipient Title
+              Executive Officer and Owner
+          
+
+          
+            Fei Fah Medical Manufacturing Pte. Ltd.
+
+          
+                      61 Kaki Bukit Avenue 1
+#02-29 Shun Li Industrial Park
+417943
+Singapore
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research | CDER
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter 320-23-10
+
+January 30, 2023
+
+Dear Mr. Lau:
+
+Your facility is registered with the United States Food and Drug Administration (FDA) as a manufacturer of over-the-counter (OTC) drug products. FDA has reviewed the records you submitted in response to our May 18, 2021, request for records and other information pursuant to section 704(a)(4) of the Federal Food, Drug, and Cosmetic Act (FD&C Act) for your facility, Fei Fah Medical Manufacturing Pte. Ltd., FEI 3003892002, located at 61 Kaki Bukit Avenue 1, #02-29 Shun Li Industrial Park, Singapore.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your March 28, 2022, response to our Observation Letter in detail. During our review of your records, we noted specific violations including, but not limited to, the following.
+
+1. Your firm failed to establish and follow an adequate written testing program designed to assess the stability characteristics of drug products and to use results of stability testing to determine appropriate storage conditions and expiration dates (21 CFR 211.166(a)).
+
+Based on the records and information you provided, your firm does not have adequate stability data to support the (b)(4) expiration date assigned to your (b)(4) drug product packaged in (b)(4) g and (b)(4) g glass and plastic containers, respectively. Furthermore, you have not established specifications or tested for impurities or degradants using stability indicating methods.
+
+Your response is inadequate. You only provided two years of stability data for one batch of (b)(4) drug product. Further, the number of batches you intend to place on stability is insufficient. Also, you did not commit to testing your stability batches for impurities and degradants using stability indicating methods, nor evaluate impurities and degradants in distributed batches.
+
+In response to this letter, provide:
+
+
+	A comprehensive, independent assessment and corrective action and preventive action (CAPA) plan to ensure the adequacy of your stability program. Your remediated program should include, but not be limited to:
+
+
+    o   Stability indicating method.
+    o   Stability studies for each drug product in its marketed container-closure system before distribution is permitted.
+    o   An ongoing program in which representative batches of each product are added each year to the program to determine if the shelf-life claim remains valid.
+    o   Detailed definition of the specific attributes to be tested at each station (timepoint).
+
+
+	All procedures that describe these and other elements of your remediated stability program.
+	A retrospective risk assessment of the stability of all batches of your drug product on the U.S. market within expiry which should include retain sample testing using validated stability indicating test methods. The assessment and testing should include assay, impurity, and degradants. If the test results or risk assessments indicate substandard quality of your drug products, take rapid corrective actions, such as customer notifications and product recalls.
+
+
+2. Your firm failed to establish laboratory controls that include scientifically sound and appropriate specifications, standards, sampling plans, and test procedures designed to assure that components, drug product containers, closures, in-process materials, labeling, and drug products conform to appropriate standards of identity, strength, quality, and purity (21 CFR 211.160(b)).
+
+Based on the records and information you provided, your firm failed to demonstrate the suitability of test methods for (b)(4) drug product and its active pharmaceutical ingredients (API) and to establish appropriate release specifications for impurities. For example, your test method for assay of (b)(4) and (b)(4) APIs in (b)(4) finished product was not validated.
+
+Your response is inadequate. Even after repeated requests you failed to provide a validation or qualification report for assay of (b)(4) and (b)(4). In the absence of a method validation or qualification report from you or your contract testing laboratory, there is no assurance that your test method is suitable. In addition, you failed to establish specifications for impurities in your drug product and commit to testing for impurities at release.
+
+Drug product batches must be tested for identity, strength, quality, and purity prior to release. Testing is an essential part of ensuring that the drug products you manufacture conform to all predetermined quality attributes and are appropriate for their intended use, including impurities. Without adequate testing, you lack basic data to support that each drug product batch conforms to appropriate specifications before release.
+
+For general principles and approaches that FDA considers appropriate elements of method validation, see FDA’s guidance document, Analytical Procedures and Methods Validation for Drugs and Biologics at: https://www.fda.gov/media/87801/download.
+
+In response to this letter, provide:
+
+
+	A comprehensive, independent assessment of your laboratory practices, procedures, methods, equipment, documentation, and analyst competencies. Based on this review, provide a detailed plan to remediate and evaluate the effectiveness of your laboratory system.
+	A list of chemical and microbial specifications, including test methods, used to analyze each lot of your drug products before a lot disposition decision.
+
+
+    o   An action plan and timelines for conducting full chemical and microbiological testing of retain samples to determine the quality of all batches of drug product distributed to the United States that are within expiry as of the date of this letter.
+    o   A summary of all results obtained from testing retain samples from each batch. If such testing reveals substandard quality drug products, take rapid corrective actions, such as notifying customers and product recalls.
+
+
+	A method validation report for assay of (b)(4) and (b)(4) APIs in your (b)(4) drug product and evidence that the test method is suitable for its intended use.
+
+
+3. Your firm failed to conduct at least one test to verify the identity of each component of a drug product. Your firm also failed to validate and establish the reliability of your component supplier’s test analyses at appropriate intervals (21 CFR 211.84(d)(1) and 211.84(d)(2)).
+
+Based on the records and information you provided, you did not provide sufficient evidence demonstrating that you adequately test all your incoming raw materials, including API and other components. You relied on your supplier’s certificate of analysis (COA) in lieu of testing each component lot for purity, strength, identity, and quality. You also did not establish a supplier qualification program to assess (i.e., initially and periodically) the reliability of your suppliers’ test results for these attributes.
+
+Your response is inadequate. You stated that samples of all raw materials, including excipients, will be sent to an external laboratory for analysis. It is not clear that you committed to conducting full testing for each lot of raw material and you did not describe a plan for supplier qualification.
+
+In response to this letter, provide:
+
+
+	A comprehensive review of your material system to determine whether all suppliers of components, containers, and closures, are each qualified and the materials are assigned appropriate expiration or retest dates. The review should also determine whether incoming material controls are adequate to prevent use of unsuitable components, containers, and closures.
+	The chemical and microbiological quality control specifications you use to test and release each incoming lot of components for use in manufacturing.
+	A description of how you will test each component lot for conformity with all appropriate specifications for identity, strength, quality, and purity. If you intend to accept any results from your supplier’s COAs instead of testing each component lot for strength, quality, and purity, specify how you will robustly establish the reliability of your supplier’s results through initial validation as well as periodic re-validation. In addition, include a commitment to always conduct at least one specific identity test for each incoming component lot.
+	A summary of your program for qualifying and overseeing contract facilities involved in any CGMP activities.
+
+
+Repeat Observations
+
+While the violations summarized above were based on FDA’s recent review of your response to our records request and Observation Letter, FDA also reviewed data from past inspections of your facility. In inspections conducted in March 2013 and December 2015, FDA noted similar CGMP findings regarding the lack of adequate stability data to support a (b)(4) expiry of your (b)(4) drug product. These repeated failures demonstrate that executive management oversight and control over the manufacture of drugs is inadequate.
+
+Use of Contract Laboratories
+
+Drugs must be manufactured in conformance with CGMP. FDA is aware that many drug manufacturers use independent contractors such as production facilities, testing laboratories, packagers, and labelers. FDA regards contractors as extensions of the manufacturer.
+
+You are responsible for the quality of your drugs regardless of agreements in place with your contract facility. You are required to ensure that drugs are made in accordance with section 501(a)(2)(B) of the FD&C Act to ensure safety, identity, strength, quality, and purity. See FDA’s guidance document Contract Manufacturing Arrangements for Drugs: Quality Agreements at https://www.fda.gov/downloads/drugs/guidances/ucm353925.pdf.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist in connection with your products. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+Correct any violations promptly. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may inspect your firm to verify that you have completed corrective actions to any violations.
+
+Failure to address any violations may also result in the FDA refusing admission of articles manufactured at Fei Fah Medical Manufacturing Pte. Ltd., 61 Kaki Bukit Avenue, #02-29 Shun Li Industrial Park, Singapore 417943, into the United States under section 801(a)(3) of the FD&C Act, 21 U.S.C. 381(a)(3).
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov. Identify your response with FEI 3003892002 and ATTN: Anita Narula, Compliance Officer.
+
+Sincerely,
+/S/
+
+Francis Godwin
+Director
+Office of Manufacturing Quality
+Office of Compliance
+Center for Drug Evaluation and Research

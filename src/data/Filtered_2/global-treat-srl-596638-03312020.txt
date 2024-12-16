@@ -1,0 +1,231 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Andrei Lisinschi
+          
+
+                                
+  
+    Recipient Title
+              General Manager/Owner
+          
+
+          
+            Global Treat Srl
+
+          
+                      Str. Portullui nr. 157, Floor 2, Suite 222
+800211 Galati
+Romania
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research | CDER
+        
+         
+          10903 New Hampshire Avenue
+Silver Spring, MD 20993
+United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter 320-20-32
+
+March 31, 2020
+
+Dear Mr. Lisinschi:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Global Treat SRL, FEI 3011785267, at Str. Portullui nr. 157 Floor 2, Suite 222 Galati, Galati 800211 Romania, from September 9 to 13, 2019.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+Your firm manufactures “HemoTreat Hemorrhoid Ointment.” This product is an unapproved new drug in violation of section 505(a) of the FD&C Act, 21 U.S.C. 355(a). Introduction or delivery for introduction of such a product into interstate commerce is prohibited under sections 301(d) of the FD&C Act, 21 U.S.C. 331(d). This violation is described in more detail below.
+
+We reviewed your October 3, 2019, response to our Form FDA 483 in detail. Your response is inadequate because it did not provide sufficient detail or evidence of corrective actions to bring your operations into compliance with CGMP.
+
+During our inspection, our investigator observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to perform, for each batch of drug product, appropriate laboratory determination of satisfactory conformance to final specifications for the drug product, including the identity and strength of each active ingredient, prior to release (21 CFR 211.165(a)).
+
+Your firm manufactures anorectal analgesic ointment and (b)(4) drug products. You released your drug products without conducting identity and strength testing. For example, you released your drug product without testing active ingredients: camphor, white petrolatum, (b)(4), and lanolin for identity and strength.
+
+Testing of each batch for strength and identity before release is essential to determine if the drug products you manufacture meet appropriate specifications.
+
+In your response, you stated that you will test active ingredients for which there are testing methods.
+
+Your response is inadequate. You are responsible for ensuring each batch is tested for strength and identity before release to ensure the drug products you manufacture meet appropriate specifications. This may require the development of appropriate methods where compendial methods are not established. Furthermore, in your response you did not commit to perform testing on all your reserve samples of drug products distributed in the United States and within expiry. Your response did not include information about your testing procedures, methods, timeline for implementation, or a detailed description of the tests you will conduct (e.g., identity, strength, and purity).
+
+In your response to this letter, provide the following:
+
+• A list of chemical and microbial specifications, including test methods, used to analyze each lot of your drug products before a disposition decision. Also include:
+
+  o An action plan and timelines for conducting full chemical and microbiological testing of retain samples to determine the quality of all batches of drug product distributed to the United States within expiry as of the date of this letter.
+  o A summary of all results obtained from testing retain samples from each batch. If such testing reveals substandard quality drug products, take rapid corrective actions, such as notifying customers and product recalls.
+
+• A comprehensive, independent assessment of your laboratory practices, procedures, methods, equipment, documentation, and analyst competencies. Based on this review, provide a detailed plan to remediate and evaluate the effectiveness of your laboratory system.
+• Your procedure to ensure that any test methods performed by a contract testing laboratory on your behalf are properly validated before use.
+
+2. Your firm failed to test samples of each component for identity and conformity with all appropriate written specifications for purity, strength, and quality. Your firm also failed to validate and establish the reliability of your component supplier’s test analyses at appropriate intervals (21 CFR 211.84(d)(1) and (2)).
+
+Your firm failed to test incoming components (e.g. camphor) for identity, strength, purity, and other appropriate quality attributes. Instead, your firm relied on certificates of analysis (COA) from unqualified suppliers.
+
+Identity testing is required for each component lot before use in drug product manufacturing, and you can only rely on a COA for other component attributes through validation of supplier's test results at appropriate intervals.
+
+In your response, you indicated that your supplier qualification procedure requires an assessment and evaluation of whether product received conforms to terms outlined in your “purchasing documents”. However, this procedure does not ensure that your firm performs chemical or microbiological testing to demonstrate that components received meet established specifications before use in drug product manufacturing. You stated your firm will perform at least one test to verify the identity of each drug component to accept COA of components given by the supplier. You committed to testing every batch of incoming raw materials and active ingredients for identity, purity, “resistance” and quality before use.
+
+Your response is inadequate. Your response lacked sufficient details for how you will ensure each component possesses the identity, strength, and other appropriate quality attributes before use and you provided no evidence that methods are validated or suitable for use. Furthermore, if you choose to rely on the supplier’s COA, you should provide the updated procedures or detail how you will qualify suppliers and verify the suppliers’ COA.
+
+In response to this letter, provide the following:
+
+• A comprehensive, independent review of your material system to determine whether all suppliers of components, containers, and closures, are each qualified and the materials are assigned appropriate expiration or retest dates. The review should also determine whether incoming material controls are adequate to prevent use of unsuitable components, containers, and closures.
+
+• The chemical and microbiological quality control specifications you use to test and release each incoming lot of component for use in manufacturing.
+
+• A description of how you will test each component lot for conformity with all appropriate specifications for identity, strength, quality, and purity. If you intend to accept any results from your supplier’s COA instead of testing each component lot for strength, quality, and purity, specify how you will robustly establish the reliability of your supplier’s results through initial validation as well as periodic re-validation. In addition, include a commitment to always conduct at least one specific identity test for each incoming component lot.
+
+• A summary of results obtained from testing all components to evaluate the reliability of the COA from each component manufacturer. Include your SOP that describes this COA validation program.
+
+3. Your firm failed to establish an adequate quality control unit and the responsibilities and procedures applicable to the quality control unit are not in writing and fully followed (21 CFR 211.22(a) and (d)).
+
+Your quality unit (QU) is not fully exercising its authority and/or responsibilities. Your QU failed to ensure that you have adequate procedures and did not provide adequate oversight of your manufacturing activities. For example:
+
+• Your QU failed to conduct a complete review of all production and control records, as well as laboratory notebooks before batch release. For example, production personnel instead of the QU received and reviewed final microbiological test results and signed off on the product data sheet, releasing the product for distribution.
+
+• Your General Manager, rather than your QU, reviews and approves procedures that are related to production and quality. The QU lacked final review and approval of documents and procedures that affect your firm’s drug product identity, strength, and quality.
+
+• Your firm lacks written procedures delineating the roles and responsibilities between you and your client, HemoTreat LLC, regarding receipt, documentation, investigation, and reporting of complaints and serious adverse events.
+
+In your response, you stated that procedures will specify that the Director of the QU gives the final approval for batch release and disposition. You also committed to reviewing your procedures regarding the receipt, documentation, investigation of complaints and adverse events and provide training.
+
+Your response is inadequate. Your response did not adequately address the impact of the lack of QU oversight and lack of review and approval of documents and procedures that affect your firm’s drug product identity, strength, and quality.
+
+Your response is also inadequate because of how complaints and adverse events are addressed. While you stated your contracts will specify that HemoTreat LLC is an “authorized representative”, your response lacked sufficient details about how HemoTreat LLC will receive, document, investigate, and report complaints and adverse events. Moreover, you, as the owner, are responsible for the quality of your drug products regardless of agreements in place with your client, HemoTreat LLC.
+
+In response to this letter, provide a comprehensive assessment with your planned corrective actions and preventive actions (CAPA) to ensure your QU is given the authority and resources to independently and effectively function. The assessment should also include, but not be limited to:
+
+• A complete assessment of documentation systems used throughout your manufacturing and laboratory operations to determine where documentation practices are insufficient. Include a detailed CAPA plan that comprehensively remediates your firm’s documentation practices to ensure you retain attributable, legible, complete, original, accurate, contemporaneous records throughout your operation
+
+• A determination of whether procedures used by your firm are robust and appropriate.
+
+• Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices.
+
+• A complete and final review of each batch and its related information before the QU disposition decision.
+
+• Oversight and approval of investigations and discharging of all other QU duties to ensure the identity, strength, quality, and purity of all products.
+
+Unapproved New Drug Violation
+
+“HemoTreat Hemorrhoid Ointment”
+
+“HemoTreat Hemorrhoid Ointment” is a “drug” as defined by section 201(g)(1)(B) of the FD&C Act, 21 U.S.C. 321(g)(1)(B), because it is intended for the diagnosis, cure, mitigation, treatment, or prevention of disease and/or under section 201(g)(1)(C) of the FD&C Act, 21 U.S.C. 321(g)(1)(C), because it is intended to affect the structure or any function of the body. Specifically, “HemoTreat Hemorrhoid Ointment” is intended for use as an anorectal drug product.
+
+Examples of statements observed on the product label and labeling, that provide evidence of the intended uses (as defined in 21 CFR 201.128) of the product include, but may not be limited to, the following:
+
+“Helps relieve itching and discomfort associated with hemorrhoids and anorectal disorders . . . Temporarily relieves pain associated with anorectal inflammation and inflamed hemorrhoidal tissues.”
+
+Over-the-Counter (OTC) drug products intended for use as anorectal drug products, such as “HemoTreat Hemorrhoid Ointment,” are subject to the final rule for Anorectal Drug Products for Over-the-Counter Human Use (anorectal final rule), see 21 CFR 346. However, “HemoTreat Hemorrhoid Ointment” is not labeled or formulated in accordance with this final rule for the reasons explained below.
+
+The formulation for “HemoTreat Hemorrhoid Ointment” includes an active ingredient that is not described in 21 CFR 346 as acceptable for anorectal drug products. Specifically, adeps suillus is not recognized as an acceptable active ingredient in 21 CFR 346.
+
+Thus, as formulated and labeled, “HemoTreat Hemorrhoid Ointment” does not comply with the final rule described above. Furthermore, we are not aware of sufficient evidence to show “HemoTreat Hemorrhoid Ointment,” as formulated and labeled, is generally recognized as safe and effective. Therefore, this product is a new drug within the meaning of section 201(p) of the FD&C Act, 21 U.S.C. 321(p). As a new drug, “HemoTreat Hemorrhoid Ointment” may not be legally marketed in the United States absent approval of an application filed in accordance with section 505(a) of the FD&C Act, 21 U.S.C. 355(a). “HemoTreat Hemorrhoid Ointment” is not the subject of an FDA-approved application, and therefore, the current marketing of this product violates section 505(a) of the FD&C Act, 21 U.S.C. 355(a). Introduction of such product into interstate commerce is prohibited under section 301(d) of the FD&C Act, 21 U.S.C. 331(d).
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements.
+
+Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of these violations and for preventing their recurrence or the occurrence of other violations.
+
+FDA placed your firm on Import Alert 66-40 on March 17, 2020.
+
+Until you correct all violations completely and we confirm your compliance with CGMP, FDA may withhold approval of any new drug applications or supplements listing your firm as a drug manufacturer.
+
+Failure to correct these violations may also result in the FDA continuing to refuse admission of articles manufactured at Global Treat SRL, Str. Portullui nr. 157 Floor 2, Suite 222 Galati, Galati into the United States under section 801(a)(3) of the FD&C Act, 21 U.S.C. 381(a)(3). Articles under this authority may be subject to refusal of admission, in that the methods and controls used in their manufacture do not appear to conform to CGMP within the meaning of section 501(a)(2)(B) of the FD&C Act, 21 U.S.C. 351(a)(2)(B).
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov or mail your reply to:
+
+W. DeVore Irick
+Compliance Officer
+U.S. Food and Drug Administration
+White Oak Building 51, Room 4235
+10903 New Hampshire Avenue
+Silver Spring, MD 20993
+USA
+
+Please identify your response with FEI 3011785267.
+
+Sincerely,
+/S/
+
+Francis Godwin
+Director
+Office of Manufacturing Quality
+Office of Compliance
+Center for Drug Evaluation and Research

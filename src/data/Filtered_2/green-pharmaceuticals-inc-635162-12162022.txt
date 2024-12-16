@@ -1,0 +1,185 @@
+Delivery Method: 
+        VIA EMAIL CONFIRMED DELIVERY
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Ms. Dominique De Rivel
+          
+
+                                
+  
+    Recipient Title
+              President
+          
+
+          
+            Green Pharmaceuticals Inc.
+
+          
+                      591 Constitution Ave Ste A
+Camarillo, CA 93012
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+           Division of Pharmaceutical Quality Operations IV 
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+WARNING LETTER
+
+December 16, 2022
+
+Dear Ms. De Rivel:
+
+Your firm was registered as an over-the-counter (OTC) human drug manufacturer. The U.S. Food and Drug Administration conducted testing of SnoreStop NasoSpray, Homeopathic Anti-Snoring Nasal Spray. This OTC drug product is labeled as distributed by your firm, Green Pharmaceuticals, Camarillo, CA.
+
+The results of the FDA laboratory testing of a batch of SnoreStop NasoSpray, Homeopathic Anti-Snoring Nasal Spray drug product demonstrate that this drug product is adulterated within the meaning of section 501(a)(1) of the Federal Food, Drug, and Cosmetic Act (FD&C Act or the Act), 21 U.S.C. 351(a)(1), in that it consists in whole or in part of any filthy, putrid, or decomposed substance.
+
+In addition, the FDA has reviewed the records you submitted in response to our meeting on June 2, 2022, and follow-up correspondence regarding your manufacturing of the batch SnoreStop NasoSpray, Homeopathic Anti-Snoring Nasal Spray drug product tested. Our review determined that your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP; therefore, your drug product is adulterated within the meaning of section 501(a)(2)(B) of the FD&C Act, 21 U.S.C. 351(a)(2)(B).
+
+In addition, the FDA reviewed the product label for Green Pharmaceutical’s “SnoreStop.” Based on our review, this product is an unapproved new drug under section 505 of the FD&C Act, 21 U.S.C. 355. Introducing or delivering this product for introduction into interstate commerce violates section 301 of the FD&C Act, 21 U.S.C. 331.
+
+FDA laboratory analysis determined that a sample of your “SnoreStop” product was contaminated with Providencia rettgeri. This contamination is particularly concerning because your “SnoreStop” product is a nasal spray and directed for use in children.
+
+Adulteration Violations
+
+FDA laboratory testing of SnoreStop NasoSpray, Homeopathic Anti-Snoring Nasal Spray drug product lot 2373/21222 found gross microbial contamination. The individual sample results varied between 420 and up to 6200 colony forming units (CFU)/mL for total aerobic microbial count of and between 30 and up to 3800 CFU/mL for total yeast and mold counts. Therefore, this homeopathic drug product is adulterated under section 501(a)(1) of the FD&C Act, in that it has been contaminated with filth, and has been rendered injurious to health. The labeling on your product indicates it may be used for children as young as five-years-old. The high bioburden in conjunction with the route of administration with this drug product poses a high risk of harm to vulnerable patients, including children.
+
+On June 2, 2022, the FDA held a teleconference with you. During the call you stated that you receive bulk drug product from your contract manufacturer and that you further manufactured the drug by filling into the primary container, and further packaging and labeling it at your facility. You stated that you did not test your drug products, including for objectionable microorganisms, before release but rather relied on your contract manufacturer’s certificate of analysis for the bulk product. Failure to test these products for objectionable microorganisms is a violation of CGMP regulations for finished pharmaceuticals, 21 CFR 211.165(b) and section 501(a)(2)(B) of the FD&C Act. You stated that you started testing your finished products for microbial contamination only after the FDA informed you of the laboratory testing results. During the call, you agreed to conduct a voluntary recall of the lot currently in distribution to the U.S. market.
+
+Your firm released finished drug products without adequate testing for critical microbial attributes (i.e., testing to ensure absence of objectionable microorganisms). Without appropriate testing of each batch of drug product required to be free of objectionable microorganisms prior to release, as required under 21 CFR 211.165(b), you did not have scientific evidence regarding the potential presence of microbial contamination that is objectionable in view of its intended use. Particularly for a drug product that is intended for use as a nasal spray, it is essential that your drug products are tested for microbial contamination to minimize the risk of patient exposure to significant numbers or harmful species of microorganisms, harmful microbial metabolites and/or toxins, and drug spoilage or degradation.
+
+On June 9, 2022, you conducted a voluntary recall of lot 2373/21222 of SnoreStop NasoSpray, packaged in 0.3 FL OZ (9ml) bottles, to the consumer level due to gross microbial contamination identified as Providencia rettgeri, as noted on the following FDA website: https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/green-pharmaceuticals-inc-issues-voluntary-nationwide-recall-snorestop-nasospray-due-microbial#:~:text=FOR%20IMMEDIATE%20RELEASE%20%E2%80%93%20June%20 09,contamination%20identified%20as%20Providencia%20rettgeri
+
+In response to this letter, provide:
+
+
+	The name and address of the contract organizations you are currently using to fill and conduct microbiological analysis on SnoreStop NasoSpray as you stated in your follow-up communication.
+	A comprehensive, independent assessment of the design and control of your firm’s manufacturing operations, with a detailed and thorough review of all microbiological hazards.
+	A detailed risk assessment addressing the hazards posed by distributing drug products with potentially objectionable contamination. Specify actions you will take in response to the risk assessment, such as customer notifications and product recalls.
+	Complete investigations into all batches with potential objectionable microbial contamination (i.e., total counts, identification of bioburden to detect objectionable microbes). The investigations should detail your findings regarding the root causes of the contamination.
+	Appropriate microbiological batch release specifications (e.g., total counts, identification of bioburden to detect objectionable microbes) for each of your drug products.
+	All microbial test methods used to analyze each of your drug products.
+	A summary of results from testing retain samples of all drug product batches within expected period of marketing. You should test all appropriate quality attributes including, but not limited to, microbiological quality (total counts and identification of bioburden to detect any objectionable microbes) of each batch. If testing yields an OOS result, indicate the corrective actions you will take, including notifying customers and initiating recalls.
+
+
+Unapproved New Drugs
+
+Statements on the product label that establish the intended uses of your “SnoreStop” product include, but may not be limited to, the following:
+
+
+	The product name “SnoreStop”
+	“Helps stop or reduce the symptoms of snoring”
+	“ANTI-SNORING”
+	“Temporarily helps stop or reduce symptoms of non-apneic snoring”
+
+
+The above claims for “SnoreStop,” which is labeled as homeopathic, demonstrate that it is a drug under section 201(g)(1) of the FD&C Act, 21 U.S.C. 321(g)(1), because it is intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease, and/or intended to affect the structure or any function of the body. Moreover, this product is a “new drug,” as defined by 201(p) of the FD&C Act, 21 U.S.C. 321(p), because it is not generally recognized as safe and effective for use under the conditions prescribed, recommended, or suggested in their labeling. With certain exceptions not applicable here, new drugs may not be introduced or delivered for introduction into interstate commerce without an approved application from the FDA in effect, as described in sections 505(a) and 301(d) of the FD&C Act, 21 U.S.C. 355(a) and 331(d). No FDA-approved application pursuant to section 505 of the FD&C Act, 21 U.S.C. 355, is in effect for this product. Accordingly, this product is an unapproved new drug marketed in violation of sections 301(d) and 505(a) of the FD&C Act, 21 U.S.C. 331(d) and 355(a).
+
+We note that “SnoreStop” is labeled as a homeopathic drug with active ingredients measured in homeopathic strengths. Under section 201(g)(1) of the FD&C Act, 21 U.S.C. 321(g)(1), the term “drug” includes articles recognized in the official Homeopathic Pharmacopeia of the United States (HPUS), or any supplement to it. Homeopathic drug products are subject to the same statutory requirements as other drugs; nothing in the FD&C Act exempts homeopathic drugs from any of the requirements related to adulteration, misbranding, or approval.
+
+Use of Contract Manufacturers
+
+Drugs must be manufactured in conformance with CGMP. The FDA is aware that many drug manufacturers use independent contractors such as production facilities, testing laboratories, packagers, and labelers. The FDA regards contractors as extensions of the manufacturer.
+
+You are responsible for the quality of your drugs regardless of agreements in place with your contract facilities. You are required to ensure that drugs are made in accordance with section 501(a)(2)(B) of the FD&C Act. For additional information regarding contract manufacturing, you may refer to FDA’s guidance document Contract Manufacturing Arrangements for Drugs: Quality Agreements at https://www.fda.gov/media/86193/download.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, you should engage a consultant qualified as set forth in 21 CFR 211.34 to evaluate your operations and to assist your firm in meeting CGMP requirements. The qualified consultant should also perform a comprehensive audit of your entire operation for CGMP compliance and evaluate the completion and efficacy of your corrective actions and preventive actions before you pursue resolution of your firm’s compliance status with the FDA. Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility or in connection with your marketed product. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+Correct any violations promptly. Failure to promptly and adequately address any violations may result in regulatory or legal action without further notice including, without limitation, seizure and injunction. Unresolved violations may also prevent other Federal agencies from awarding contracts.
+
+Failure to address violations may also cause the FDA to withhold issuance of Export Certificates. The FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may inspect to verify that you have completed corrective actions to address any violations.
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Please send your electronic reply to ORAPHARM4_Responses@FDA.HHS.GOV or mail your reply to:
+
+CDR Steven E. Porter, Jr.
+Director, Division of Pharmaceutical Quality Operations IV
+U.S. Food & Drug Administration
+19701 Fairchild Road
+Irvine, California 92612-2506
+
+Please identify your responses with the unique identifier: CMS 635162
+
+If you have questions regarding the contents of this letter, please contact Andrew Haack, compliance officer by telephone at 206-340-8212 or email at Andrew.Haack@fda.hhs.gov.
+
+Sincerely,
+/S/
+
+CDR Steven E. Porter, Jr.
+Director, Division of Pharmaceutical Quality Operations IV
+
+CC:
+Edith Scheiner, Owner
+Homeocare Laboratories Inc.
+7 Odell Plz Ste 142-146,
+Yonkers, NY 10701

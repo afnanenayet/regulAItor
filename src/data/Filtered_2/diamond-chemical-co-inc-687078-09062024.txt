@@ -1,0 +1,179 @@
+Delivery Method: 
+        VIA Electronic Mail
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Harold I. Diamond
+          
+
+                                
+  
+    Recipient Title
+              President
+          
+
+          
+            Diamond Chemical Co., Inc.
+
+          
+                      Union Avenue & Dubois Street
+East Rutherford, NJ 07073
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Division of Pharmaceutical Quality Operations I
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter
+
+CMS#687078
+
+September 6, 2024
+
+Dear Mr. Diamond:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Diamond Chemical Co., Inc., FEI 3003994440, at Union Avenue & Dubois Street, East Rutherford, New Jersey from May 6 to 16, 2024.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your May 30, 2024 response to our Form FDA 483 in detail.
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+1.Your firm failed to test samples of each component for identity and conformity with all appropriate written specifications for purity and quality. Your firm also failed to validate and establish the reliability of your component supplier’s test analyses at appropriate intervals (21 CFR 211.84(d)(1) and 211.84(d)(2)).
+
+You failed to conduct an identity test on each shipment of each lot of components used in the manufacture of your over-the-counter (OTC) drug products, including your active ingredient ethanol. Additionally, you relied on the certificates of analysis (COAs) from your suppliers but failed to establish the reliability of each of your component suppliers’ test analyses at appropriate intervals.
+
+Your response is inadequate. While you state that your firm provided all COAs for ethanol received from your suppliers, and that density, water content, and ethanol content were confirmed for all COAs, the COAs do not include a specific identity test for ethanol.
+Identity testing for ethanol (alcohol) includes a limit test in the United States Pharmacopeia (USP) to ensure that the component meets the relevant safety limits for levels of methanol. Because you did not perform adequate identity testing on each shipment of each lot using the USP identification test that detects this hazardous impurity, you failed to assure the acceptability of the ethanol used in the manufacture of your drug products.
+
+Without adequate testing, you do not have appropriate assurance that components conform to appropriate specifications prior to use in the drug products you manufacture.
+
+2. Your firm failed to have, for each batch of drug product, appropriate laboratory determination of satisfactory conformance to final specifications for the drug product, including the identity and strength of each active ingredient, prior to release (21 CFR 211.165(a)).
+
+Your firm failed to adequately test your drug products for the identity and strength of the active ingredient ethanol prior to release and distribution.
+
+In your response, you state that your firm tested finished drug products with (b)(4) instruments, density tables, and a hydrometer. You also state that you relied upon testing from 2020 for the ethanol content of your current products because you “did not make any formula changes.” Your response is inadequate as these methods are not specific identity tests for ethanol, nor are your methods sufficient to determine, for each batch of drug product, the strength of ethanol in a gel formulation.
+
+Full release testing, including for identity and strength must be performed prior to batch release and distribution. Without adequate testing, you do not have adequate scientific evidence to assure that your drug products conform to appropriate specifications before release.
+
+3. Your firm failed to establish written procedures for production and process control designed to assure that the drug products you manufacture have the identity, strength, quality, and purity they purport or are represented to possess (21 CFR 211.100(a)).
+
+Process Validation
+
+Your firm failed to adequately validate the processes used to manufacture at least (b)(4) batches of your hand sanitizer drug products.
+
+In your response, you state that ethanol content in your finished drug products was addressed through testing of water content, density measurements, hydrometer measurements, and third-party testing. Your response is inadequate as testing alone does not demonstrate that your manufacturing process is validated.
+
+Process validation evaluates the soundness of design and state of control of a process throughout its lifecycle. Each significant stage of a manufacturing process must be designed appropriately and assure the quality of raw material inputs, in-process materials, and finished drugs. Process qualification studies include intensive monitoring and testing throughout each significant process stage to characterize intra-batch variation and evaluate batches to determine whether an initial state of control has been established. Successful process qualification studies are necessary before commercial distribution. Thereafter, ongoing vigilant oversight of process performance and product quality is necessary to ensure you maintain a stable manufacturing operation throughout the product lifecycle.
+
+Cleaning Validation
+
+Your firm lacked cleaning validation studies for non-dedicated equipment used for manufacturing drug and non-drug products, such as industrial dish and laundry detergents.
+
+In your response, you state that your firm performs routine vessel cleaning before manufacturing batches, regardless of the product category. Your response is inadequate.
+
+4. Your firm failed to establish and follow an adequate written testing program designed to assess the stability characteristics of drug products (21 CFR 211.166(a)).
+
+Your firm did not establish an adequate ongoing stability testing program to demonstrate that your hand sanitizer drug products met established specifications for identity, strength, quality, and purity for the duration of their shelf lives.
+
+Your response states that “Stability testing was ongoing during the pandemic” and that ethanol in an enclosed bottle, especially those encapsulated in a viscous gel would not evaporate.
+
+Your response is inadequate. You failed to provide testing data to demonstrate that the chemical and microbiological properties of your drug products will remain within specification throughout their shelf lives.
+
+Quality Systems
+
+Your firm’s quality systems are inadequate. See FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations for help implementing quality systems and risk management approaches to meet the requirements of CGMP regulations 21 CFR, parts 210 and 211 at https://www.fda.gov/media/71023/download.
+
+CGMP Consultant Recommended
+
+We acknowledge your commitment to cease “manufacturing any FDA products.” In response to this letter, clarify whether you intend to continue manufacturing drugs at this or any other facility and provide a list of all drug products that your firm manufactured including all foaming and non-foaming antiseptic hand soap products.
+
+If you plan to resume any manufacturing operations regulated under the FD&C Act, notify this office before resuming your drug manufacturing operations. Should you resume manufacturing drugs, based upon the nature of the violations we identified at your firm, you should engage a consultant qualified as set forth in 21 CFR 211.34 to evaluate your operations and to assist your firm in meeting CGMP requirements. The qualified consultant should also perform a comprehensive six-system audit of your entire operation for CGMP compliance and evaluate the completion and efficacy of your corrective actions and preventive actions before you pursue resolution of your firm’s compliance status with FDA.
+
+Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+Correct any violations promptly. Failure to promptly and adequately address this matter may result in regulatory or legal action without further notice including, without limitation, seizure and injunction. Unresolved violations may also prevent other Federal agencies from awarding contracts.
+
+Failure to address violations may also cause FDA to withhold issuance of Export Certificates. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to address any violations.
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Please send your firm’s response electronically to orapharm1_responses@fda.hhs.gov. Also, please identify your correspondence with FEI 3003994440, and WL 687078. If you have any questions, please contact Nancy Espinal, Compliance Officer, at Nancy.Espinal@fda.hhs.gov.
+
+Sincerely,
+
+/S/
+
+Lisa M. Harlan
+Program Division Director
+Office of Pharmaceutical Quality Operations Division I

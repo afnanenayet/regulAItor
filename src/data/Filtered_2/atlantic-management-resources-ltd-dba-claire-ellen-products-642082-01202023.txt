@@ -1,0 +1,179 @@
+Delivery Method: 
+        VIA Electronic Mail
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Roger Salmonson
+          
+
+                                
+  
+    Recipient Title
+              Owner
+          
+
+          
+            Atlantic Management Resources LTD dba. Claire Ellen Products
+
+          
+                      39 Harvey Lane
+Westborough, MA 01581-3013
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+           Division of Pharmaceutical Quality Operations I 
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+January 20, 2023
+
+Warning Letter #642082
+
+Dear Mr. Salmonson:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Atlantic Management Resources Ltd. dba. Claire Ellen Products, FEI 3014117482, located at 39 Harvey Lane, Westborough, MA, from July 26, 2022 to August 10, 2022.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+Atlantic Management Resources Inc., the manufacturing business entity for Atlantic Management Resources LTD, located at the same address, was duly registered with FDA at the time of manufacturing and distributing, as required by section 510 of the FD&C Act and 21 CFR Part 207. With some limited exceptions, firms that manufacture, prepare, propagate, compound, or process drugs in the United States, or that are offered for import into the United States, must be registered with the FDA. Sections 510(b), (c), (d), and (i) of the FD&C Act, 21 U.S.C. 360(b), (c), (d), and (i).
+
+Atlantic Management Resources LTD distributed under its own name and label, drugs that were not duly listed with FDA. Failure to properly list a drug product is prohibited under section 301(p) of the FD&C Act, 21 U.S.C. 331(p), and will render a drug misbranded under section 502(o) of the FD&C Act, 21 U.S.C. 352(o). Introduction or delivery for introduction of such products into interstate commerce is prohibited under section 301(a) of the FD&C Act, 21 U.S.C. 331(a). These violations are described in more detail below.
+
+As per Atlantic Management Resources LTD’s response to FDA, dated November 5, 2022, the firm agreed to cease production and distribution of all drug products, however, all products previously listed with FDA remain listed, and Atlantic Management Resources Inc, the manufacturing business entity located at the same address, renewed its registration on January 9, 2023 with FDA for the 2023 calendar year.
+
+We reviewed your August 17, 2022 response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence. Your response is inadequate because it did not provide sufficient detail or evidence of corrective actions to bring your operations into compliance with CGMP.
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to establish an adequate quality unit and the responsibilities and procedures applicable to the quality control unit are not in writing and fully followed (21 CFR 211.22(a) and (d)).
+
+Your firm failed to establish a quality unit (QU) with the responsibilities and authority to oversee the manufacture of your homeopathic drug products.
+
+You stated that your firm does not have any written procedures, including those that govern quality operations. For example, you failed to have written procedures to ensure documented sampling, examination, and testing of components before production. In addition, you failed to establish a program for qualifying suppliers and ensuring that your homeopathic finished drug products are tested prior to release and distribution to the customer.
+
+Quality unit responsibilities include, but are not limited to, approving or rejecting incoming materials, in-process materials, and drug products; ensuring that controls are implemented and completed satisfactorily during manufacturing operations; and reviewing production records and investigating any unexplained discrepancies.
+
+These, and other basic quality responsibilities, are integral to conducting effective and appropriate oversight for the manufacturing of your drugs.
+
+Your firm’s quality systems are inadequate. See FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations for help implementing quality systems and risk management approaches to meet the requirements of CGMP regulations 21 CFR, parts 210 and 211 at https://www.fda.gov/media/71023/download.
+
+2. Your firm failed to store drug products under appropriate conditions of temperature, humidity, and light so that the identity, strength, quality, and purity are not affected (21 CFR 211.142(b)).
+
+You failed to have adequate storage and warehousing of drug products. For example, although a supplier’s certificate of analysis (COA) for a bulk drug stated that the drug is sensitive to heat, sunlight, and moisture, you failed to monitor storage conditions for the drug, including for temperature and humidity. You also acknowledged that there were inadequate storage conditions for drug products, and for your containers and closures. The holding of drug products must be performed under appropriate conditions so that the identity, strength, quality, and purity are not affected.
+
+3. Your firm failed to prepare batch production and control records that include documentation of the accomplishment of each significant step in the manufacture, processing, packing, or holding of the batch, for each batch of drug product (21 CFR 211.188(b)).
+
+Your firm failed to have batch and control records that document your manufacturing operations. You stated that there were no batch records and no batch numbers. Batch records are required to capture significant information to assure that your drug products have been manufactured, processed, packed, or held properly.
+
+Drug Production Ceased
+
+On November 3, 2022, FDA held a teleconference with you. We recommended you remove any batches of drug product currently in distribution from the U.S. market and also consider ceasing further distribution.
+
+On November 5, 2022, you communicated your firm’s commitment to cease distribution of the drug product on the website, cease production and distribution of all drug products, and consider a voluntary recall all drug products.
+
+On November 21, 2022, you issued a voluntary nationwide recall of all drug products.
+
+We acknowledge your commitment to cease production and distribution of all drug products.
+
+In response to this letter, confirm whether you intend to resume manufacture of any drugs at this facility or any other facility in the future. If you plan to resume any manufacturing regulated under the FD&C Act, notify this office prior to resuming your manufacturing operations. If you resume CGMP activities, you are responsible for resolving all deficiencies and systemic flaws to ensure your firm is capable of ongoing CGMP compliance. In addition, based upon the nature of the violations we identified at your firm, you should engage a consultant qualified as set forth in 21 CFR 211.34, to assist your firm in meeting drug CGMP requirements. The qualified consultant should also perform a comprehensive six-system audit1 of your entire operation for CGMP compliance and evaluate the completion and efficacy of all corrective actions and preventive actions before you pursue resolution of your firm’s compliance status with FDA.
+
+Owner’s Responsibilities
+
+Drugs must be manufactured in conformance with CGMP. FDA is aware that many drug manufacturers use independent contractors such as production facilities, testing laboratories, packagers, and labelers. FDA regards contractors as extensions of the manufacturer.
+
+You are responsible for the quality of your drugs regardless of agreements in place with a contract facility. You are required to ensure that drugs are made in accordance with section 501(a)(2)(B) of the FD&C Act to ensure safety, identity, strength, quality, and purity. See FDA’s
+guidance document Contract Manufacturing Arrangements for Drugs: Quality Agreements at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/contract-manufacturing-arrangements-drugs-quality-agreements-guidance-industry.
+
+Establishment Registration and Drug Listing Violations
+
+Under section 510(j)(1) of the FD&C Act, 21 U.S.C. 360(j)(1), 21 CFR 207.41, and 21 CFR 207.49(a)(5), all drugs manufactured, prepared, propagated, compounded, or processed for U.S. commercial distribution must be listed with FDA. Atlantic Management Resources LTD distributed under its own name and label, Neuroquell Plus Cream, which was not listed with FDA at the time of manufacturing and distribution. Failure to properly list a drug product is prohibited under section 301(p) of the FD&C Act, 21 U.S.C. 331(p), and will render a drug misbranded under section 502(o) of the FD&C Act, 21 U.S.C. 352(o).
+
+The introduction or delivery for introduction of a misbranded drug into interstate commerce is prohibited under section 301(a) of the FD&C Act, 21 U.S.C. 331(a).
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+Correct any violations promptly. Failure to promptly and adequately address this matter may result in regulatory or legal action without further notice including, without limitation, seizure, and injunction. Unresolved violations may also prevent other Federal agencies from awarding contracts.
+
+Failure to address violations may also cause FDA to withhold issuance of Export Certificates. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMPs. We may re-inspect to verify that you have completed corrective actions to address any violations.
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify identify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Please send your electronic reply to Yvette Johnson, Compliance Officer, at Yvette.Johnson@fda.hhs.gov and ORAPHARM1_RESPONSES@fda.hhs.gov. Please identify your response with FEI #3014117482.
+
+Sincerely,
+/S/
+
+Lisa Harlan
+Program Division Director/ District Director
+U.S. Food and Drug Administration
+OPQO Division I / New Jersey District
+
+_______________________________
+
+1 i.e. Quality System, Facilities & Equipment System, Materials System, Production System, Packaging & Labeling System, and Laboratory Control System per FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations.

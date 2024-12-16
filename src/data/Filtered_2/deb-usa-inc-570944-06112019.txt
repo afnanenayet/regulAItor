@@ -1,0 +1,307 @@
+Delivery Method: 
+        UPS EXPRESS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Herbert Fisk Johnson III
+          
+
+                                
+  
+    Recipient Title
+              Chairman and Chief Executive Officer
+          
+
+          
+            Deb USA Inc. 
+
+          
+                      1525 Howe St
+Racine, WI 53403
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Division of Pharmaceutical Quality Operations II
+        
+         
+          4040 North Central Expressway, Suite 300
+Dallas, TX 75204-3128
+United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+June 11, 2019
+
+Case # 570944
+
+WARNING LETTER
+
+Mr. Johnson:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, SC Johnson Professional, Inc. (formerly Deb USA, Inc.) at 1100 South Highway 27, Stanley, North Carolina 28164, from October 22 to 30, 2018.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals (see 21 CFR, parts 210 and 211) and requirements for registration and listing of drug products (see Section 510(j) of the Federal Food, Drug and Cosmetic Act (FD&C Act) and 21 CFR part 207).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your November 20, 2018, response in detail and acknowledge receipt of your subsequent correspondence.
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+CGMP Violations
+
+1. Your firm failed to establish adequate written responsibilities and procedures applicable to the quality control unit and to follow such written procedures applicable to the quality control unit (21 CFR 211.22(d)).
+
+Our investigators documented that your quality unit (QU) failed to follow your firm’s procedures. For example, your QU failed to ensure every drug product batch is released only when satisfactory product quality testing is completed.
+
+You released antimicrobial hand soaps and hand sanitizers for distribution before reviewing and approving microbiology test results. Your QU did not perform its basic responsibility of ensuring that drug products possessed their required quality attributes at the time of release and distribution. You also did not initiate investigations into out-of-specification (OOS) test results “in a timely manner,” as required by your procedure.
+
+You initiated the investigation into an OOS assay test result for AntiBac FOAM, lot 048994, approximately two months after the lot was released.
+
+Your response indicated you have improved procedures and trained employees to ensure completion of chemical and microbiological testing before releasing drug products. Your response is inadequate because you did not address the fundamental failure of the QU to perform its batch disposition function, identify the root cause(s), and ensure full remediation of QU authorities and responsibilities.
+
+In response to this letter, provide:
+
+• A comprehensive assessment and corrective action and preventive action (CAPA) to ensure your QU is given the authority and resources to effectively function. The assessment should include, but not be limited to:
+
+o An evaluation of each procedure used by your firm to ensure they are appropriate, sufficient, and robust.
+o Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices.
+o A complete and final review of each batch and its related information before the QU disposition decision.
+o Oversight and approval of investigations and discharging of all other QU duties to ensure identity, strength, quality, and purity of all products.
+
+2. Your firm failed to establish laboratory controls that include scientifically sound and appropriate specifications, standards, sampling plans, and test procedures designed to assure that components, drug product containers, closures, in-process materials, labeling, and drug products conform to appropriate standards of identity, strength, quality, and purity (21 CFR 211.160(b)).
+
+You did not have a procedure governing (b)(4) of High Performance Liquid Chromatography (HPLC) data. Additionally, your procedure did not require the same number of replicate HPLC injections ((b)(4)) to average and obtain a final result.
+
+Our investigators identified several examples of your firm using (b)(4) and reporting passing results without adequate procedural controls or justification. For instance, Deb Pure Bac Foam Wash, lot 049559, initially failed during (b)(4) and upon (b)(4) yielded a passing result that was reported.
+
+You cannot ensure your drug products meet their required quality attributes if test procedures and methods are not adequate.
+
+In your response, you committed to implement a written procedure for the (b)(4) of HPLC data. Your response is inadequate because you did not commit to performing a retrospective review of all chromatographic data associated with drug products and raw materials subject to HPLC testing and still within expiry.
+
+In response to this letter, provide:
+
+• An independent assessment and report of all chromatographic data associated with released drug products within expiry to determine if each (b)(4) was performed appropriately.
+
+• A full assessment of your (b)(4) practices. Based on this assessment, provide procedures that clearly define circumstances in which (b)(4) can be appropriate. Also provide associated scientific justification.
+
+3. Your firm failed to establish and follow required laboratory control mechanisms (21 CFR 211.160(a)).
+
+Laboratory personnel failed to follow written procedures for testing components and drug products. For example:
+
+A. Your personnel failed to follow your procedure for enumeration of viable microorganisms. Your procedure requires (b)(4) and (b)(4) in (b)(4) on both (b)(4) and (b)(4). Your firm’s practice is to prepare (b)(4) on a (b)(4) plate and a (b)(4) plate for incubation.
+
+B. Your procedure for enumeration of viable microorganisms required (b)(4) to be tested per (b)(4). However, your firm tested (b)(4) samples on the same (b)(4). In your response, you acknowledged testing (b)(4) samples on the same (b)(4).
+
+C. Many microbiological testing activities were not contemporaneously documented. Significantly, our investigators found microbiological test plates in a laboratory trash can with no written record of their receipt, preparation, incubation, or reading. The test sheets for the undocumented plates were not completed and the employee stated he would record the results later from memory.
+
+D. Desiccated agar plates were observed in use for microbiological testing.
+
+Your laboratory practices compromise the ability of your firm to rely on your microbiology test results for making quality decisions.
+
+In your response, you committed to revise your microbial limits testing procedure and implement a modified notebook for microbiology laboratory personnel to record the receipt, testing, and results for samples. Your response is inadequate because you did not provide an investigation explaining why your employees failed to follow procedures. You did not commit to ceasing the practice of testing (b)(4). You also did not provide an investigation into your use of desiccated agar plates. Additionally, you did not perform a retrospective assessment of drug products tested in your microbiological laboratory to assess the validity of the reported data.
+
+In response to this letter, provide:
+
+• Your investigation into the failure of your laboratory personnel to follow written procedures.
+
+• A comprehensive, independent review of your chemical and microbiological laboratory practices, procedures, methods, equipment, and analyst competencies. Based on this review, provide a detailed CAPA plan to remediate your laboratory system. Your plan should include the process you will use to evaluate the effectiveness of the implemented CAPA plan.
+
+• Your plan to have an independent qualified laboratory perform chemical and microbiological testing of each of your drug products within expiry to ensure they possess all of their required quality attributes. Provide the third-party test methods and test results. If testing any previously released batch yields any OOS results, indicate the corrective actions you will take, including notifying customers and initiating recalls.
+
+4. Your firm failed to ensure that laboratory records included complete data derived from all tests necessary to ensure compliance with established specifications and standards (21 CFR 211.194(a)).
+
+Our inspection found instances in which your firm overwrote electronic testing data, discarded original testing records, and failed to report OOS laboratory test results. For example:
+
+A. Your HPLC software configuration allows users to overwrite data resulting in original data being irretrievable. A torn-up HPLC chromatogram was discovered in a dumpster outside your facility on October 23, 2018. The chromatogram was for a stability testing assay result for Refresh PureBac Foam, lot 044262. The electronic file and method were manipulated yielding different results. The data manipulation was not captured in the audit trail and the passing result from a single injection was reported on the “OTC Stability Testing Results” form.
+
+B. The OOS result from HPLC assay testing of Brady Clear, lot 8072, was not reported. Two injections of the sample were performed and yielded results of 0.516808% and 0.495222%. Your procedure requires the results to be averaged (specification of (b)(4)). However, rather than reporting the average assay result, which failed, you reported the initial single injection result that was (b)(4) to meet the specification (b)(4).
+
+In your response, you committed to either configuring the (b)(4) software to make it compliant or acquiring new software. You also planned to make additional improvements to handling data. Your response is inadequate because you did not describe the additional improvements. You also failed to perform a comprehensive retrospective assessment of data generated in support of drug products manufactured at your facility and you did not investigate data integrity issues.
+
+In response to this letter, provide your CAPA plan as requested in the Data Integrity Remediation section of this letter below.
+
+5. Your firm failed to conduct, for each batch of drug product, appropriate laboratory testing, as necessary, required to be free of objectionable microorganisms (21 CFR 211.165(b)).
+
+Our inspection found you released drugs products without appropriate microbiological testing. Your firm acknowledged that drug products are routinely released for distribution before receiving, reviewing, and approving microbiological quality testing.
+
+For example, Satellite Instant Foam, lot 9085, was released for distribution before microbiological testing was completed or reviewed. You recalled this lot because of potential microbiological contamination in October 2018.
+
+In your response, you stated drug products are shipped to third-party distribution centers where they are held until microbiological testing is completed. You did not implement an adequate CAPA or provide documentation of the controls that could prevent unauthorized distribution when the drug products you produce are outside of your control. You further stated you implemented an interim procedure requiring confirmation of testing before release. However, you did not provide details about how release decisions are communicated to your customers and the third-party distribution centers, and whether you will cease distributing to them before batch release. You also did not address your QU’s failure to ensure laboratory procedures were followed so that data is reported before batch release.
+
+In response to this letter, provide:
+
+• Your procedures and arrangements with third parties associated with release and distribution of your drug products.
+
+• An explanation for why full quality control testing of lots released without documentation of full testing will not be completed until (b)(4). Identify action(s) taken to ensure these products are not further distributed until microbiological testing is complete.
+
+• A fully remediated procedure for your batch disposition process and a description of the changes made to the procedure.
+
+Data Integrity Remediation
+
+Your quality system does not adequately ensure the accuracy and integrity of data to support the safety, effectiveness, and quality of the drugs you manufacture. See FDA’s guidance document, Data Integrity and Compliance With Drug CGMP, for guidance on establishing and following CGMP compliant data integrity practices at https://www.fda.gov/media/119267/download.
+
+In response to this letter, provide the following:
+
+A. A comprehensive investigation into the extent of the inaccuracies in data records and reporting. Your investigation should include:
+
+• A detailed investigation protocol and methodology; a summary of all laboratories, manufacturing operations, and systems to be covered by the assessment; and a justification for any part of your operation that you propose to exclude.
+
+• Interviews of current and former employees to identify the nature, scope, and root cause of data inaccuracies. We recommend that these interviews be conducted by a qualified third party.
+
+• An assessment of the extent of data integrity deficiencies at your facility. Identify omissions, alterations, deletions, record destruction, non-contemporaneous record completion, and other deficiencies. Describe all parts of your facility’s operations in which you discovered data integrity lapses.
+
+• A comprehensive retrospective evaluation of the nature of the testing data integrity deficiencies. We recommend that a qualified third party with specific expertise in the area where potential breaches were identified
+should evaluate all data integrity lapses.
+
+B. A current risk assessment of the potential effects of the observed failures on the quality of your drugs. Your assessment should include analyses of the risks to patients caused by the release of drugs affected by a lapse of data integrity and analyses of the risks posed by ongoing operations.
+
+C. A management strategy for your firm that includes the details of your global CAPA plan. Your strategy should include:
+
+• A detailed corrective action plan that describes how you intend to ensure the reliability and completeness of all the data you generate including analytical data, manufacturing records, and all data submitted to FDA.
+
+• A comprehensive description of the root causes of your data integrity lapses including evidence that the scope and depth of the current action plan is commensurate with the findings of the investigation and risk assessment. Indicate whether individuals responsible for data integrity lapses remain able to influence CGMP-related or drug application data at your firm.
+
+• Interim measures describing the actions you have taken or will take to protect patients and to ensure the quality of your drugs, such as notifying your customers, recalling product, conducting additional testing, adding lots to your stability programs to assure stability, drug application actions, and enhanced complaint monitoring.
+
+• Long-term measures describing any remediation efforts and enhancements to procedures, processes, methods, controls, systems, management oversight, and human resources (e.g., training, staffing improvements) designed to ensure the integrity of your company’s data.
+
+• A status report for any of the above activities already underway or completed.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements. Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Violations of Drug Registration and Listing Requirements
+
+The FDA has reviewed your firm’s listing information provided for Kindest Kare Antimicrobial Foam Handwash, NDC 11084-808. Our review revealed that the listing for this product includes inaccurate information. You have failed to address this listing deficiency detailed in FDA’s letter to your company on February 26, 2018. A data removal notification was also sent to your company on April 12, 2018, and at that time, the listing data was removed from the online NDC Directory. Promptly correct this deficiency.
+
+Section 510(j) of the FD&C Act and 21 CFR part 207 outlines the requirements for registration and listing of drug products. In the case of Kindest Kare Antimicrobial Foam Handwash, NDC 11084-808, the listing must include the name and quantity of each active ingredient listed in the drug.1
+
+A review of the listing for Kindest Kare Antimicrobial Foam Handwash, NDC 11084-808, reveals that the active ingredients do not match between the labeling and the electronic listing file (Structured Product Labeling (SPL)). Specifically, the labeling refers to triclosan 0.75% as the active ingredient, while the active ingredient listed in the SPL is alcohol 62 mg in 100 ml.
+
+Your firm failed to fulfill its listing obligations under section 510(j) of the FD&C Act, which is a prohibited act under section 301(p), 21 U.S.C. 360(j) and 331(p). In addition, your firm’s failure to fulfill its listing obligations misbrands the product under section 502(o) of the FD&C Act. Introduction or delivery for introduction into interstate commerce of a misbranded product is a prohibited act under section 301(a), 21 U.S.C. 352(o) and 331(a).
+
+In addition, information included on your website indicates that Kindest Kare Antimicrobial Foam Handwash has been discontinued, yet the drug listing file for this product has been certified to be current for calendar year 2019. The FD&C Act and 21 CFR 207 outlines the requirements for updating the registration and listing of drug products. Registrants must submit updates to the listing data every June and December and, amongst other updates, report any drugs that have been discontinued and are no longer in commercial distribution.2 If Kindest Kare Antimicrobial Foam Handwash is no longer commercially distributed, the listing file must be updated to include accurate information about its market availability. The marketing end date should correspond to the last lot expiration date of the listed drug.
+
+For your information, an OTC drug product can be legally marketed in the United States either (1) pursuant to the OTC Drug Review, or (2) through a New Drug Application (NDA) for products that do not fit within a specific rulemaking. If the intent is to market your product as an OTC drug product within the scope of FDA’s OTC Drug Review, it must meet the conditions of the applicable monograph and each general condition in 21 CFR 330.1.
+
+In addition, OTC drug products must comply with all the requirements of section 502 of the FD&C Act and all pertinent regulations found in Title 21 of the CFR. For example, dual language labeling with English and another language is permissible when labeled in accordance to 21 CFR 201.15 and not otherwise false or misleading. Under 21 CFR 201.15, “all words, statements, and other information required by or under authority of the act to appear on the label or labeling shall appear thereon in the English language,” and “if the label contains any representation in a foreign language, all words,statements, and other information required by or under authority of the act to appear on the label shall appear thereon in the foreign language.”
+
+Information from your firm’s registration and product listing is accessible not only to FDA, but to other interested parties, including consumers. Your product’s listing information has been removed from the FDA’s online NDC Directory and will not be available for public viewing until the corrections are made. This is an effort to maintain a correct and accurate database to protect and promote the public health.
+
+Within fifteen working days of receipt of this letter, specific to the Violations of Drug Registration and Listing Requirements, please notify the eDRLS team in writing of the specific steps that you have taken to correct this violation. Your response should include an explanation of each step being taken to prevent the recurrence of violations and copies of supporting documentation. If you cannot complete these corrective actions within fifteen working days, state the reason for the delay and the date you will complete the correction. Please be aware that a manual override may be required for certain types of revisions made to an existing drug listing file. If you receive a validation error or have any questions regarding the contents of this letter, please contact the eDRLS team at edrls@fda.hhs.gov for further assistance. Include the case identification number of 1291 and the Core ID of your submission, on all correspondence.
+
+Your reply regarding the Violations of Drug Registration and Listing Requirements should be mailed to:
+
+Tasneem Hussain Pharm. D.
+eDRLS Team
+Food and Drug Administration
+Mail Stop HFD-300
+10903 New Hampshire Avenue
+Silver Spring, MD 20993-0002
+WO 51, Room #2261
+
+Conclusion
+
+Violations cited in this letter are not intended as an all-inclusive list. You are responsible for investigating these violations, for determining the causes, for preventing their recurrence, and for preventing other violations.
+
+Correct the violations cited in this letter promptly. Failure to promptly correct these violations may result in legal action without further notice including, without limitation, seizure and injunction. Unresolved violations in this warning letter may also prevent other Federal agencies from awarding contracts.
+
+Until these violations are corrected, we may withhold approval of pending drug applications listing your facility. We may re-inspect to verify that you have completed your corrective actions. We may also refuse your requests for export certificates.
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Your written notification should refer to the Warning Letter Number above (Case # 570944). Please electronically submit your signed reply on your firm’s letterhead to CDR John W. Diehl, M.S., Director, Compliance Branch, at john.diehl@fda.hhs.gov and orapharm2_responses@fda.hhs.gov.
+
+If you have questions regarding the contents of this letter, you may contact Mr. Thao Ta, Compliance Officer, via phone at 214-253-5217 or e-mail at thao.ta@fda.hhs.gov.
+
+Sincerely,
+/S/
+
+Monica R. Maxwell
+Program Division Director
+Office of Pharmaceutical Quality Operations,
+Division II
+
+cc:
+Elaine Rudolphi
+Director, Global Manufacturing
+S.C. Johnson Professional, Inc.
+2815 Coliseum Centre Drive, Suite 600
+Charlotte, North Carolina 28217
+
+John H. Fuson, Partner
+Crowell & Morning LLP
+1001 Pennsylvania Ave NW
+Washington, DC 20004
+
+Glenn John Campbell, Jr.
+Vice President of Operations
+SC Johnson Professional, Inc. (formerly Deb USA Inc.)
+1100 S. Highway 27
+Stanley, North Carolina 28164-2205
+
+________________
+
+1 See 21 CFR part 207.49(a)(4)
+2 See 21 CFR Part 207.57(b)(ii)

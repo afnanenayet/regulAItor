@@ -1,0 +1,255 @@
+Delivery Method: 
+        Via Email
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Ali A. Alkadi
+          
+
+                                
+  
+    Recipient Title
+              Owner and Director of Marketing
+          
+
+          
+            DSP Skin Care LLC
+
+          
+                      1930 Wilshire Boulevard, Suite 507
+Los Angeles, CA 90057-3649
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Division of Pharmaceutical Quality Operations IV
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+WARNING LETTER
+
+July 19, 2022
+
+Dear Mr. Alkadi:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, DSP Skin Care LLC, FEI 3013374118, at 1930 Wilshire Boulevard, Suite 507, Los Angeles, from September 7 to September 9, 2021.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21, Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (the FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+In addition, your Hongosan Anti-Fungal Set product is an unapproved new drug introduced or delivered for introduction into interstate commerce in violation of section 505(a) of the FD&C Act, 21 U.S.C. 355(a), and is misbranded under sections 502(a), (c), and (ee) of the FD&C Act, 21 U.S.C. 352(a), (c), and (ee). Introduction or delivery for introduction of such products into interstate commerce is prohibited under sections 301(d) and (a) of the FD&C Act, 21 U.S.C. 331(d) and (a). These violations are described in more detail below.
+
+In addition, DSP Skin Care LLC is not duly registered with FDA as required by section 510 of the FD&C Act and 21 CFR Part 207. With some limited exceptions, firms that manufacture, prepare, propagate, compound, or process drugs in the United States, or that are offered for import into the United States, must be registered with the FDA. Sections 510(b), (c), (d), and (i) of the FD&C Act, 21 U.S.C. 360(b), (c), (d), and (i).
+
+Hongosan Anti-Fungal Set product (tolnaftate 1%, undecylenic acid 0.1%, soap), Hongosan Anti-Fungal Cream (tolnaftate 1%), and Hongosan Premium Plus Spray (undecylenic acid 0.1%) are not duly listed with FDA as required by section 510(j) of the FD&C Act. Failure to properly list a drug product is prohibited under section 301(p) of the FD&C Act, 21 U.S.C. 331(p), and will render a drug misbranded under section 502(o) of the FD&C Act, 21 U.S.C. 352(o). Introduction or delivery for introduction of such products into interstate commerce is prohibited under section 301(a) of the FD&C Act, 21 U.S.C. 331(a). These violations are described in more detail below.
+
+We reviewed your September 17, 2021, response to our Form FDA 483 in detail.
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to have, for each batch of drug product, appropriate laboratory determination of satisfactory conformance to final specifications for the drug product, including the identity and strength of each active ingredient, prior to release (21 CFR 211.165(a)).
+
+Your firm released Hongosan Premium Plus Spray and DSP Skin Care Hand Sanitization Gel over-the-counter (OTC) drug products without testing to ensure that they met their identity, purity, strength, and other appropriate quality attributes. While the label for Hongosan Premium Plus Spray drug product lists an active ingredient, you stated that your contract manufacturer did not test the product since it no longer contained an active ingredient, undecylenic acid. In addition, you stated to our investigators that your DSP Skin Care Hand Sanitization Gel drug product was not tested by your contract manufacturer because you failed to pay them to test the product.
+
+In your response, you stated the Hongosan Premium Plus Spray drug product (b)(4) and the packaging will be updated to reflect the removal of undecylenic acid. You also stated that you would further inquire about laboratory testing for your drug products and establish applicable procedures. Further, you stated that you do not intend to continue manufacturing your DSP Skin Care Hand Sanitization Gel drug product.
+
+Your response is inadequate because you did not address how you will ensure appropriate laboratory determination of satisfactory conformance to final specifications, including identity and strength of each active ingredient in Hongosan Premium Plus Spray and DSP Skin Care Hand Sanitization Gel drug products prior to release. Further, you did not include sufficient information about your testing procedures, methods, or a detailed description of the tests you will conduct (for example, for identity, strength, and purity). Although you stated that you do not intend to continue manufacturing the DSP Skin Care Hand Sanitization Gel drug product, you failed to address the lack of testing of drug product on the market that is still within expiry.
+
+Testing is essential to ensure that the drug products you manufacture meet established specifications.
+
+In response to this letter, provide the following:
+
+• A list of chemical and microbiological specifications, including test methods, used to analyze each lot of your drug products before a lot disposition decision.
+  o An action plan and timelines for conducting full chemical and microbiological testing of retain samples, to determine the quality of all batches of distributed drug products that are within expiry as of the date of this letter.
+  o A summary of all results obtained from testing retain samples from each batch. If such testing reveals substandard-quality drug products, take rapid corrective actions, such as notifying customers and product recalls.
+
+2. Your firm failed to establish and follow an adequate written testing program designed to assess the stability characteristics of drug products and to use results of stability testing to determine appropriate storage conditions and expiration dates (21 CFR 211.166(a)).
+
+Your firm lacked an adequate stability program to demonstrate that the chemical and microbiological properties of your Hongosan Anti-Fungal Set and Hongosan Premium Plus Spray drug products remain within specification throughout their labeled expiry period. You explained to our investigators that the contract manufacturer verbally informed you that a two-year expiration date is the appropriate shelf life for these products without conducting stability studies or providing any stability data. You proposed remediation of your stability program in your 2018 inspection.
+
+In your response, similar to your response regarding finished product testing, you stated that you would further inquire about laboratory testing for your drug products and establish applicable procedures.
+
+In your response, you failed to provide data to demonstrate that the chemical and microbiological properties of your drug products will remain within specification throughout their labeled expiry period of up to two years, or interim measures to address the products on the market that are lacking stability data.
+
+Without an adequate stability program, you cannot confirm that your drug products will meet established specifications and all predetermined quality criteria throughout their shelf life.
+
+In response to this letter, provide the following:
+
+• A comprehensive, independent assessment and corrective action and preventive action (CAPA) plan to ensure the adequacy of your stability program. Your remediated program should include, but not be limited to:
+  o Stability studies for each drug product in its marketed container-closure system before distribution is permitted.
+  o Stability-indicating methods.
+  o An ongoing program in which representative batches of each product are added each year to the program to determine if the shelf-life claim remains valid.
+  o Detailed definition of the specific attributes to be tested at each station (timepoint).
+
+• All procedures that describe these and other elements of your remediated stability program.
+
+• A detailed risk assessment addressing the hazards posed by distributing drug products that lack stability data. Specify actions you will take in response to the risk assessment, such as customer notifications and product recalls.
+
+3. Your firm’s quality control unit failed to exercise its responsibility to ensure drug products manufactured are in compliance with CGMP, and meet established specifications for identity, strength, quality, and purity (21 CFR 211.22).
+
+Your firm lacked written procedures detailing the roles, responsibilities, and duties of the quality unit (QU) to ensure that QU functions are accurately performed and that drug products meet quality standards. For example, your firm lacks written quality procedures for investigations, CAPA, change control, CGMP training, drug product stability, and finished drug product release. In addition, your firm could not provide batch production records, including lot control numbers, for bulk drug products used in repacking or filling operations for approximately 20 batches of Hongosan Anti-Fungal Cream and Hongosan Premium Plus liquid drug products. During the 2018 inspection, you acknowledged the need for a quality unit to ensure that the manufacturing process of OTC drug products remains in control.
+
+In your response, you stated that once testing procedures are established, “they shall be used to create a document for quality control.” Your response is inadequate because you failed to include details about how you intend to address all necessary requirements to establish a QU. Regarding batch production records, you stated that after the contract manufacturer who completes filling operations includes the batch numbers on product containers, your firm will document the “item, lot number, number of cases, and date” in a log. Your response is inadequate because you failed to establish a procedure or provide specific details about how you will ensure that batch production records will include complete information relating to the production and control of each batch.
+
+Your response demonstrated a lack of CGMP understanding and the lack of adequate quality oversight and control from incoming products to finished product. Your firm must provide the QU with the appropriate authority and sufficient resources to carry out its responsibilities and consistently ensure drug quality. The QU is responsible for approving manufacturing procedures impacting the identity, strength, quality, and purity of the drug products and for reviewing production records to assure that no errors have occurred.
+
+In response to this letter, provide the following:
+
+• A comprehensive assessment and remediation plan to ensure your QU is given the authority and resources to effectively function. The assessment should also include, but not be limited to:
+  o A determination of whether procedures used by your firm are robust and appropriate.
+  o Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices.
+  o A complete and final review of each batch and its related information before the QU disposition decision.
+  o Oversight and approval of investigations and discharging of all other QU duties to ensure identity, strength, quality, and purity of all products.
+
+Unapproved New Drug Violations
+
+Your Hongosan Premiun [sic] Plus product, which consists of your Hongosan Anti-Fungal Cream, Hongosan Anti-Fungal Drops, and Hongosan Soap co-packaged and marketed as a three-component set (hereinafter "Hongosan Anti-Fungal Set"), is a “drug” as defined by section 201(g)(1)(B) of the FD&C Act, 21 U.S.C. 321(g)(1)(B), because it is intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease, and/or under section 201(g)(1)(C) of the FD&C Act, 21 U.S.C. 321(g)(1)(C), because it is intended to affect the structure or any function of the body. Specifically, this product is intended for use as a topical antifungal.
+
+Examples of claims from your product labeling, including your website labeling (at dspskincareproducts.com, where this product is available for purchase), that provide evidence of the intended uses (as defined in 21 CFR 201.128) of the product include, but may not be limited to, the following:
+
+“Description . . . The Hongosan Anti Fungal Set is a specialized three piece solution that fights fungal skin infections commonly found on the skin. This combo set helps relieve itching, burning, cracking, irritation, scaling, and fungal rash that are commonly associated with fungal infections. In addition, Hongosan alleviates many common fungal infections on the skin, and promotes the healing of skin affected by fungal infections. . . . This 3-piece non-prescription antifungal solution contains the following items: One Hongosan Soap, one Hongosan Anti-Fungal Cream containing Tolnaftate, and one Hongosan Anti-Fungal Drop.” [description of products within the kit, from your website https://dspskincareproducts.com/product/hongosan-anti-fungal-set/]
+
+“Original . . . HONGOSAN DSP . . . PREMIUN [sic] PLUS . . . ALLEVIATES INFECTION CAUSED BY FUNGUS . . . 3-Piece Set . . . (Cream, Anti-Sceptic [sic] Liquid, and Soap) . . . Drug Facts . . . Active Ingredients . . . Tolnaftate 1% . . . Purpose . . . Antifungal . . . Uses . . . Treats most external fungal infections . . . Treats most ringworm infections. . . . Treats most dermic infections. . . . Treats itching, burning, cracking, irritation, and scaling. . . . Directions . . . Wash the affected area with Hongosan Soap. Dry, and then use the Hongosan Liquid Drops. Wait 5 min., then apply the Hongosan Cream.” [from your Hongosan Anti-Fungal Set’s outer packaging]
+
+“Original HONGOSAN DSP . . . PREMIUN [sic] PLUS . . . SOAP . . . Use: Wash the affected area with soap. dry [sic], and follow it with the rest of the Hongosan Treatment. . . . Clean the affected area with Hongosan Soap. Allow area to dry, then apply the Hongosan Liquid Treatment and wait 5 minutes before applying Hongosan Cream. . . .” [from your Hongosan Soap’s label]
+
+“Original . . . HONGOSAN . . . PREMIUM PLUS . . . ANTI-FUNGAL • PROTECTOR . . . Active Ingredients: . . . Undecylenic Acid 0.1% . . . Antifungal . . . Use: . . . Wash the affected area with soap, dry, apply the Hongosan Drop or Brush, wait 5min. then apply the cream.” [from your Hongosan Anti-Fungal Drops label]
+
+“Original . . . HONGOSAN . . . PREMIUM PLUS . . . ANTI-FUNGAL • PROTECTOR . . . Active Ingredients: . . . Tolnaftate 1% . . . Antifungal . . . Use: . . . Wash the affected area with soap, dry, apply the Hongosan Drop or Brush, wait 5min. then apply the cream.” [from your Hongosan Anti-Fungal Cream label]
+
+As explained below, your “Hongosan Anti-Fungal Set” is a new drug within the meaning of section 201(p) of the FD&C Act, 21 U.S.C. 321(p). A new drug may not be introduced or delivered for introduction into interstate commerce without an approved application from FDA in effect, as described in section 505(a) of the FD&C Act, 21 U.S.C. 355(a), unless it is a nonprescription drug governed by and lawfully marketed under section 505G of the FD&C Act (which is not the case for this product, as described below) or under other exceptions not applicable here. No FDA-approved application pursuant to section 505 of the FD&C Act, 21 U.S.C. 355, is in effect for this drug product.
+
+Your Hongosan Anti-Fungal Set product is a drug subject to section 505G of the FD&C Act, 21 U.S.C. 355h, which governs nonprescription drugs marketed without an approved application. Under section 505G of the FD&C Act, certain nonprescription drugs marketed without an approved application —commonly referred to as "OTC monograph drugs"—may be legally marketed if they meet applicable requirements. With respect to OTC topical antifungal drug products, such products are deemed to be generally recognized as safe and effective (GRASE) and not a new drug if, among other things, they conform to the conditions of use set forth in the Over-the-Counter (OTC) Monograph M005: Topical Antifungal Drug Products for Over-the-Counter Human Use (henceforth “M005”).1 Your “Hongosan Anti-Fungal Set” product is an OTC topical antifungal drug product based on the claims noted above and thus, it is subject to the requirements of Over-the-Counter (OTC) Monograph M005. However, the “Hongosan Anti-Fungal Set” does not conform to the conditions of use specified in M005; in particular, the product is neither formulated nor labeled in conformance with M005.
+
+Tolnaftate 1%, as a sole active ingredient, is permitted for use as an antifungal under M005 and is the active ingredient in your Hongosan Anti-Fungal Cream. However, the directions for use on the labeling of your Hongosan Anti-Fungal Set, noted above, convey to the consumer that the components of this product, including the Hongosan Anti-Fungal Drops containing undecylenic acid 0.1% and the Hongosan Soap, are intended to be used in conjunction with each other as an antifungal treatment. M005 does not allow for such a combination of components as a nonprescription antifungal drug, nor does it allow for more than one active ingredient in a nonprescription antifungal drug. In addition, the labeling of your Hongosan Anti-Fungal Set product makes claims that the product “Treats most external fungal infections” and “Treats most dermic infections”, which are not claims permitted by M005.
+
+Therefore, your Hongosan Anti-Fungal Set product does not meet the requirements of section 505G under which a product is deemed to be GRASE and not a new drug.
+
+Further, as noted above, no FDA-approved application pursuant to section 505 of the FD&C Act, 21 U.S.C. 355, is in effect for Hongosan Anti-Fungal Set topical antifungal drug product. Additionally, we are not aware of any adequate and well-controlled clinical studies in the published literature that support a determination that your “Hongosan Anti-Fungal Set” drug product is GRASE for use under the conditions prescribed, recommended, or suggested in its labeling. Accordingly, this topical antifungal drug product is an unapproved new drug marketed in violation of section 505(a) and 301(d) of the FD&C Act, 21 U.S.C 355(a) and 331(d).
+
+Please note that we attribute the antifungal claims on the package labeling of your Hongosan Anti-Fungal Set product to each of its components (i.e., Hongosan Anti-Fungal Cream, Hongosan Anti-Fungal Drops, and Hongosan Soap), which are intended to be used in conjunction with each other as a topical antifungal treatment. Under section 201(g) of the FD&C Act, the definition of "drug" includes "articles intended for use as a component" of any product otherwise meeting the definition of "drug" (such as your Hongosan Anti-Fungal Set product). Therefore, the Hongosan Anti-Fungal Cream, Hongosan Anti-Fungal Drops, and Hongosan Soap are drugs based on their intended use and are themselves subject to applicable requirements under the FD&C Act, including the requirements of M005. Because these three components of your Hongosan Anti-Fungal Set are intended to be used together as an integrated treatment regimen, but lack an FDA approval for such use, these components are also unapproved new drugs. In addition, these components of your Hongosan Anti-Fungal Set would not be compliant with M005 even if marketed separately for their intended use, because their individual labeling does not comply with the requirements of M005.
+
+Misbranded Drug Violations
+
+Your Hongosan Anti-Fungal set product is also misbranded under section 502(a) of the FD&C Act, under which a drug is deemed misbranded if its labeling is false or misleading in any particular. Under section 201(n) of the FD&C Act, "in determining whether the labeling or advertising is misleading there shall be taken into account (among other things) not only representations made or suggested by statement, word, design, device, or any combination thereof, but also the extent to which the labeling or advertising fails to reveal facts material in the light of such representations." In particular, the Drug Facts panel on the product’s labeling does not declare all active ingredients present in the Hongosan Anti-Fungal Set, as required under 21 CFR 201.66(c)(2), because the Drug Facts panel omits reference to the active ingredient undecylenic acid contained in the product's constituent Hongosan Anti-Fungal Drops.
+
+The Hongosan Anti-Fungal Set also fails to conform to the Drug Facts labeling requirements under 21 CFR 201.66(c)(8), which requires use of the term “Inactive ingredients” for listing all inactive ingredients. Consequently, your Hongosan Anti-Fungal Set product is also misbranded under section 502(c) of the FD&C Act, 21 U.S.C. 352(c) because the Drug Facts panel does not contain all information that is required under 21 CFR 201.66.
+
+Further, your Hongosan Anti-Fungal Set product is misbranded under section 502(ee) of the FD&C Act, 21 U.S.C. 352(ee), because this product is a nonprescription drug subject to section 505G of the FD&C Act, 21 U.S.C. 355h, is not the subject of an application approved under section 505 of the FD&C Act, 21 U.S.C. 355, and does not comply with the requirements under section 505G of the FD&C Act, 21 U.S.C. 355h.
+
+Moreover, based on their labeling for joint use as an integrated treatment regimen, the Hongosan Anti-Fungal Cream, Hongosan Anti-Fungal Drops, and Hongosan Soap are themselves misbranded drugs in the same manner as your Hongosan Anti-Fungal Set product considered as a whole. In addition, these components of your Hongosan Anti-Fungal Set would be misbranded under section 502 of the FD&C Act even if marketed separately for their intended use, because their individual labeling would be deemed misbranded under section 502(c) for failing to meet applicable labeling requirements, and these components would also be deemed misbranded under section 502(ee) on the same basis as described above for your Hongosan Anti-Fungal set product.
+
+Introduction or delivery for introduction of misbranded products into interstate commerce is prohibited under section 502 and 301(a) of the FD&C Act, 21 U.S.C. 352 and 331(a).
+
+Establishment Registration and Drug Listing Violations
+
+DSP Skin Care LLC manufactures drug products as detailed in an FDA inspection conducted September 7 through 9, 2021. Under section 510(b) of the FD&C Act, 21 U.S.C. 360(b), and 21 CFR 207.17(a), all manufacturers must register each domestic establishment. Additionally, firms must review and update registration information annually or certify that there are no changes. 21 CFR 207.29. Our query of FDA’s drug registration and listing database determined that the DSP Skin Care LLC’s (FEI 3013374118) establishment registration expired on December 31, 2017. DSP Skin Care LLC is required to submit registration information annually by electronic means for each establishment it owns or operates that is engaged in the manufacture, preparation, propagation, compounding, or processing of a drug that is in commercial distribution in the United States. DSP Skin Care LLC has not fulfilled its registration requirement. As a result, all drugs manufactured in this establishment are misbranded under Section 502(o) of the FD&C Act [21 U.S.C. 352(o)].
+
+Under section 510(j)(1) of the FD&C Act, 21 U.S.C. 360(j)(1), and 21 CFR 207.41, all drugs manufactured, prepared, propagated, compounded, or processed for U.S. commercial distribution must be listed with FDA Hongosan Anti-Fungal Set (NDC 70826-576) drug listing with FDA was not certified as required by 21 CFR 207.57 and has therefore been inactivated. Hongosan Anti-Fungal Cream (tolnaftate 1%), and Hongosan Premium Plus Spray (undecylenic acid 0.1%) were never listed with FDA. Failure to properly list a drug product is prohibited under section 301(p) of the FD&C Act, 21 U.S.C. 331(p), and will render a drug misbranded under section 502(o) of the FD&C Act, 21 U.S.C. 352(o).
+
+The introduction or delivery for introduction of a misbranded drug into interstate commerce is prohibited under section 301(a) of the FD&C Act, 21 U.S.C. 331(a).
+
+Quality Systems
+
+Your firm’s quality systems are inadequate. See FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations for help implementing quality systems and risk management approaches to meet the requirements of CGMP regulations 21 CFR, parts 210 and 211, at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/quality-systems-approach-pharmaceutical-current-good-manufacturing-practice-regulations.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, and because you failed to correct repeat violations, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements. Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Repeat Observations at Facility
+
+In a previous inspection, dated September 17, 2018, to September 26, 2018, FDA cited similar CGMP observations. Your failure to implement appropriate remediations for the observations documented during the 2018 and 2021 inspections demonstrates that your executive management oversight and control over the manufacture of drug products is inadequate.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+Correct any violations promptly. Failure to promptly and adequately address this matter may result in regulatory or legal action without further notice including, without limitation, seizure and injunction. Unresolved violations may also prevent other federal agencies from awarding contracts.
+
+Failure to address violations may also cause FDA to withhold issuance of export certificates. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to address any violations.
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Please send your electronic reply to ORAPHARM4_Responses@FDA.HHS.GOV or mail your reply to:
+
+CDR Steven E. Porter, Jr.
+Director, Division of Pharmaceutical Quality Operations IV
+U.S. Food & Drug Administration
+19701 Fairchild Road
+Irvine, California 92612-2506
+
+Please identify your responses with the unique identifier: CMS 622549.
+
+If there is any question about the released information, please contact Mariza Jafary, compliance officer, at 949-608-2977, or at Mariza.Jafary@fda.hhs.gov.
+
+Sincerely,
+/S/
+CDR Steven E. Porter, Jr.
+Director, Division of Pharmaceutical Quality Operations IV
+
+____________________
+
+1 Section 505G(a)(1) of the FD&C Act specifies criteria under which certain nonprescription drugs without an approved application are deemed GRASE and not "new drugs", notably conformance with conditions detailed in applicable OTC monograph documents issued by FDA under 21 CFR 330 prior to enactment of the CARES Act. In the case of OTC antifungal drug products, relevant documents were deemed under section 505G to be a final administrative order, Over-the-Counter Monograph M005: Topical Antifungal Drug Products for Over-the-Counter Human Use. (See Order ID OTC000017, available at FDA’s website OTC Monographs@FDA, https://www.accessdata.fda.gov/scripts/cder/omuf/.)

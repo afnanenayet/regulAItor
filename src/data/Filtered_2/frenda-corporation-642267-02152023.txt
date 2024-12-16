@@ -1,0 +1,214 @@
+Delivery Method: 
+        VIA Electronic Mail
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Enrique Freiria
+          
+
+                                
+  
+    Recipient Title
+              Owner and President
+          
+
+          
+            Frenda Corporation
+
+          
+                      Calle A Lote 7 Parque Ind Las Cuevas
+Trujillo Alto 00976
+Puerto Rico
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+           Division of Pharmaceutical Quality Operations II 
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+DATE: 2/15/2023
+
+Case #: 642267
+
+WARNING LETTER
+
+Dear Mr. Freiria:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Frenda Corporation, FEI 3003945152, at Calle A Lote 7 Parque Ind Las Cuevas, Trujillo Alto, from July 26 to August 1, 2022.
+
+Your drug products are adulterated under section 501(a)(2)(A) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(A), in that they have been prepared, packed, or held under insanitary conditions.
+
+This warning letter also summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the FD&C Act, 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your August 22, 2022, response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence. Your response is inadequate because it did not provide sufficient detail or evidence of corrective actions to bring your operations into compliance with CGMP.
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+Insanitary Conditions
+
+Your drug products are adulterated under section 501(a)(2)(A) of the FD&C Act because they were prepared, packed, or held under insanitary conditions. During the inspection, our investigators observed the presence of insects and filthy conditions in your facility. There were several instances of insects found inside your supply of container closures (bottles and caps) in the facility. We are also aware of a consumer complaint of an insect observed in a hand sanitizer product.
+
+Furthermore, your facility lacked adequate separation of drug manufacturing from production of industrial chemicals and proper protection from the external environment. For example, the same areas (e.g., warehousing, production) and equipment were used to manufacture your drug products and industrial chemicals, and the facility doors were open to the outside environment during production.
+
+CGMP Violations
+
+1. Your firm failed to have separate or defined areas or such other control systems necessary to prevent contamination or mix-ups (21 CFR 211.42(c)).
+
+Your firm manufactures over-the-counter (OTC) drug products such as rubbing alcohol and hand sanitizer1. You also manufacture commercial industrial chemicals (including both caustic and acidic based cleaning detergents and disinfectants) on the same manufacturing equipment as your OTC drug products. For example, mixing tanks and Filling Line (b)(4) were used to manufacture non-pharmaceutical industrial chemicals, including products that contain known skin irritants (such as “(b)(4)” which utilizes (b)(4)), before and after manufacturing OTC drug products.
+
+It is unacceptable as a matter of CGMP to continue manufacturing drugs using the same equipment that you use to manufacture industrial chemicals due to the risk of cross-contamination and potential for mix-ups.
+
+2. Your firm failed to clean, maintain, and, as appropriate for the nature of the drug, sanitize and/or sterilize equipment and utensils at appropriate intervals to prevent malfunctions or contamination that would alter the safety, identity, strength, quality, or purity of the drug product beyond the official or other established requirements (21 CFR 211.67(a)).
+
+Your equipment in your facility was observed in a state of disrepair. For example, our investigators observed the appearance of rust-like residues on the surfaces of the filling equipment and the presence of dirty and damaged seals on the filling line injector nozzles that contact the product. In addition, you did not maintain written cleaning procedures or equipment use logs for Filling Line (b)(4) used to manufacture drug product and non-pharmaceutical industrial chemicals.
+
+It is your responsibility to ensure that only appropriately designed and maintained equipment are used in the manufacture of your drug products.
+
+3. Your firm failed to establish adequate written procedures for production and process control designed to assure that the drug products you manufacture have the identity, strength, quality, and purity they purport or are represented to possess, and to follow all of your written production and process control procedures (21 CFR 211.100(a) and 211.100(b)).
+
+You failed to adequately design, validate, and control your water system to ensure that it was suitable for producing water used in the formulation of your drug products. For example, you lacked water system validation, chemical and microbiological limits for component water, and routine monitoring for chemical and microbiological quality. Inadequate control and monitoring of your water system pose a potential risk for the presence of objectionable microbiological contamination in your drug products.
+
+Pharmaceutical water must meet the Purified Water USP monograph, be suitable for its intended use, and routinely tested to ensure ongoing conformance with appropriate chemical and microbiological attributes.
+
+4. Your firm failed to test samples of each component for identity and conformity with all appropriate written specifications for purity, strength, and quality. Your firm also failed to validate and establish the reliability of your component supplier’s test analyses at appropriate intervals (21 CFR 211.84(d)(1) and 211.84(d)(2)).
+
+Component Testing
+
+You failed to conduct an identity test on each shipment of each lot of components used in the production of your drug products, including the active ingredient (i.e., isopropyl alcohol). Additionally, you relied on the certificates of analysis (COA) from your suppliers and failed to establish the reliability of each of your suppliers’ COA for component specifications and characteristics.
+
+Products Contain Ethanol (Methanol Risk)
+
+You manufacture multiple drugs that contain ethanol. The use of ethanol contaminated with methanol has resulted in various lethal poisoning incidents in humans worldwide. See FDA’s guidance document Policy for Testing of Alcohol (Ethanol) and Isopropyl Alcohol for Methanol, Including During the Public Health Emergency (COVID-19) at: https://www.fda.gov/media/145262/download.
+
+Products Contain Glycerin
+
+You manufacture drugs that contain glycerin. The use of glycerin contaminated with diethylene glycol (DEG) has resulted in various lethal poisoning incidents in humans worldwide.
+
+See FDA’s guidance document Testing of Glycerin for Diethylene Glycol to help you meet the CGMP requirements when manufacturing drugs containing glycerin at https://www.fda.gov/media/71029/download.
+
+You failed to determine whether each component conformed with all appropriate written specifications for identity, purity, strength, and quality before using them.
+
+5. Your firm’s quality control unit failed to exercise its responsibility to ensure drug products manufactured are in compliance with CGMP, and meet established specifications for identity, strength, quality, and purity (21 CFR 211.22).
+
+Quality System
+
+Your firm failed to establish an adequate Quality Unit (QU) with the responsibilities and authority to oversee the manufacture of your drug products. For example, you failed to ensure:
+
+
+	Adequate procedures describing roles and responsibilities of the QU, including the handling of vendor qualification, batch release, reserve samples, complaints, change management, process validation, equipment cleaning, and CGMP training (21 CFR 211.22(a) and (d)).
+	Adherence to a stability program (21 CFR 211.166(a)).
+	Performance of annual product reviews (21 CFR 211.180(e)).
+	Consistent and complete batch records (21 CFR 211.188).
+	Adequate investigations and deviations (21 CFR 211.192).
+
+
+Your firm’s quality systems are inadequate. See FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations for help implementing quality systems and risk management approaches to meet the requirements of CGMP regulations 21 CFR, parts 210 and 211 at https://www.fda.gov/media/71023/download.
+
+Finished Product Testing
+
+Your firm released and distributed OTC drug products without adequate finished product testing. For example, you performed limited release testing (temperature, odor, appearance, and alcohol concentration) as part of the production record. However, full release testing, including identity, strength, quality, and purity must be performed before drug release and distribution, as required under 21 CFR 211.165(a). You also released finished drug products without testing for critical microbial attributes, such as testing to ensure absence of objectionable microorganisms, as required under 21 CFR 211.165(b).
+
+Drug products must be tested for identity, strength, quality, and purity prior to release and distribution. Without adequate testing, there is no scientific evidence to assure that your drug products conform to appropriate specifications before release.
+
+Drug Production Ceased
+
+On December 12, 2022, FDA held a teleconference with you. We recommended you consider removing any batches of drug product currently in distribution from the U.S. market and consider ceasing further distribution.
+
+On December 13, 2022, you communicated your commitment to cease the manufacturing and distribution of all drug products with no intention of producing drug products in the future and agreed to voluntary recall all drug products produced after December 31, 2021.
+
+On December 21, 2022, the FDA notified the public that drug products were manufactured under insanitary conditions with potential for cross contamination with dangerous industrial chemicals at the following website: https://www.fda.gov/drugs/drug-safety-and-availability/fda-updates-hand-sanitizers-consumers-should-not-use.
+
+We acknowledge your commitment to cease production of drugs at this facility.
+
+In response to this letter, confirm whether you intend to resume manufacturing any drugs at this facility or any other facility in the future. If you plan to resume any manufacturing regulated under the FD&C Act, notify this office prior to resuming your drug manufacturing operations. If you resume CGMP activities, you are responsible for resolving all deficiencies and systemic flaws to ensure your firm is capable of ongoing CGMP compliance. In addition, based upon the nature of the violations we identified at your firm, you should engage a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements. The qualified consultant should also perform a comprehensive six-system audit2 of your entire operation for CGMP compliance and evaluate the completion and efficacy of all corrective actions and preventive actions before you pursue resolution of your firm’s compliance status with FDA.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+Correct any violations promptly. Failure to promptly and adequately address this matter may result in regulatory or legal action without further notice including, without limitation, seizure, and injunction. Unresolved violations may also prevent other Federal agencies from awarding contracts.
+
+Failure to address violations may also cause FDA to withhold issuance of Export Certificates. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to address any violations.
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Your written notification should refer to case # 642267.
+
+Please electronically submit your reply, on company letterhead, to Rebecca Asente, Compliance Officer, at ORAPHARM2_RESPONSES@fda.hhs.gov and Rebecca.asente@fda.hhs.gov. In addition, please submit a signed copy of your response to Ronda Loyd-Jones, Director, Compliance Branch, at Ronda.loyd- jones@fda.hhs.gov.
+
+If you have questions regarding the contents of this letter, you may contact Rebecca Asente via (504) 846-6104 or Rebecca.asente@fda.hhs.gov.
+
+Sincerely,
+/S/
+Monica R. Maxwell
+Program Division Director
+Office of Pharmaceutical Quality Operations, Division II
+
+_______________________
+
+1 Due to an increased demand for alcohol-based hand sanitizers during the COVID-19 pandemic, the FDA published the Guidance for Industry: Temporary Policy for Preparation of Certain Alcohol-Based Hand Sanitizer Products During the Public Health Emergency (COVID-19) on March 19, 2020, and subsequently updated the guidance several times. This guidance communicated the Agency’s temporary policy that we did not intend to take action against firms for CGMP violations under section 501(a)(2)(B) of the FD&C Act if such firms prepared alcohol-based hand sanitizers for consumer use (or for use as a health care personnel hand rub) during the public health emergency, provided certain circumstances described in the guidance were present. These circumstances included preparation of hand sanitizer products using only the ingredients and formulas set forth in the guidance. The guidance was withdrawn effective December 31, 2021 (86 Fed Reg at 56960). Because Frenda Corporation hand sanitizer products were not prepared under the circumstances described in this guidance, they do not fall within any temporary agency policy not to take action against firms manufacturing hand sanitizer products for violations of section 501(a)(2)(B) of the FD&C Act.
+
+2 i.e. Quality System, Facilities & Equipment System, Materials System, Production System, Packaging & Labeling System, and Laboratory Control System per FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations.

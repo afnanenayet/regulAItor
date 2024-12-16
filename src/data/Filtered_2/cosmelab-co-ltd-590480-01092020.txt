@@ -1,0 +1,196 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+              Reference #: 
+        320-20-17
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Jin Young Park
+          
+
+                                
+  
+    Recipient Title
+              Chief Executive Officer
+          
+
+          
+            Cosmelab Co Ltd 
+
+          
+                      4F CL Building
+42, Teheran-ro 28-gil
+Gangnam-gu
+Seoul
+06223
+South Korea
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research | CDER
+        
+         
+          10903 New Hampshire Avenue
+Silver Spring, MD 20993
+United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+
+Warning Letter 320-20-17
+
+January 9, 2020
+ 
+
+Dear Mr. Park:
+
+The U.S. Food and Drug Administration (FDA) inspected your facility, Cosmelab Co., Ltd., FEI 3009647084, at 4F CL Building, 42, Teheran-ro 28-gil, Oangnam-gu, Seoul, from July 15 to 17, 2019.
+
+This warning letter summarizes significant violations of current good manufacturing practice (COMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211 ).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to COMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your August 6, 2019, response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence.
+
+During our inspection, our investigator observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to establish an adequate quality control unit with the responsibility and authority to approve or reject all components, drug product containers, closures, in-process materials, packaging materials, labeling, and drug products (21 CFR 211.22(a)).
+
+You failed to establish an adequate quality unit (QU) to carry out quality control duties. For example, you failed to ensure that assay tests were performed for your over-the-counter (OTC) drug products and that results were reviewed prior to release for distribution. At the time of the inspection you lacked a QU with appropriate oversight over the drug manufacturing and testing operations conducted by your contracted facilities. It is your responsibility to assure all manufacturing records and test results are adequately reviewed and approved, and that every drug product batch is released only when satisfactory product quality testing is completed.
+
+Additionally, your supplier oversight is deficient. Your firm released OTC drug products to the United States produced by a contract manufacturer on FDA's Import Alert 66-40. During the inspection you stated you were unaware that your supplier, (b)(4), was on FDA import alert, until you were made aware during the inspection.
+
+It is your responsibility to have appropriate resources and trained personnel to perform required CGMP operations. FDA is aware that many firms use independent contractors such as production facilities, testing laboratories, packagers, and labelers. FDA regards contractors as extensions of the manufacturer.
+
+You are responsible for the quality of your drugs regardless of agreements in place with your contract facilities. You are required to ensure that drugs are made in accordance with section 501(a)(2)(B) of the FD&C Act to ensure safety, identity, strength, quality, and purity. See FDA's guidance document Contract Manufacturing Arrangements for Drugs: Quality Agreements at https://www.fda.gov/media/86193/download.
+
+In your response, you acknowledged that you have not tested the active ingredients for three of your four drug products prior to release, as required, and that you are planning to use a third-party laboratory to analyze the active ingredients in your drug products. In addition, you stated that a lack of understanding of FDA drug regulations contributed to your not establishing a dedicated quality unit. You committed to hire a consultant knowledgeable about FDA regulations.
+
+You also committed to cease distribution for one of your drug products, (b)(4), to the United States market until your contract manufacturer addresses FDA findings that led to them being placed on FDA's Import Alert 66-40.
+
+Your response is inadequate because you did not provide a detailed interim plan of action to establish a comprehensive quality unit. Without an adequate QU, you are unable to ensure that your drug products meet required specifications and manufacturing standards for safety, identity, strength, purity, and quality.
+
+See FDA's guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations for help implementing quality systems and risk management approaches to meet the requirements of CGMP regulations 21 CFR, parts 210 and 211 at https://www.fda.gov/media/71023/download.
+
+In response to this letter, provide:
+
+• A comprehensive independent assessment and remediation plan to ensure your QU is given the authority and resources to effectively function. The assessment should also include, but not be limited to:
+
+    o A determination of whether procedures used by your firm are robust and appropriate
+    o Provisions for QU oversight throughout drug product distribution to evaluate adherence to appropriate practices
+    o A complete and final review of each batch and its related information before the QU disposition decision
+    o Oversight and approval of investigations and discharge of all other QU duties to ensure identity, strength, quality, and purity of all products
+
+• A retrospective evaluation of your drug products that remain on the U.S. market. You should address any drug product quality or patient safety risks including those potentially affected by your lack of adequate quality oversight, and assess the adequacy of investigations (if any) into any deviations, out-of-specification results, or other manufacturing quality issues. Include a full corrective and preventive action (CAP A) plan ( e.g., notification to customers, recall) for any drug products that may have a quality or safety risk.
+
+• A list of chemical specifications, including test methods, used to analyze each lot of your drug products before a lot disposition decision. Specify the responsibilities of all contract manufactures that will perform these analyses.
+
+    o An action plan and timelines for conducting full chemical testing of retain samples to determine the quality of all batches of drug product distributed to the United States within expiry as of the date of this letter
+    o A summary of all results obtained from testing retain samples from each batch. If such testing reveals substandard quality drug products, take rapid corrective actions, such as notifying customers and product recalls
+
+• A detailed plan for ongoing assessments of each lot of component used for production of finished drug product to meet appropriate standards of identity, strength, quality, and purity. Outline your plans to establish a robust supplier qualification program, including a detailed supplier qualification and audit program that specifies how you ensure that oversight of suppliers is commensurate with risk to finished product.
+
+Purchase and Distribution of Drugs From a Manufacturer on FDA Import Alert 66-40
+
+We reviewed a list of your suppliers, which includes (b)(4). (b)(4) is currently on FDA Import Alert 66-40 Detention Without Physical Examination of Drugs From Firms Which Have Not Met Drug GMPs since December 27, 2017. Import Alert 66-40 can be found on the FDA public website, https://www.accessdata.fda.gov/cms ia/importalert_189.html.
+
+Import Alert 66-40 includes firms for which an FDA inspection has revealed that a firm is not operating in conformity with CGMP and their drugs appear to be adulterated. If your firm is being directly or indirectly supplied by establishments that lack adequate CGMP, your firm's drugs could be subject to import alert. FDA recommends that you ensure that you properly evaluate and qualify all your suppliers as required by CGMP, and change the source of your supply, where appropriate. Consequently, your use of this supplier on Import Alert 66-40 led to the appearance of adulteration of your drugs.
+
+FDA placed your firm on Import Alert 66-40 on November 12, 2019.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting drug CGMP requirements. We also recommend that the qualified consultant perform a comprehensive audit of your entire operation for drug CGMP compliance and that the consultant evaluates the completion and efficacy of your corrective actions and preventive actions before you pursue resolution of your firm's compliance status with FDA.
+
+Your use of a consultant does not relieve your firm 's obligation to comply with CGMP. Your firm' s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+Violations cited in this letter are not intended as an all-inclusive list. You are responsible for investigating these violations, for determining the causes, for preventing their recurrence, and for preventing other violations.
+
+FDA placed your firm on Import Alert 66-40 on November 12, 2019.
+
+Until you correct all violations completely and we confirm your compliance with CGMP, FDA may withhold approval of any new applications or supplements listing your firm as a drug manufacturer.
+
+Failure to correct these violations may also result in FDA continuing to refuse admission of articles manufactured at Cosmelab Co., Ltd. at 4F CL Building, 42, Teheran-ro 28-gil, Gangnan1-gu, Seoul, into the United States under section 801(a)(3) of the FD&C Act (21 U.S.C. 381 (a)(3)). Under the same authority, articles may be subject to refusal of admission, in that the methods and controls used in their manufacture do not appear to conform to CGMP within the meaning of section 501(a)(2)(B) of the FD&C Act (21 U.S.C. 35 l (a)(2)(B)).
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within I 5 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov or mail your reply to:
+
+Christina Alemu-Cruickshank
+Compliance Officer
+U.S. Food and Drug Administration
+White Oak Building 51 , Room 4212
+l 0903 New Hampshire A venue
+Silver Spring, MD 20993
+USA
+
+Please identify your response with FEI 3009647084.
+
+Sincerely,
+/S/
+
+Francis Godwin
+Director
+Office of Manufacturing Quality
+Office of Compliance
+Center for Drug Evaluation and Research

@@ -1,0 +1,284 @@
+Delivery Method: 
+        VIA SIGNATURE CONFIRMED DELIVE
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Wendi Wang, Ph.D.
+          
+
+                                
+  
+    Recipient Title
+              President
+          
+
+          
+            Advanced Botanical Consulting & Testing Inc dba ABC Testing 
+
+          
+                      1169 Warner Ave
+Tustin, CA 92780
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Division of Pharmaceutical Quality Operations IV
+        
+         
+          19701 Fairchild
+Irvine, CA 92612-2506
+United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+WARNING LETTER
+
+ 
+
+VIA SIGNATURE CONFIRMED DELIVERY  
+
+ 
+
+June 4, 2019
+
+ 
+
+Wendi Wang, Ph.D.
+
+President
+
+Advanced Botanical Consulting and Testing Inc. dba ABC Testing 
+
+1169 Warner Ave
+
+Tustin, CA 92780
+
+ 
+
+Dear Dr. Wang:
+
+The U.S. Food and Drug Administration (FDA) inspected your contract testing laboratory, Advanced Botanical Consulting and Testing Inc. dba ABC Testing (FEI 3003693795) at 1169 Warner Ave, Tustin, California, from November 1 to 13, 2018.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See 21 CFR, parts 210 and 211. 
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B). 
+
+We reviewed your December 4, 2018, response in detail and acknowledge receipt of your subsequent correspondence. 
+
+During our inspection, our investigator observed specific violations including, but not limited to, the following.
+
+
+	Your firm failed to establish and document the accuracy, sensitivity, specificity, and reproducibility of its test methods (21 CFR 211.165(e)).
+
+
+You did not use United States Pharmacopeia (USP) monograph methods to test multiple USP monograph drug products nor did you show method equivalency or superiority for your methods. For example, the (b)(4) and (b)(4) of your lidocaine, docusate, and fluocinolone assay testing methods differed from those found in the USP, and you could not provide method validation data that established the adequacy of the test methods. Your (b)(4) test method also indicated it was a modified USP (b)(4) method, and you could not provide validation data for your modified method. 
+
+ 
+
+Furthermore, on multiple occasions, you used (b)(4) test methods (USP (b)(4)) to perform microbiological testing for drug products salicylic acid and lidocaine, but lacked assurance that the methods were adequate. You lacked suitability testing to determine whether these methods were appropriate for testing each drug product.
+
+Notably, you performed microbiological testing on Diocto docusate sodium oral liquid stool softener (“Diocto”) Lot #20351513 for (b)(4) on July 6, 2016 (Lab#172913). Your certificate of analysis stated that you did not detect the presence of Burkholderia cepacia (B. cepacia) in your sample. Around the same time period, Diocto Lot #20351513 was linked to a multi-state B. cepacia outbreak in 2016 with at least 60 confirmed cases and multiple patient deaths. FDA and the Centers for Disease Control tested samples of Diocto Lot #20351513 and genetically matched B. cepacia isolated from Diocto Lot #20351513 to B. cepacia isolated from ill patients[1]. While microbiological contamination is non-uniform and any given sample of a contaminated lot may or may not contain the organism-of-interest, we note that you did not have method suitability to support that your method can detect B. cepacia. 
+
+Customers rely on your laboratory data for critical information about the quality of drugs and their components. Thus, it is important that your test methods are properly verified or validated and that you use appropriate test methods to enable your customers to make proper decisions (e.g., batch disposition). Results generated using unverified or unvalidated methods can mislead customers and may put consumers at risk.
+
+The bulk of your response to this observation is a recitation of your company president’s credentials and commentary on the state of dietary supplement testing. While we acknowledge that you intend to begin using the appropriate USP microbiological test methods for non-sterile drugs, your response failed to fully address the observation cited. This is especially troubling given the fact that this observation, among many others cited on the Form FDA 483, was a repeat violation from a 2012 inspection. You had committed at the close of the 2012 inspection not to perform drug testing in the future since you primarily test botanical and nutritional products. However, it appears you did not take the necessary corrective actions to ensure your testing laboratory was capable of performing drug testing prior to resuming commercial drug testing in 2016.
+
+See FDA’s guidance document, Analytical Procedures and Methods Validation for Drugs and Biologics, for general principles and approaches that FDA considers appropriate elements of analytical method validation at https://www.fda.gov/media/87801/download. 
+
+In your response to this letter, provide:
+
+
+	an independent assessment of all test methods used by your firm to ensure they have appropriate instructions, method suitability criteria, and appropriate validation (or verification, for USP compendial methods) to determine whether they are fit for purpose.
+	your plan of action to complete validation (or verification, for USP compendial methods) for all analytical test methods.
+	a comprehensive independent review of your entire laboratory system, and a corrective action and preventive action (CAPA) plan that ensures full remediation of the laboratory operation. For example, the review of your laboratory system should include, but not be limited to, the suitability of all laboratory equipment, a fully remediated calibration program, staff competencies, supervisory oversight, data systems, and other elements of laboratory control.
+	your plan to communicate with your customers about the inadequate methods used to test their drugs. 
+
+
+
+	Your firm failed to ensure that laboratory records included complete data derived from all tests necessary to ensure compliance with established specifications and standards (21 CFR 211.194(a)).
+
+
+Your notebooks and worksheets for the (b)(4) analysis of (b)(4) Brd Spect SPF 50 lack documentation of lot numbers and expiration dates of standards. 
+
+All CGMP-related data must be retained by a contract testing laboratory to enable appropriate assessments and decisions by the quality unit and customers and to demonstrate ongoing control.
+
+In your response, you stated that you updated notebooks and worksheets to “document the Lot Numbers and Expiry Date for the Standards and CRM used in Tests at all times.” Your response is inadequate because it is unclear whether you performed a global review of all your procedures related to notebooks and worksheets to determine if there is any additional missing information. 
+
+This violation is a repeat observation from your 2012 inspection. 
+
+In your response to this letter:
+
+
+	provide your revised procedures that reflect your changes and consider setting up a periodic review system to ensure procedures are being followed; and
+	perform a global review of all your notebooks and worksheets to determine if there are any additional missing information on other notebooks and worksheets. If so, provide your assessment of the impact on product quality. 
+
+
+
+	Your firm failed to exercise appropriate controls over computer or related systems to assure that only authorized personnel institute changes in master production and control records, or other records (21 CFR 211.68(b)).
+
+
+Your firm lacks controls to assure integrity of electronic test data pertaining to the analysis of salicylic acid, lidocaine, docusate sodium, armodafinil, and modafinil drug products. For example, you disabled audit trails on many HPLC instruments and you did not place user restrictions on altering data. You also did not have unique, attributable personal user logins and passwords; multiple analysts logged in as “admin.” 
+
+Customers need to trust the integrity of the laboratory data that you generate. You also need traceability of actions for investigational purposes. It is important to maintain strict control over CGMP electronic data to ensure that all additions, deletions, or modifications of information in your electronic records are authorized and are appropriately documented.
+
+In your response, you stated that you activated audit trails, established user login, passwords, and are establishing a system to protect data from deletion or overwriting. 
+
+Your response is inadequate because it did not include interim control measures and procedural changes for the control and review of analytical data. You also did not specify who will have administrator privileges on your analytical instrument systems used for CGMP quality control testing.
+
+In your response to this letter:
+
+
+	provide a summary of your interim controls to prevent deletion and modification of data;
+	define the roles and responsibilities of personnel who have access to analytical instruments and data;
+	provide a standard operating procedure (SOP) that ensures that all quality control tests are performed by an analyst and receive second-tier review (e.g., by a manager) from a separate individual; 
+	detail the associated user privileges for each analytical system;
+	provide a detailed summary of your procedural updates and associated training for user role assignment and controls; and
+	provide detailed procedures for your review of audit trail data.
+
+
+
+	Your firm failed to routinely calibrate, inspect, or check according to a written program designed to assure proper performance of and to maintain adequate written records of calibration checks and inspections of automatic, mechanical, electronic equipment, or other types of equipment, including computers, used in the manufacture, processing, packing, and holding of a drug product (21 CFR 211.68(a)).
+
+
+Many pieces of equipment that you used for drug product testing were out-of-calibration or not validated. For example, you used stability chambers to perform stability testing on drug products such as (b)(4) Docusate K Lot #1605311, (b)(4) Docusate K lot #1606061, (b)(4) (docusate) lot #1606201, and (b)(4) (docusate) lot #1702061. However, the stability chambers have not been calibrated since 2016. Chart recorders indicate that stability chamber temperatures also fluctuated wildly without any explanation or investigation on multiple occasions for months at a time. Chart recorders also indicated that the stability chambers’ actual temperatures were different from their intended temperatures on multiple studies for extended periods. 
+
+You also did not have software validation for the Microsoft Excel spreadsheets used to calculate results for your modafinil and armodafinil assays as well as (b)(4) moisture content analysis for triamcinolone.
+
+Customers need to trust the accuracy of the laboratory data that you generate. Thus, it is important to ensure that all your equipment is up-to-date on all validations, qualifications, and calibrations.  
+
+In your response, you provided a master index of equipment showing maintenance and calibration dates, but this index did not appear to include the stability chambers. You provided calibration procedures for your pH meter, thermometers, and incubators. Your response is inadequate because you did not specify whether your personnel were fully trained on the new procedures or when the new procedures were implemented. Furthermore, the procedures were silent on the temperature mapping of the stability chambers. You also provided validated Excel worksheets for modafinil assay, armodafinil assay, and triamcinolone (b)(4) testing. Your response is inadequate because you did not provide a validation report to show that your Excel spreadsheets performed their intended functions. 
+
+In your response to this letter:
+
+
+	perform a global review of all your laboratory equipment and spreadsheets to ensure all pieces of equipment are accounted for, properly calibrated, and validated;
+	establish a procedure requiring regular scheduling of calibration and validation for all equipment; and
+	provide your assessment of how temperature and humidity excursions in the stability chamber affect test results and product quality.
+
+
+Repeat Violations at Facility
+
+In a previous inspection, dated March 12 to 16, 2012, FDA cited similar CGMP observations. Repeated failures demonstrate that executive management oversight and control over the testing of drugs are inadequate. 
+
+Responsibilities of a Contract Testing Lab
+
+FDA considers contractors as extensions of the manufacturer’s own facility. Your failure to comply with CGMP may affect the quality, safety, and efficacy of the drugs you test for your clients. It is essential that you understand your responsibility to operate in full compliance with CGMP, and that you inform all your customers of any out-of-specification results or significant problems encountered during the testing of these drugs.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm and because you failed to correct repeat violations, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements. 
+
+Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Data Integrity Remediation
+
+Your quality system does not adequately ensure the accuracy and integrity of data to support the safety, effectiveness, and quality of the drugs you manufacture. See FDA’s guidance document Data Integrity and Compliance With Drug CGMP for guidance on establishing and following CGMP compliant data integrity practices at https://www.fda.gov/media/119267/download.
+
+In response to this letter, provide the following:
+
+
+	A comprehensive investigation into the extent of the inaccuracies in data records and reporting including results of the data review for drugs distributed to the United States. Include a detailed description of the scope and root causes of your data integrity lapses.
+	A current risk assessment of the potential effects of the observed failures on the quality of drug products. Your assessment should include analyses of the risks to patients caused by the release of drugs affected by a lapse of data integrity and analyses of the risks posed by ongoing operations.
+	A management strategy for your firm that includes the details of your global corrective action and preventive action plan. The detailed corrective action plan should describe how you intend to ensure the reliability and completeness of all data generated by your firm including microbiological and analytical data, and all data submitted to FDA.
+
+
+Conclusion
+
+Violations cited in this letter are not intended as an all-inclusive list. You are responsible for investigating these violations, for determining the causes, for preventing their recurrence, and for preventing other violations.
+
+Correct the violations cited in this letter promptly. Failure to promptly correct these violations may result in legal action without further notice including, without limitation, seizure and injunction. Unresolved violations in this warning letter may also prevent other Federal agencies from awarding contracts. 
+
+Until these violations are corrected, we may withhold approval of pending drug applications listing your facility. We may re-inspect to verify that you have completed your corrective actions. 
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion. 
+
+Your written notification should refer to the Warning Letter Number above (572991). Please address your written response to: 
+
+CDR Steven E. Porter, Jr.
+
+Director, Division of Pharmaceutical Quality Operations IV
+
+U.S. Food & Drug Administration
+
+19701 Fairchild Road
+
+Irvine, California 92612-2506
+
+If you have questions regarding the contents of this letter, please contact 
+
+Lance De Souza, Compliance Officer via email at lance.desouza@fda.hhs.gov or telephone at 510-337-6873 and reference unique identifier 572991.
+
+ 
+
+ 
+
+Sincerely,
+
+/S/
+
+CDR Steven E. Porter, Jr.
+
+Director, Division of Pharmaceutical Quality Operations IV
+
+_____________________________________
+
+
+1 https://www.cdc.gov/hai/outbreaks/b-cepacia/index.html

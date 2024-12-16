@@ -7,9 +7,10 @@ from pathlib import Path
 from config import ProcessorConfig
 from processor import FDALetterProcessor
 
+
 async def main():
     config = ProcessorConfig(
-        input_dir=Path("warning_letter_data"),
+        input_dir=Path("Filtered_2"),
         output_dir=Path("output"),
         max_validation_attempts=3,  # Maximum revision attempts
         max_turns=3,  # Maximum number of conversation rounds
@@ -50,7 +51,7 @@ async def main():
         config.output_dir.mkdir(parents=True, exist_ok=True)
 
         # Write summaries to file even if the list is empty
-        output_file = config.output_dir / "validated_summaries.json"
+        output_file = config.output_dir / "validated_summaries_1.json"
         with open(output_file, "w", encoding="utf-8") as f:
             json.dump(summaries, f, indent=2, ensure_ascii=False)
 
@@ -64,6 +65,7 @@ async def main():
     except Exception as e:
         logging.error(f"Fatal error: {str(e)}")
         raise
+
 
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO)

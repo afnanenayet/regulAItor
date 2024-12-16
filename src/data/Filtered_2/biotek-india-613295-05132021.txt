@@ -1,0 +1,207 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Chirag Arora
+          
+
+                                
+  
+    Recipient Title
+              Director
+          
+
+          
+            Biotek India 
+
+          
+                      919/2 First Floor, Conmet Cross Road, Makarpura GIDC
+Vadodara 390010
+Gujarat
+India
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter 320-21-45
+
+May 13, 2021
+
+Dear Mr. Arora:
+
+Your facility is registered with the United States Food and Drug Administration (FDA) as a manufacturer of over-the-counter (OTC) drug products. FDA has reviewed the records you submitted in response to our April 21, 2020 request for records and other information pursuant to section 704(a)(4) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), and along with subsequent communications, for your facility, Biotek India, FEI 3015394334, located at 919/2 First Floor, Conmet Cross Road, Makarpura GIDC, Vadodara, Gujarat.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See 21 CFR, parts 210 and 211.
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act) (21 U.S.C. 351(a)(2)(B)).
+
+In addition, U 99% ISOPROPYL Rubbing Alcohol is an unapproved new drug introduced or delivered for introduction into interstate commerce in violation of section 505(a) of the FD&C Act, 21 U.S.C. 355(a), and is misbranded under section 502(ee) of the FD&C Act, 21 U.S.C. 352(ee). Introduction or delivery for introduction of this product into interstate commerce is prohibited under sections 301(d) and (a) of the FD&C Act, 21 U.S.C. 331(d) and (a). These violations are described in more detail below.
+
+1. Your firm failed to have, for each batch of drug product, appropriate laboratory determination of satisfactory conformance to final specifications for the drug product, including the identity and strength of each active ingredient, prior to release (21 CFR 211.165(a)).
+
+Your firm manufactures over-the-counter (OTC) drug products, including but not limited to, (b)(4), isopropyl rubbing alcohol, and (b)(4). Your response to our request for records and other information under section 704(a)(4) indicates that you distributed these drug products into the United States without adequate finished drug product testing.
+
+For example, in response to our request to provide release test specifications, analytical procedures for the analysis of finished products, and finished product testing data you submitted, in part, analytical methods and certificates of analysis that show you did not conduct adequate testing for the identity and strength of the active ingredients in your drug products as is required prior to release per 211.165(a). The documents you provided indicate that you do not perform assay testing for identity and strength of your active ingredients.
+
+Without adequate testing, you do not have scientific evidence that your drug product batches conform to appropriate specifications prior to release.
+
+In response to this letter, provide the following for all drug products imported to the United States:
+
+• A list of chemical and microbial specifications, including test methods, used to analyze each lot of your drug products before a lot disposition decision.
+    o An action plan and timelines for conducting full chemical and microbiological testing of retain samples to determine the quality of all batches of drug product distributed to the U.S. that are within expiry as of the date of this letter.
+    o A summary of all results obtained from testing retain samples from each batch. If such testing reveals substandard quality drug products, take rapid corrective actions, such as notifying customers and product recalls.
+• A comprehensive, independent assessment of your laboratory practices, procedures, methods, equipment, documentation, and analyst competencies. Based on this review, provide a detailed plan to remediate and evaluate the effectiveness of your laboratory system.
+• (b)(4) test results for all batches of (b)(4) shipped to the United States within expiry.
+
+2. Your firm failed to conduct at least one test to verify the identity of each component of a drug product (21 CFR 211.84(d)(1)).
+
+Based on the records and information you provided, you have not demonstrated that you are adequately testing incoming raw materials used to manufacture your drug products to determine their identity.
+
+For example, in response to our request to provide information pertaining to identity testing of raw materials you submitted, in part, analytical methods and raw material testing data that show you did not conduct adequate identity testing of the raw materials used to manufacture your drug products.
+
+Without adequate testing, you do not have scientific evidence that your raw materials conform to appropriate specifications prior to use in the manufacture of drug products.
+
+In response to this letter, provide the following for all drug products imported to the United States:
+
+• A comprehensive, independent review of your material system to determine whether all suppliers of components, containers, and closures, are each qualified and the materials are assigned appropriate expiration or retest dates. The review should also determine whether incoming material controls are adequate to prevent use of unsuitable components, containers, and closures.
+• The chemical and microbiological quality control specifications you use to test and release each incoming lot of component for use in manufacturing.
+• A description of how you will test each component lot for conformity with all appropriate specifications for identity, strength, quality, and purity. If you intend to accept any results from your supplier’s COA instead of testing each component lot for strength, quality, and purity, specify how you will establish the reliability of your supplier’s results through initial validation as well as periodic re-validation. In addition, include a commitment to always conduct at least one specific identity test for each incoming component lot.
+• A summary of results obtained from testing all components to evaluate the reliability of the COA from each component manufacturer. Include your SOP that describes this COA validation program.
+• A summary of your program for qualifying and overseeing contract laboratory facilities that test the active ingredients used in the drug products you manufacture.
+
+3. Your firm failed to establish and follow an adequate written testing program designed to assess the stability characteristics of drug products and to use results of stability testing to determine appropriate storage conditions and expiration dates (21 CFR 211.166(a)).
+
+In response to our request for a list of all batches in stability and a list of all stability studies, you did not provide adequate stability data to demonstrate that the chemical properties of your drug products remain acceptable throughout the labeled expiry period. For example, your stability data does not include testing for the active ingredient. Therefore, the data does not demonstrate that the drug’s active ingredient is stable throughout its shelf life. Additionally, the data provided does not include microbiological stability data.
+
+In response to this letter, provide the following for all drug products imported to the United States:
+
+• A comprehensive, independent assessment and corrective and preventive action plan to ensure the adequacy of your stability program. Your remediated program should include, but not be limited to:
+    o Stability indicating methods
+    o Stability studies for each drug product in its marketed container-closure system before distribution is permitted
+    o an ongoing program in which representative batches of each product are added each year to the program to determine if the shelf-life claim remains valid
+    o detailed definition of the specific attributes to be tested at each station (timepoint)
+• All procedures that describe these and other elements of your remediated stability program
+
+Unapproved New Drug and Misbranding Violations
+
+U 99% ISOPROPYL Rubbing Alcohol is a “drug” as defined by section 201(g)(1)(B) of the FD&C Act, 21 U.S.C. 321(g)(1)(B), because it is intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease and/or under section 201(g)(1)(C) of the FD&C Act, 21 U.S.C. 321(g)(1)(C), because it is intended to affect the structure or any function of the body. Specifically, U 99% ISOPROPYL Rubbing Alcohol is intended for use as a first aid antiseptic.
+
+Examples of claims observed on the product label that provide evidence of the intended use (as defined in 21 CFR 201.128) of the product include, but may not be limited to, the following:
+
+U 99% ISOPROPYL Rubbing Alcohol
+
+“FIRST AID ANTISEPTIC . . . Drug Facts . . . Uses: first aid antiseptic to help prevent risk of infection in minor cuts, scrapes and burns.”
+
+U 99% ISOPROPYL Rubbing Alcohol first aid antiseptic drug product is a “new drug” within the meaning of section 201(p) of the FD&C Act, 21 U.S.C. 321(p), because it is not generally recognized as safe and effective (GRASE) for use under the conditions prescribed, recommended, or suggested in its labeling. New drugs may not be introduced or delivered for introduction into interstate commerce without prior approval from FDA, as described in section 505(a) of the FD&C Act, 21 U.S.C. 355(a), unless they are lawfully marketed under section 505(G) of the FD&C Act (which is not the case for this product, as further described below) or under other exceptions not applicable here. No FDA-approved application pursuant to section 505 of the FD&C Act, 21 U.S.C. 355, is in effect for this first aid antiseptic, nor are we aware of any adequate and well-controlled clinical studies in the published literature that support a determination that your U 99% ISOPROPYL Rubbing Alcohol first aid antiseptic drug product is GRASE for use under the conditions suggested, recommended, or prescribed in its labeling. Accordingly, this product is an unapproved new drug marketed in violation of sections 505(a) and 301(d) of the FD&C Act, 21 U.S.C 355(a) and 331(d).
+
+We note that over-the-counter (OTC) topical first aid antiseptic products, such as U 99% ISOPROPYL Rubbing Alcohol, had been the subject of rulemaking under FDA’s OTC Drug Review. In particular, such products were addressed in a tentative final monograph (TFM) entitled “Topical Antimicrobial Drug Products for Over-the-Counter Human Use; Tentative Final Monograph for First Aid Antiseptic Drug Products (56 FR 33644, July 22, 1991)” (1991 TFM).
+
+Section 505G of the FD&C Act addresses nonprescription drugs marketed without an approved application. Under 505G(a)(1) of the FD&C Act, 21 U.S.C. 355h(a)(1), drugs that were classified in Category I for safety and effectiveness under a TFM that is the most recently applicable proposal or determination for such drug issued under 21 CFR Part 330 are deemed to be GRASE and not “new drugs,” as long as they are in conformity with the relevant conditions of use outlined in the applicable TFM and comply with all other applicable requirements.  However, U 99% ISOPROPYL Rubbing Alcohol does not meet the conditions in section 505G(a)(1) and is a new drug that has not been deemed to be GRASE. U 99% ISOPROPYL Rubbing Alcohol does not meet the conditions in section 505G(a)(1) for marketing a nonprescription drug without an approved application under section 505G because the product does not conform to the 1991 TFM, nor any other TFM, proposed rule, or final rule. In particular, isopropyl alcohol at 99% is not a permitted concentration for use in first aid antiseptics under the 1991 TFM1.
+
+Lastly, U 99% ISOPROPYL Rubbing Alcohol drug product is misbranded under section 502(ee) of the FD&C Act, 21 U.S.C. 352(ee) because it is a nonprescription drug governed by section 505G of the FD&C Act, 21 U.S.C. 355h, but does not comply with the requirements for marketing under that section and is not the subject of an application approved under section 505 of the FD&C Act, 21 U.S.C. 355.
+
+The introduction or delivery for introduction of a misbranded drug into interstate commerce is prohibited under section 301(a) of the FD&C Act, 21 U.S.C. 331(a).
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements. We also recommend that the qualified consultant perform a comprehensive audit of your entire operation for CGMP compliance and evaluate the completion and efficacy of your corrective actions and preventive actions before you pursue resolution of your firm’s compliance status with FDA. Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations associated with your drug product. You are responsible for investigating and determining the causes of any these violations and for preventing their recurrence or the occurrence of other violations.
+
+Note that FDA placed the drug product manufactured by your firm on Import Alert 66-40 on March 10, 2021, as the methods used in and controls used for the manufacture, processing, packing, or holding of these products do not appear to conform to current good manufacturing practices within the meaning of section 501(a)(2)(B) of the FD&C Act. Drugs and drug products that appear to be adulterated or misbranded may be detained or refused admission without physical examination pursuant to section 801(a)(3) of the FD&C Act, 21 U.S.C. 381(a)(3).
+
+All drugs and drug products manufactured by your firm may remain listed on this import alert until there is evidence establishing that the conditions that gave rise to the appearance of this violation have been resolved, and the Agency has confidence that future entries will be in compliance with the FD&C Act. This may include an inspection prior to the Agency considering the appearance of adulteration to be addressed.
+
+Until all violations are addressed completely and we confirm your compliance with CGMP, they may be cause for FDA to withhold approval of any new drug applications or supplements listing your firm as a drug manufacturer.
+
+If you decide you want to manufacture drugs for the United States in the future, request a Regulatory Meeting to discuss corrections.
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to address any deviations and violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov. Identify your response with FEI 3015394334 and ATTN: CDR Frank Verni.
+
+Sincerely,
+/S/
+
+Francis Godwin
+Director
+Office of Manufacturing Quality
+Office of Compliance
+Center for Drug Evaluation and Research
+
+CC:
+Ms. Beena & Mr. Manoj, U.S. Agents (Liberty Management Group Ltd.)
+75 Executive Drive, Suite 114
+Aurora, IL 60504
+beena@libertymanagement.us & manoj@libertymanagement.us
+
+____________________________
+
+1 The Topical Antimicrobial Drug Products for Over-the-Counter Human Use; Tentative Final Monograph for First Aid Antiseptic Drug Products (56 FR 33644, July 22, 1991), proposed a concentration of isopropyl alcohol in a range of 50-91.3% in an aqueous solution.

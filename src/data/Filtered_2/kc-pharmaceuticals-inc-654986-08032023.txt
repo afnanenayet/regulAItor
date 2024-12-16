@@ -1,0 +1,229 @@
+Delivery Method: 
+        Electronic Mail
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Ms. Ratna Li
+          
+
+                                
+  
+    Recipient Title
+              Chief Executive Officer
+          
+
+          
+            K.C. Pharmaceuticals Inc.
+
+          
+                      3215 Producer Way
+Pomona, CA 91768
+United States
+          
+          
+            
+            
+
+     RLi@kc-ph.com
+
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+           Division of Pharmaceutical Quality Operations IV
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+WARNING LETTER
+
+August 3, 2023
+
+Dear Ms. Li:
+
+The U.S. Food and Drug Administration inspected your drug manufacturing facility, K.C. Pharmaceuticals Inc., FEI 2026940 at 3215 Producer Way, Pomona, from January 18 to January 27, 2023 and from February 10 to February 13, 2023.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your March 7, 2023 response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence.
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to establish and follow appropriate written procedures that are designed to prevent microbiological contamination of drug products purporting to be sterile, and that includes validation of all aseptic and sterilization processes (21 CFR 211.113(b)).
+
+Smoke Studies
+
+Your smoke studies for your aseptic processing lines were not performed under conditions that adequately simulate actual manufacturing. For example, the smoke study performed in 2018 did not represent routine dynamic manufacturing conditions on the (b)(4) aseptic filling line. During the current inspection, you stated that the 2018 smoke study was the only smoke study performed on the (b)(4) filling line. Your firm began commercial manufacturing using the (b)(4) line in 2020 without adequate smoke studies.
+
+Additionally, during the inspection, and in your response, you acknowledge that your smoke study for line (b)(4), performed in September 2022, was inadequate. A repeat smoke study was performed in December 2022, however your quality unit had not completed their review at the time of the inspection and this study was not made available for the investigators to review.
+
+In your response, you acknowledge that this is a repeat observation. You state that a corrective action and preventive action (CAPA) has been raised to address deficiencies in smoke studies from a holistic perspective with assistance of a third-party consultant. You have decided to repeat smoke studies on both aseptic filling lines to ensure aseptic filling interventions are properly evaluated and documented.
+
+Your response is inadequate because it includes plans to perform a product impact assessment without providing detailed information as to how you are determining the impact to products manufactured on lines without adequate smoke studies. Without adequate smoke studies, you cannot substantively assess whether unidirectional ISO 5 airflow is protecting the drug product from contamination.
+
+Media Fill Failure Investigations
+
+Since 2020, there have been multiple media fill failures representing both filling lines, (b)(4) and (b)(4). Your firm failed to complete the investigations of two failures in 2020 on line (b)(4) and did not adequately address the root cause of a failure that occurred in 2021 on line (b)(4), instead invalidating the media fill without adequate scientific justification.
+
+In your May 23, 2023 response to our request for additional information you provided investigation NCR-20-081, opened on May 15, 2023, which describes the incomplete media fill failure investigations that occurred in October and November 2020 relating to line (b)(4). Your firm stated that the investigations into these failures had not been closed. The media fill failure in October 2020 occurred after approximately (b)(4) batches of finished drug products were manufactured since May 2020.
+
+In response to this letter, provide:
+
+
+	A comprehensive, independent assessment of your overall system for investigating deviations, discrepancies, complaints, out-of-specification (OOS) results, and failures. Provide a detailed action plan to remediate this system. Your action plan should include, but not be limited to, significant improvements in investigation competencies, scope determination, root cause evaluation, CAPA effectiveness, quality unit oversight, and written procedures. Address how your firm will ensure all phases of investigations are appropriately conducted.
+	A comprehensive, independent assessment of the design and control of your firm’s manufacturing operations, with a detailed and thorough review of all microbiological hazards.
+	Your plan to ensure appropriate aseptic practices and cleanroom behavior during production. Include steps to ensure routine and effective supervisory oversight for all production batches. Also describe the frequency of quality unit oversight (e.g., audit) during aseptic processing and its support operations.
+	A thorough retrospective review and risk assessment that evaluates how poor aseptic technique and cleanroom behavior may have affected the quality and sterility of your drugs.
+	A complete independent assessment of documentation systems used throughout your manufacturing and laboratory operations to determine where documentation practices are insufficient. Include a detailed CAPA plan that comprehensively remediates your firm’s documentation practices to ensure you retain attributable, legible, complete, original, accurate, contemporaneous records throughout your operation. This item is especially critical due to the missing documentation described in your May 2023 correspondence.
+
+
+2. Your firm failed to perform operations within specifically defined areas of adequate size and to have separate or defined areas or such other control systems necessary to prevent contamination or mix-ups in aseptic processing areas (21 CFR 211.42(c)(10)).
+
+Your aseptic processing operation is inadequately designed to prevent contamination of your ophthalmic drug products.
+
+For example, your firm lacked adequate building management systems (BMS) to monitor and record differential pressures in your aseptic processing facility. You recorded differential pressures by observing photohelic gauges with upper and lower limits that can be (b)(4) accessed and adjusted. Additionally, your operators recorded differential pressures at the (b)(4) of every fill batch, approximately every (b)(4), and at the (b)(4) of filling operations. This frequency is not adequate to detect pressure deviations (e.g., reversals) that could ultimately impact aseptic conditions on the filling line.
+
+In addition, the ISO 5 aseptic processing line, (b)(4), is described as an (b)(4). During the inspection, we observed several (b)(4) in the walls of the enclosure. These (b)(4) were open to the surrounding room during aseptic processing and did not contain any (b)(4). Similarly, the smoke study video that you provided in your May 2023 correspondence showed the (b)(4) line with (b)(4) opened to the surrounding room while the smoke study was being conducted. During this smoke study video, operators are seen conducting interventions on this aseptic filling line with their (b)(4) arms and (b)(4) hands, by reaching through the open ports instead of using installed (b)(4). While your firm refers to this aseptic processing line as an (b)(4), both its design and operation does not meet the minimum standards of a (b)(4).
+
+Aseptic processes should be designed to minimize exposure of sterile articles to potential contamination hazards, including, but not limited to, variation in environmental conditions. It is vital for rooms of higher air cleanliness to have a substantial positive pressure differential relative to adjacent rooms of lower air cleanliness. A suitable facility monitoring system is critical to maintain appropriate environmental conditions throughout all of your cleanrooms. All deviations from established limits should be appropriately investigated to rapidly detect atypical changes that can compromise the facility’s environment. Prompt detection of an emerging problem is essential to preventing contamination of your aseptic production operations.
+
+In your response, you commit to installing a (b)(4) over the photohelic gauges to prevent access. However, in your June 23, 2023 response to our request for additional information, you acknowledge that you have not implemented a continuous monitoring system that ensures differential pressures will be continuously monitored, adequately recorded, and any differential pressure deviations will be detected, documented, and investigated.
+
+In response to this letter, provide the following:
+
+
+	Your CAPA plan to implement routine, vigilant operations management oversight of facilities and equipment. This plan should ensure, among other things, prompt detection of equipment/facilities performance issues, effective execution of repairs, adherence to appropriate preventive maintenance schedules, timely technological upgrades to the equipment/facility infrastructure, and improved systems for ongoing management review.
+	Comprehensive risk assessment of all contamination hazards with respect to your aseptic processes, equipment, and facilities, including an independent assessment that includes, but is not limited to:
+
+
+    o All human interactions within the ISO 5 area
+    o Equipment placement and ergonomics
+    o Air quality in the ISO 5 area and surrounding room
+    o Facility layout
+    o Personnel Flows and Material Flows (throughout all rooms used to conduct and support sterile operations)
+
+
+	A detailed remediation plan with timelines to address the findings of the contamination hazards risk assessment. Describe specific tangible improvements to be made to aseptic processing operation design and control.
+
+
+3. Your firm failed to establish and follow adequate written procedures for cleaning and maintenance of equipment (21 CFR 211.67(b)).
+
+Cleaning validation studies for aseptic processing line (b)(4), used to manufacture multiple formulations of ophthalmic drug products, has not been completed. For example, the (b)(4) compounding tank and product transfer line (b)(4), used to formulate bulk ophthalmic drugs for filling on line (b)(4), did not have recovery studies or limits of detection. Additionally, when identifying the (b)(4) conditions under which to conduct the cleaning validation, you relied only on the viscosity of your multiple ophthalmic drug products to make the determination, omitting other factors that can make certain formulations harder to clean. While you chose the product Eye Drops Systane-Ultra Like (EDSU) as (b)(4), you lacked documented scientific evidence to support use of (b)(4) viscosity as adequate basis for validating the hardest to clean product surface.
+
+In your response, you commit to performing a risk assessment and product impact assessment, but lack details regarding what you will evaluate and how you will do so. You did not commit to performing additional verification of cleaning to ensure cross-contamination is not occurring when using the (b)(4) compounding tank, product transfer line (b)(4), or other equipment. Your response also commits to performing a new study to determine (b)(4) product(s), without providing details as to what properties would be evaluated and how.
+
+In response to this letter, provide:
+
+
+	Appropriate improvements to your cleaning validation program, with special emphasis on incorporating conditions identified as (b)(4) in your drug manufacturing operation. This should include but not be limited to identification and evaluation of all (b)(4):
+
+
+    o drugs with higher toxicities
+    o drugs with higher drug potencies
+    o drugs of lower solubility in their cleaning solvents
+    o drugs with characteristics that make them difficult to clean
+    o swabbing locations for areas that are most difficult to clean
+    o maximum hold times before cleaning
+
+In addition, describe the steps that must be taken in your change management system before introduction of new manufacturing equipment or a new product.
+
+
+	A summary of updated standard operating procedures (SOPs) that ensure an appropriate program is in place for verification and validation of cleaning procedures for products, processes, and equipment.
+
+
+Ineffective Quality Unit
+
+Significant findings in this letter demonstrate that your firm does not operate an effective quality system in accord with CGMP. In addition to the lack of effective production operations oversight to ensure reliable facilities and equipment, we found your quality unit is not enabled to exercise proper authority and/or has insufficiently implemented its responsibilities. You should immediately and comprehensively assess your company’s global manufacturing operations to ensure that systems, processes, and the products manufactured conform to FDA requirements.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm and because you failed to correct repeat violations, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements. Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+Correct any violations promptly. Failure to promptly and adequately address this matter may result in regulatory or legal action without further notice including, without limitation, seizure and injunction. Unresolved violations may also prevent other Federal agencies from awarding contracts.
+
+Failure to address violations may also cause FDA to withhold issuance of Export Certificates. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to address any violations.
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to orapharm4_responses@fda.hhs.gov or by mail your reply to:
+
+CDR Steven E. Porter, Jr.
+Program Division Director
+Division of Pharmaceutical Quality Operations IV
+U.S. Food and Drug Administration
+19701 Fairchild Road
+Irvine, CA 92612-2506
+
+Please identify your response with unique identifier CMS 654986.
+
+If you have questions regarding this letter, please contact Compliance Officer William V. Millar by email at william.millar@fda.hhs.gov or by phone at (503) 671-9711 Ext. 30.
+
+Sincerely,
+/S/
+
+CDR Steven E. Porter, Jr.
+Program Division Director
+Division of Pharmaceutical Quality Operations IV

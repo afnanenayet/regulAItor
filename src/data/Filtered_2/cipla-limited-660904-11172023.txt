@@ -1,0 +1,305 @@
+Delivery Method: 
+        Via Email
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Umang Vohra
+          
+
+                                
+  
+    Recipient Title
+              Managing Director and Global CEO
+          
+
+          
+            Cipla Limited
+
+          
+                      Cipla House, Peninsula Business Park Mumbai
+Ganpatrao Kadam Marg
+Lower Parel, Mumbai 400013
+Maharashtra
+India
+          
+          
+            
+            
+
+     Umang.Vohra@cipla.com
+
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research | CDER
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter 320-24-11
+
+November 17, 2023
+
+Dear Mr. Vohra:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Cipla Limited, FEI 3008581988, at Plot No. 9 & 10, Pharma Zone Phase II, Sector III, Indore Special Economic Zone, Pithampur, District Dhar, Madhya Pradesh 454775, India, from February 6 to February 17, 2023.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+In addition, the inspection revealed that your firm failed to submit a new drug application (NDA) or abbreviated new drug application (ANDA) Field Alert Report (FAR) to FDA within three working days of receipt of information concerning significant chemical, physical, or other change or deterioration in a distributed drug product, as required by section 505(k) of the FD&C Act, 21 U.S.C. 355(k) and stipulated by the regulation 21 CFR 314.81(b)(1)(ii).
+
+We reviewed your March 10, 2023 response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence.
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to thoroughly investigate any unexplained discrepancy or failure of a batch or any of its components to meet any of its specifications, whether or not the batch has already been distributed (21 CFR 211.192).
+
+Your investigations into quality defect complaints of Albuterol Sulfate Inhalation Aerosol were inadequate because they lacked appropriate and timely corrective actions and preventive actions (CAPAs). You also failed to extend your investigations to other potentially affected batches.
+
+Your firm received a very high number of complaints (approximately 3,000) from the start of commercial manufacturing in April 2020 to December 2022. In January 2021, you concluded that there was no risk to product quality and patient safety based on a risk assessment. Approximately 91% of these complaints were categorized as “no spray” or “empty/less weight.” Furthermore, many of these complaints remained open for extended periods of time (up to 314 days).
+
+You concluded that (b)(4) particles from the metered dose inhaler (MDI) valves became lodged in the actuators, blocking drug delivery. The MDI valve manufacturer, (b)(4), identified four valve lots that were potentially affected by this issue. These four valve lots were used to manufacture over (b)(4) batches of Albuterol Sulfate Inhalation Aerosol. In addition, in at least two cases, your investigation into complaints received in 2021 confirmed inhalers were not able to deliver medication due to the defective valve lots.
+
+While your investigation identified a critical issue with the container-closure system in which particles were blocking the path of the drug delivery, you classified the “Final Severity of Complaint” as “Non-Critical,” determined that no FAR was required, and concluded that no market action was warranted. The impacted Albuterol Sulfate Inhalation Aerosol batches remained on the market through expiry.
+
+Inadequate container-closure parts or assembly processes can directly lead to production of poor-quality inhaler medicines with severe functionality or integrity defects, including but not limited to failure to dispense, inadequate dosing, or leaking units. It is essential that your manufacturing processes remain in a continued state of control to ensure that your rescue inhaler products reproducibly deliver the required dose for consumers who rely on your medicines.
+
+In your response, you state there are adequate controls in place and the number of complaints received through December 2022, for product quality issues represent 0.011% of total units distributed. You also state your belief that the two complaints with defective valve components verified in your laboratory investigation were “isolated events.” Furthermore, you indicate that because you anticipate no additional defective units will be present in the market, you did not submit a FAR and no market action was being contemplated.
+
+Your response is inadequate as the issue with defective valves appears to be unresolved. According to your response, you received numerous additional complaints (about 2,000) between January 2023 and August 2023, with similar issues such as “no spray,” “empty/less weight,” and leaky containers. The batches associated with these complaints used valve lots beyond the four vendor lots previously identified as potentially affected. Many complaints are still under investigation.
+
+Your justification for not taking market action is inadequate. The ratio of the number of spontaneous complaints received from customers to the total number of units distributed is not an acceptable indicator of product quality and does not safeguard consumers. You failed to demonstrate that your production design, controls, and input materials are capable of robustly producing units with reliable functionality.
+
+The number of complaints you received showed a marked and adverse trend of critical drug delivery failures which fundamentally impacted the ability of patients to use your Albuterol Sulfate Inhalation Aerosol. Your complaint system was ineffective. For example, you emphasized the number of complaints verified in your laboratory investigation without appropriately evaluating the severity of the complaints. Also, passing results of retain sample testing cannot be used as a reason to disregard the validity of complaints that are of high severity and occur at a low frequency. For guidance on the principles and application of quality risk management, see FDA’s guidance Q9 Quality Risk Management at https://www.fda.gov/media/167721/download.
+
+We acknowledge your firm initiated a Class I recall on June 27, 2023, for six batches of Albuterol Sulfate Inhalation Aerosol due to a defective valve lot that had a partially missing bottom seat (gasket). However, your firm failed to perform a comprehensive risk assessment by extending the investigations to other batches potentially impacted by defective container-closure components and to adequately determine the scope of the recall.
+
+In response to this letter, provide the following:
+
+
+	A comprehensive, independent assessment of your overall system for investigating deviations, discrepancies, complaints, out-of-specification (OOS) results, and failures. Provide a detailed action plan to remediate this system. Your action plan should include, but not be limited to, significant improvements in investigation competencies, scope determination, root cause evaluation, CAPA effectiveness, quality unit (QU) oversight, and written procedures. Address how your firm will ensure all phases of investigations are appropriately conducted.
+	An independent assessment of your CAPA program. Based on this assessment, provide a plan that evaluates and remediates the program, including but not limited to ensuring robust:
+
+
+    o Triggers for fulfilling both corrective and preventive objectives
+    o Root cause analysis
+    o CAPA effectiveness
+    o Analysis of investigations trends on a routine basis
+    o CAPA program improvements, whenever needed
+    o Implementation of final QU decisions
+    o Support of the program by executive management.
+
+
+	An independent, retrospective review of all complaints and associated investigations for Albuterol Sulfate Inhalation Aerosol batches manufactured since April 2020. Provide the consultant’s recommendations based on a review that includes but is not limited to an evaluation of:
+
+
+    o All investigations related to “confirmed” and “unconfirmed” container-closure defects, the level of criticality for each defect, all potentially impacted batches (i.e., distributed, undistributed and rejected batches; approved and pending application drug products), and any associated issues identified during both product/process development and via commercial batch experience. o The sufficiency (i.e., scope, trend analysis, root cause, CAPA) of the investigations, whether the complaint sample was obtained, all results of analysis of complaint and reserve samples.
+
+
+	An independent, comprehensive review of your company’s complaint handling program that identifies deficiencies and a corresponding CAPA.
+	A management strategy including the interim measures describing the actions you have taken or will take to protect patients and to ensure the quality of your drugs, such as notifying your customers, recalling product, conducting additional testing, supplier changes, adding batches to your stability program to assure stability, drug application actions, and steps to enhance vigilance in response to serious quality complaints.
+
+
+2. Your firm failed to establish and follow appropriate written procedures that are designed to prevent microbiological contamination of drug products purporting to be sterile, and that include validation of all aseptic and sterilization processes (21 CFR 211.113(b)).
+
+Media Fill Contamination Incidents
+
+You failed to appropriately evaluate a pattern of media fill failures in your facility and afford sufficient attention to potential correlations among these contamination events. Between February 2021 and March 2022, there were multiple aborted and contaminated media fills on (b)(4) filling lines (b)(4) and (b)(4) (solution and suspension lines). For example,
+
+
+	In September 2021, you isolated a gram-negative microbe, Ralstonia picketii, from multiple media fill (b)(4) of Batch # (b)(4) manufactured on the (b)(4) suspension line. You identified multiple deviations such as damaged filter housing, choked (b)(4), dislocation of the filter, and ineffective (b)(4) processes.
+	In November 2021, you isolated Pseudomonas stutzeri from one (b)(4) of media fill Batch # (b)(4) manufactured on the (b)(4) suspension line. This media fill (Batch # (b)(4)) was performed as part of the initial qualification of the suspension line and as a corrective action for a previously failed media fill on the same line (Batch #(b)(4)). You identified Pseudomonas stutzeri to be a gram-negative opportunistic pathogen. Your investigation, reviewed during the inspection and further described in your response, indicated this contamination was due to a puncture in the body of the (b)(4) by a (b)(4) during handling or movement of the filled samples, storage, or visual inspection, prior to incubation. However, you lacked adequate evidence that described mishandling of (b)(4). Further, your investigation also does not include comprehensive steps to prevent future mishandling of incubated units, and indicates use of (b)(4) will still be permitted. Your QU approved the investigation and the media fill run for Batch # (b)(4), and you used this media fill as one of three successful runs required to qualify filling line (b)(4) for suspension products.
+	In March 2022, you isolated Stenotrophomonas maltophilia in multiple media fill (b)(4) of Batch # (b)(4). You identified Stenotrophomonas maltophilia to be a drug-resistant gram-negative emerging global opportunistic pathogen with a known propensity for biofilm formation. You determined the root cause to be a leakage caused by a damaged valve gasket and deformed filter.
+
+
+You failed to appropriately investigate root causes and implement effective CAPAs to prevent recurrence of contamination events. For example, you failed to substantively evaluate the personnel and environmental monitoring (EM) data obtained during the production of these media fill batches, and to comprehensively assess additional historical data from the manufacturing area.
+
+Your response is inadequate because there is no overall assessment of these atypical invalidations of media fills, explanation of the adverse pattern of gram-negative microbe findings in your aseptic processing operational environment, or major improvements to ensure more reliable aseptic operational design and equipment maintenance.
+
+The presence of any highly pathogenic microorganism in your aseptic processing environment presents a heightened risk to patients who are, for example, immunocompromised, have cystic fibrosis, or have chronic obstructive airway disease. Presence of such microbes should receive urgent investigation and effective remediation. Further, it is critical to ensure appropriate equipment design and maintenance, as equipment failures may not be easily observable and contamination events during commercial manufacturing may go undetected for substantial periods of time.
+
+It is essential to address potential contamination hazards in your manufacturing environment in a timely manner. Any adverse microbiological trends and potential routes of contamination should be identified promptly, allowing for implementation of appropriate follow-up measures to prevent contamination. It should also be noted that finished product testing alone cannot establish sterility of all units because contamination is typically episodic and not uniformly distributed.
+
+Environmental Monitoring
+
+You failed to provide adequate justification for the discontinuation of filling (b)(4) surface monitoring on your (b)(4) lines. For example, prior to January 2020, your EM plan required collection of surface samples from (b)(4) filling (b)(4) at the (b)(4) of filling of (b)(4) batch. However, from January 2020 to August 2022, you did not collect surface samples from the (b)(4) filling (b)(4) at the (b)(4) of filling of (b)(4) batch.
+
+You revised your EM plan in August 2022 to perform surface monitoring of (b)(4) filling (b)(4), the (b)(4), at the (b)(4) of filling of (b)(4) batch. You lack a justification for sufficiency of your sampling plan, including its failure to rotate sampling among each of the (b)(4).
+
+In your response, you state you have adequate controls in place to assure sterility of products manufactured on your (b)(4) lines and there is no impact on the sterility of batches manufactured on these lines.
+
+Your response is inadequate in that it lacks a scientifically sound EM plan.
+
+Vigilant and responsive EM programs should be designed to provide meaningful information on the state of control of your aseptic processing environment and ancillary classified areas.
+
+In response to this letter, provide the following:
+
+
+	A comprehensive, independent third-party review of your media fill program.
+	An independent review of the source of recurring gram negatives isolated from your aseptic processing equipment train.
+	Your CAPA plan to implement routine, operations management oversight of facilities and equipment. This plan should include, at a minimum:
+
+
+    o Improved production management oversight that ensures prompt detection of equipment, facility, and process performance issues
+    o Timely upgrades to equipment and facilities
+    o Adherence to appropriate preventive maintenance schedules
+    o Effective execution of repairs
+    o Allocation of appropriate resources, staffing, and competencies
+    o Appropriately qualified production supervisors and managers
+    o Improved systems for ongoing management review
+    o A provision(s) that appropriate actions are taken throughout the company network
+    o A thorough evaluation and risk assessment that addresses the suitability of your equipment for its intended use. Include an evaluation whether equipment is of appropriate design and your ongoing control and maintenance program is effective.
+
+
+	A retrospective evaluation by a qualified consult of the sufficiency of investigations and the failure modes related to the capability of your aseptic processing operation to robustly produce sterile drugs including, but not limited, to:
+
+
+    o All media fill contamination events, invalidated media fills, and sterility positive test results for the past four years, regardless of whether the batch was shipped to the U.S.
+    o Identification of all potential failure modes associated with these media fill and sterility positives.
+    o A detailed evaluation and description of each aseptic connection and manipulation made starting with, and downstream of, the (b)(4) filter including but not limited to any manipulations at sampling ports in the product flow pathway prior to filling.
+    o A comparison of your aseptic manufacturing process to the process simulation protocol to identify areas in which media fills may be improved to simulate actual operations more accurately.
+    o Detailed media fill criteria used by your firm, and adequacy of provisions to ensure thorough investigation of any contamination.
+    o All changes implemented to your aseptic operations in response to any aseptic process simulation incidents and sterility failures for the past four years, including an evaluation of their adequacy and sufficiency, and a risk assessment of any distributed product affected by deficient aseptic processing operations that occurred during this period.
+    o Your plan to ensure appropriate aseptic practices and cleanroom behavior during production. Include steps to ensure routine and effective supervisory oversight for all production batches. Also, describe the frequency of QU oversight (e.g., audit) during aseptic processing and its support operations.
+
+
+	A comprehensive risk assessment of all contamination hazards with respect to your aseptic processes, equipment, and facilities, including an independent assessment that includes, but is not limited to:
+
+
+    o All human interactions within the ISO 5 area
+    o Equipment integrity, placement, and ergonomics
+    o Air quality in the ISO 5 area and surrounding room
+    o Facility layout
+    o Personnel Flows and Material Flows (throughout all rooms used to conduct and support sterile operations)
+
+
+	A detailed remediation plan with timelines to address the findings of the contamination hazards risk assessment. Describe specific tangible improvements to be made to aseptic processing operation design and control.
+	A comprehensive assessment and CAPA plan for your EM program to ensure it supports robust environmental control in your aseptic processing facility. Your assessment should include justification of sampling locations, frequency of sampling, alert and action limits, the adequacy of your sampling techniques, and trending program.
+
+
+3. Your firm failed to establish adequate written responsibilities and procedures applicable to the quality control unit and to follow such written procedures (21 CFR 211.22(d)).
+
+Your QU failed to provide adequate oversight for the retention of original CGMP records. For example, our investigator observed a truck loaded with bags of scrap from Unit (b)(4), as well as bags stored at a central scrapyard intended for shredding. The bags of scrap included, but were not limited to, numerous torn pieces of printer weigh slips pertaining to drug product packaging, and a microbiology laboratory sample label with Quality Assurance wet signatures.
+
+Your QU is responsible for the oversight of your drug manufacturing operations, including the review and approval of documents and other document controls, to ensure a complete contemporaneous record of each batch of drug product manufactured. These and all CGMP record are retained for CGMP purposes, such as ongoing control, quality oversight, and periodic reviews. In addition to the critical responsibilities of individual departments to assure integrity of documents, your QU is also responsible for assuring production areas are adequately monitored and employees demonstrate understanding and adherence to your firm’s procedures and assigned tasks.
+
+The uncontrolled destruction of CGMP records, and your lack of adequate documentation practices, raise questions about the effectiveness of your operations management and QU in assuring the integrity and accuracy of your CGMP records.
+
+In your response, you indicate you have created new procedures for document disposal, revised existing procedures to provide clarity for retaining intact or torn weigh slips with the batch packaging records, and trained your employees on new and revised procedures.
+
+Your response is inadequate. It is unclear if you assessed other documents found in the scrap yard. Additionally, your response does not assess how poor documentation practices affected distributed drug product.
+
+Your firm’s quality systems are inadequate. See FDA’s guidance document, Quality Systems Approach to Pharmaceutical CGMP Regulations for help implementing quality systems and risk management approaches to meet requirements of CGMP regulations 21 CFR, parts 210 and 211 at https://www.fda.gov/media/71023/download.
+
+Your quality system also does not adequately ensure the accuracy and integrity of data to support the safety, effectiveness, and quality of the drugs you manufacture. We strongly recommend that you retain a qualified consultant to assist in your remediation. See FDA’s guidance document Data Integrity and Compliance With Drug CGMP for guidance on establishing and following CGMP compliant data integrity practices at https://www.fda.gov/media/97005/download.
+
+In response to this letter, provide the following:
+
+
+	An assessment of the extent of data integrity deficiencies at your facility. Identify omissions, alterations, deletions, record destruction, non-contemporaneous record completion, and other deficiencies. Describe all parts of your facility’s operations in which you discovered data integrity lapses.
+	A management strategy for your firm that includes the details of your global corrective action and preventive action plan. The detailed corrective action plan should describe how you intend to ensure the reliability and completeness of all the data you generate including analytical data, manufacturing records, and all data submitted to FDA.
+	A complete assessment of documentation systems used throughout your manufacturing and laboratory operations to determine where documentation practices are insufficient. Include a detailed CAPA plan that comprehensively remediates your firm’s documentation practices to ensure you retain contemporaneous, attributable, legible, complete, original, accurate, contemporaneous records throughout your operation.
+	A current risk assessment of the potential effects of the observed failures on the quality of your drugs. Your assessment should include analyses of the risks to patients caused by the release of drugs affected by a lapse of data integrity and analyses of the risks posed by ongoing operations.
+
+
+Repeat Observations at Multiple Sites
+
+FDA has cited similar CGMP observations at other facilities in your company’s network. On February 25, 2020, a Warning Letter was issued to Cipla Limited, Goa FEI 3004081307, citing deficiencies related to inadequate equipment cleaning procedures, inadequate investigations of high efficiency particulate air (HEPA) filter integrity test failures, and inadequate smoke studies to evaluate whether unidirectional air flow exists in your aseptic operations. Furthermore, during our August 26, 2022, inspection at your Goa site, the inspection team identified deficiencies for equipment cleaning procedures and (b)(4) surface sampling during EM of the (b)(4) aseptic filling lines from January 2019 to August 2022. These repeated failures at multiple sites demonstrate that your management’s oversight and control over the manufacture of drugs is inadequate.
+
+Your executive management remains responsible for fully resolving all deficiencies and ensuring ongoing CGMP compliance. Executive management should immediately and comprehensively assess your company’s global manufacturing operations to ensure that your systems, processes, and products conform to FDA requirements.
+
+Field Alert Reporting Violations
+
+The NDA/ANDA Field Alert reporting requirements in 21 CFR 314.81(b)(1)(ii), effective since May 23, 1985, require holders of NDAs and ANDAs to submit information concerning any bacteriological contamination, or any significant chemical, physical, or other change or deterioration in the distributed drug product to the appropriate FDA district office within three working days of receipt by the applicant. The intent of the 21 CFR 314.81(b)(1) regulation is to establish an early warning system so that significant problems are brought to the FDA’s attention by applicant holders in order to prevent potential safety hazards from drug products already in distribution and also to prevent potential safety hazards with drug products manufactured in the future. FARs must be submitted for confirmed and unconfirmed problems meeting the definition of the regulation within three working days of becoming aware of the problem.
+
+From this inspection, in addition to the aforementioned CGMP violations, your firm is in violation of the Field Alert reporting requirements set forth in 21 CFR 314.81(b)(1)(ii). FARs related to Albuterol Sulfate Inhalation Aerosol were not provided to FDA within three working days. Specifically, you received thousands of complaints related to the failure of Albuterol Sulfate Inhalation Aerosol to appropriately deliver medication. No FAR was submitted until after the close of this inspection.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, we strongly recommend engaging a consultant qualified to evaluate your operations as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements. Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+If you are considering an action that is likely to lead to a disruption in the supply of drugs produced at your facility, FDA requests that you contact CDER’s Drug Shortages Staff immediately, at drugshortages@fda.hhs.gov, so that FDA can work with you on the most effective way to bring your operations into compliance with the law. Contacting the Drug Shortages Staff also allows you to meet any obligations you may have to report discontinuances or interruptions in your drug manufacture under 21 U.S.C. 356C(b). This also allows FDA to consider, as soon as possible, what actions, if any, may be needed to avoid shortages and protect the health of patients who depend on your products.
+
+Correct any violations promptly. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to any violations.
+
+Failure to address any violations may also result in the FDA refusing admission of articles manufactured at Cipla Limited, at Plot No. 9 & 10, Pharma Zone Phase II, Sector III, Indore Special Economic Zone, Pithampur, District Dhar, Madhya Pradesh 454775, India, into the United States under section 801(a)(3) of the FD&C Act, 21 U.S.C. 381(a)(3). Articles under this authority that appear to be adulterated or misbranded may be detained or refused admission, in that the methods and controls used in their manufacture do not appear to conform to CGMP within the meaning of section 501(a)(2)(B) of the FD&C Act, 21 U.S.C. 351(a)(2)(B).
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days1. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov. Identify your response with FEI 3008581988 and ATTN: Anita Narula.
+
+Sincerely,
+/S/
+
+Francis Godwin
+Director
+Office of Manufacturing Quality
+Office of Compliance
+Center for Drug Evaluation and Research
+___________________
+
+1 Under program enhancements for the Generic Drug User Fee Amendments (GDUFA) reauthorization for fiscal years (FYs) 2023-2027, also known as the GDUFA III Commitment Letter, your facility may be eligible for a Post-Warning Letter Meeting to obtain preliminary feedback from FDA on the adequacy and completeness of your corrective action plans.
