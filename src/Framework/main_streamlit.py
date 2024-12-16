@@ -3,8 +3,9 @@ import logging
 from agents.agent_manager import group_chat
 from agents.conversation_workflow import conversation_workflow
 import asyncio
-import sys
-from io import StringIO
+import threading
+from docx import Document
+import io
 
 # Initialize logging
 logging.basicConfig(level=logging.INFO)
@@ -64,32 +65,28 @@ def extract_text_from_docx(file):
         return None
 
 
-# Function to run the workflow
-async def run_workflow(group_chat):
+# Function to run the workflow synchronously
+def run_workflow(group_chat, text_input):
+    # Run the conversation workflow
     try:
-        result = await conversation_workflow(group_chat)
-
-        if result.get("user_input_required"):
-            # Create a text input in the Streamlit UI for user input
-            user_input = st.text_input("Please provide a valid FDA warning letter:")
-
-            if st.button("Submit"):
-                if user_input:
-                    # Update the warning letter in the context
-                    group_chat.context["warning_letter"] = user_input
-                    # Run the workflow again with the new input
-                    result = await conversation_workflow(group_chat)
-                    return result
-                else:
-                    st.warning("Please enter a warning letter.")
-                    return None
-
+        with st.spinner("Processing..."):
+            result = asyncio.run(conversation_workflow(group_chat))
         return result
-
     except Exception as e:
         st.error(f"An error occurred during processing: {e}")
         logging.error(f"Error during workflow: {e}")
         return None
+
+
+def get_user_input():
+    text_input = input("Enter text here: ")
+    return text_input
+
+
+def create_word_file(content):
+    document = Document()
+    document.add_paragraph(content)
+    return document
 
 
 def main():
@@ -103,8 +100,6 @@ def main():
         st.session_state.warning_letter_content = None
     if "template_content" not in st.session_state:
         st.session_state.template_content = None
-    if "processing_complete" not in st.session_state:
-        st.session_state.processing_complete = False
 
     # Stage: Upload
     if st.session_state.stage == "upload":
@@ -144,22 +139,37 @@ def main():
                         "template": st.session_state.template_content,
                     }
 
-                    # Run the workflow asynchronously
-                    with st.spinner("Processing..."):
-                        result = asyncio.run(run_workflow(group_chat))
+                    # Create a new thread to get user input
+                    user_input_thread = threading.Thread(target=get_user_input)
+                    user_input_thread.daemon = (
+                        True  # Set as daemon so it exits when main thread exits
+                    )
+                    user_input_thread.start()
+
+                    # Run the workflow synchronously and provide updates
+                    result = run_workflow(group_chat, "")
 
                     if result:
-                        if "corrective_action_plan" in result:
-                            st.success("Processing completed!")
-                            st.write("Corrective Action Plan:")
-                            st.write(result["corrective_action_plan"])
-                            st.session_state.processing_complete = True
+                        st.success("Processing completed!")
+                        approved_corrective_action_plan = group_chat.context.get(
+                            "Approved_corrective_action_plan"
+                        )
+                        if approved_corrective_action_plan:
+                            word_file = create_word_file(
+                                approved_corrective_action_plan
+                            )
+                            with io.BytesIO() as output:
+                                word_file.save(output)
+                                data = output.getvalue()
+                            st.download_button(
+                                label="Download Approved Corrective Action Plan",
+                                data=data,
+                                file_name="approved_corrective_action_plan.docx",
+                                mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                            )
+                            st.write(approved_corrective_action_plan)
                     else:
-                        st.error("Processing failed or was interrupted.")
-            else:
-                st.error("Could not read the uploaded files.")
-        else:
-            st.info("Please upload both the warning letter and the template files.")
+                        st.error("An error occurred during processing.")
 
 
 if __name__ == "__main__":
