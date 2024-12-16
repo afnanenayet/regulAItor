@@ -24,7 +24,7 @@ class ProcessorConfig:
 @dataclass
 class AgentConfig:
     api_key: str = field(default_factory=lambda: os.getenv("OPENAI_API_KEY"))
-    model: str = "gpt-4o-mini"  
+    model: str = "gpt-4o"  
     temperature: float = 0.2
     max_retries: int = 3
     retry_delay: int = 1

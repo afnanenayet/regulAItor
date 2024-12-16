@@ -1,5 +1,3 @@
-# processor.py
-
 from autogen import ConversableAgent
 import json
 import asyncio
@@ -19,34 +17,28 @@ class FDALetterProcessor:
         self.extractor_agent = ConversableAgent(
             name="Extractor",
             system_message="""
-            {
+                {
                 "role": "FDA Regulatory Compliance Extractor",
-                "task": "Extract detailed regulatory violations and recommendations from FDA warning letters",
+                "task": "Extract violated terms and recommendations from FDA warning letters.",
                 "input_format": "FDA warning letter text",
                 "output_format": {
-                    "violated_terms": ["array of detailed violations with citations"],
-                    "recommendations": ["array of FDA compliance recommendations"]
+                    "violated_terms": ["array of violated terms"],
+                    "recommendations": ["array of recommendations"]
                 },
                 "instructions": [
-                    "1. Extract comprehensive violation descriptions:",
-                    "   - Include full contextual description of the violation",
-                    "   - Include the relevant Act section (e.g., FD&C Act)",
-                    "   - Include the specific citation in brackets",
-                    "   - Format: 'Description under section X of Act [citation]'",
+                    "1. Extract violated terms:",
+                    "   - Identify specific violations referenced in the warning letter.",
+                    "   - Return the terms only, without additional details or citations.",
                     "",
                     "2. Extract FDA recommendations:",
-                    "   - Identify specific corrective actions required",
-                    "   - Include detailed manufacturing-specific requirements",
-                    "   - Maintain connection to specific violations",
-                    "   - Include timeframes if specified"
+                    "   - Identify the recommendations provided in the warning letter.",
+                    "   - Return the recommendations only, without further descriptions or actions."
                 ],
                 "output_rules": [
-                    "Return results in JSON format only",
-                    "Maintain full context of violations",
-                    "Ensure recommendations align with specific violations",
-                    "Include both descriptive text and legal citations"
+                    "Return results in JSON format only.",
+                    "List violated terms and recommendations"
                 ]
-            }
+                }
             """,
             llm_config=self.agent_config.llm_config,
             human_input_mode="NEVER",
