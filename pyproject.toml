@@ -24,7 +24,8 @@ dependencies = [
   "requests",
   "dspy",
   "python-docx",
-  "openai"
+  "openai",
+  "python-dotenv"
 ]
 
 
