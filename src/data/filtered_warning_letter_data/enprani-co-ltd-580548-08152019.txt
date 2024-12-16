@@ -1,0 +1,321 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Kim Tae Hoon 
+          
+
+                                
+  
+    Recipient Title
+              President
+          
+
+          
+            Enprani Co., Ltd.
+
+          
+                      4F-401 Multimedia Center Bldg. 100
+Noryanggin-Ro
+Dongjak-gu
+Seoul
+06928
+South Korea
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research
+        
+         
+          10903 New Hampshire Avenue
+Silver Spring, MD 20993
+United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+ Warning Letter 320-19-38
+
+ 
+
+August 15, 2019
+
+            
+
+Dear Mr. Hoon:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Enprani Co., Ltd at 88 Chukhang-Daero 296 Beon-Gil, Jung-Gu, Incheon, from March 11 to 15, 2019.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See 21 CFR, parts 210 and 211. 
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B). 
+
+In addition, your firm manufactures, prepares, propagates, compounds, or processes drugs that are intended for U.S. commercial distribution but has failed to maintain a current registration for the establishment at 88 Chukhang-Daero 296 Beon-Gil, Jung-Gu, Incheon as required by section 510(i)(1) of the FD&C Act, 21 U.S.C. 360(i)(1). Your firm also failed to list the drugs manufactured at this facility as required under section 510 of the FD&C Act, 21 U.S.C. 360(j), which is prohibited under section 301(p) of the FD&C Act, 21 U.S.C. 331(p). 
+
+We reviewed your March 29, 2019, response in detail and acknowledge receipt of your subsequent correspondence. 
+
+During our inspection, our investigator observed specific violations including, but not limited to, the following.
+
+CGMP Violations
+
+1.    Your firm failed to have, for each batch of drug product, appropriate laboratory determination of satisfactory conformance to final specifications for the drug product, including the identity and strength of each active ingredient, prior to release (21 CFR 211.165(a)). 
+
+Your firm released multiple over-the-counter (OTC) (b)(4) drug products including (b)(4) to the U.S. market without testing for identity and strength of (b)(4), the active ingredient used in at least (b)(4) drug products. You reported the assay, lead, and arsenic test had met specifications for at least (b)(4) batches manufactured between 2017 to 2018; however, the associated raw data for these tests results were not available for review during the inspection. 
+
+Your staff admitted that, after September 15, 2017, you stopped testing for (b)(4) because you had previously obtained consistent passing results for assay. Without testing each batch, you do not have scientific evidence that all drug products released to the U.S. market met specifications before distribution.
+
+In your response, you indicated that you recalled OTC (b)(4) drug products sold to your U.S. partner and committed to analyze these drug products. Your response is inadequate because you did not provide documentation to show that the methods to be used  in analyzing your drug products are adequate. You mentioned that you will use your testing contract lab, (b)(4). However, you did not provide details of how you will qualify (b)(4) to perform commercial release testing. 
+
+ In response to this letter, provide the following:
+
+
+	A list of chemical and microbial test methods and specifications used to analyze each lot of drug product before a lot disposition decision and associated written procedures.
+	Completed chemical and microbial analytical method validation, equipment validation, and updated test methods. Also provide specifications that your drug products must conform to before a batch disposition decision.
+	A summary of test results obtained from testing reserve samples of all drug products within expiry that have been distributed in the United States. These test results should include identity and strength of active ingredients and all other appropriate chemical and microbial quality attributes.
+	Information about the disposition (e.g., destruction records) of the recalled batches of drug products.
+
+
+ 
+
+2.    Your firm failed to establish an adequate quality control unit with the responsibility and authority to approve or reject all components, drug product containers, closures, in-process materials, packaging materials, labeling, and drug products (21 CFR 211.22(a)).
+
+During the inspection, our investigator observed that your quality unit (QU) lacks adequate oversight for the manufacture of your OTC (b)(4) drug products. For example:
+
+
+	Your QU failed to review entire batch records, including raw data and calculations for accuracy, before making appropriate release determination.
+	Your batch records were pre-printed as “approved” indicating the assay results were in specification, even before these values are recorded.
+	Label review and line clearance were not performed and documented in batch production and control records.
+
+
+Your response indicated that you hired a consultant to audit your operation. Your response did not adequately address the impact of inadequate QU oversight in the manufacture of your drug products. 
+
+Significant findings in this letter indicate that your quality unit is not able to fully exercise its authority and/or responsibilities. Your firm must provide the quality unit with the appropriate authority and sufficient resources to carry out its responsibilities and consistently ensure drug quality.
+
+In response to this letter, provide an independent comprehensive assessment with corrective and preventive actions (CAPA) to ensure your QU is given the authority and resources to effectively function. The assessment should also include, but not be limited to:
+
+ 
+
+
+	A determination of whether procedures used by your firm are robust and appropriate.
+	Provisions for QU oversight throughout your operations to evaluate practices.
+	A complete and final review of each batch and its related information before the QU disposition decision.
+	Oversight and approval of investigations, and discharging all other QU duties to ensure identity, strength, quality and purity of all drug products.
+	Your independent third party’s protocol and report assessing your CGMP operations in response to FDA inspectional findings.
+
+
+For help implementing quality systems and risk management approaches to meet the requirements of CGMP regulations 21 CFR, parts 210 and 211, see FDA’s guidance document, Quality Systems Approach to Pharmaceutical CGMP Regulations, at https://www.fda.gov/media/71023/download. 
+
+3.    Your firm failed to establish written procedures for production and process control designed to assure that the drug products you manufacture have the identity, strength, quality, and purity they purport or are represented to possess (21 CFR 211.100(a)).
+
+You have not validated the processes you use to manufacture your OTC drug products. For example, you did not conduct process performance qualification studies. You lack an ongoing program for monitoring process control to ensure robust manufacturing operations and consistent drug quality. See FDA’s guidance for industry, Process Validation: General Principles and Practices for general principles and approaches that FDA considers appropriate elements of process validation at https://www.fda.gov/media/71021/download. 
+
+Your response identified areas for improvement. However, your response is inadequate because you failed to provide a detailed process performance protocol and an overall program to assure that you maintain a validated process throughout the product lifecycle. In addition, you failed to conduct a risk assessment for drug products already distributed to the U.S. market that remain in expiry and you were unable to recall. 
+
+In response to this letter, provide:
+
+
+	Protocols for your validation and qualification activities.
+	Description of how you will monitor sources of variability in your operation throughout the drug lifecycle to minimize batch variation and ensure consistent product quality. Include a timeline for performing process performance qualification for your drug products.
+
+
+4.    Your firm failed to establish an adequate written testing program designed to assess the stability characteristics of drug products and to use results of stability testing to determine appropriate storage conditions and expiration dates (21 CFR 211.166(a)).
+
+You did not have adequate stability data to demonstrate that the chemical and microbiological properties of your drug products remain acceptable throughout their assigned (b)(4) expiry period. For example, your initial stability studies failed to analyze your drug products for assay and impurities at appropriate intervals to establish your expiration date.  
+
+In response to this letter, provide a comprehensive assessment and CAPA plan to ensure the adequacy of your stability program. Your CAPA plan should include, but not be limited to:
+
+
+	Standard operating procedures describing your stability program.
+	Stability indicating methods.
+	Specific attributes to be tested at each stability interval.
+	Stability studies for each drug product in its container-closure system before distribution is permitted.
+	An on-going program in which representative batches of each product are added each year to the program to determine if the shelf-life claim remains valid.
+
+
+ 
+
+5.    Your firm failed to exercise appropriate controls over computer or related systems to assure that only authorized personnel institute changes in master production and control records, or other records (21 CFR 211.68(b)).
+
+ 
+
+Our investigator observed that laboratory equipment used for raw material and batch release testing lacked restricted access. For example, your laboratory employees have unrestricted access to the high-performance liquid chromatography (HPLC) instrument to overwrite, delete, copy, and rename raw data. In addition, audit trails are turned off and therefore not available for review. 
+
+ 
+
+In your response, you indicated that you purchased new software and upgraded existing software. Your response is inadequate because it lacked a commitment to perform a comprehensive assessment and retrospective review of all data generated from all computerized laboratory systems used in CGMP operations. 
+
+ 
+
+Data Integrity Remediation
+
+Your quality system does not adequately ensure the accuracy and integrity of data to support the safety, effectiveness, and quality of the drugs you manufacture. See FDA’s guidance document Data Integrity and Compliance With Drug CGMP for guidance on establishing and following CGMP compliant data integrity practices at https://www.fda.gov/media/119267/download.
+
+In response to this letter, provide the following:
+
+
+	A comprehensive investigation into the extent of the inaccuracies in data records and reporting including results of the data review for drugs distributed to the United States. Include a detailed description of the scope and root causes of your data integrity lapses.
+	A current risk assessment of the potential effects of the observed failures on the quality of your drugs. Your assessment should include analyses of the risks to patients caused by the release of drugs affected by a lapse of data integrity and analyses of the risks posed by ongoing operations.
+	A management strategy for your firm that includes the details of your global corrective action and preventive action plan. The detailed corrective action plan should describe how you intend to ensure the reliability and completeness of all data generated by your firm including microbiological and analytical data, manufacturing records, and all data submitted to FDA
+
+
+CGMP Consultant Qualifications 
+
+We noted earlier that you have retained a consultant. Based upon the nature of the violations we identified at your firm, we strongly recommend that your consultant is qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements. 
+
+We also recommend that the qualified consultant perform a comprehensive audit of your entire operation for CGMP compliance and that the consultant evaluates the completion and efficacy of your corrective actions and preventive actions before you pursue resolution of your firm’s compliance status with FDA. 
+
+Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance. 
+
+Labeling Concerns 
+
+As part of your response to FDA’s Form 483 issued during the inspection, revised product labels were submitted for (b)(4). 
+
+(b)(4) “drugs” as defined by section 201(g)(1)(B) of the FD&C Act, 21 U.S.C. 321(g)(1)(B), because they are intended for the diagnosis, cure, mitigation, treatment, or prevention of disease, and/or under section 201(g)(1)(C) of the FD&C Act, 21 U.S.C. 321(g)(1)(C), because they are intended to affect the structure or any function of the body. Specifically, (b)(4) are intended for use as (b)(4). 
+
+Examples of claims observed on the product labels for (b)(4) that establish the intended uses, as defined in 21 CFR 201.128, of the products include, but may not be limited to, the following:
+
+(b)(4) product label:
+
+“(b)(4)”
+
+(b)(4) product label:
+
+“(b)(4)”
+
+(b)(4) product label:
+
+ “(b)(4)”  
+
+(b)(4) such as (b)(4) are subject to, among other regulations, the OTC (b)(4) Drug Products; Final Rule Labeling and Effectiveness Testing; (b)(4) Drug Products for Over-the-Counter Human Use, (b)(4). 
+
+Pending the finalization of the (b)(4) Drug Products for Over-the-Counter Human Use monograph [Stayed Indefinitely], (b)(4), FDA does not object to the marketing of (b)(4) products that meet the formulation requirements under (b)(4) in addition to all other applicable final rules such as (b)(4) and 21 CFR 201.66. 
+
+Additionally, the labeling for such drugs, like all OTC drugs, must comply with all of the requirements of section 502 of the FD&C Act and all pertinent regulations found in Title 21 of the Code of Federal Regulations (21 CFR). However, these products do not meet these requirements for the reasons described below. 
+
+Please note, (b)(4) are not labeled in accordance with the “Drug Facts” labeling requirements described in 21 CFR 201.66, because they are missing a Drug Facts panel. The product labels also fail to include warnings and directions as required by (b)(4), respectively. 
+
+(b)(4) contain labeling information both in English and Korean. Dual language labeling with English and another language is permissible when labeled in accordance to 21 CFR 201.15 and not otherwise false or misleading. Please note, 21 CFR 201.15 states that “all words, statements, and other information required by or under authority of the act to appear on the label or labeling shall appear thereon in the English language” . . . and “if the label contains any representation in a foreign language, all words, statements, and other information required by or under authority of the act to appear on the label shall appear thereon in the foreign language.” 
+
+However, (b)(4) are not labeled in accordance to 21 CFR 201.15 because “all” required labeling information is not included in both English and Korean. 
+
+Establishment Registration and Drug Listing
+
+FDA has reviewed entries regarding shipments of drugs into the United States from Enprani Co., Ltd, as well as information on file concerning your establishment’s registration and drug listing. This review revealed that you have not fulfilled your registration and listing obligations under the FD&C Act. 
+
+Our records indicate that you have not maintained your establishment registration, but have continued to manufacture, prepare, propagate, compound, or process (b)(4), that were being imported or offered for import into the United States at least in the year 2018. In addition, no drug listing information was submitted to the (b)(4).
+
+Under section 510(i)(1) of the FD&C Act (21 U.S.C. 360(i)(1)), you are required to submit registration information annually by electronic means for each foreign establishment you own or operate that is engaged in the manufacture, preparation, propagation, compounding, or processing of a drug that is imported or offered for import into the United States. The failure to register in accordance with this provision is a prohibited act under section 301(p) of the FD&C Act (21 U.S.C. 331(p)).
+
+You have failed to list the drugs you manufacture which are imported or offered for import into the United States as required by section 510 of the FD&C Act (21 U.S.C. 360(j)), which is prohibited under section 301(p) of the FD&C Act (21 U.S.C. 331(p)). Failure to properly list a drug with the FDA will also render it misbranded under section 502(o) of the FD&C Act (21 U.S.C. 352(o)). 
+
+No drug may be imported or offered for import into the United States unless it is listed, and manufactured, prepared, propagated, compounded, or processed at a registered foreign drug establishment, as required under Part 207, of the 21 CFR. A drug offered for import into the United States may be refused admission under section 801(o) of the FD&C Act (21 U.S.C. 381(o)) if the importer, owner, or consignee is not able to provide a statement of the registration under section 510(i) (21 U.S.C. 360(i)) of the establishment that manufactured it. Likewise, a drug offered for import may be refused admission under section 801(a)(3) of the FD&C Act (21 U.S.C. 381(a)(3)), if the drug appears to be adulterated or misbranded. 
+
+Conclusion
+
+Violations cited in this letter are not intended as an all-inclusive list. You are responsible for investigating these violations, for determining the causes, for preventing their recurrence, and for preventing other violations.
+
+FDA placed your firm on Import Alert 66-40 on July 15, 2019. 
+
+Until you correct all violations completely and we confirm your compliance with CGMP, FDA may withhold approval of any new applications or supplements listing your firm as a drug manufacturer. 
+
+Failure to correct these violations may also result in FDA continuing to refuse admission of articles manufactured at Enprani Co., Ltd at 88 Chukhang-Daero 296 Beon-Gil, Jung-Gu, Incheon, into the United States under section 801(a)(3) of the FD&C Act, 21 U.S.C. 381(a)(3). Under the same authority, articles may be subject to refusal of admission, in that the methods and controls used in their manufacture do not appear to conform to CGMP within the meaning of section 501(a)(2)(B) of the FD&C Act, 21 U.S.C. 351(a)(2)(B). 
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion. 
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov or mail your reply to:
+
+            
+
+Loan Chin
+
+Compliance Officer
+
+U.S. Food and Drug Administration
+
+White Oak Building 51, Room 4359
+
+10903 New Hampshire Avenue
+
+Silver Spring, MD 20993
+
+USA
+
+ 
+
+Please identify your response with FEI 3010822322.
+
+ 
+
+ 
+
+Sincerely,
+
+/S/
+
+Francis Godwin
+
+Director
+
+Office of Manufacturing Quality
+
+Office of Compliance
+
+Center for Drug Evaluation and Research

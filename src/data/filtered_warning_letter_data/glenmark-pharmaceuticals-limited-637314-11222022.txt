@@ -1,0 +1,195 @@
+Delivery Method: 
+        Return Receipt Requested
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Glenn Saldanha
+          
+
+                                
+  
+    Recipient Title
+              Chairman and Managing Director
+          
+
+          
+            Glenmark Pharmaceuticals Limited
+
+          
+                      Glenmark House, B D Sawant Marg Andheri (E)
+Mumbai 400099
+Maharashtra
+India
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research | CDER
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter 320-23-04
+
+November 22, 2022
+
+Dear Mr. Saldanha:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Glenmark Pharmaceuticals Limited, FEI 3004672766 at Plot No. S-7, Colvale Industrial Estate, Colvale, Bardez, Goa from May 12, 2022 to May 20, 2022.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your June 12, 2022, response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence.
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to thoroughly investigate any unexplained discrepancy or failure of a batch or any of its components to meet any of its specifications, whether or not the batch has already been distributed (21 CFR 211.192).
+
+A. Your investigations into rejected batches failed to extend to other batches, dosage strengths, and drug products for tablet compression machine settings.
+
+From 2018 to 2021, you rejected 14 batches of 0.1mg and 0.2mg strength desmopressin acetate tablets for out-of-specification (OOS) results for (b)(4) and content uniformity results. You implemented additional stratified sampling and conducted engineering batches to simulate the root cause for the failures for both dosage strengths. Although you attributed the content uniformity failure to the lack of defined compression parameters for desmopressin acetate 0.1mg batch 20210776, you failed to test other batches or drug products that used the same (b)(4) process and compression equipment.
+
+In your response, you acknowledged batches were rejected for the 0.1mg and 0.2mg desmopressin acetate tablets and that you did not apply the corrective actions for the compression parameters for your 0.2mg strength tablets. As a result of this inspection, you conducted a retrospective review and discovered a failing stratified sample assay result for desmopressin acetate 0.2mg tablets batch 20220121 and initiated a voluntary recall of this batch on June 10, 2022. However, your response did not adequately address your firm’s failure to investigate the assay failure and market impact at the time of its occurrence and it did not include an overall management strategy for improving all phases of your investigations.
+
+In response to this letter, provide the following:
+
+
+	A comprehensive independent assessment of the overall system for investigating deviations, discrepancies, complaints, OOS results, and failures. Provide a detailed action plan to remediate this system to include, but not be limited to, significant improvements in investigation competencies, scope determination, root cause evaluation, corrective action and preventive action (CAPA) effectiveness, quality oversight, and written procedures. Address how your firm will ensure that all phases of investigations are appropriately conducted.
+	An independent assessment and remediation plan for your CAPA program. Provide a report that evaluates whether the program includes effective root cause analysis, ensures CAPA effectiveness, analyzes investigations trends, improves the CAPA program when needed, implements final quality assurance decisions, and is fully supported by executive management.
+
+
+2. Your firm failed to establish adequate written procedures for production and process control designed to assure that the drug products you manufacture have the identity, strength, quality, and purity they purport or are represented to possess (21 CFR 211.100(a)).
+
+Your firm failed to adequately validate the manufacturing process for (b)(4) gel (b)(4)%. Specifically, your process validation lacks an evaluation of inter-batch and intra-batch variability for (b)(4) gel (b)(4)%. Your initial process performance qualification for this drug product only tested (b)(4) random tube for viscosity taken from tubes collected at the (b)(4) of filling for each of the three validation batches. This study did not evaluate variability within the batch, and it is not described in the validation report where the (b)(4) tube was collected. This sampling plan for viscosity does not result in statistical confidence in your process performance.
+
+A second process performance qualification study was conducted to qualify a critical excipient used to control the viscosity of the drug product. The study included one batch and therefore inter-batch variability could not be assessed to ensure the process consistently produces quality drug products. You rejected five batches between 2020 and 2021 for failure to meet viscosity specifications of (b)(4) gel (b)(4)%.
+
+In response to this letter, provide the following:
+
+
+	Provide a detailed program for designing, validating, maintaining, controlling and monitoring each of your manufacturing processes that includes vigilant monitoring of intra-batch and inter-batch variation to ensure an ongoing state of control. Also, include your program for qualification of your equipment and facility.
+	A detailed summary of your validation program for ensuring a state of control throughout the product lifecycle, along with associated procedures. Describe your program for process performance qualification, and ongoing monitoring of both intra-batch and inter-batch variation to ensure a continuing state of control.
+
+
+3. Your firm failed to establish and follow required laboratory control mechanisms (21 CFR 211.160(a)).
+
+Your firm failed to have appropriate procedures for the integration of chromatographic peaks and for the review of chromatographic data processing.
+
+A. Our investigators identified an example of your firm manually entering timed integration events into the processing methods and reporting passing results without adequate procedural controls or justification. Your analyst manually modified the processing of chromatographic data of (b)(4) impurity peak for (b)(4) tablets batch (b)(4). The impurity results would not have met release specification if the automatic integration processing had been applied in the same manner as they were to the standard and other peaks.
+
+In addition, your chromatographic data integration procedure is inadequate because it does not indicate when the analyst can manually input timed integration events, how these events should be used, or how they should be reviewed. The procedure does not require supervisory approval for manually entering timed integration events, a review of the original system integrated chromatogram and justification for manually entering the timed events.
+
+In your response, you reviewed the accuracy of integrations performed using the existing chromatographic data processing procedures through a retrospective review conducted for a subset of U.S. finished drug product batches within shelf life. You identified an additional out of specification value of an unspecified impurity for (b)(4) and (b)(4) tablets batch (b)(4). The reported result was (b)(4)%, while the reprocessed result after removing timed integration events identified as “Set Liftoff%” and “Set touchdown%”, was (b)(4)%, which is out of specification for unknown impurity (Release Specification of No More Than (b)(4)%). You attributed the reprocessed OOS result to a noisy baseline in your investigation. However, your investigation lacked data to support the conclusion. The investigation report did not include the full-scale chromatographic run, information of the integration parameters or the chromatograms for the sample standard and blanks. These chromatograms were not provided or discussed in your investigation report. It is also not discussed in the investigation report if system suitability was met to ensure instrumentation readiness in the initial processing. Additionally, the minimum area used to disregard peaks during initial processing was calculated incorrectly. The minimum area response of (b)(4) was applied instead of the correct (b)(4) as per your procedure. No additional peaks were found after the reprocessing. In addition, your conclusion fails to explain the presence of the same peak in your repeat testing and did not provide your forced degradation studies.
+
+Your response is inadequate because you did not commit to performing a retrospective review of all chromatographic data associated with the raw materials, active pharmaceutical ingredients, and drug product subject to chromatographic testing.
+
+B. Your calculations for setting the minimum area for peak integration of related substances are not recorded or reviewed by quality. During the inspection, an analyst was asked to calculate the minimum area for (b)(4) tablets batch (b)(4). The minimum area which was used during analysis was calculated incorrectly. The change in the minimum area did not change the reportable result. However, since the calculation is not recorded, the reviewers could not detect if the wrong minimum area is calculated and used in the analysis. There is a lack of assurance the required peaks of interest have been integrated in the chromatographic analysis.
+
+In your response, you performed a retrospective review of a subset of U.S. finished drug product to verify the minimum area used in the processing method against the actual calculated minimum area. Numerous finished drug product samples were identified in which the minimum area used was greater than the calculated minimum area. However, no results were observed to be out of specification.
+
+Your response is inadequate because you did not commit to performing a retrospective review of all chromatographic data associated with setting the minimum area for related substances to include materials such as active pharmaceutical ingredients.
+
+In response to this letter, provide the following:
+
+
+	A comprehensive independent assessment of your laboratory practices, procedures, methods, equipment, documentation, and analyst competencies. Include an assessment of all test methods and procedures used by your firm to ensure they have appropriate instructions, method suitability criteria, and have been appropriately validated to determine whether they are fit for purpose. Based on this review, provide a detailed plan to remediate and evaluate the effectiveness of your laboratory system.
+	A management strategy for your firm that includes the details of your global CAPA. The detailed corrective action plan should describe how you intend to ensure the reliability and completeness of all data generated by your firm including microbiological and analytical data, manufacturing records, and all data submitted to FDA.
+	A copy of the analytical method validation report for (b)(4) and (b)(4) tablets. Indicate if the method validation included manual integration and your rational for this practice in commercial batches.
+	A copy of your force degradation studies for (b)(4) and (b)(4) tablets.
+
+
+4. Your firm failed to prepare batch production and control records with complete information relating to the production and control of each batch of drug product produced (21 CFR 211.188).
+
+Your batch records were incomplete and did not contain batch specific data for compression machine reject limits.
+
+Production operators acknowledged using default pre-set tablet rejection values in the recipes for tablet compression instead of calculating the batch specific rejection limits as required by your procedure. There were two investigations where non-conforming tablets were found and did not meet the hardness specifications. In each of the investigations the impact assessment concluded that since the automatic weight control or compaction force control was turned on, the risk of finding tablets that did not meet specification was low. However, the investigations did not determine if the rejection limits were set appropriately. There was a lack of assurance to ensure the compression machine was correctly rejecting tablets that did not meet specifications.
+
+In your response, you initiated a study protocol for established compression machine parameters for all tablets manufactured at Glenmark. However, your response is inadequate. You did not review the programmable logic control (PLC) recipe data to ensure the reject limits were properly calculated and entered for all U.S. distributed batches within expiration.
+
+In response to this letter, please provide the following:
+
+
+	A remediation plan that better assures ongoing management oversight throughout the manufacturing lifecycle of all drug products. Provide a more data-driven and scientifically sound program that identifies sources of process variability and assures that manufacturing including both production and packaging operations meet appropriate parameters and quality standards. This includes, but is not limited to, evaluating suitability of equipment for its intended use, ensuring quality of input materials, determining the capability and reliability of each manufacturing process step and its controls, and vigilant ongoing monitoring of process performance and product quality.
+
+
+(b)(4)
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+If you are considering an action that is likely to lead to a disruption in the supply of drugs produced at your facility, FDA requests that you contact CDER’s Drug Shortages Staff immediately, at drugshortages@fda.hhs.gov, so that FDA can work with you on the most effective way to bring your operations into compliance with the law. Contacting the Drug Shortages Staff also allows you to meet any obligations you may have to report discontinuances or interruptions in your drug manufacture under 21 U.S.C. 356C(b). This also allows FDA to consider, as soon as possible, what actions, if any, may be needed to avoid shortages and protect the health of patients who depend on your products.
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov. Identify your response with FEI 3004672766 and ATTN: Erika V. Butler.
+
+Sincerely,
+/S/
+
+Francis Godwin
+Director
+Office of Manufacturing Quality
+Office of Compliance
+Center for Drug Evaluation and Research

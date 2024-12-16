@@ -1,0 +1,242 @@
+Delivery Method: 
+        UPS Next Day
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Mohammed Saremi
+          
+
+                                
+  
+    Recipient Title
+              Chief Executive Officer
+          
+
+          
+            Bell International Laboratories, Inc.
+
+          
+                      2950 Lexington Ave. S., Ste. 100
+Eagan, MN 55121
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+           Division of Pharmaceutical Quality Operations III
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+  
+    Secondary Issuing Offices
+          
+                  
+    
+     
+        United States
+    
+    
+    
+    
+
+              
+      
+
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+February 15, 2024
+
+WARNING LETTER
+CASE# 669736
+
+Dear Mr. Saremi,
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Bell International Laboratories, Inc., FEI 3005574978, at 2950 Lexington Ave. S., Ste. 100, Eagan, from September 11 to 19, 2023.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your October 5, 2023 response to our Form FDA 483 in detail.
+
+During our inspection, our investigator observed specific violations including, but not limited to, the following:
+
+1. Your firm failed to establish an adequate quality unit and the responsibilities and procedures applicable to the quality control unit are not in writing and fully followed (21 CFR 211.22(a) and (d)).
+
+Your quality unit (QU) lacked adequate control over your over-the-counter (OTC) drug manufacturing operations and failed to ensure that you had adequate procedures. For example, your QU failed to ensure:
+
+
+	Adequate investigations into non-conformances (21 CFR 211.192).
+	Adequate investigations into complaints (21 CFR 211.198(a)).
+	Adequate system for document control and retention (e.g., missing, or incomplete batch records, missing testing records and out-of-specification (OOS) investigations) (21 CFR 211.188).
+
+
+In your response, you acknowledge that you did not follow your investigation procedures and that many of your investigations were incomplete. You note that you revised your procedures and commit to conducting investigations “as thoroughly as possible.” You also state that the missing production and laboratory records are from 2021 and 2022, and deviations were opened for each occurrence discovered.
+
+Your response is inadequate because you did not address how you will ensure that investigations contain adequate root cause determinations, corrective action and preventive action (CAPA), and effectiveness checks. You failed to appropriately address the impact of missing records on the quality of the drug products already on the market. You also did not address how you will maintain completeness and accuracy of the records used for batch release and other quality review decisions despite changes or turnover within the QU.
+
+Your firm’s quality systems are inadequate. See FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations for help implementing quality systems and risk management approaches to meet the requirements of CGMP regulations 21 CFR, parts 210 and 211 at https://www.fda.gov/downloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/UCM070337.pdf.
+
+In response to this letter, provide:
+
+
+	A comprehensive assessment and remediation plan to ensure your QU is given the authority and resources to effectively function. The assessment should also include, but not be limited to:
+
+
+    o A determination of whether procedures used by your firm are robust and appropriate
+    o Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices
+    o A complete and final review of each batch and its related information before the QU disposition decision
+    o Oversight and approval of investigations and discharging of all other QU duties to ensure identity, strength, quality, and purity of all products
+
+
+	A complete assessment of documentation systems used throughout your manufacturing and laboratory operations to determine where documentation practices are insufficient. Include a detailed CAPA plan that comprehensively remediates your firm’s documentation practices to ensure you retain attributable, legible, complete, original, accurate, contemporaneous records throughout your operation.
+	An independent assessment and remediation plan for your CAPA program. Provide a report that evaluates whether the program includes effective root cause analysis, ensures CAPA effectiveness, analyzes investigations trends, improves the CAPA program when needed, implements final QU decisions, and is fully supported by executive management.
+	A comprehensive, independent assessment of your overall system for investigating deviations, discrepancies, complaints, OOS results, and failures. Provide a detailed action plan to remediate this system. Your action plan should include, but not be limited to, significant improvements in investigation competencies, scope determination, root cause evaluation, CAPA effectiveness, QU oversight, and written procedures. Address how your firm will ensure all phases of investigations are appropriately conducted.
+	A comprehensive review and remediation plan for your OOS result investigation systems. The CAPA should include, but not be limited to, addressing the following:
+
+
+    o QU oversight of laboratory investigations
+    o Identification of adverse laboratory control trends
+    o Resolution of causes of laboratory variation
+    o Initiation of thorough investigations of potential manufacturing causes whenever a laboratory cause cannot be conclusively identified
+    o Adequate scoping of each investigation and its CAPA
+    o Revised OOS investigation procedures with these and other remediations
+
+2. Your firm failed to test samples of each component for identity and conformity with all appropriate written specifications for purity, strength, and quality (21 CFR 211.84(d)(1)).
+
+You failed to perform adequate identity testing on each component lot used to manufacture your OTC drug products. For example, your component identity testing did not include a limit test for diethylene glycol (DEG) and ethylene glycol (EG) on all lots of glycerin before use in the manufacture of your drug products. Identity testing for this and certain other high-risk drug components1 includes a limit test in the United States Pharmacopeia (USP) to ensure that the component meets the relevant safety limits for levels of DEG or EG. Because you did not perform adequate identity testing on each shipment of each lot using the USP identification test that detects these hazardous impurities, you failed to assure the acceptability of these components for use in manufacture of your drug products.
+
+The use of ingredients contaminated with DEG or EG has resulted in various lethal poisoning incidents in humans worldwide. See FDA’s guidance document Testing of Glycerin, Propylene Glycol, Maltitol Solution, Hydrogenated Starch Hydrolysate, Sorbitol Solution, and Other High-Risk Drug Components for Diethylene Glycol and Ethylene Glycol to help you meet the CGMP requirements when manufacturing drugs containing ingredients at high-risk for DEG or EG contamination at https://www.fda.gov/media/167974/download.
+
+In your response, you commit to testing each lot of glycerin for the presence of DEG and EG, and all incoming lots in conformance with the USP monograph for glycerin. You also state that you revised your written procedure for testing of raw materials to include identity testing.
+
+Your response is inadequate because it lacks specificity regarding your plans to test each lot of each shipment of incoming components. Additionally, you did not consider a retrospective risk assessment for products on the market and within expiry for which you did not conduct adequate identity testing on the components. Without appropriate testing of components, you cannot ensure the quality and safety of your drug products.
+
+FDA cited a similar CGMP observation in a June 2017 inspection.
+
+In response to this letter, provide:
+
+
+	A commitment to provide DEG and EG test results, no later than 30 calendar days from the date of this letter, from testing reserve samples of all lots of high-risk drug components used in the manufacture of your drug products. Alternatively, if a reserve sample of a component lot is unavailable, perform retain sample testing of all implicated finished drug product batches for the presence of DEG and EG.
+	A full risk assessment for drug products that are within expiry which contain any ingredient at risk for DEG or EG contamination (including, but not limited to, glycerin). Take prompt and appropriate actions to determine the safety of all lots of the component(s) and any related drug product that could contain DEG or EG, including customer notifications and product recalls for any contaminated lots. Identify additional appropriate CAPA that secure supply chains in the future, including, but not limited to, ensuring that all incoming raw material lots are from fully qualified manufacturers and free from unsafe impurities. Detail these actions in your response to this letter.
+	A description of how you will test each component lot for conformity with all appropriate specifications for identity, strength, quality, and purity. If you intend to accept any results from your supplier’s certificate of analysis (COA) instead of testing each component lot for strength, quality, and purity, specify how you will robustly establish the reliability of your supplier’s results through initial validation as well as periodic revalidation. In addition, include a commitment to always conduct at least one specific identity test for each incoming component lot. In the case of glycerin, propylene glycol, and certain additional high-risk components we note that this includes the performance of parts A, B, and C of the USP monograph.
+	The chemical quality control specifications you use to test each incoming lot of high-risk drug components to determine acceptability for use in manufacturing.
+	A comprehensive, independent review of your material system to determine whether all suppliers of components, containers, and closures, are each qualified and the materials are assigned appropriate expiration or retest dates. The review should also determine whether incoming material controls are adequate to prevent use of unsuitable components, containers, and closures.
+
+
+3. Your firm failed to establish adequate written procedures for production and process control designed to assure that the drug products you manufacture have the identity, strength, quality, and purity they purport or are represented to possess (21 CFR 211.100(a)).
+
+You did not adequately demonstrate that your manufacturing processes are reproducible and controlled to consistently yield drugs of uniform character and quality. For example, you failed to adequately validate your manufacturing process for (b)(4). Specifically, for at least two lots, you adjusted the pH during the bulk phase testing using an unvalidated process. During the inspection, you confirmed that this process was not validated.
+
+In your response, you state that for topical drug products, you “default to the established cosmetic regulations because the sample matrices of sunscreens more similarly follow cosmetic formulations.”
+
+Your response is inadequate. Following requirements for cosmetics does not satisfy the regulations for finished pharmaceuticals. You are responsible for assuring your manufacturing processes will consistently result in drug products meeting predefined quality attributes.
+
+Process validation evaluates the soundness of design and state of control of a process throughout its lifecycle. Each significant stage of a manufacturing process must be designed appropriately to ensure the quality of raw material inputs, in-process materials, and finished drugs. Process qualification studies determine whether an initial state of control has been established. Successful process qualification studies are necessary before commercial distribution. Thereafter, ongoing vigilant oversight of process performance and product quality are necessary to ensure that you maintain a stable manufacturing operation throughout the product lifecycle.
+
+See FDA’s guidance document Process Validation: General Principles and Practices for general principles and approaches that FDA considers appropriate elements of process validation, at https://www.fda.gov/media/71021/download.
+
+In response to this letter, provide:
+
+
+	A detailed program for designing, validating, maintaining, controlling and monitoring each of your manufacturing processes that includes vigilant monitoring of intra-batch and inter-batch variation to ensure an ongoing state of control. Also, include your program for qualification of your equipment and facility.
+	A remediation plan that better assures ongoing management oversight throughout the manufacturing lifecycle of all drug products. Provide a more data-driven and scientifically sound program that identifies sources of process variability, and assures that manufacturing operations meet appropriate parameters and quality standards. This includes, but is not limited to, evaluating suitability of equipment for its intended use, ensuring quality of input materials, determining the capability and reliability of each manufacturing process step and its controls, and vigilant ongoing monitoring of process performance and product quality.
+	Timelines for completing process performance qualification studies on remediated processes for marketed drug products for which a state of control has not been adequately and fully established.
+
+
+Quality Systems
+
+Your firm’s quality systems are inadequate. See FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations for help implementing quality systems and risk management approaches to meet the requirements of CGMP regulations 21 CFR, parts 210 and 211 at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/quality-systems-approach-pharmaceutical-current-good-manufacturing-practice-regulations.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, you should engage a consultant qualified as set forth in 21 CFR 211.34 to evaluate your operations and to assist your firm in meeting CGMP requirements. The qualified consultant should also perform a comprehensive six-system audit2 of your entire operation for CGMP compliance and evaluate the completion and efficacy of your corrective actions and preventive actions before you pursue resolution of your firm’s compliance status with FDA. Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+Correct any violations promptly. Failure to promptly and adequately address this matter may result in regulatory or legal action without further notice including, without limitation, seizure and injunction. Unresolved violations may also prevent other Federal agencies from awarding contracts.
+
+Failure to address violations may also cause FDA to withhold issuance of Export Certificates. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to address any violations.
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Your reply should refer to case # 669736 and include your FEI 3005574978. Send your electronic reply to ORAPHARM3_RESPONSES@fda.hhs.gov.
+
+Attention: Brian Nicholson, Compliance Officer
+U.S. Food and Drug Administration
+Division of Pharmaceutical Quality Operations Division III
+
+If you have questions regarding the contents of this letter, please contact Compliance Officer, Brian Nicholson at (630) 207-9337.
+
+Sincerely,
+/S/
+
+Jeffrey D. Meng
+Program Division Director
+Office of Pharmaceutical Quality Operations Division III
+
+_______________________
+
+1 Components with higher risk of DEG or EG contamination compared to other drug components.
+
+2 i.e., Quality System, Facilities & Equipment System, Materials System, Production System, Packaging & Labeling System, and Laboratory Control System per FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations.

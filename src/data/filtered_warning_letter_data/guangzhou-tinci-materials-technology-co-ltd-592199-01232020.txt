@@ -1,0 +1,197 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Jinfu Xu
+          
+
+                                
+  
+    Recipient Title
+              Chairman of the Board
+          
+
+          
+            Guangzhou Tinci Materials Technology Co., Ltd.
+
+          
+                      8th Kangda Road, Yunpu Industrial Zone
+Huangpu Qu
+Guangzhou Shi
+Guangdong Sheng, 510760
+China
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research | CDER
+        
+         
+          10903 New Hampshire Avenue
+Silver Spring, MD 20993
+United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+January 23, 2020
+
+Warning Letter 320-20-21
+
+Dear Mr. Xu:
+
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Guangzhou Tinci Materials Technology Co., Ltd., FEI 3007544618, at 8th Kangda Road, Yunpu Industrial Zone, Huangpu District, Guangzhou, from July 29 to August 2, 2019.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Our inspection noted that your firm produces the active pharmaceutical ingredient (API) (b)(4). The API is then mixed into a (b)(4). The (b)(4) is by definition an in-process material for a finished drug product under Title 21, Code of Federal Regulations section 210.3(b)(9), and therefore subject to the CGMP regulations at 21 CFR 211.
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug product adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351 (a)(2)(B).
+
+We received your response to our Form FDA 483 on August 22, 2019 and reviewed it in detail. Your response is inadequate because it did not provide sufficient detail or evidence of corrective actions to bring your operations into compliance with CGMP.
+
+During our inspection, our investigator observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to use equipment in the manufacture, processing, packing, or holding of drug products that is of appropriate design, adequate size, and suitably located to facilitate operations for its intended use and for its cleaning and maintenance (21 CFR 211.63).
+
+Inadequate (b)(4) System Monitoring
+
+Your procedures for testing (b)(4) requires (b)(4) sampling for total aerobic microbial count (TAMC) and total yeast and molds count (TYMC). On (b)(4), you manufactured drug product batch (b)(4): you did not test your (b)(4) for TAMC and TYMC at the time. In fact, you did not test your (b)(4) system until (b)(4), more than a (b)(4) later, when your (b)(4) testing yielded an out-of-limit result of 255 colony forming units per mL (cfu/mL) for TAMC.
+
+In your response, you stated "(b)(4)." However, batch (b)(4) was manufactured on (b)(4). You did not have adequate data to justify the use of (b)(4) from your system as a component in that batch. Without routine (b)(4) monitoring, you lack assurance that your (b)(4) meets minimum microbiological and chemical standards suitable for the manufacture of your drug product.
+
+Inadequate (b)(4) system design and maintenance
+
+Your firm manufactures an over-the-counter (b)(4) drug product intended to treat (b)(4). You use (b)(4) as a component in manufacturing this drug product. Your (b)(4) system is not adequately designed, controlled, maintained, and monitored to ensure it consistently produces (b)(4) suitable for its intended use.
+
+Your (b)(4) and distribution systems appear to have multiple dead-legs,1 which can foster the development of biofilms. The piping and installation diagrams for your (b)(4) system in your response lack adequate information regarding the slope of the piping.
+
+Moreover, your (b)(4) system lacks proper maintenance. For example, there were visible corrosion on pipes, brackets, fittings, valves, and tanks in the utilities area, which is covered but not completely enclosed from outside elements. During the inspection, you stated that some poorly maintained equipment and piping in the (b)(4) utility area is not currently in use. However, during the inspection it appeared that the poorly maintained equipment and piping was still connected to the (b)(4) system you use to make components of drugs.
+
+In response to this letter provide the following:
+
+
+	A comprehensive remediation plan for the design, control, and maintenance of the (b)(4) system.
+	A (b)(4) system validation report. Also summarize any improvements made to system design and to the program for ongoing control and maintenance.
+	Your total microbial count limits to monitor whether this system is producing (b)(4) suitable for the intended uses for each of your products.
+	A detailed risk assessment addressing the potential effects of the observed (b)(4) system failures on the quality of all drug product lots currently in U.S. distribution. Specify actions that you will take in response to the risk assessment, such as customer notifications and product recalls.
+	A procedure governing your program for ongoing control, maintenance, and monitoring that ensures your (b)(4) system consistently produces (b)(4) that meets (b)(4), USP monograph specifications and appropriate microbial limits.
+
+
+2. Your firm failed to conduct, for each batch of drug product, appropriate laboratory testing, as necessary, required to be free of objectionable microorganisms (21 CFR 211.165(b)).
+
+Your firm released drug product without adequate testing to ensure it is free of objectionable microorganisms and meets appropriate microbial limits. For example, you manufactured batch (b)(4) on (b)(4), without performing adequate microbial limit tests. It is unclear if you have addressed the lack of microbial testing of your drug product.
+
+In response to this letter provide the following:
+• A list of chemical and microbial specifications, including test methods, used to analyze each lot of your drug products before a lot disposition decision.
+    o An action plan and timelines for conducting full chemical and microbiological testing of retain samples to determine the quality of all batches of drug product distributed to the United States within expiry as of the date of this letter.
+    o A summary of all results obtained from testing retain samples from each batch. If such testing reveals substandard quality drug products, take rapid corrective actions, such as notifying customers and product recalls.
+
+• A comprehensive, independent assessment of your laboratory practices, procedures, methods, equipment, documentation, and analyst competencies. Based on this review, provide a detailed plan to remediate and evaluate the effectiveness of your laboratory system.
+
+3. Failure to establish an adequate quality control unit and the responsibilities and procedures applicable to the quality control unit are not in writing and fully followed (21 CFR 211.22(a) and (d)).
+
+Your quality unit (QU) did not have adequate procedures describing the appropriate oversight of your manufacturing operation. For example, you lacked written procedures describing the review of test records, raw electronic data, and batch production records prior to approval and release.
+
+Additionally, your QU released and distributed batches despite deviations from the batch record. The deviations were not investigated or reviewed by the QU prior to the release of the batch. For example, although the batch record for (b)(4) states a standard (b)(4), the operator recorded a stir time of one hour and forty minutes.
+
+Your response is inadequate. You did not explain why you distributed drug product despite deviations from the batch record. Furthermore, you did not sufficiently address the need for improvements in the disposition of lots and other quality-related functions of your quality system.
+
+Multiple deviations noted in your manufacturing process cause concern about the quality of your drug product. It is essential that executive management supports and implements effective actions to address the source(s) of the variations and ensure a continued state of control.
+
+Your firm's quality systems are inadequate. See FDA's guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations for help implementing quality systems and risk management approaches to meet the requirements of CGMP regulations 21 CFR, parts 210 and 211 at https://www.fda.gov/media/71023/download
+
+In response to this letter provide the following:
+• A comprehensive assessment and remediation plan to ensure your QU is given the authority and resources to effectively function. The assessment should also include, but not be limited to:
+    o A determination of whether procedures used by your firm are robust and appropriate
+    o Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices
+    o A complete and final review of each batch and its related information before the QU disposition decision
+    o Oversight and approval of investigations and discharging of all other QU duties to ensure identity, strength, quality, and purity of all products
+
+• A detailed summary of your validation program for ensuring a state of control throughout the product lifecycle, along with associated procedures.
+• A description of your program for process performance qualification and ongoing monitoring of both intra-batch and inter-batch variation to ensure a continuing state of control.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements if your firm intends to resume manufacturing drugs for the U.S. market. We also recommend that the qualified consultant perform a comprehensive audit of your entire operation for CGMP compliance and that the consultant evaluates the completion and efficacy of your corrective actions and preventive actions before you pursue resolution of your firm's compliance status with FDA.
+
+Your use of a consultant does not relieve your firm's obligation to comply with CGMP. Your firm's executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of these violations and for preventing their recurrence or the occurrence of other violations.
+
+FDA placed your firm on Import Alert 66-40 on November 27, 2019.
+
+Until you correct all violations completely and we confirm your compliance with CGMP, FDA may withhold approval of any new drug applications or supplements listing your firm as a drug manufacturer.
+
+Failure to correct these violations may also result in the FDA continuing to refuse admission of articles manufactured at Guangzhou Tinci Materials Technology Co., Ltd. 8th Kangda Road, Yunpu Industrial Zone, Huangpu District, Guangzhou, into the United States under section 801(a)(3) of the FD&C Act, 21 U.S.C. 381(a)(3). Articles under this authority may be subject to refusal of admission, in that the methods and controls used in their manufacture do not appear to conform to COMP within the meaning of section 501 (a)(2)(B) of the FD&C Act, 21 U.S.C. 351 (a)(2)(B).
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to CDER-OC-OMO-Communications@fda.hhs.gov or mail your reply to:
+
+Daniel W. Brisker
+Compliance Officer
+U.S. Food and Drug Administration
+White Oak Building 5 1, Room 4235
+10903 New Hampshire A venue
+Silver Spring, MD 20993
+USA
+
+Please identify your response with FEI 3007544618.
+
+Sincerely,
+
+/S/
+
+Francis Godwin
+Director
+Office of Manufacturing Quality
+Office of Compliance
+Center for Drug Evaluation and Research
+
+______________________________
+
+1. (b)(4)

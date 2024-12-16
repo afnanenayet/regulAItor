@@ -1,0 +1,247 @@
+Delivery Method: 
+        VIA Electronic Mail
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+              Reference #: 
+        1000149906
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Kalyn R. Tabor
+          
+
+                                
+  
+    Recipient Title
+              President
+          
+
+          
+            Kalchem International, Inc.
+
+          
+                      224 S. Main St.
+Suite B
+Lindsay, OK 73052
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Office of Pharmaceutical Quality Operations, Division II
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Ms. Tabor:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Kalchem International, Inc., FEI 1000149906 (formerly FEI 1000160137), at 224 S. Main Street, Suite B, Lindsay, Oklahoma from February 10 to 21, 2020.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals, Title 21 Code of Federal Regulations CFR parts 210 and 211 (21 CFR 210 and 211), and significant deviations from CGMP for active pharmaceutical ingredients (API).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drugs are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+Your firm manufactures and introduces, or delivers for introduction into interstate commerce, “(b)(4),” an unapproved new drug that is in violation of section 505(a) of the FD&C Act, 21 U.S.C. 355(a). This product is also misbranded under section 502 of the FD&C Act, 21 U.S.C. 352. Introduction or delivery for introduction of such a product into interstate commerce is prohibited under sections 301(d) and (a) of the FD&C Act, 21 U.S.C. 331(d) and (a), respectively. These additional violations are described in more detail below in the CGMP violation and deviation sections of this letter.
+
+We reviewed your March 10, 2020, response to our Form FDA 483 in detail.
+
+During our inspection, our investigator observed specific violations and deviations including, but not limited to, the following.
+
+CGMP Finished Drug Violation
+
+Your firm failed to have, for each batch of drug product, appropriate laboratory determination of satisfactory conformance to final specifications for the drug product, including the identity and strength of each active ingredient, prior to release (21 CFR 211.165(a)).
+
+On December 5, 2019, your firm shipped the over-the counter (OTC) drug product “(b)(4)” three days before you received the certificate of analysis (COA) with assay results from your contract laboratory for the active ingredient, (b)(4). While you received the COA on December 20, 2019, you indicated to your customer that the batch was released on December 17, 2019.
+
+In addition, you did not review and approve the batch records until December 23, 2019, after the batch had been released.
+
+In your response, you committed to perform a full and prompt batch review by the Quality Unit (QU) prior to product release and shipment to your customers.
+ 
+Your response is inadequate. You did not describe your corrective action and preventive action (CAPA) to ensure that all batch testing is reviewed before release or rejection.
+
+In response to this letter, provide the following:
+
+
+	 A list of chemical and microbial specifications, including test methods, used to analyze each batch of your drug products before a batch disposition decision. Also include:
+	
+		An action plan and timelines for conducting full chemical and microbiological testing of retain samples to determine the quality of all batches of drug product distributed to the United States within expiry as of the date of this letter.
+		 A summary of all results obtained from testing retain samples from each batch. If such testing reveals substandard quality drug products, take rapid corrective actions, such as notifying customers and product recalls.
+	
+	
+
+
+
+	A comprehensive, independent assessment of your laboratory practices, procedures, methods, equipment, documentation, and analyst competencies. Based on this review, provide a detailed plan to remediate and evaluate the effectiveness of your laboratory system.
+
+
+
+	 A comprehensive assessment and remediation plan to ensure your QU is given the authority and resources to effectively function. The assessment should also include, but not be limited to:
+	
+		 A determination of whether procedures used by your firm are robust and appropriate;
+		 Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices;
+		 A complete and final review of each batch and its related information before the QU disposition decision; and,
+		 Oversight and approval of investigations and discharging of all other QU duties to ensure identity, strength, quality, and purity of all products.
+	
+	
+
+
+CGMP API Deviation
+
+Failure of your quality unit to exercise its responsibility to ensure the API manufactured at your facility are in compliance with CGMP.
+
+Your facility repacks and relabels API. Your QU failed to perform adequate functions to ensure that the API you supply met CGMP requirements.
+
+For example, your QU failed to ensure that records are maintained and reviewed for each API that is relabeled. In addition, you lacked a procedure for relabeling API.
+
+It was a common practice for your firm to relabel and distribute lots without a written procedure and documentation.
+
+You also failed to adequately review your re-packaging batch records before release. For example, one lot of Lidocaine HCL was re-packaged with an incorrect lot number and shipped. Your QU reviewed the Chemical Repackaging record six days after the product had been shipped. The error was not detected until the FDA investigator found it during our inspection.
+
+In your response, you stated that you will create a new procedure for relabeling API and will revise your re-packaging procedure. You also committed that your QU will be responsible to approve or reject your drugs prior to shipments to customers.
+
+Your response is inadequate because you did not include a comprehensive risk assessment of potentially undetected hazards due to inadequate documentation and oversight for both current relabeled API inventory and distributed API. In addition, you failed to provide a copy of the new and the revised procedures.
+
+In response to this letter, provide the following:
+
+
+	 A comprehensive assessment and remediation plan to ensure your QU is given the authority and resources to effectively function. The assessment should also include, but not be limited to:
+	
+		 A determination of whether procedures used by your firm are robust and appropriate;
+		 Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices;
+		 A complete and final review of each lot and its related information before the QU disposition decision; and,
+		 Oversight and approval of investigations and discharging of all other QU duties to ensure identity, strength, quality, and purity of all drugs. Also, describe how top management supports quality assurance and reliable operations, including but not limited to timely provision of resources to proactively address emerging manufacturing/ quality issues and to assure a continuing state of control.
+	
+	
+
+
+
+	 A risk assessment addressing the hazards posed by inadequate documentation and oversight for both the distributed and current inventory of relabeled drugs. Also, provide a copy of your new and revised procedures for relabeling and repackaging.
+
+
+API Misbranding Violation
+
+Your API labels, such as those for Lidocaine HCl, Gabapentin, and Promethazine HCl, identify Kalchem but do not designate the firm’s role. Since evidence indicates that Kalchem is not the sole manufacturer for the APIs, these API labels, which bear only Kalchem’s name without further qualifications, falsely represent that Kalchem is the sole drug manufacturer. (See 21 CFR 201.1(h)(2).) Therefore, the APIs are misbranded under section 502(a) of the FD&C Act because the labels are false and misleading.
+
+Additionally, your APIs are also misbranded under section 502(a) of the FD&C Act because the labels bear an incorrect lot number, such as those for Lidocaine HCl. (See 21 CFR 201.18.)
+
+Unapproved New Drug and Misbranding Violations
+ 
+Based on the product labeling claims such as those described below, the product “(b)(4)” is a drug as defined under section 201(g)(1) of the FD&C Act, 21 U.S.C. 321(g)(1), because it is intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease and/or because it is intended to affect the structure or any function of the body.
+ 
+Examples of such claims are found on the product label and the website, (b)(4), which is printed on the product label. These claims provide evidence of the intended uses (as defined in 21 CFR 201.128) of “(b)(4)” include, but may not be limited to, the following:
+ 
+“(b)(4)” Label
+“■ (b)(4).”
+ 
+“(b)(4)” Website Labeling
+“(b)(4)...”
+ 
+We note that the labeling for the “(b)(4)” product bears a Drug Facts panel that states it is intended for use as an OTC skin protectant. OTC drug products intended as skin protectant products are subject to the final rule for Skin Protectant Drug Products for Over-the-Counter Human Use, see 21 CFR 347. We, also, note that “(b)(4)” makes treatment and prevention claims for diaper rash. Diaper rash products have been the subject of ongoing rulemaking under the Agency’s OTC Drug Review. In particular, such products were addressed in the Tentative Final Monograph (TFM) for Diaper Rash Drug Products for Over-the-Counter Human Use (diaper rash TFM; 55 FR 25204, June 20, 1990).
+ 
+The Coronavirus Aid, Relief, and Economic Security Act (CARES Act), enacted on March 27, 2020, added section 505G to the FD&C Act. Under section 505G(a)(1) of the FD&C Act, drug ingredients that were classified as Category I in a TFM, such as (b)(4), are generally recognized as safe and effective (GRASE) and are not required to have approved applications under section 505 in order to be marketed, as long as they are in conformity with the relevant conditions of use outlined in the applicable TFM, including the labeling conditions, and comply with all other applicable requirements for nonprescription drugs. However, “(b)(4)” is not labeled and formulated in conformance with the TFM for diaper rash drug products for the reason explained below.
+ 
+The product labeling for “(b)(4)” includes claims for uses related to incontinence and bed sores. These indications are not included under the skin protectant or diaper rash rulemakings.
+ 
+As such, the product labeling for “(b)(4)” is not consistent with the conditions of the applicable rulemakings “(b)(4)” is a new drug under section 201(p) of the FD&C Act, 21 U.S.C. 321(p), because it is not generally recognized as safe and effective for use under the conditions prescribed, recommended, or suggested in their labeling.
+
+As a new drug under section 201(p) of the FD&C Act, 21 U.S.C. 321(p), “(b)(4)” requires an FDA approved application to be lawfully marketed. No FDA approved application is on file for “(b)(4).” Accordingly, “(b)(4)” is an unapproved new drug marketed in violation of sections 505(a) and 301(d) of the FD&C Act, 21 U.S.C. 355(a) and 331(d).
+ 
+Further, “(b)(4)” is misbranded under section 502(c) of the FD&C Act, 21 U.S.C. 352(c), because the product’s Drug Facts panel contains extraneous information that goes beyond the required directions described in the rulemakings mentioned above. Specifically, 21 CFR 201.66(d)(7) states that additional information not described in the content requirements for OTC drug products should not appear in the Drug Facts panel. However, the Directions section for your product Drug Facts panel includes language such as “(b)(4)” that is not consistent with the directions provided for in the applicable rulemakings for skin protectant and diaper rash drug products.
+ 
+The introduction or delivery for introduction of a misbranded drug into interstate commerce is prohibited under section 301(a) of the FD&C Act, 21 U.S.C. 331(a). Therefore, the marketing of “(b)(4)” violates this provision of the FD&C Act.
+ 
+Repeat Observations at Facility
+
+In a previous inspection, dated November 2017, you were also cited for not having appropriate procedures in place for your operations. You proposed specific remediation for these observations in your written response at the time.
+
+Repeated failures demonstrate that executive management oversight and control over the manufacture of drugs is inadequate.
+
+Additional API CGMP guidance
+
+FDA considers the expectations outlined in ICH Q7 in determining whether API are manufactured in conformance with CGMP. See FDA’s guidance document, Q7 Good Manufacturing Practice Guidance for Active Pharmaceutical Ingredients, for guidance regarding CGMP for the manufacture of API, at https://www.fda.gov/media/71518/download.
+
+CGMP consultant recommended
+
+Based upon the nature of the violations and deviations we identified at your firm and because you failed to correct repeat deviations, we strongly recommend engaging a consultant qualified to evaluate your operations as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements.
+
+Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+The violations and deviations cited in this letter are not intended to be an all-inclusive list of violations and deviations that exist at your facility. You are responsible for investigating and determining the causes of these violations and deviations and for preventing their recurrence or the occurrence of other violations and deviations.
+
+If you are considering an action that is likely to lead to a disruption in the supply of drugs produced at your facility, FDA requests that you contact CDER’s Drug Shortages Staff immediately, at drugshortages@fda.hhs.gov, so that FDA can work with you on the most effective way to bring your operations into compliance with the law. Contacting the Drug Shortages Staff also allows you to meet any obligations you may have to report discontinuances or interruptions in your drug manufacture under 21 U.S.C. 356C(b). This also allows FDA to consider, as soon as possible, what actions, if any, may be needed to avoid shortages and protect the health of patients who depend on your products.
+
+Correct the violations and deviations cited in this letter promptly. Failure to promptly correct these violations and deviations may result in legal action without further notice including, without limitation, seizure and injunction. Unresolved violations and deviations in this warning letter may also prevent other Federal agencies from awarding contracts.
+
+FDA may also withhold approval of requests for export certificates and approval of pending new drug applications or supplements listing your facility as a supplier or manufacturer until the above violations and deviations are corrected. We may re-inspect to verify that you have completed your corrective actions.
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and deviations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Please identify your response with FEI: 1000149906. Send your electronic reply to John W. Diehl, Director, Compliance Branch at ORAPHARM2_Responses@fda.hhs.gov. 
+
+If you have questions regarding the contents of this letter, please contact CDR John W. Diehl at 214-253-5288. 
+
+Sincerely,
+/S/
+Monica R. Maxwell
+Program Division Director
+Office of Pharmaceutical Quality Operations,
+Division II

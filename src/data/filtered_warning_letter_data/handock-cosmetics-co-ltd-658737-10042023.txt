@@ -1,0 +1,226 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Sang Eui Lee
+          
+
+                                
+  
+    Recipient Title
+              General Manager
+          
+
+          
+            Handock Cosmetics Co., Ltd.
+
+          
+                      19 Eunbong-ro
+Namdong-gu
+Incheon
+21634
+South Korea
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research | CDER
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter 320-24-02
+
+October 4, 2023
+
+Dear Mr. Lee:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Handock Cosmetics Co., Ltd., FEI 3007295883, at 19 Eunbong-ro, Namdong-gu, Incheon 21634, from March 20 to March 24, 2023.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+In addition, Hand Sanitizer Perfect Care Gel is an unapproved new drug introduced or delivered for introduction into interstate commerce in violation of section 505(a) of the FD&C Act, 21 U.S.C 355(a). Introduction or delivery for introduction of such a product into interstate commerce is prohibited under section 301(d) of the FD&C Act, 21 U.S.C. 331(d), and misbranded under section 502(ee) of the FD&C Act, 21 U.S.C. 352(ee). In addition, your Hand Sanitizer Perfect Care Gel and Dr. Clean Perfect Gel are misbranded under section 502(x) of the FD&C Act, 21 U.S.C. 352(x). Introduction or delivery for introduction of such products into interstate commerce is prohibited under section 301(a) of the FD&C Act, 21 U.S.C. 331(a). These violations are described in more detail below.
+
+We reviewed your April 11, 2023 response to our Form FDA 483 in detail. Your response is inadequate because it did not provide sufficient detail or evidence of corrective actions to bring your operations into compliance with CGMP.
+
+CGMP Violations
+
+During our inspection, our investigator observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to conduct at least one test to verify the identity of each component of a drug product. Your firm also failed to validate and establish the reliability of your component supplier’s test analyses at appropriate intervals (21 CFR 211.84(d)(1) and 21 CFR 211.84(d)(2)).
+
+You failed to adequately test your incoming components used in the manufacture of your drug products for identity. You also relied on your suppliers’ certificates of analysis (COA) without establishing the reliability of your suppliers’ test analyses at appropriate intervals. For example, your firm did not perform identity testing on your ethanol (b)(4) component. Additionally, your firm could not provide evidence that the suppliers of your ethanol and other components were qualified, or that you have an adequate supplier qualification program in place.
+
+In response to this letter, provide the following:
+
+
+	A comprehensive, independent review of your material system to determine whether all suppliers of components, containers, and closures, are each qualified and the materials are assigned appropriate expiration or retest dates. The review should also determine whether incoming material controls are adequate to prevent use of unsuitable components, containers, and closures.
+	A summary of results from testing retain samples of all drug product batches within expiry. Test all appropriate quality attributes including, but not limited to, assay and purity of each batch. If testing yields an OOS result, indicate the corrective actions you will take, including notifying customers and initiating recalls.
+
+
+2. Your firm’s quality control unit failed to exercise its responsibility to ensure drug products manufactured are in compliance with CGMP, and meet established specifications for identity, strength, quality, and purity (21 CFR 211.22).
+
+Your firm manufactures over-the-counter (OTC) topical drug products, such as hand sanitizers.1
+
+Your quality unit (QU) did not effectively exercise its responsibilities to oversee the quality of your drug manufacturing operations. Specifically, your firm could not provide evidence that you had procedures in place to provide your QU with the responsibility and authority to handle critical quality oversight operations, including handling out-of-specification results and deviations, investigations, corrective action and preventive action (CAPA), implementing change controls, the reporting of adverse events, complaints, recalls, water sampling and monitoring, pest control, supplier qualification, equipment qualification and maintenance, and employee training. Likewise, you could not provide annual product quality reviews for their ethanol-based hand sanitizer drug products. Further, your QU failed to ensure that your batch manufacturing instructions were completed, as filling lines were not identified.
+
+In response to this letter, provide a comprehensive assessment and remediation plan to ensure your QU is given the authority and resources to effectively function. The assessment should also include, but not be limited to:
+
+
+	A determination of whether procedures used by your firm are robust and appropriate.
+	Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices.
+	A complete and final review of each batch and its related information before the QU disposition decision.
+	Oversight and approval of investigations and discharging of all other QU duties to ensure identity, strength, quality, and purity of all products.
+	Also describe how top management supports quality assurance and reliable operations including, but not limited to, timely provision of resources to proactively address emerging manufacturing/quality issues and to assure a continuing state of control.
+
+
+3. Your firm failed to use equipment in the manufacture, processing, packing, or holding of drug products that is of appropriate design, adequate size, and suitably located to facilitate operations for its intended use and for its cleaning and maintenance (21 CFR 211.63).
+
+You could not provide evidence of equipment qualification, maintenance, or calibration of the (b)(4) and (b)(4) used to manufacture your drug products. You could not provide validation documents for your (b)(4) water system, which is used as a component in your drug products. Lastly, you lacked evidence that the Shimadzu Gas Chromatograph used for ethanol assay determination had been calibrated or had undergone routine maintenance within the last two years.
+
+In response to this letter provide your CAPA plan to implement routine, vigilant operations management oversight of facilities and equipment. This plan should ensure, among other things, prompt detection of equipment/facilities performance issues, effective execution of repairs, adherence to appropriate preventive maintenance schedules, timely technological upgrades to the equipment/facility infrastructure, and improved systems for ongoing management review.
+
+Unapproved New Drug and Misbranding Violations
+
+Hand Sanitizer Perfect Care Gel and Dr. Clean Perfect Gel products are “drugs” as defined by section 201(g)(1)(B) of the FD&C Act, 21 U.S.C. 321(g)(1)(B), because they are intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease, and/or under section 201(g)(1)(C) of the FD&C Act, 21 U.S.C. 321(g)(1)(C), because they are intended to affect the structure or any function of the body. Specifically, Hand Sanitizer Perfect Care Gel and Dr. Clean Perfect Gel products are intended for use as over-the-counter consumer antiseptic rubs.
+
+Examples of claims from the products’ label that provide evidence of the intended use (as defined by 21 CFR 201.128) of these products include, but may not be limited to, the following:
+
+Hand Sanitizer Perfect Care Gel
+“Hand Sanitizer” ; “Antiseptic” ; “Hand sanitizer to help reduce bacteria on the skin.” ; “Sterilizing effect” [from product label]
+
+Dr. Clean Perfect Gel
+“Hand Sanitizer” ; “Antiseptic” ; “Hand sanitizer to help reduce bacteria on the skin.” [from product label]
+
+Unapproved New Drug Violations
+
+Your Hand Sanitizer Perfect Care Gel is a new drug within the meaning of section 201(p) of the FD&C Act, 21 U.S.C. 321(p), because it is not generally recognized as safe and effective (GRASE) for use under the conditions prescribed, recommended, or suggested in its labeling. Subject to exceptions not applicable here, new drugs may not be introduced or delivered for introduction into interstate commerce without an approved application from FDA in effect, as described in section 505(a) of the FD&C Act, 21 U.S.C. 355(a). No FDA-approved application pursuant to section 505 of the FD&C Act, 21 U.S.C. 355, is in effect for this drug product. Accordingly, this product is an unapproved new drug marketed in violation of sections 505(a) and 301(d) of the FD&C Act, 21 U.S.C 355(a) and 331(d).
+
+We note that over-the-counter (OTC) topical antiseptic products had been the subject of rulemaking under the Agency’s OTC Drug Review. In particular, such products were addressed in a tentative final monograph (TFM) entitled “Topical Antimicrobial Drug Products for Over the Counter Human Use; Tentative Final Monograph for Health-Care Antiseptic Drug Products,” Proposed Rule, 59 FR 31402 (June 17, 1994) (1994 TFM), as further amended by “Safety and Effectiveness of Consumer Antiseptics; Topical Antimicrobial Drug Products for Over the Counter Human Use; Proposed Amendment of the Tentative Final Monograph; Reopening of Administrative Record,” Proposed Rule, 81 FR 42912 (June 30, 2016)(Consumer Antiseptic Rubs Proposed Rule). Over the course of these rulemakings, three active ingredients (benzalkonium chloride, ethyl alcohol (ethanol), and isopropyl alcohol) were classified as Category III for use in consumer antiseptic rub products, meaning that additional safety and effectiveness data are needed to support a determination that a drug product containing one of these active ingredients would be GRASE for use as a consumer antiseptic rub.
+
+Section 505G of the FD&C Act addresses nonprescription drugs marketed without an approved application. Under section 505G(a)(3) of the FD&C Act, drugs that were classified as Category III for safety or effectiveness in a TFM that is the most recently applicable proposal or determination for such drug issued under 21 CFR Part 330 – and that were not classified as Category II for safety or effectiveness – are not required to have an approved application under section 505 in order to be marketed, as long as they are in conformity with the relevant conditions of use outlined in the applicable TFM, including the active ingredient, and comply with all other applicable requirements.
+
+However, your Hand Sanitizer Perfect Care Gel does not conform to the 1994 TFM, as amended by the 2016 Consumer Antiseptic Rubs Proposed Rule, nor any other TFM, proposed rule, or final rule, and does not meet the conditions under section 505G(a)(3) of the FD&C Act for marketing without an approved application under section 505.2
+
+Specifically, your Hand Sanitizer Perfect Care Gel includes the claim “sterilizing effect” on the principal display panel. The claim that Hand Sanitizer Perfect Care Gel has a “sterilizing effect” on the hands or skin does not conform with the TFM or the applicable requirements and goes beyond describing the intended use of topical antiseptics as set forth in the 1994 TFM, as amended by the 2016 Consumer Antiseptic Rubs Proposed Rule.3
+
+Misbranding Drug Violations
+
+In addition, your Hand Sanitizer Perfect Care Gel and Dr. Clean Perfect Gel products are misbranded under section 502(x) of the FD&C Act, 21 U.S.C. 352(x), because the product labels fail to include a complete domestic address or domestic telephone number through which the responsible person may receive a report of a serious adverse event with such drugs.
+
+Lastly, your Hand Sanitizer Perfect Care Gel is misbranded under section 502(ee) of the FD&C Act, 21 U.S.C. 352(ee), because it is a nonprescription drug subject to section 505G of the FD&C Act, 21 U.S.C. 355h, but does not comply with the requirements for marketing under that section, and is not the subject of an application approved under section 505 of the FD&C Act, 21 U.S.C. 355.
+
+Introduction or delivery for introduction of such products into interstate commerce is prohibited under section 301(a) of the FD&C Act, 21 U.S.C. 331(a).
+
+Establishment Registration and Drug Listing
+
+A query of FDA’s drug registration and listing database determined that Handock Cosmetics Co., Ltd.’s establishment registration is current and there are no active drug listings for this establishment. Under section 510(j)(1) of the FD&C Act, 21 U.S.C. 360(j)(1), and 21 CFR 207.41, all drugs manufactured, prepared, propagated, compounded, or processed for U.S. commercial distribution must be listed with FDA.
+
+If Handock Cosmetics Co., Ltd., currently has any drug product in distribution, you must review and update your listing information including submitting the date that you resumed the manufacture, repacking, or relabeling for commercial distribution of a drug previously discontinued and provide any required listing information not previously submitted (21 CFR 207.57(b)(iii)). This includes adding a marketing end date that aligns with the expiration date of the last lot of your drug product in commercial distribution. Failure to properly list a drug product is prohibited under section 301(p) of the FD&C Act, 21 U.S.C. 331(p), and will render a drug misbranded under section 502(o) of the FD&C Act, 21 U.S.C. 352(o). The introduction or delivery for introduction of a misbranded drug into interstate commerce is prohibited under section 301(a) of the FD&C Act, 21 U.S.C. 331(a). If Handock Cosmetic Co., Ltd., no longer manufactures drug products for U.S. commercial distribution, it must deregister with FDA/CDER (21 CFR 207.29). For additional establishment registration or drug listing information, or questions on how to update your submissions, you can contact the Drug Registration and Listing Branch at eDRLS@fda.hhs.gov.
+
+CGMP Consultant Recommended
+
+We acknowledge that you deregistered your drug products. In response to this letter, clarify whether you intend to continue manufacturing any drugs at this facility or another in the future intended for the U.S market. If you plan to continue manufacturing drugs for the U.S. market, notify this office before resuming your operations.
+
+Based upon the nature of the violations we identified at your firm, you should engage a consultant qualified as set forth in 21 CFR 211.34 to evaluate your operations and to assist your firm in meeting CGMP requirements if your firm intends to resume manufacturing drugs for the U.S. market. The qualified consultant should also perform a comprehensive six-system audit4 of your entire operation for CGMP compliance and evaluate the completion and efficacy of your corrective actions and preventive actions before you pursue resolution of your firm’s compliance status with FDA.
+
+Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Repeat Violations at Facility
+
+In a previous inspection, dated August 28 to September 1, 2017, FDA cited similar CGMP violations. Repeated failures demonstrate that executive management oversight and control over the manufacture of drugs is inadequate.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+FDA placed your firm on Import Alert 66-40 on July 24, 2023.
+
+Correct any violations promptly. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to any violations.
+
+Failure to address any violations may also result in the FDA continuing to refuse admission of articles manufactured at Handock Cosmetics Co., Ltd., Namdong, Republic of Korea into the United States under section 801(a)(3) of the FD&C Act, 21 U.S.C. 381(a)(3). Articles under this authority that appear to be adulterated or misbranded may be detained or refused admission, in that the methods and controls used in their manufacture do not appear to conform to CGMP within the meaning of section 501(a)(2)(B) of the FD&C Act, 21 U.S.C. 351(a)(2)(B) and are misbranded under section 502 of the FD&C Act, respectively.
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov. Identify your response with FEI 3007295883 and ATTN: Christina Capacci-Daniel.
+
+Sincerely,
+/S/
+
+Francis Godwin
+Director
+Office of Manufacturing Quality
+Office of Compliance
+Center for Drug Evaluation and Research
+
+_________________
+
+1 Due to an increased demand for alcohol-based hand sanitizers during the COVID-19 pandemic, FDA published the Guidance for Industry: Temporary Policy for Preparation of Certain Alcohol-Based Hand Sanitizer Products During the Public Health Emergency (COVID-19) on March 19, 2020, and subsequently updated the guidance several times. The guidance was withdrawn effective December 31, 2021 (86 Fed Reg at 56960). This guidance communicated the Agency’s temporary policy that we did not intend to take action against firms for CGMP violations under section 501(a)(2)(B) of the FD&C Act if such firms prepared alcohol-based hand sanitizers for consumer use (or for use as a health care personnel hand rub) during the public health emergency, provided certain circumstances described in the guidance are present. These circumstances included preparation of hand sanitizer products using only the ingredients and formulas set forth in the guidance. Because Handock Cosmetics Co., Ltd.’s hand sanitizer products are not consistent with the formulations described in this guidance, they do not fall within any temporary Agency policy not to take action against firms manufacturing hand sanitizer products for violations of section 501(a)(2)(B) of the FD&C Act.
+
+2 FDA is not aware of any adequate and well-controlled clinical trials in the published literature that support a determination that your “Hand Sanitizer Perfect Care Gel” drug product is GRASE for use under the conditions prescribed, recommended, or suggested in its labeling.
+
+3 The 1994 TFM covers health care antiseptics that are indicated for use to help reduce bacteria that potentially can cause disease and health care and consumer antiseptics that are indicated for use to decrease bacteria on the skin. 59 FR at 31443.
+
+4 i.e., Quality System, Facilities & Equipment System, Materials System, Production System, Packaging & Labeling System, and Laboratory Control System per FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations.

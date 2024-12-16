@@ -1,0 +1,218 @@
+Delivery Method: 
+        Via Email
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Melissa Etheridge
+          
+
+                                
+  
+    Recipient Title
+              Owner
+          
+
+          
+            Carolina Infusion
+
+          
+                      95 Bees Creek Road
+Ridgeland, SC 29936-7540
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+           Division of Pharmaceutical Quality Operations II 
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+May 22, 2023
+
+Case # 659408
+
+WARNING LETTER
+
+Dear Ms. Etheridge:
+
+From July 18, 2022 to August 12, 2022, a U.S. Food and Drug Administration (FDA) investigator inspected your facility, Carolina Infusion, located at 95 Bees Creek Road, Ridgeland, SC 29936. During the inspection, the investigator noted that drug products you produced failed to meet the conditions of section 503A of the Federal Food, Drug, and Cosmetic Act (FDCA) [21 U.S.C. § 353a] for exemption from certain provisions of the FDCA. In addition, the investigator noted serious deficiencies in your practices for producing non-sterile drug products and drug products intended or expected to be sterile, which put patients at risk.
+
+FDA issued a Form FDA 483 to your firm on August 12, 2022. FDA acknowledges receipt of your facility’s response, dated September 1, 2022. FDA acknowledges that on August 26, 2022, your firm initiated a voluntary recall of all products intended to be sterile that were within expiry due to a lack of sterility assurance. We also acknowledge that you have ceased production of “intrathecal administered medications at this time.” Based on this inspection, it appears that you produced drug products that violate the FDCA.
+
+A. Compounded Drug Products Under the FDCA
+
+Section 503A of the FDCA describes the conditions under which human drug products compounded by a licensed pharmacist in a State licensed pharmacy or a Federal facility, or a licensed physician, qualify for exemptions from three sections of the FDCA: compliance with current good manufacturing practice (CGMP) (section 501(a)(2)(B)); labeling with adequate directions for use (section 502(f)(1)); and FDA approval prior to marketing (section 505) [21 U.S.C. §§ 351(a)(2)(B), 352(f)(1) and 355(a)].1 Receipt of valid prescriptions for individually identified patients is one of the conditions for the exemptions under section 503A.
+
+B. Failure to Meet the Conditions of Section 503A
+
+During the inspection, the FDA investigator noted that drug products produced by your firm failed to meet the conditions of section 503A. For example, the investigator noted that your firm did not receive valid prescriptions for individually identified patients for a portion of the drug products you produced, including Tri-Mix 30/2/20 Injectable, Lidocaine/Tetracaine/Phenylephrine 21%/7%/2% Ointment, and Lidocaine/Tetracaine 23%/7% Plasticized.
+
+Therefore, you compounded drug products that do not meet the conditions of section 503A and are not eligible for the exemptions in that section, including the FDA approval requirement of section 505 of the FDCA, the requirement under section 502(f)(1) of the FDCA that labeling bear adequate directions for use, and the requirement of compliance with CGMP under section 501(a)(2)(B) of the FDCA. In the remainder of this letter, we refer to your drug products that do not qualify for exemptions under section 503A as the “ineligible drug products.”
+
+Specific violations are described below
+
+C. Violations of the FDCA
+
+Adulterated Drug Products
+
+The FDA investigator noted that drug products intended or expected to be sterile were prepared, packed, or held under insanitary conditions, whereby they may have become contaminated with filth or rendered injurious to health, causing your drug products to be adulterated under section 501(a)(2)(A) of the FDCA. For example, the investigator observed the following:
+
+1. Your firm produced drug products with materials that had not been verified to assure that they did not contribute endotoxin contamination that may be objectionable given the product’s intended use.
+
+2. Your facility design allowed the influx of poor-quality air into a higher classified area.
+
+3. Your firm used non-pharmaceutical grade components in the formulation of non-sterile drug products.
+
+4. Your media fills were not performed under the most challenging or stressful conditions. Therefore, there is a lack of assurance that your firm can aseptically produce drug products within your facility.
+
+5. Your ISO-5 classified areas were not certified under dynamic conditions.
+
+Under section 301(a) of the FDCA [21 U.S.C. § 331(a), the introduction or delivery for introduction into interstate commerce of any drug that is adulterated is a prohibited act. Further, it is a prohibited act under section 301(k) of the FDCA [21 U.S.C. § 331(k)] to do any act with respect to a drug if such act is done while the drug is held for sale after shipment in interstate commerce and results in the drug being adulterated.
+
+Unapproved New Drug Products
+
+You do not have any FDA-approved applications on file for the ineligible drug products that you compounded.2 Under sections 505(a) and 301(d) of the FDCA [21 U.S.C. § 331(d)], a new drug may not be introduced into or delivered for introduction into interstate commerce unless an application approved by FDA under section 505 of the FDCA is in effect for the drug. Marketing of these products, or other applicable products, without an approved application violates these provisions of the FDCA.
+
+Misbranded Drug Products
+
+The ineligible drug products you compounded are intended for conditions not amenable to self-diagnosis and treatment by individuals who are not medical practitioners; therefore, adequate directions for use cannot be written so that a layman can use these products safely for their intended uses. Consequently, their labeling fails to bear adequate directions for their intended uses.3 Accordingly, these ineligible drug products are misbranded under section 502(f)(1) of the FDCA. The introduction or delivery for introduction into interstate commerce of these products therefore violates section 301(a) of the FDCA. It is also a prohibited act under section 301(k) of the FDCA to do any act with respect to a drug if such act is done while the drug is held for sale after shipment in interstate commerce and results in the drug being misbranded.
+
+D. Corrective Actions
+
+We have reviewed your firm’s responses to the Form FDA 483. We acknowledge your recall of drug products intended to be sterile within expiry due to a lack of sterility assurance on August 26, 2022. In addition, we acknowledge that your firm ceased all sterile drug production on August 24th, 2022, and that your firm resumed sterile drug production on October 14, 2022, except for intrathecal drug products.
+
+Regarding your responses related to the insanitary conditions, some of your corrective actions appear adequate; however, we cannot fully evaluate the adequacy of the following corrective actions described in your response because you did not include sufficient information or supporting documentation:
+
+1. You stated in your response that you revised the endotoxin testing SOP 9.170, Version Number 2.0, Serial Dilution for Intrathecal Endotoxin Testing and that your firm “does not pool different finished compounded intrathecal compounded drug products into one unit.” However, this statement or information of not pooling different intrathecal finished drug products during endotoxin testing is not included in the revised SOP provided. In addition, you did not provide any supporting training documentation showing your staff were trained on this new procedure.
+
+2. You stated in your response that you “will be using (b)(4) in the formulation of these non-sterile compounds.” This would be effective September 1, 2022. However, you did not provide any supporting documentation such as invoices showing the proof of purchase or training documentation for staff pertaining to the use of (b)(4) in non-sterile drug production.
+
+3. You stated in your response that your certification vendor, (b)(4), acknowledged that there were errors associated with the differential pressure reporting in the initial (b)(4) report (Report #(b)(4), dated 2/23/2022) submitted to the firm and the report was changed. However, you did not provide the revised report for review, and therefore, we cannot evaluate the changes made to the initial (b)(4) report or its adequacy.
+
+4. You stated that “no growth was observed after swabbing and (b)(4) plating” post cleaning of the anteroom with “(b)(4)” and cleaning of the sink within the room with (b)(4) upon learning of the actionable growth observed in the February 2022 environmental sampling performed by (b)(4). However, you did not provide any supporting evidence such as cleaning logs or subsequent environmental sampling data for evaluation. In addition, your firm’s recent (b)(4) report performed on August 30, 2022, indicates that “microbiological analysis (viable count)” was performed. However, the report provided as part of the response did not include the results of the viable count from this sampling date.
+
+You did not address certain observations related to insanitary conditions, for example:
+
+1. Your firm did not address the concerns associated with the lack of endotoxin control during the production process and then release of intrathecal drug products when the (b)(4) equipment is not available for testing. Without endotoxin controls (such as endotoxin data on CoAs for bulk drug substances and other components, finished product endotoxin testing, etc.), there are no assurances that intrathecal drug products are safe for their intended use.
+
+2. The new endotoxin results tested on 08/17/2022 provided by your firm did not include or address the finished drug products for intrathecal use that are combination of two or more APIs which your firm also produces.
+
+Regarding your responses related to the insanitary conditions, the following corrective actions appear deficient:
+
+1. You have not addressed the lack of established endotoxin limit for your sterile intrathecal finished drug products. The acceptability of the new endotoxin results tested on 08/17/2022 submitted for evaluation cannot be fully determined because no endotoxin limit or calculation of the endotoxin limit for the intrathecal finished drug products associated with these samples were provided for evaluation.
+
+2. You stated in your response that the revised endotoxin test procedure includes the use of single use containers. However, although the revised SOP # 9.170 Version Number 2.0, Serial Dilution for Intrathecal Endotoxin Testing, mentions the use of (b)(4) tubes within the document, it does not indicate that the tubes are single use containers. In addition, you did not provide any supporting training documentation showing your staff were trained on this new procedure, and know how to correctly operate the (b)(4) equipment, or interpret the endotoxin report from the (b)(4) equipment.
+
+3. Your response to inadequate pressure differentials in the sterile compounding cleanroom conveyed that the only way the differential pressure “could possibly go below (b)(4)” is “if the door had not been shut and the door cracked open.” If this is accurate, then your firm’s monitoring system for differential pressures failed to adequately detect a drop in differential pressure and provide real time notification, therefore, putting the cleanroom (certified as ISO 6 where ISO 5 hoods are located, and sterile products including intrathecals are produced) at risk for potential influx of poor-quality air to enter the cleanroom undetected.
+
+4. You stated in your response that your access hallway “is not neutral, it is positive pressure with an ISO 6 classification.” However, the supporting evidence provided by your firm contradicts this statement because the hallway certification report dated June 21, 2022, has the hallway as “Work Area Pressure: Neutral, Neutral to All Rooms.” Your response also stated that the hallway is classified as an ISO 6 and “since the rooms are also ISO 6, upon opening the door to any of the rooms, there is neutral pressure because all rooms and hallway are ISO-6. Therefore, no contaminants can come in or out of the room.” You provided no evidence, such as testing data or reports, to support that the facility design would prevent contamination, specifically, in the sterile compounding cleanroom where ISO 5 hoods are located, and sterile production occurs. In addition, your response further states “anti-room is a positive pressure room, and the hallway is not neutral” but you provided no evidence, such as a certification report, to prove this claim.
+
+5. Review of your prescription batch records show that you produce more complex preparations during sterile drug production than what your firm demonstrated using the media fill kit from (b)(4). For example:
+
+  a. Your firm performs more complex filling procedure such as producing and filling directly into patient specific syringes as the final container closure and filling a higher number of units than what was demonstrated using the media fill kit from (b)(4).
+
+  b. Your firm also performs more complex compounding procedure including the use of nonsterile stock solutions with 90 days and 180 days beyond use date (BUD). The hold time for the non-sterile stock solution in this more complex procedure was not considered in your firm’s current media fill procedure.
+
+6. The certification reports for your (b)(4) ISO 5 hoods did not indicate that they were performed under dynamic conditions which is different from the certification reports for your “compounding room (b)(4) that stated, “Tested Under Dynamic Cond.” In addition, you state that “we do not load the hood with items not intended for that specific prescription,”. It is unclear how you define “dynamic condition” and under what dynamic conditions the hoods are certified. Your SOP 3.010 Rev. 1.0, Sterile Compounding Area Requirements, does not indicate certification of your ISO 5 hoods need to be performed under dynamic conditions.
+
+For more information on compounding, please see FDA's website, at https://www.fda.gov/Drugs/GuidanceComplianceRegulatoryInformation/PharmacyCompounding/default.htm
+
+Please be aware that section 501(a)(2)(A) of the FDCA concerning insanitary conditions applies regardless of whether drug products you compound meet the conditions of section 503A, including the condition on receipt of a prescription for an identified individual patient prior to compounding and distributing drug products.
+
+In addition, regarding issues related to the conditions of section 503A of the FDCA, your corrective actions appear adequate. You state that your “pharmacy has ceased and will no longer produce products for physician office stock.”
+
+Should you continue to compound and distribute drug products that do not meet the conditions of section 503A, the compounding and distribution of such drugs would be subject to the new drug approval requirement, the requirement to label drug products with adequate directions for use, and the drug CGMP regulations. Before doing so, you must comply with the requirements of section 505 and 502(f)(1) and fully implement corrections that meet the minimum requirements of the CGMP regulations.4
+
+In addition to the issues discussed above, you should note that CGMP requires the implementation of quality oversight and controls over the manufacture of drugs, including the safety of raw materials, materials used in drug manufacturing, and finished drug products. See section 501 of the FDCA. If you choose to contract with a laboratory to perform some functions required by CGMP, it is essential that you select a qualified contractor and that you maintain sufficient oversight of the contractor’s operations to ensure that it is fully CGMP compliant. Regardless of whether you rely on a contract facility, you are responsible for assuring that drugs you produce are neither adulterated nor misbranded. [See 21 CFR 210.1(b), 21 CFR 200.10(b)].
+
+FDA strongly recommends, especially if you decide to resume production of sterile intrathecal drug products, your management undertake a comprehensive assessment of operations, including but not limited to establishing product endotoxin limit, facility design, procedures, personnel, processes, maintenance, materials, and systems. In particular, this review should assess your aseptic processing operations. A third-party consultant with relevant sterile drug manufacturing expertise including intrathecal and endotoxin testing should assist you in conducting this comprehensive evaluation.
+
+E. Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive statement of violations at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations. It is your responsibility to ensure that your firm complies with all requirements of federal law, including FDA regulations.
+
+You should take prompt action to address any violations. Failure to adequately address any violations may result in legal action without further notice, including, without limitation, seizure and injunction.
+
+Within fifteen (15) working days of receipt of this letter, please notify this office in writing of the specific steps that you have taken to address any violations. Please include an explanation of each step being taken to prevent the recurrence of violations, as well as copies of related documentation. In addition, if you intend to resume production of sterile drugs for intrathecal administration in the future, please notify this office in writing. This letter notifies you of our concerns and provides you an opportunity to address them. If you believe your products are not in violation of the FDCA, include your reasoning and any supporting information for our consideration. If you cannot completely address this matter within fifteen (15) working days, state the reason for the delay and the time in which you will do so.
+
+You written notification should refer to the Warning Letter Number above (659408). Please electronically submit your reply on company letterhead to Mark W. Rivero, Compliance Officer, at ORAPHARM2_RESPONSES@fda.hhs.gov. In addition, please submit a signed copy of your response to mark.rivero@fda.hhs.gov.
+
+If you have questions regarding the contents of this letter, please contact Ronda Loyd-Jones, Director, Compliance Branch, by email at ronda.loyd-jones@fda.hhs.gov or by phone at (214) 253 - 5336, or Mr. Mark Rivero by e-mail or by phone at (954) 759 - 7718.
+
+Sincerely,
+/S/
+
+Monica R. Maxwell
+Program Division Director
+Office of Pharmaceutical Quality Operations,
+Division II
+
+_____________________________________
+
+1 We remind you that there are conditions other than those discussed in this letter that must be satisfied to qualify for the exemptions in section 503A of the FDCA.
+
+2 The specific products made by your firm are drugs within the meaning of section 201(g) of the Act, [21 U.S.C. § 321(g)] because they are intended for use in the diagnosis, cure, mitigation, treatment, or prevention of diseases and/or because they are intended to affect the structure or any function of the body. Further, they are “new drugs” within the meaning of section 201(p) [21 U.S.C. 321(p)] of the FDCA because they are not generally recognized as safe and effective for their labeled uses.
+
+3 Your ineligible drug products are not exempted from the requirements of section 502(f)(1) of the FDCA by regulations issued by the FDA (see, e.g., 21 CFR 201.115).
+
+4 In this letter we do not address whether your proposed corrective actions would resolve the CGMP violations noted above.

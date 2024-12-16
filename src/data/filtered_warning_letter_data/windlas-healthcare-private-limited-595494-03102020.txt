@@ -1,0 +1,253 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Hitesh Windlass
+          
+
+                                
+  
+    Recipient Title
+              Managing Director
+          
+
+          
+            Windlas Healthcare Private Limited 
+
+          
+                      Plot No. 183 & 192, Mohabewala Industrial Area
+Dehradun 248110
+Uttarakhand
+India
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research | CDER
+        
+         
+          10903 New Hampshire Avenue
+Silver Spring, MD 20993
+United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+March 10, 2020
+
+Warning Letter 320-20-28
+
+Dear Mr. Windlass:
+
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Windlas Healthcare Private Limited, FEI 3005339091, at Plot No. 183 & 192, Mohabewala Industrial Area, Dehradun, from August 26 to 30, 2019. 
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drugs are adulterated within the meaning of section 501 (a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your September 20, 2019, response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence.
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to ensure that laboratory records included complete data derived from all tests necessary to ensure compliance with established specifications and standards (21 CFR 211.194(a)).
+
+Your firm did not maintain complete and accurate data from all laboratory testing. Without reliable laboratory data, you cannot assure appropriate decisions regarding batch release, product stability, and other drug aspects of quality. For example:
+
+a. On May 19, 2018, the peak detection function was disabled multiple times during the gas chromatography (GC) residual solvent testing of your incoming active pharmaceutical ingredient (API), (b)(4) batch (b)(4). After reviewing the chromatograms, our investigators noted unknown peaks that were not reported or integrated as required per your procedure.
+
+Our investigators requested your firm to reprocess the sample set sequence, which subsequently showed > (b)(4)% total unknown impurity peaks. You used this batch of API to manufacture multiple batches of (b)(4) tablets which were released to the U.S. market.
+
+This was not an isolated incident. Our investigators also noted unknown peaks which were not reported or integrated during the method transfer of related compounds testing for (b)(4) USP API batch (b)(4). Your firm did this study to support the (b)(4) for (b)(4) tablets.
+
+In your response, you attributed the root cause to "inadequate knowledge and awareness" by your laboratory personnel. You also stated that a contributing root cause was "the unavailability of a proper SOP on identification of extraneous peaks." Your response was inadequate. You did not discuss why your analysts did not follow your procedure to integrate known and unknown peaks. Your response also failed to identify the cause of the unknown peaks.
+
+b. On April 16, 2019, you cancelled a test sequence during 18-month related substances testing that included (b)(4) mg tablets batch (b)(4). Your investigation stated the cancellation was due to "oven leak error." The chromatogram for this initial run showed impurities that would yield an out-of-specifications (OOS) result. The initial run was invalidated, and you prepared and tested a new sample solution on April 17, 2019. The retest failed percent relative standard deviation (RSD) and you invalidated this second run too. On April 22, 2019, you prepared a third sample solution and repeated the test. The third sample solution also failed percent RSD and again you invalidated the run. On April 29, 2019, you prepared a fourth sample solution. This test yielded passing data. You reported the final, passing data after multiple testing failures. You did not adequately investigate the failing results as required by your laboratory incidents (LI) procedure. Your firm also did not identify clear root causes for the repeated analytical problems that caused you to invalidate the first three analyses.
+
+In your response, you confirmed that batch (b)(4) was OOS, and stated it was potentially due to contaminated (b)(4) solution used as part of the test method and mobile phase preparation. However, you lacked adequate evidence demonstrating how the potential contamination of the (b)(4) solution was the root cause of the OOS. You did not discuss how, in the same sequence multiple samples were apparently not compromised. In addition, you lacked adequate· evidence concerning the scope and potential impact that these laboratory errors may have on other laboratory tests and results.
+
+In your response to this letter provide the following:
+
+• A retrospective, independent, assessment of your OOS investigation into the 18-month related substances testing for (b)(4) mg tablets batch (b)(4).
+
+• A comprehensive, independent assessment of your laboratory practices, procedures, methods, equipment, documentation, and analyst competencies. Based on this review, provide a detailed plan to remediate and evaluate the effectiveness of your laboratory system.
+
+• Your corrective action and preventive action (CAPA) plan to implement routine, vigilant quality management oversight of laboratory equipment. This plan should ensure, among other things, prompt detection of equipment performance issues, effective execution of repairs, and adherence to appropriate preventive maintenance schedules.
+
+• See the Data Integrity Remediation heading below. Part C requests a corrective action plan to ensure the reliability and completeness of all the data you have submitted to FDA in your approved and pending drug applications. It is essential that this retrospective review include an independent evaluation of raw data used for these application submissions.
+
+• A comprehensive, independent assessment of your overall system for investigating deviations, discrepancies, complaints, OOS results, and failures. Provide a detailed action plan to remediate this system. Your action plan should include, but not be limited to, significant improvements in investigation competencies, scope determination, root cause evaluation, CAPA effectiveness, quality unit oversight, and written procedures. Address how your firm will ensure all phases of investigations are appropriately conducted.
+
+• An independent assessment and remediation plan for your CAPA program. Provide a report that evaluates if it includes staff with proper investigation competencies, effectively conducts root cause analysis, assures CAPA effectiveness, regularly reviews investigations trends, implements improvements to the CAPA program when needed, ensures appropriate quality unit decision rights, and is fully supported by executive management.
+
+2. Your firm failed to thoroughly investigate any unexplained discrepancy or failure of a batch or any of its components to meet any of its specifications, whether or not the batch has already been distributed (21 CFR 211.192).
+
+Your investigations into laboratory incidents (LI) testing results are inadequate. Multiple LI investigations lacked adequate scientific rationale for root cause determination. Without adequate scientific rationale, your firm invalidated the failing OOS results that were included in these LI. You subsequently reported the passing retest results.
+
+For example, during your analytical method verification for residual solvent for (b)(4) API, your firm initiated numerous LI concerning failures of the test's accuracy, method precision, or intermediate precision parameters. The probable root causes of these LI were attributed to contamination and analyst error. We note your retesting plans did not specify retesting by an analyst other than the one who performed the original test. In addition, samples were retested until passing results were achieved. Your CAPA for these LI stated "training on standard operating procedure (SOP) of 'Good laboratory practices of QC laboratory' shall be imparted to concern person [sic]." Your method verification report was approved on May 3, 2018. We note that on May 19, 2018, unknown peaks were observed using this test method which were not identified or integrated as discussed in Charge 1 of this letter.
+
+In your response, you stated that the lack of adequate LI investigations was due to inadequate training on procedures, analysts not following procedures, and inadequate quality oversight and visibility to senior management. You committed to perform a retrospective evaluation of LI.
+
+However, your response failed to assess your entire laboratory system to ensure the competency of analysts. You also failed to provide a retrospective review of all your drug products to determine if you are attributing root cause appropriately, reporting OOS results correctly, and implementing adequate CAPA to prevent recurrence.
+
+For more information about handling failing, out-of-specification, out-of-trend, or other unexpected results and documentation of your investigations, see FD A's guidance document Investigating Out-of-Specification (OOS) Test Results for Pharmaceutical Production, at https://www.fda.gov/media/71001/download.
+
+In your response to this letter provide the following:
+
+• A retrospective, independent review of all invalidated laboratory incidents and OOS (including in-process and release/stability testing) results for U.S. products irrespective of whether the batch was ultimately distributed in the U.S. and a report summarizing the findings of the analysis, including the following for each OOS:
+o Determine whether the scientific justification and evidence relating to the invalidated OOS result conclusively or inconclusively demonstrates causative laboratory error.
+o For investigations that conclusively establish laboratory root cause, provide rationale and ensure that all other laboratory methods vulnerable to the same or similar root cause are identified for remediation.
+o For all OOS results found by the retrospective review to have an inconclusive or no root cause identified in the laboratory, include a thorough review of production (e.g., batch manufacturing records, adequacy of the manufacturing steps, suitability of equipment/facilities, variability of raw materials, process capability, deviation history, complaint history, batch failure history). Provide a summary of potential manufacturing root causes for each investigation, and any manufacturing operation improvements.
+
+• A comprehensive review and remediation plan for your OOS result investigation systems.
+The CAPA should include but not be limited to addressing the following:
+o Define what constitutes a laboratory incident or OOS.
+o Quality unit oversight of laboratory investigations.
+o Identification of adverse laboratory control trends.
+o Resolution of causes of laboratory variation.
+o Initiation of thorough investigations of potential manufacturing causes whenever a laboratory cause cannot be conclusively identified.
+o Adequately scoping of each investigation and its CAPA.
+o Revised OOS investigation procedures with these and other remediations.
+
+3. Your firm failed to establish an adequate quality control unit with the responsibility and authority to approve or reject all components, drug product containers, closures, in-process materials, packaging materials, labeling, and drug products (21 CFR 211.22(a)).
+
+Your firm's quality unit (QU) failed to provide adequate oversight of your manufacturing activities. For example:
+
+When our investigators arrived at your firm just 30 minutes after announcing our inspection, they observed numerous employees in the process of moving off-site cartloads of trash bags containing shredded and tom documents and binders. Upon closer examination, the investigators discovered batch reconciliation forms, cleaning and dispensing logs, training assessments, and scale balance printouts.
+
+In your response, your firm acknowledged that your employees violated your documentation procedure. You identified the root cause as inadequate awareness of data integrity principles, training and education, supervision, and problem-solving capabilities. Your response was inadequate in that it did not fully evaluate the scope of this deficiency. You also did not adequately address the major failure of operations management and quality unit management to conduct proper oversight over documentation and data integrity.
+
+Later in the inspection, our investigator noted that your live-feed cameras showed production staff expediently signing and passing documents to one another. Our investigator requested to visit the production staff location; however, our investigator was routed to an incorrect area. This incident delayed our investigator and prevented contemporaneous verification of the activities being performed.
+
+In your response, you stated that your firm's procedure for camera locations was incorrect. Your response is inadequate. You failed to address why two QU personnel reviewed and approved an incorrect camera location procedure approximately one week before the start of this inspection.
+
+In response to this letter provide the following:
+
+• A comprehensive assessment and remediation plan to ensure your QU is given the authority and resources to effectively function. The assessment should also include, but not be limited to:
+
+o A determination of whether procedures used by your firm are robust and appropriate.
+o Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices.
+o A complete and final review of each batch and its related information before the QU disposition decision.
+o Oversight and approval of investigations and discharging of all other QU duties to ensure identity, strength, quality, and purity of all products.
+
+Also describe how top management supports quality assurance and reliable operations; including but not limited to timely provision of resources to proactively address emerging manufacturing/quality issues and to assure a continuing state of control.
+
+• A complete assessment of documentation systems used throughout your manufacturing and laboratory operations to determine where documentation practices are insufficient. Include a detailed CAPA plan that comprehensively remediates your firm's documentation practices to ensure you retain attributable, legible, complete, original, accurate, and contemporaneous records throughout your operation.
+
+Data Integrity Remediation
+
+Your quality system does not adequately ensure the accuracy and integrity of data to support the safety, effectiveness, and quality of the drugs you manufacture. See FDA's guidance document Data Integrity and Compliance With Drug CGMP for guidance on establishing and following CGMP compliant data integrity practices at https://www.fda.gov/media/97005/download.
+
+In response to this letter, provide the following:
+
+A. A comprehensive investigation into the extent of the inaccuracies in data records and reporting. Your investigation should include:
+• A detailed investigation protocol and methodology; a summary of all laboratories, manufacturing operations, and systems to be covered by the assessment; and a justification for any part of your operation that you propose to exclude.
+• Interviews of current and former employees to identify the nature, scope, and root cause of data inaccuracies. We recommend that these interviews be conducted by a qualified third party.
+• An assessment of the extent of data integrity deficiencies at your facility. Identify omissions, alterations, deletions, record destruction, non-contemporaneous record completion, and other deficiencies. Describe all parts of your facility's operations in which you discovered data integrity lapses.
+• A comprehensive retrospective evaluation of the nature of the testing and any other data integrity deficiencies. We recommend that a qualified third party with specific expertise in the area where potential breaches were identified should evaluate all data integrity lapses.
+
+B. A current risk assessment of the potential effects of the observed failures on the quality of your drugs. Your assessment should include analyses of the risks to patients caused by the release of drugs affected by a lapse of data integrity and analyses of the risks posed by ongoing operations.
+
+C. A management strategy for your firm that includes the details of your global corrective action and preventive action plan. Your strategy should include:
+• A detailed corrective action plan that describes how you intend to ensure the reliability and completeness of all the data you generate including analytical data, manufacturing records, and all data submitted to FDA.
+• A comprehensive description of the root causes of your data integrity lapses including evidence that the scope and depth of the cw-rent action plan is commensurate with the findings of the investigation and risk assessment. Indicate whether individuals responsible for data integrity lapses remain able to influence CGMP-related or drug application data at your firm.
+• Interim measures describing the actions you have taken or will take to protect patients and to ensure the quality of your drugs, such as notifying your customers, recalling product, conducting additional testing, adding lots to your stability programs to assure stability, drug application actions, and enhanced complaint monitoring.
+• Long-term measures describing any remediation efforts and enhancements to procedures, processes, methods, control s, systems, management oversight, and human resources (e.g., training, staffing improvements) designed to ensure the integrity of your company's data.
+• A status report for any of the above activities already underway or completed.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements. We also recommend that the qualified consultant perform a comprehensive audit of your entire operation for CGMP compliance and that the consultant evaluates the completion and efficacy of your corrective actions and preventive actions before you pursue resolution of your firm's compliance status with FDA.
+
+Your use of a consultant does not relieve your firm's obligation to comply with CGMP. Your firm's executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of these violations and for preventing their recurrence or the occurrence of other violations.
+
+If you are considering an action that is likely to lead to a disruption in the supply of drugs produced at your facility, FDA requests that you contact CDER's Drug Shortages Staff immediately; at drugshortages@fda.hhs.gov, so that FDA can work with you on the most effective way to bring your operations into compliance with the law. Contacting the Drug Shortages Staff also allows you to meet any obligations you may have to report discontinuances or interruptions in your drug manufacture under 21 U.S.C. 356C(b). This also allows FDA to consider, as soon as possible, what actions, if any, may be needed to avoid shortages and protect the health of patients who depend on your products.
+
+FDA placed your firm on Import Alert 66-40 on January 21, 2020.
+
+Until you correct all violations completely and we confirm your compliance with CGMP, FDA may withhold approval of any new drug applications or supplements listing your firm as a drug manufacturer. 
+
+Failure to correct these violations may also result in the FDA continuing to refuse admission of articles manufactured at Windlas Healthcare Private Limited at Plot No. 183 & 192 Mohabewala Industrial, Dehradun, into the United States under section 801(a)(3) of the FD&C Act, 21 U.S.C. 381(a)(3). Articles under this authority may be subject to refusal of admission, in that the methods and controls used in their manufacture do not appear to conform to CGMP within the meaning of section 501(a)(2)(B) of the FD&C Act, 21 U.S.C. 351(a)(2)(B).
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov or mail your reply to:
+
+Bryce Hammer
+Compliance Officer
+U.S. Food and Drug Administration
+White Oak Building 51, Room 4235
+10903 New Hampshire Avenue
+Silver Spring, MD 20993
+USA
+
+Please identify your response with FEI 3005339091.
+
+Sincerely,
+/S/
+Francis Godwin
+Director
+Office of Manufacturing Quality
+Office of Compliance 
+Center for Drug Evaluation and Research

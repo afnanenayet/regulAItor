@@ -1,0 +1,325 @@
+Delivery Method: 
+        UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. John W. Swigart
+          
+
+                                
+  
+    Recipient Title
+              President
+          
+
+          
+            Spartan Chemical Company, Inc.
+
+          
+                      1110 Spartan Drive
+Maumee, OH 43537
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Division of Pharmaceutical Quality Operations III
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+WARNING LETTER
+WL # 614450
+
+December 15, 2021
+
+Dear Mr. Swigart:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Spartan Chemical Company, Inc., FEI 3001451695, at 1110 Spartan Drive, Maumee, from March 1 to 26, 2021.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+Furthermore, the FDA collected drug product samples during the inspection of your facility. FDA laboratory analysis revealed the presence of objectionable microbial contamination, including Burkholderia cepacia (B. cepacia) complex, in one of those drug products, Lite’n Foamy Lemon Blossom Hand Sanitizer (lot 538756, expiring January 2023). As such, drug products were prepared, packed, or held under insanitary conditions, whereby they may have become contaminated with filth or rendered injurious to health, causing your drug products to be adulterated under section 501(a)(2)(A) of the FDCA.
+
+In addition, this is to advise you that the United States Food and Drug Administration (FDA) reviewed your websites at the Internet address https://www.spartanchemical.com/ on October 8, 2021. In addition, the FDA has reviewed the labeling on your product packaging for the foamyiQ and Lite'n Foamy product lines that include the over-the-counter (OTC) drug products, foamyiQ™ Lemon Blossom Hand Sanitizer (4604), foamyiQ™ Eucalyptus Mint Sanitizing Handwash (4603), Lite'n Foamy® Lemon Blossom Hand Sanitizer (3338), Lite'n Foamy® Eucalyptus Mint Sanitizing Handwash (3337) foamyiQ™ Healthcare Personnel Handwash (4605), and Lite'n Foamy® Healthcare Personnel Handwash (3341).
+
+The FDA has observed that these consumer and health care antiseptic products1 are intended to mitigate, prevent, treat, diagnose, or cure COVID-192 in people and their labeling include statements that falsely indicates that they are registered and approved by the FDA. Based on our review, these products are unapproved new drugs sold in violation of section 505(a) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 355(a). Furthermore, these products are misbranded drugs under sections 502(a) and (ee) of the FD&C Act, 21 U.S.C. 352(a) and (ee). The introduction or delivery for introduction of these products into interstate commerce is prohibited under sections 301(a) and (d) of the FD&C Act, 21 U.S.C. 331(a) and (d). These violations are described in more detail below.
+
+There is currently a global outbreak of respiratory disease caused by a novel coronavirus that has been named “severe acute respiratory syndrome coronavirus 2” (SARS-CoV-2). The disease caused by the virus has been named “Coronavirus Disease 2019” (COVID-19). On January 31, 2020, the Department of Health and Human Services (HHS) issued a declaration of a public health emergency related to COVID-19 and mobilized the Operating Divisions of HHS.3 In addition, on March 13, 2020, there was a Presidential declaration of a national emergency in response to COVID-19 that has been extended.4 Therefore, FDA is taking measures to protect consumers from certain products that, without approval or authorization by FDA, claim to mitigate, prevent, treat, diagnose, or cure COVID-19 in people.
+
+We reviewed your April 5, 2021, response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence. Your response is inadequate, because it did not provide sufficient detail or evidence of corrective actions to bring your operations into compliance with CGMP.
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+CGMP Violations
+
+1. Your firm failed to establish adequate written procedures for production and process control designed to assure that the drug products you manufacture have the identity, strength, quality, and purity they purport or are represented to possess, and your firm’s quality control unit did not review and approve those procedures, including any changes (21 CFR 211.100(a)).
+
+The system used to provide water for drug product manufacturing operations at your facility was not adequately validated for its intended use. While you completed installation qualification of the water system, you failed to perform performance qualification of the system. Nevertheless, your firm used water from this system to manufacture aqueous-based drug products.
+
+Furthermore, you lacked long term monitoring data to evaluate the quality of water produced by your system. Your firm did not initiate a routine program to test water quality until July 2020 and presumed that finished product testing would provide assurance of the adequacy of the water used in the manufacture of your aqueous-based drug products. This practice was inappropriate, because it failed to directly monitor the quality of water produced by your firm’s water system. It is unacceptable to rely on drug product testing to monitor whether your water system is in a state of control.
+
+Notably, following initiation of a monitoring program, significant deviations from microbial action limits were identified in your water system.
+
+During the previous FDA inspection conducted in 2016, we had also observed that your original water system was not adequately validated for its intended use. This was discussed with your firm’s management at the conclusion of that inspection.
+
+Assuring ongoing state of control of your water system is integral to support drug manufacturing operations. Water utilized for the manufacture of drug products must be suitable for its intended use and routinely tested to promptly detect any lapse in performance.
+
+In your response, your firm stated that significant changes have been made to your water system and you will complete (b)(4) of the system by (b)(4). However, your response failed to address the reason why your water system was not adequately designed and validated, although the need for a robust validated system was discussed during your previous FDA inspection conducted in 2016. Additionally, your response did not include any preventive actions put in place to ensure more vigilant and timely operational oversight in the future.
+
+In response to this letter, provide the following:
+
+
+	A remediation plan that better assures ongoing management oversight throughout the manufacturing lifecycle of all drug products. Provide a more data-driven and scientifically sound program that identifies sources of process variability and assures that manufacturing operations meet appropriate parameters and quality standards. This includes, but is not limited to, evaluating suitability of equipment for its intended use, ensuring quality of input materials, determining the capability and reliability of each manufacturing process step and its controls, and vigilant ongoing monitoring of process performance and product quality.
+	A comprehensive, independent assessment of your water system design, control, and maintenance.
+	A thorough remediation plan to install and operate a suitable water system. Include a robust ongoing control, maintenance, and monitoring program to ensure the remediated system design consistently produces water adhering to Purified Water, USP monograph specifications, and appropriate microbial limits.
+	Regarding the latter, ensure that your total microbial count limit for water is appropriate in view of the intended use of the products produced by your firm.
+	Discuss your efforts toward systematic, comprehensive corrective action and preventive action (CAPA) to prevent recurrence of similar violations.
+
+
+2. Your firm failed to thoroughly investigate any unexplained discrepancy or failure of a batch or any of its components to meet any of its specifications, whether or not the batch has already been distributed (21 CFR 211.192).
+
+Your investigations into failing results were inadequate. Your investigations did not identify the root cause of failing results, lacked an evaluation of the impact of failing results on already distributed batches, and did not include appropriate CAPA.
+
+For example:
+
+
+	On September 15, 2020, your firm initiated an investigation (CAR 09152020QCU) in response to failing microbial enumeration results regarding several lots of hand sanitizer manufactured by your firm. The investigation into these failures was inadequate, including:
+
+
+o Some of these lots were sent to your contract laboratory for microbial identification and revealed the presence of B. cepacia. Despite your firm’s knowledge that products were contaminated with B. cepacia, and unacceptable levels of yeast and mold, the associated investigation did not address the specific objectionable microorganisms or provide an adequate determination of the root cause of the failures.
+o Insufficient actions were identified to prevent recurrence of objectionable microbial contamination of your drug products.
+
+
+	Since September 21, 2020, there have been recurring failing results observed during water system monitoring that exceeded appropriate microbial limits at dispensing ports used in the manufacture of drug products, but you routinely lacked investigations into these failing results.
+	Your procedure that governs corrective actions (SOP.002.011.001 Corrective Action Procedure) lacked adequate provisions for root cause determination or effectiveness checks. You also lacked adequate procedures addressing the need for preventive actions.
+
+
+In your response, your firm provided clarification regarding your water system testing limits and indicated that you are updating relevant procedures and forms. However, your response does not address why investigations were not initiated in response to failing water system results. It also does not propose a retrospective analysis to further understand past investigation lapses to identify preventive measures and systemic remediations. Additionally, your response lacks substantial improvements to your quality system to ensure investigations identify root causes, evaluate full scope and impact, and implement appropriate CAPA in response to failures, adverse trends, and other deviations and discrepancies.
+
+In response to this letter, provide the following:
+
+
+	A comprehensive, independent assessment of your overall system for investigating deviations, discrepancies, complaints, out-of-specification (OOS) results, and failures. Provide a detailed action plan to remediate this system. Your action plan should include, but not be limited to, significant improvements in investigation competencies, scope determination, root cause evaluation, CAPA effectiveness, quality assurance oversight, and written procedures. Address how your firm will ensure all phases of investigations are appropriately conducted.
+	An independent assessment and remediation plan for your CAPA program. Provide a report that evaluates if staff with proper investigation competencies effectively conduct root cause analysis, assure CAPA effectiveness, regularly review investigations trends, implement improvements to the CAPA program when needed, ensure appropriate quality assurance decision rights, and are fully supported by executive management.
+	A comprehensive review and remediation plan for your OOS result investigation systems. The CAPA should include, but not be limited to, addressing the following:
+
+
+o Quality assurance oversight of laboratory investigations
+o Identification of adverse laboratory control trends
+o Resolution of causes of laboratory variation
+o Initiation of thorough investigations of potential manufacturing causes whenever a laboratory cause cannot be conclusively identified
+o Adequate scoping of each investigation and its CAPA
+o Revised OOS investigation procedures with these and other remediations
+
+3. Your firm’s quality control unit failed to exercise its responsibility to ensure drug products manufactured are in compliance with CGMP, and meet established specifications for identity, strength, quality, and purity (21 CFR 211.22).
+
+During the inspection, our investigators observed that your quality unit did not provide adequate oversight for the manufacture of your drug products and failed to adequately establish and adhere to written procedures to ensure the strength, quality, and purity of your drug products. For example:
+
+
+	Your firm lacks an adequate procedure and formal system to manage change control. You did not have an effective mechanism or written procedure to assess proposed and actual changes that may impact your drug manufacturing facilities, systems, equipment, or processes.
+	Your firm has a procedure that governs (b)(4) drug product reviews that was established on March 22, 2010. However, since the inception of this procedure your firm has never performed (b)(4) reviews for any of the drug products you manufacture.
+	During the inspection, training records were reviewed for (b)(4) of your employees and these records indicated that all (b)(4) employees failed to receive complete training.
+	Your firm began plate count testing on September 21, 2020, for both in-process water and finished drug products utilizing a contract laboratory. Your firm ordered suitability and validation testing for TAMC and TYMC testing via (b)(4).  However, your firm failed to request that B. cepacia suitability testing be performed.
+	Your firm did not perform Antimicrobial Effectiveness Testing (AET) for your drug products that contain chloroxylenol.
+
+
+Research has shown that B. cepacia complex (Bcc) bacteria employ strategies to cope with environmental stressors, including in benzalkonium chloride drug products. Under these conditions, cells can be viable and maintain their integrity and pathogenic potential although they cannot be initially cultured. At a later point in the shelf life, Bcc may adjust to the conditions and proliferate in the preserved drug, despite the fact that Bcc was not recovered during initial testing. While initial release testing results provide critical quality control information, those test results may not provide a full understanding of the microbial quality of a given batch or be predictive of stability characteristics. As an example, while your release testing yielded passing results for hand sanitizer lot 538756, expiring January 2023, testing later in the shelf-life by both your contract laboratory and FDA revealed failing Bcc and total count results.
+
+Your firm’s response states, in part, that you are creating or revising procedures associated with this violation, enhancing your maintenance program, enhancing your training program, and addressing the laboratory deficiencies identified. However, your response is inadequate as it failed to address the fundamental deficiencies in your quality unit that led to these failures. Additionally, no evaluation was made to determine if your deficient quality unit impacted drug operations not covered during this inspection. You failed to review the scope of your quality unit deficiencies and provide evidence that you have taken systemic steps to ensure robust oversight and control over manufacturing operations.
+
+Significant findings in this letter indicate that your quality unit is not fully exercising its authority or responsibility. Your firm must provide the quality unit with the appropriate authority and sufficient resources to carry out its responsibilities and consistently ensure drug quality.
+
+In response to this letter, provide the following:
+
+
+	A comprehensive assessment and remediation plan to ensure your quality unit is given the authority and resources to effectively function. The assessment should also include, but not be limited to:
+
+
+o A determination of whether procedures used by your firm are robust and appropriate
+o Provisions for quality unit oversight throughout your operations to evaluate adherence to appropriate practices
+o A complete and final review of each batch and its related information before the quality unit disposition decision
+o Oversight and approval of investigations and discharging of all other quality unit duties to ensure identity, strength, quality, and purity of all products
+
+
+	Appropriate improvements to your cleaning validation program, with special emphasis on incorporating conditions identified as worst case in your drug manufacturing operation and ensuring acceptable sanitary systems for manufacture. This should include, but not be limited to, identification and evaluation of all worst-case:
+
+
+o Drugs with higher toxicities, drugs with higher drug potencies, and drugs of lower solubility in their cleaning solvents
+o Drugs with characteristics that make them difficult to clean
+o Swabbing locations for areas that are most difficult to clean
+o Microbial risks related to equipment and cleaning procedures and maximum hold times before cleaning
+o Change management provisions that ensure new products and equipment are appropriately addressed
+
+Additionally, provide your written procedures regarding cleaning validation and verification, and a status report of all related studies performed to date for all equipment used by your firm for manufacturing processes. For each piece of equipment, state whether it is multi-use or dedicated.
+
+
+	A comprehensive, independent assessment of your change management system. This assessment should include, but not be limited to, your procedure(s) to ensure changes are justified, reviewed, and approved by your QU. Your change management program should also include provisions for determining change effectiveness.
+	A commitment to perform AET on your drug products utilizing USP<51> (or equivalent or superior method) during both development and on a batch at the end of shelf-life for preserved products (see ICH Q1A). The testing should be performed at a range of preservative concentrations (at or below the lowest preservative concentration according to the label claim) with no additional ingredients not included in the drug product formulation. In addition, provide an evaluation of the ability of slow growing microbes to survive in your drug formulations and proliferate later in the product shelf-life.
+
+
+Microbiological contamination
+
+During the course of your inspection, FDA investigators collected drug product samples, including FDA Sample number 1148361, which consisted of 3 sub-samples of one-gallon containers of Lite’n Foamy Lemon Blossom Hand Sanitizer (lot 538756, expiring January 2023). FDA’s laboratory analysis identified B. cepacia complex in this lot. In addition, high levels of microbes were recovered from total aerobic microbial count (TAMC) and total yeast and mold count (TYMC) testing of all 3 sub samples. These results significantly exceeded your finished product specification of (b)(4) colony forming units (CFU)/mL and (b)(4) CFU/mL, respectively. For example, TAMC counts were as follows: sub-sample 1 contained (b)(4) TAMC/mL, sub-sample 2 contained (b)(4) TAMC/mL, and sub-sample 3 contained (b)(4) TAMC/mL. TYMC counts were as follows: sub sample 1 contained (b)(4) TYMC/mL, sub sample 2 contained (b)(4) TYMC/mL, and sub sample 3 contained (b)(4) TYMC/mL. Your firm collected samples in tandem with our investigators and your contract laboratory obtained similar results. These sample results demonstrate that the drug products produced at your facility are manufactured under insanitary conditions, causing them to be adulterated under section 501(a)(2)(A) of the FDCA.
+
+We acknowledge your firm initiated a recall of 8 batches of drug products on March 29, 2021. However, the FDA did not agree with the scope of your proposed recall. On May 12, 2021, the FDA held a teleconference with your firm and recommended that your firm recall all aqueous-based drug products within expiry. Your firm expanded the recall on May 24, 2021.
+
+In addition, your firm had previously recalled 10 batches of drug products on July 1, 2020, after your contract laboratory found that some of your drug products were contaminated with B. cepacia complex, as well as yeast and mold. On August 3, 2020, FDA notified the public of the microbial contamination of your hand sanitize drug products at the following website https://www.fda.gov/drugs/drug-safety-and-availability/fda-updates-hand-sanitizers-consumers-should-not-use
+
+Burkholderia cepacia complex contamination in non-sterile, water-based drug products can pose a significant consumer hazard. For further information regarding the significance of B. cepacia complex contamination in drug products, see FDA’s July 7, 2021 advisory, at https://www.fda.gov/drugs/drug-safety-and-availability/fda-advises-drug-manufacturers-burkholderia-cepacia-complex-poses-contamination-risk-non-sterile#_edn4
+
+Unapproved New Drug and Misbranding Violations
+
+foamyiQ™ Lemon Blossom Hand Sanitizer (4604), Lite'n Foamy® Lemon Blossom Hand Sanitizer (3338), foamyiQ™ Eucalyptus Mint Sanitizing Handwash (4603), Lite'n Foamy® Eucalyptus Mint Sanitizing Handwash (3337), foamyiQ™ Healthcare Personnel Handwash (4605), and Lite'n Foamy® Healthcare Personnel Handwash (3341) are “drugs” as defined by section 201(g)(1)(B) of the FD&C Act, 21 U.S.C. 321(g)(1)(B), because they are intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease, and/or under section 201(g)(1)(C) of the FD&C Act, 21 U.S.C. 321(g)(1)(C), because they are intended to affect the structure or any function of the body. Specifically, foamyiQ™ Lemon Blossom Hand Sanitizer (4604), Lite'n Foamy® Lemon Blossom Hand Sanitizer (3338), foamyiQ™ Eucalyptus Mint Sanitizing Handwash (4603), and Lite'n Foamy® Eucalyptus Mint Sanitizing Handwash (3337) are intended for use as consumer antiseptics products and foamyiQ™ Healthcare Personnel Handwash (4605), and Lite'n Foamy® Healthcare Personnel Handwash (3341) are intended for use as health care antiseptics.
+
+Some examples of the claims on your websites that establish the intended use (as defined in 21 CFR 201.128) of foamyiQ™ Lemon Blossom Hand Sanitizer (4604), Lite'n Foamy® Lemon Blossom Hand Sanitizer (3338), foamyiQ™ Eucalyptus Mint Sanitizing Handwash (4603), Lite'n Foamy® Eucalyptus Mint Sanitizing Handwash (3337), foamyiQ™ Healthcare Personnel Handwash (4605), and Lite'n Foamy® Healthcare Personnel Handwash (3341) and misleadingly represent them as safe and/or effective for the treatment or prevention of COVID-19 include, but may not be limited to, the following:
+
+“COVID-19…foamyiQ® E2 Sanitizing Foaming Handwash (4606)…COVID-19…foamyiQ® Eucalyptus Mint Sanitizing Handwash (4603)…COVID-19…foamyiQ® Healthcare Personnel Handwash (4605)…COVID-19…foamyiQ® Lemon Blossom Foaming Hand Sanitizer (4604)…COVID-19…Lite’n Foamy® Lemon Blossom Hand Sanitizer (3338)” [From spartanchemical.com]5
+
+“IMPORTANT FACTS: COVID-19…SARS-COV-2: THE CAUSE OF COVID-19…Which Spartan products are registered and approved by the FDA for antimicrobial activity?... foamyiQ Lemon Blossom Hand Sanitizer (4604)…foamyiQ Eucalyptus Mint Sanitizing Handwash (4603)…foamyiQ Healthcare Personnel Handwash (4605)…foamyiQ E2 Sanitizing Handwash (4606)…Lite'n Foamy Lemon Blossom Hand Sanitizer (3338)…Lite'n Foamy Eucalyptus Mint Sanitizing Handwash (3337)…Lite'n Foamy Healthcare Personnel Handwash (3341) [From spartanchemical.com]6
+
+“Technical Bulletin…To: All Distributors…How to position this to your customers:…Educate – While hand hygiene is the first line of defense against the spread of harmful bacteria such as 2019 Novel Coronavirus (2019-nCoV), disinfection of high touch surfaces helps reduce the risk of personnel coming in contact with a contaminated surface.
+
+Recommend - This is a perfect opportunity to talk to your distributors about the NEW foamylQ™ Antibacterial Hand Wash and Hand Sanitizers • Eucalyptus Mint (4603), Lemon Blossom (4604), and Healthcare Personnel Hand Wash (4605). Adding waterless sanitizer products leads to an increase in the frequency of hand hygiene practiced. Combined with a managed cleaning program, featuring the Spartan disinfectant of their choice, they will have a good program to prevent the spread of 2019 Novel Coronavirus (2019-nCoV) and other viruses.” [From spartanchemical.com]7
+
+Spartan Lemon Blossom Hand Sanitizer with 0.1% benzalkonium chloride complies with the FDA Final Rule on hand sanitizers. View Approval” [From spartanchemical.com]8
+
+Based on the claims above, these consumer and health care products are “new drugs” within the meaning of section 201(p) of the FD&C Act, 21 U.S.C. 321(p), because they are not generally recognized as safe and effective (GRASE) for use under the conditions prescribed, recommended, or suggested in their labeling. New drugs may not be introduced or delivered for introduction into interstate commerce without prior approval from FDA, as described in section 505(a) of the FD&C Act, 21 U.S.C. 355(a), unless they are lawfully marketed under section 505G of the FD&C Act (which is not the case for these products, as further described below) or under other exceptions not applicable here. No FDA approved applications pursuant to section 505 of the FD&C Act, 21 U.S.C. 355, is in effect for these drug products, nor are we aware of any adequate and well-controlled clinical studies in the published literature that support a determination that your foamyiQ™ and Lite'n Foamy® drug products are GRASE for use under the conditions suggested, recommended, or prescribed in their labeling. Accordingly, these drug products are unapproved new drugs marketed in violation of sections 505(a) and 301(d) of the FD&C Act, 21 U.S.C 355(a) and 331(d).
+
+We note that over-the-counter (OTC) topical antiseptic products had been the subject of rulemaking under the Agency’s OTC Drug Review. In particular, consumer antiseptics were addressed in a tentative final monograph (TFM) entitled “Topical Antimicrobial Drug Products for Over-the-Counter Human Use; Tentative Final Monograph for Health-Care Antiseptic Drug Products,” Proposed Rule, 59 FR 31402 (June 17, 1994) (1994 TFM), as further amended by “Safety and Effectiveness of Consumer Antiseptics; Topical Antimicrobial Drug Products for Over-the-Counter Human Use; Proposed Amendment of the Tentative Final Monograph; Reopening of Administrative Record,” Proposed Rule, 81 FR 42912 (June 30, 2016) (Consumer Antiseptic Rubs Proposed Rule). Over the course of these rulemakings, three active ingredients (benzalkonium chloride, ethyl alcohol (ethanol), and isopropyl alcohol) were classified as Category III for use in consumer antiseptic rub products, meaning that additional safety and effectiveness data are needed to support a determination that a drug product containing one of these active ingredients would be GRASE for use as a consumer antiseptic rub. Additionally, OTC consumer antiseptic washes were addressed in the “Safety and Effectiveness of Consumer Antiseptics; Topical Antimicrobial Drug Products for Over-the-Counter Human Use,” Proposed Rule, 78 FR 76444 (December 17, 2013) (Consumer Antiseptic Washes Proposed Rule) and “OTC Safety and Effectiveness of Topical Antimicrobial Drug Products for Over-the-Counter Human Use,” Final Rule, 81 FR 61106 (September 6, 2016). Over the course of these rulemakings benzalkonium chloride, benzethonium chloride, and chloroxylenol were classified as Category III for use in consumer antiseptic wash products, meaning that additional safety and effectiveness data are needed to support a determination that a drug product containing one of these active ingredients would be GRASE for use as a consumer antiseptic wash.
+
+OTC healthcare antiseptics products were addressed in the Effectiveness of Health Care Antiseptics; Topical Antimicrobial Drug Products for Over-the-Counter Human Use; Proposed Amendment of the Tentative Final Monograph; Reopening of Administrative Record,” Proposed Rule, 80 FR 25166 (May 1, 2015) (Health Care Antiseptics Proposed Rule), and “Safety and Effectiveness of Health Care Antiseptics; Topical Antimicrobial Drug Products for Over-the-Counter Human Use,” Final Rule, 82 FR 60474 (December 20, 2017). Over the course of these rulemakings, six active ingredients (benzalkonium chloride, benzethonium chloride, chloroxylenol, ethyl alcohol, isopropyl alcohol, and povidone-iodine) were classified as Category III for use in health care antiseptic products, meaning that additional safety and effectiveness data are needed to support a determination that a drug product containing one of these active ingredients would be GRASE for use as health care antiseptics including rubs and washes.
+
+Section 505G of the FD&C Act addresses nonprescription drugs marketed without an approved application. Under section 505G(a)(3) of the FD&C Act, drugs that were classified as Category III for safety or effectiveness in a TFM that is the most recently applicable proposal or determination for such drugs issued under 21 CFR Part 330 – and that were not classified as Category II for safety or effectiveness – are not required to have an approved application under section 505 in order to be marketed, as long as they meet the relevant conditions of use outlined in the applicable TFM, including the active ingredient, and comply with all other applicable requirements.
+
+However, your consumer and health care topical antiseptic products do not conform to the 1994 TFM, nor any other TFM, proposed rule, or final rule and do not meet the conditions under section 505G(a)(3) of the FD&C Act for marketing without an approved application under section 505G.
+
+Specifically, your labeling claims, suggesting that your consumer, and health care topical antiseptic products are effective in shortening the duration of infection and preventing infection or disease from the novel coronavirus that causes COVID-19, go beyond merely describing the general intended use of an antiseptic as set forth in the 1994 TFM.9
+
+We are unaware of any adequate and well-controlled clinical studies in the published literature that support a determination that your consumer, and health care topical antiseptic products are GRASE for the above-described intended uses. Accordingly, your consumer, and health care topical antiseptic products are new drugs under section 201(p) of the FD&C Act. In addition, there are no FDA-approved applications in effect for your consumer, and health care topical antiseptic products and, accordingly, they are unapproved new drugs sold in violation of sections 505(a) and 301(d) of the FD&C Act, 21 U.S.C §§ 355(a) and 331(d). We note that your consumer, and health care topical antiseptic products also do not conform to any temporary policy FDA has implemented during the public health emergency.10
+
+In addition, these consumer and health care topical antiseptic products are misbranded under section 502(a) of the FD&C Act, 21 U.S.C 352(a), because their labeling is false or misleading. Specifically, labeling for these products falsely indicates that they are registered and approved by the FDA. However, as previously noted, your products are not the subject of an FDA-approved application. Further, under 21 CFR Part 207, domestic and foreign establishments that manufacture, repack, relabel, or salvage a drug are required to be registered with the FDA and drug products from such firms must be listed with the FDA. Therefore, a labeling representation suggesting that your products are FDA-approved and registered is false or misleading.
+
+These consumer and health care topical antiseptic products are also misbranded under section 502(ee) of the FD&C Act, 21 U.S.C. 352(ee), because they are nonprescription drugs subject to section 505G of the FD&C Act, 21 U.S.C. 355h, but do not comply with the requirements for marketing under that section and are not the subject of an application approved under section 505 of the FD&C Act, 21 U.S.C. 355. The introduction or delivery for introduction of these products into interstate commerce is prohibited under sections 301(a) of the FD&C Act, 21 U.S.C. 331(a).
+
+Ineffective Quality System
+
+These violations demonstrate a failure of your executive management to exercise proper oversight and control over the manufacture of drugs. You should immediately and comprehensively assess your company’s manufacturing operations to ensure that systems, processes, and ultimately, products conform to FDA requirements.
+
+In your response, describe how top management will support quality assurance and reliable operations, including but not limited to, timely provision of resources to proactively address emerging manufacturing and quality issues and to assure a continuing state of control.
+
+Drug Production Suspended
+
+We acknowledge your commitment to temporarily suspend production of drugs at this facility. If you plan to resume drug manufacturing operations, contact the agency before resuming your operations to schedule a meeting to discuss your remediation status. Your meeting request should include a written confirmation of full remediation, and detailed supporting documents of your systemic CGMP corrections.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements. Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+Correct any violations promptly. Failure to promptly and adequately address this matter may result in regulatory or legal action without further notice including, without limitation, seizure and injunction. Unresolved violations may also prevent other Federal agencies from awarding contracts.
+
+Failure to address violations may also cause FDA to withhold issuance of Export Certificates. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to address any violations.
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Your written notification should refer to the Warning Letter Number above (614450). Please address your reply via email to: ORAPHARM3_RESPONSES@fda.hhs.gov
+
+Attention: Eric Mueller, Compliance Officer
+U.S. Food and Drug Administration
+Division of Pharmaceutical Quality Operations Division III
+
+If you have questions regarding the contents of this letter, please contact Eric Mueller, Compliance Officer at (402) 331-8536, ext. 101.
+
+Sincerely,
+/S/
+
+Jeffrey D. Meng
+Acting Program Division Director
+Division of Pharmaceutical Quality Operations Division III
+
+___________________________
+
+1 Consumer antiseptics: foamyiQ™ Lemon Blossom Hand Sanitizer (4604), Lite'n Foamy® Lemon Blossom Hand Sanitizer (3338), foamyiQ™ Eucalyptus Mint Sanitizing Handwash (4603), Lite'n Foamy® Eucalyptus Mint Sanitizing Handwash (3337). Health care antiseptics: foamyiQ™ Healthcare Personnel Handwash (4605) and Lite'n Foamy® Healthcare Personnel Handwash (3341).
+
+2 As explained in the next paragraph, there is currently an outbreak of a respiratory disease named “Coronavirus Disease 2019” (COVID-19).
+
+3 Secretary of Health and Human Services, Determination that a Public Health Emergency Exists. (originally issued on Jan. 31, 2020., and subsequently renewed) available at https://www.phe.gov/emergency/news/healthactions/phe/Pages/2019-nCoV.aspx).
+
+4 Proclamation on Declaring a National Emergency Concerning the Novel Coronavirus Disease (COVID-19) Outbreak (originally issued Mar. 13, 2020., and subsequently renewed) ), available at https://www.whitehouse.gov/briefingroom/presidential-actions/2021/02/24/notice-on-the-continuation-of-the-national-emergency-concerning-the-coronavirusdisease-2019-covid-19-pandemic/.
+
+5 https://www.spartanchemical.com/products/category/wcovid/
+
+6 spartanchemical.com/solutions/covid-19/faq-page/ (page 2)
+
+7 spartanchemical.com/globalassets/solutions/covid-19/2019-novel-coronavirus-2019-ncov-in-the-news.pdf
+
+8 spartanchemical.com/globalassets/solutions/covid-19/hand sanitizer-efficacy-infographic.pdf
+
+9 The 1994 TFM covers health care antiseptics that are indicated for use to help reduce bacteria that potentially can cause disease and health care and consumer antiseptics that are indicated for use to decrease bacteria on the skin. 59 FR at 31443.
+
+10 See, e.g., Temporary Policy for Preparation of Certain Alcohol-Based Hand Sanitizer Products During the Public Health Emergency (COVID-19). Because your non-alcohol-based consumer antiseptic products are not consistent with the formulations described in these guidances, they do not fall within any temporary Agency policy not to take action against firms manufacturing hand sanitizer products for violations of section 505 of the FD&C Act.

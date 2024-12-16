@@ -1,0 +1,234 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Xusheng (Martin) Lin
+          
+
+                                
+  
+    Recipient Title
+              Chief Executive Officer
+          
+
+          
+            GFA Production Xiamen Co., Ltd.
+
+          
+                      No. 20 Huli Industrial Park
+Meixi Avenue
+Tong'an Qu
+Xiamen Shi
+Fujian Sheng, 361100
+China
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research | CDER
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter 320-24-44
+
+June 13, 2024
+
+Dear Mr. Lin:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, GFA Production Xiamen Co., Ltd., FEI 3008384335, at No. 20 Huli Industrial Park, Tong’an District, Meixi Avenue, Xiamen, from December 4 to 8, 2023.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your December 28, 2023 response to our Form FDA 483 in detail.
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to establish adequate written procedures for production and process control designed to assure that the drug products you manufacture have the identity, strength, quality, and purity they purport or are represented to possess, and to follow all of your written production and process control procedures (21 CFR 211.100(a) and 211.100 (b)).
+
+Lack of Process Validation
+
+You failed to provide data to demonstrate your drug manufacturing processes are adequately validated. After request by our investigators for process performance qualification (PPQ) you only provided equipment qualification reports during the inspection.
+
+In your response, you provided manufacturing qualification reports purported to be PPQ. Your response is inadequate. These PPQ reports failed to provide sufficient detail to demonstrate a robust commercial process. You did not provide adequate justification for the conditions selected, for example, bulk product lots to include and the in-process sampling plan.
+
+Your firm also lacks an ongoing program for monitoring process control to ensure stable manufacturing operations and consistent drug quality.
+
+See FDA’s guidance document Process Validation: General Principles and Practices for general principles and approaches that FDA considers appropriate elements of process validation at https://www.fda.gov/files/drugs/published/Process-Validation--General-Principles-and-Practices.pdf
+
+Inadequate Cleaning Validation
+
+You failed to provide data to demonstrate you adequately performed cleaning validation for the equipment used to manufacture your drug products. Your cleaning validation studies, for example, did not include swab recovery limits, dirty and clean hold times, or sufficient instructions to ensure consistency.
+
+In your response, you commit to updating and executing new protocols. Your response is inadequate because you did not consider a risk assessment and retrospective analysis of the potential for chemical and microbiological cross-contamination for your marketed products.
+
+Inadequate Equipment Controls
+
+You failed to provide adequate data to demonstrate manufacturing systems were adequately maintained. Your firm did not monitor and acknowledge equipment alarms according to your established procedures. For example, our investigators observed (b)(4) alarms silenced without documented action. Likewise, temperature and humidity alarms for your stability chambers were disabled and were observed to be out of range when enabled.
+
+In your response, you state your engineers acknowledged but did not document their evaluation and the corrective actions taken for the (b)(4) system alarms. Your response is inadequate because you did not provide sufficient detail of corrective actions or changes such as maintenance records or purchasing receipts for new filters. You commit to improving instructions for monitoring the stability chambers but did not consider a risk assessment or retrospective evaluation of stability chamber excursions not captured by your facility.
+
+In response to this letter, provide:
+
+
+	A remediation plan that better assures ongoing management oversight throughout the manufacturing lifecycle of all drug products. Provide a more data-driven and scientifically sound program that identifies sources of process variability and assures that manufacturing (including both production and packaging) operations meet appropriate parameters and quality standards. This includes, but is not limited to, evaluating suitability of equipment for its intended use, ensuring quality of input materials, determining the capability and reliability of each manufacturing process step and its controls, and vigilant ongoing monitoring of process performance and product quality.
+	A detailed summary of your validation program for ensuring a state of control throughout the product lifecycle, along with associated procedures. Describe your program for PPQ, and ongoing monitoring of both intra-batch and inter-batch variation to ensure a continuing state of control.
+	A timeline for performing appropriate process PPQ for each of your marketed drug products. Include your process performance protocol(s), and written procedures for qualification of equipment and facilities.
+	A detailed program for designing, validating, maintaining, controlling, and monitoring each of your manufacturing processes that includes vigilant monitoring of intra-batch and inter-batch variation to ensure an ongoing state of control. Also, include your program for qualification of your equipment and facility.
+	A comprehensive assessment of the design and control of your firm’s manufacturing operations, with a detailed and thorough review of all microbiological hazards.
+	A detailed risk assessment addressing the hazards posed by distributing drug products with potentially objectionable contamination. Specify actions you will take in response to the risk assessment, such as customer notifications and product recalls.
+	Complete investigations into all batches with potential objectionable microbial contamination or an out-of-specification (OOS) microbiological result (whether or not later invalidated). The investigations should detail your findings regarding the root causes of the contamination.
+	Appropriate microbiological batch release specifications (i.e., total counts, identification of bioburden to detect objectionable microbes) for each of your drug products.
+	All chemical and microbial test methods used to analyze each of your drug products.
+	A summary of results from testing retain samples of all drug product batches within expiry. You should test all appropriate quality attributes including, but not limited to, identity and strength of active ingredients and microbiological quality (total counts and identification of bioburden to detect any objectionable microbes) of each batch. If testing yields an OOS result, indicate the corrective actions you will take, including notifying customers and initiating recalls.
+	A comprehensive, independent retrospective assessment of your cleaning effectiveness to evaluate the scope of cross-contamination hazards. Include the identity of residues, other manufacturing equipment that may have been improperly cleaned, and an assessment whether cross-contaminated products may have been released for distribution. The assessment should identify any inadequacies of cleaning procedures and practices and encompass each piece of manufacturing equipment used to manufacture more than one product.
+	A comprehensive, independent review of your material system to determine whether all suppliers of components, containers, and closures, are each qualified and the materials are assigned appropriate expiration or retest dates. The review should also determine whether incoming material controls are adequate to prevent use of unsuitable components, containers, and closures.
+	Your corrective action and preventive action (CAPA) plan to implement routine, vigilant operations management oversight of facilities and equipment. This plan should ensure, among other things, prompt detection of equipment/facilities performance issues, effective execution of repairs, adherence to appropriate preventive maintenance schedules, timely technological upgrades to the equipment/facility infrastructure, and improved systems for ongoing management review.
+	A procedure for your (b)(4) system monitoring that specifies routine microbial testing of (b)(4) to ensure its acceptability for use in each batch of drug products produced by your firm.
+
+
+2. Your firm failed to ensure that laboratory records included complete data derived from all tests necessary to ensure compliance with established specifications and standards (21 CFR 211.194(a)).
+
+Your firm performed chemical testing of drug products using high performance liquid chromatography (HPLC) but did not include complete data to support the analysis performed. In addition to chemical testing performed by a contract testing laboratory, our investigators determined that your firm performed in-house HPLC testing of bulk drug products and finished drug products for internal use for your own assurance. This in-house chemical testing was performed without audit trails. You could also not provide validation reports for these HPLC test methods, nor adequately explain the purpose of this testing.
+
+In your response, you commit to implementing controls, such as using audit trails and electronic signatures, and training your employees. Your response is inadequate because you failed to address how you will use the in-house test results in the future. Additionally, although you provided a summary of test results from your contract testing laboratory showing all batches met specification, you did not provide nor indicate you have assessed your in-house HPLC test results for any OOS results or inconsistencies with the reported release testing results.
+
+Failing to maintain complete records of the data and testing conditions associated with all tests significantly compromises the reliability of data and your quality assurance’s (QA) ability to perform its obligation to assure quality through conformance with CGMP.
+
+In response to this letter, provide:
+
+
+	A list of chemical and microbial specifications, including test methods, used to analyze each lot of your drug products before a lot disposition decision.
+
+
+    o An action plan and timelines for conducting full chemical and microbiological testing of retain samples to determine the quality of all batches of drug product distributed to the United States that are within expiry as of the date of this letter.
+    o A summary of all results obtained from testing retain samples from each batch. If such testing reveals substandard quality drug products, take rapid corrective actions, such as notifying customers and product recalls.
+
+3. Your firm failed to establish and follow required laboratory control mechanisms (21 CFR 211.160(a)).
+
+The microbiological laboratory methods were inadequate to evaluate incoming bulk drug product, finished drug product, and monitor your (b)(4) system. In addition, our investigators found dirty glassware, and stoppers, and plates in incubation without unique sample identification numbers.
+
+In your response, you stated that trend analysis is part of your annual product review, and you provided a standard operating procedure showing you can perform some specific identification testing (e.g., Gram staining, catalase test). However, your response is inadequate because you did not provide any details about the microorganisms routinely observed in your facility or your plans to perform species identification in the future.
+
+Your firm routinely observed colony formation during examination of incubated plates of (b)(4) and you did not perform isolate identification. Microbiological identification critical for ensuring your manufacturing systems remain in a state of control. Understanding potential routes of contamination would have been especially important following your recent recall of microbiologically contaminated products.
+
+In response to this letter, provide:
+
+
+	A comprehensive, independent assessment of your laboratory practices, procedures, methods, equipment, documentation, and analyst competencies. Based on this review, provide a detailed plan to remediate and evaluate the effectiveness of your laboratory system.
+	Appropriate microbiological batch release specifications (i.e., total counts, identification of bioburden to detect objectionable microbes) for each of your drug products.
+	All microbial test methods used to analyze each of your drug products.
+	Plans for accurately identifying microbiological species routinely isolated from your facility via (b)(4) system monitoring or environmental monitoring, include procedures and methodologies.
+	A procedure governing your program for ongoing control, maintenance, and monitoring that ensures the remediated system consistently produces (b)(4) that meets (b)(4), USP monograph specifications and appropriate microbial limits.
+
+
+On December 9, 2022, FDA held a teleconference with you. We recommended you consider removing one batch of EasyCare First Aid® AfterBurn® Cream, 0.9g single-use packet currently in distribution from the U.S. market due to microbiological contamination.
+
+On December 23, 2022, you issued a voluntary nationwide recall of one batch of EasyCare First Aid® AfterBurn® Cream, 0.9g single-use packet, and 15 lots of first aid kits containing this product, as noted on the following FDA website:
+https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/gfa-production-xiamen-co-ltd-issues-voluntary-nationwide-recall-easy-care-first-aidr-burn-cream-and
+
+FDA placed your firm on Import Alert 55-05 on February 16, 2023, as a result of this microbiological contamination.
+
+Use of Contract Manufacturers
+
+We acknowledge your commitment to cease production of drugs at this facility and your intent to outsource manufacturing. Drugs must be manufactured in conformance with CGMP. FDA is aware that many drug manufacturers use independent contractors such as production facilities, testing laboratories, packagers, and labelers. FDA regards contractors as extensions of the manufacturer.
+
+You are responsible for the quality of your drugs regardless of agreements in place with your contract facilities. You are required to ensure that drugs are made in accordance with section 501(a)(2)(B) of the FD&C Act to ensure safety, identity, strength, quality, and purity. See FDA’s guidance document Contract Manufacturing Arrangements for Drugs: Quality Agreements at https://www.fda.gov/media/86193/download.
+
+Drug Production Ceased
+
+You have committed to cease manufacturing at your facility. If you plan to resume manufacturing drugs for the U.S. market, notify this office prior to resuming your operations. Should you resume manufacturing drugs, based upon the nature of the violations we identified at your firm, you should engage a consultant qualified as set forth in 21 CFR 211.34 to evaluate your operations and to assist your firm in meeting CGMP requirements. The qualified consultant should also perform a comprehensive six-system audit of your entire operation for CGMP compliance and evaluate the completion and efficacy of your corrective actions and preventive actions before you pursue resolution of your firm’s compliance status with FDA.
+
+See FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations for help implementing quality systems and risk management approaches to meet the requirements of CGMP regulations 21 CFR, parts 210 and 211 at https://www.fda.gov/media/71023/download.
+
+Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+FDA placed your firm on Import Alert 66-40 on June 12, 2024.
+
+Correct any violations promptly. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to any violations.
+
+Failure to address any violations may also result in the FDA continuing to refuse admission of articles manufactured at GFA Production Xiamen Co., Ltd., FEI 3008384335, at No. 20 Huli Industrial Park, Tong’an District, Meixi Avenue, Xiamen into the United States under section 801(a)(3) of the FD&C Act, 21 U.S.C. 381(a)(3). Articles under this authority that appear to be adulterated [or misbranded] may be detained or refused admission, in that the methods and controls used in their manufacture do not appear to conform to CGMP within the meaning of section 501(a)(2)(B) of the FD&C Act, 21 U.S.C. 351(a)(2)(B).
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov. Identify your response with FEI 3008384335 and ATTN: Christina Capacci-Daniel.
+
+Sincerely,
+/S/
+
+Francis Godwin
+Director
+Office of Manufacturing Quality
+Office of Compliance
+Center for Drug Evaluation and Research
+
+CC: U.S. Agent
+Registrar Corp
+144 Research Dr
+Hampton, VA 23666
+drugs@registrarcorp.com

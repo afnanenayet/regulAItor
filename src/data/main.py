@@ -34,7 +34,7 @@ async def main():
                     content = f.read()
 
                 letter_name = file_path.stem
-                validated_summary = processor.process_letter(letter_name, content)
+                validated_summary = await processor.process_letter(letter_name, content)
 
                 if validated_summary:
                     summaries.append(validated_summary)
@@ -64,9 +64,6 @@ async def main():
     except Exception as e:
         logging.error(f"Fatal error: {str(e)}")
         raise
-    finally:
-        await processor.cleanup()
-        logging.info("Processing completed.")
 
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO)

@@ -1,0 +1,186 @@
+Delivery Method: 
+        Via Email
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Ronald C. Ingber
+          
+
+                                
+  
+    Recipient Title
+              President
+          
+
+          
+            American Cleaning Solutions
+
+          
+                      3930 Review Ave.
+Long Island City, NY 11101
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Division of Pharmaceutical Quality Operations I
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter CMS #: 632881
+
+September 6, 2022
+
+Dear Mr. Ingber:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, American Cleaning Solutions, FEI 3001587133, at 3930 Review Avenue, Long Island City, Ny from March 7 to March 28, 2022.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your March 29, 2022, response to our Form FDA 483 in detail. Your response is inadequate because it did not provide sufficient detail or evidence of corrective actions to bring your operations into compliance with CGMP. We acknowledge your commitment to deregistering and your decision to cease manufacturing hand sanitizer drug products permanently.
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to establish and follow written procedures for cleaning and maintenance of equipment (21 CFR 211.67(b).
+
+Your firm manufactures over-the-counter (OTC) hand sanitizer1 drug products including Secure Gel Hand Rub and Secure Hand Rub, as well as non-drug products including insecticides and industrial cleaners. It is unacceptable as a matter of CGMP to continue manufacturing drugs using the same equipment that you use to manufacture pesticides or other non-pharmaceutical products due to the risk of cross-contamination. Our investigator also observed inadequate cleaning and maintenance of your drug manufacturing equipment, specifically:
+
+Your firm lacks an adequate cleaning and maintenance procedure. Your cleaning procedure states that your production tanks are cleaned with hot water and allowed to air dry. Your procedure does not list or describe the use of cleaning agents, sampling requirements, or testing specifications. During the inspection you stated that you document cleaning activities on the drug product batch records. However, no evidence of cleaning was observed on the batch records of your drug products, and you confirmed that your firm does not have cleaning or equipment use logs.
+
+In addition, your equipment used to manufacture your drug products were observed to be in a state of disrepair. For example, rust-like residue and other substances were observed on the product contact surfaces of your production and mixing vessels. An accumulation of dirt, debris, and grease-like residues was also observed throughout the facility and on production equipment used to manufacture drug products such as your pumps and filling lines.
+
+Inadequate removal of active ingredients and product residues from surfaces of non-dedicated manufacturing equipment can lead to contamination of drug products subsequently manufactured on that equipment.
+
+2. Your firm failed to establish adequate written procedures for production and process control designed to assure that drug products you manufacture have the identity, strength, quality, and purity they purport or are represented to possess, and to follow all of your written production and process control procedures (21 CFR 211.100(a) and (b)).
+
+Your firm has not established that your processes used to manufacture hand sanitizer drug products are validated. You also confirmed that equipment qualification has not been performed on this equipment.
+
+Further, your batch records do not accurately or consistently reflect your formulation for hand sanitizer drug products. For example, the formulation for your hand sanitizer drug products calls for the use of (b)(4)% isopropanol as the active ingredient. However, examples from the batch records of these products manufactured in 2020, included a mixture of both isopropanol and ethanol as active ingredients. However, ethanol was not listed as an ingredient on your hand sanitizer drug product labels. In addition, your labels list “Purified Water USP” as an ingredient. However, your formulation calls for the use of “(b)(4) water” and you confirmed to our investigators that your firm is unable to manufacture purified water, and that you use (b)(4) water as an ingredient in the manufacturing of your drug products.
+
+Process validation evaluates the soundness of design and state of control of a process throughout its lifecycle. Each significant stage of a manufacturing process must be designed appropriately and assure the quality of raw material inputs, in-process materials, and finished drugs. Process qualification studies determine whether an initial state of control has been established. Successful process qualification studies are necessary before commercial distribution. Thereafter, ongoing vigilant oversight of process performance and product quality is necessary to ensure you maintain a stable manufacturing operation throughout the product lifecycle.
+
+See FDA’s guidance document Process Validation: General Principles and Practices for general principles and approaches that FDA considers appropriate elements of process validation at https://www.fda.gov/media/71021/download.
+
+3. Your firm failed to conduct at least one test to verify the identity of each component of a drug product. Your firm also failed to validate and establish the reliability of your component supplier’s test analyses at appropriate intervals (21 CFR 211.84(d)(1) and (2)).
+
+You failed to adequately test your incoming components for identity before using the components to manufacture your drug products. Additionally, you relied on certificates of analysis from unqualified suppliers for specifications such as purity, strength, and quality. By not adequately analyzing your components for identity, purity, strength, and quality, you failed to ensure that your incoming components meet appropriate specifications.
+
+You stated to our investigators that you only test raw materials arriving in tankers. However, you were unable to provide evidence that any testing was performed on your incoming raw materials. In addition, you were unable to provide evidence that you have ever qualified the suppliers of your raw materials.
+
+You manufactured drugs that contain ethanol. The use of ethanol contaminated with methanol has resulted in various lethal poisoning incidents in humans worldwide. See FDA’s guidance document Policy for Testing of Alcohol (Ethanol) and Isopropyl Alcohol for Methanol, Including During the Public Health Emergency (COVID- 19) to help you meet the CGMP requirements when manufacturing drugs containing ethanol at https://www.fda.gov/media/145262/download.
+
+As a manufacturer, you have a responsibility to sample, test, and examine drug components before use to assure adequate quality, including testing for the presence of methanol in ethanol, before use in production.
+
+4. Your firm’s quality control unit failed to exercise its responsibility to ensure drug products manufactured are in compliance with CGMP, and meet established specifications for identity, strength, quality, and purity (21 CFR 211.22).
+
+Your quality unit (QU) did not provide adequate oversight for the manufacture of your drug products. For example, your QU failed to ensure the following:
+
+
+	Appropriate testing for the identity and strength of the active ingredients was performed and reviewed before release for each batch of drug product (21 CFR 211.165(a)).
+	Thorough investigations for out-of-specifications results, complaints, deviations, and other discrepant results per an adequate written and approved procedure (21 CFR 211.192).
+	Appropriate documentation and assessment of production and process control changes (21 CFR 211.100(a)).
+	Establishment of an adequate, ongoing stability program (21 CFR 211.166(a)).
+	Performance of annual product reviews (21 CFR 211.180(e)).
+
+
+An adequate QU overseeing all manufacturing operations is necessary to consistently ensure drug quality. See FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations for help implementing quality systems and risk management approaches to meet the requirements of CGMP regulations 21 CFR, parts 210 and 211 at https://www.fda.gov/media/71023/download.
+
+501(d) Adulteration Violations - Substitution
+
+Secure Hand Sanitizer, listed as being manufactured at your facility, is labeled to contain 70% v/v of the active ingredient Isopropyl Alcohol (IPA). However, you confirmed to our investigator and provided production records of batches of this product which contained the addition of ethanol. Therefore, this hand sanitizer drug product is adulterated under section 501(d)(2) of the FD&C Act in that the active ingredient, isopropanol, was substituted wholly or in part with ethanol.
+
+Repeat Observations at Facility
+
+In a previous inspection conducted in 2016, FDA cited similar CGMP observations. You proposed specific remediation for these observations in your response. Repeated failures demonstrate that executive management oversight and control over the manufacture of drugs is inadequate.
+
+Drug Production Ceased
+
+While we acknowledge your commitment to cease production of drugs at this facility, we note that you provided a similar commitment in your response to your 2016 FDA inspection.
+
+If you plan to resume manufacturing drugs, notify this office before resuming your operations.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+Correct any violations promptly. Failure to promptly and adequately address this matter may result in regulatory or legal action without further notice including, without limitation, seizure, and injunction. Unresolved violations may also prevent other Federal agencies from awarding contracts.
+
+Failure to address violations may also cause FDA to withhold issuance of Export Certificates. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to address any violations.
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to ORAPHARM1_RESPONSES@fda.hhs.gov. Your written notification should refer to Warning Letter CMS # 632881 and include FEI: 3001587133.
+
+If you have questions regarding the content of this letter, please contact Samina Khan, Compliance Officer, at samina.khan@fda.hhs.gov.
+
+/S/
+Nerizza Guerin
+Acting Program Division Director/District Director
+Office of Pharmaceutical Quality Operations Division I/
+New Jersey District
+
+___________________________________
+
+1 Due to an increased demand for alcohol-based hand sanitizers during the COVID-19 pandemic, the FDA published the Guidance for Industry: Temporary Policy for Preparation of Certain Alcohol-Based Hand Sanitizer Products During the Public Health Emergency (COVID-19) on March 19, 2020, and subsequently updated the guidance several times. The guidance was withdrawn effective December 31, 2021 (86 Fed Reg at 56960). This guidance communicated the Agency’s temporary policy that we did not intend to take action against firms for CGMP violations under section 501(a)(2)(B) of the FD&C Act if such firms prepared alcohol- based hand sanitizers for consumer use (or for use as a health care personnel hand rub) during the public health emergency, provided certain circumstances described in the guidance were present. These circumstances included preparation of hand sanitizer products using only the ingredients and formulas set forth in the guidance. Because American Cleaning Solutions hand sanitizer drug products were not consistent with the formulations described in these guidances, they did not fall within any temporary Agency policy not to take action against firms manufacturing hand sanitizer products for violations of section 505 of the FD&C Act.

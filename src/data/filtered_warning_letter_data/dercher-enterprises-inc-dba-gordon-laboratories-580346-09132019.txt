@@ -1,0 +1,264 @@
+Delivery Method: 
+        Certified Mail
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. David J. Dercher
+          
+
+                                
+  
+    Recipient Title
+              Vice President
+          
+
+          
+            Dercher Enterprises, Inc., DBA Gordon Laboratories 
+
+          
+                      6801 Ludlow Street
+Upper Darby, PA 19082-2408
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Division of Pharmaceutical Quality Operations I
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+
+WARNING LETTER
+CMS# 580346
+
+September 13, 2019
+
+
+Dear Mr. Dercher:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Gordon Laboratories, FEI 2510734, at 6801 Ludlow Street, Upper Darby, Pennsylvania, from March 7 to 29, 2019.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See 21 CFR, parts 210 and 211.
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+Your firm manufactures “TRI-CHLOR,” “SILVER NITRATE SOLUTION 10%,” “SILVER NITRATE SOLUTION 25%,” and “SILVER NITRATE SOLUTION 50%.” These products are unapproved new drugs in violation of section 505(a) of the FD&C Act, 21 U.S.C. 355(a). Introduction or delivery for introduction of such products into interstate commerce is prohibited under sections 301(d) of the FD&C Act, 21 U.S.C. 331(d). Your products “TRI-CHLOR,” “SILVER NITRATE SOLUTION 25%,” and “SILVER NITRATE SOLUTION 50%” are also misbranded drugs in violation of section 502(f)(1) of the FD&C Act 21 U.S.C. Introduction of such products into interstate commerce is prohibited under section 301(a) of the FD&C Act 21 U.S.C. 331(a). These violations are described in more detail below.
+
+We reviewed your April 16, 2019, response in detail.
+
+During our inspection, our investigator observed specific violations including, but not limited to, the following.
+
+CGMP Charges
+
+1. Your firm failed to thoroughly investigate any unexplained discrepancy or failure of a batch or any of its components to meet any of its specifications, whether or not the batch has already been distributed (21 CFR 211.192).
+
+You manufacture Monsel’s Solution, a hemostatic agent that is applied to body tissues to control bleeding (e.g., in post-operative settings following obstetric and gynecologic procedures).
+
+In 2018, FDA collected finished drug product samples of your Monsel’s Solution for FDA laboratory analysis. FDA’s testing found that multiple lots of your drug were super-potent, exceeding iron assay specifications. You recalled the adulterated drugs after FDA informed you of the failing test results. However, you failed to conduct an adequate investigation, including determining the root cause of the failures, investigating other potentially impacted batches/lots, and implementing effective corrective actions and preventive actions (CAPA). You also failed to follow your standard operating procedure (SOP), which requires you to conduct and document an investigation into all drug product failures and include a root cause determination.
+
+In addition, analysis by your contract testing laboratory confirmed the 2018 out-of-specification (OOS) results. However, you continued to manufacture and distribute the product.
+
+Moreover, during the 2019 inspection, FDA collected samples of additional lots of your Monsel’s Solution finished drug product for analysis. Multiple lots were again super-potent, failing iron assay specifications. You recalled several lots of your Monsel’s Solution after being contacted by the FDA regarding these further assay failures of your distributed drug product.
+
+In your response, you committed to revising your SOPs and performing analytical testing of “retained lots” and a “new batch” of Monsel’s Solution. However, you did not adequately address the underlying issue of inadequate investigations and root cause determinations, and you did not sufficiently address potential impact to other lots of drug product(s) that you manufacture. Your interim plans were unclear, and you did not provide adequate supportive documentation to evaluate the effectiveness of your investigation and CAPA.
+
+In response to this letter, provide the following.
+
+• Your interim plans for the manufacture and distribution of your drug product(s) while you remediate the sources of variability that have led to recurring assay failures.
+• An update of your retrospective evaluation of the quality of all lots of Monsel’s Solution on the market within expiry to assist in assessing the scope of potentially impacted drug product(s).
+• An investigation and CAPA plan that identifies manufacturing root causes and specifies meaningful improvements. Provide detailed supportive documentation of your CAPA.
+• An adequate procedure for investigating OOS results. Provide a CAPA plan to assure adequate OOS handling. Your CAPA plan should ensure that your OOS investigations procedure includes:
+
+     o Enhanced quality unit oversight of laboratory investigations
+     o Identification of adverse laboratory control trends
+     o Resolution of causes of laboratory variation
+     o Investigations of potential manufacturing causes when a laboratory cause cannot be conclusively identified
+
+• A comprehensive, independent assessment of your overall system for investigating deviations, atypical events, complaints, out-of-specification results, and failures. Your CAPA should include but not be limited to improvements in investigation competencies, root cause analysis, quality unit oversight, and written procedures. Also include your process for evaluating CAPA effectiveness.
+
+2. Your firm failed to conduct, for each batch of drug product, appropriate laboratory testing, as necessary, required to be free of objectionable microorganisms (21 CFR 211.165(b)).
+
+Drugs that may be applied to non-intact skin must be free of objectionable microorganisms and, where appropriate, should be sterile. However, you failed to establish specifications for microbiological quality. Moreover, you failed to test your finished drug products for microbial quality (total microbial counts and objectionable microorganisms) prior to release and distribution.
+
+FDA tested your Monsel’s Solution and identified Sphingomonas paucimobilis contamination in your drug product. Objectionable microbiological contamination of your Monsel’s Solution poses a meaningful risk of infection, particularly due to its use on non-intact, bleeding tissue.
+
+Microbiological contamination is not uniformly distributed, and finished product testing alone cannot be relied upon to release drug product batches or retrospectively demonstrate their quality. Quality must be built into manufacturing processes, including but not limited to preventing objectionable contamination.
+
+In your response, you said that you will do microbiological testing on every drug batch and evaluate all products to ensure compliance with FDA regulations. However, finished product testing alone is limited in its ability to establish the quality of all drug product units and cannot be a substitute for full adherence to current good manufacturing practices. You failed to discuss how you will assure your production process is properly designed and controlled to prevent contamination with objectionable microorganisms. You also failed to address the potential impact to your drugs on the market which have never been tested for microbiological contamination. In addition, you failed to provide adequate supportive documentation to evaluate the effectiveness of your CAPA.
+
+In response to this letter, provide the following.
+• Appropriate microbiological batch release specifications (i.e., total counts; identification of bioburden to detect objectionable microbes) for each of your drug products.
+• All microbiological test methods used to analyze each of your drug products.
+• A comprehensive assessment of the adequacy of your firm’s manufacturing operations, with emphasis on adequacy of microbiological controls and contamination prevention.
+• A summary of test results obtained from testing reserve samples of all drug products within expiry. You should test all appropriate quality attributes including, but not limited to, identity and strength of active ingredients and microbiological quality (total counts and identification of bioburden to detect any objectionable microbes). If your testing of any batch yields an out-of-specification result, indicate the corrective actions you will take, including notifying customers and initiating recalls.
+• Complete investigations into all lots found to have objectionable microbial contamination. The updated investigations should detail your findings regarding the likely root causes of the contamination and provide a detailed risk assessment addressing the potential effects of distributing objectionably contaminated drug product.
+
+3. Your firm failed to establish an adequate quality control unit with the responsibility and authority to approve or reject all components, drug product containers, closures, in-process materials, packaging materials, labeling, and drug products. Your firm also failed to establish and follow adequate written responsibilities and procedures applicable to the quality control unit (21 CFR 211.22(a) & 21 CFR 211.22(d)).
+
+You lacked adequate quality oversight of your manufacturing operations in several respects including, but not limited to, the following.
+
+• You failed to follow your “Problem Analysis and Corrective Action” SOP for implementation of CAPA as well as documentation and signature by the Quality Assurance Manager.
+• Incoming Monsel’s Solution was routed to Quality Control (QC) to inspect and label as either accepted or rejected. Your “Receiving” SOP required that those articles accepted by inspection shall be forwarded to an appropriate storage area. You confirmed that Monsel’s Solution was stored in your loading dock without any temperature controls until it was completely used in production, although appropriate temperature ranges are specified in labeled storage requirements to prevent crystallization. Notably, you have rooms at your facility where temperature is controlled and monitored, and which apparently would have been suitable for product storage.
+• You failed to implement effective CAPA in accordance with your response to the previous 2017 FDA inspection in which you committed to verifying suppliers’ certificate of analysis (COA) of one batch of “raw materials (drug active ingredient)” annually. During the 2019 FDA inspection, you confirmed verification of the bulk drug supplier’s certificate of analysis has never been done for Monsel’s Solution and there is no vendor qualification program.
+
+Without an adequate Quality Unit (QU), you are unable to ensure that drug products meet required specifications and manufacturing standards for safety, identity, strength, quality, and purity.
+
+You are responsible for establishing the reliability of your suppliers’ test results and conformance to all written specifications.
+
+When significant variability is observed in a drug manufacturing process or in its input materials, it is essential that executive management support and implement effective actions to address the source(s) of the variation and ensure a continued state of control.
+
+See FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations for help implementing modern quality systems and risk management approaches to meet the requirements of CGMP regulations (21 CFR, parts 210 and 211) at https://www.fda.gov/media/71023/download.
+
+In your response, you committed to qualifying bulk drug suppliers by testing three consecutive lots, performing testing to validate suppliers’ COA annually, and storing raw materials in temperature-controlled rooms. However, you failed to address the underlying issue of inadequate manufacturing and quality assurance, and the impact of such inadequacies on the quality and safety of your drugs. You also failed to provide adequate supportive documentation to evaluate the effectiveness of your CAPA.
+
+In response to this letter, provide the following.
+
+• A comprehensive, independent assessment with CAPA to ensure your QU is given the needed authority and resources to effectively discharge its function. The assessment should also include, but not be limited to:
+     o A determination of whether procedures used by your firm are robust and appropriate
+     o Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices
+     o Complete and final review of each batch and its related information prior to the QU disposition decision
+     o Oversight and approval of investigations, and discharging all other QU duties to assure identity, strength, quality and purity of all products
+
+• A comprehensive, independent review and CAPA of your material system to determine whether all suppliers of components, containers, and closures, are qualified and the materials are assigned appropriate expiration or retest dates. The review should also determine whether incoming material controls and storage conditions are adequate to prevent use of unsuitable components, containers, and closures. Regarding incoming controls:
+     o Provide a detailed description of how you will test each component lot for conformity with all appropriate specifications for identity, strength, quality, and purity
+     o If you intend to accept any testing results on your supplier’s COA in lieu of testing each component lot for purity, strength, and quality, further describe how you will first establish the reliability and consistency of your supplier’s test results for these attributes through initial validation (followed by periodic re-validation). In addition, include a commitment to always conduct at least one specific identity test for each incoming component lot.
+
+Process Controls
+
+Your firm does not have an adequate ongoing program for monitoring process control to ensure stable manufacturing operations and consistent drug quality. See FDA’s guidance document Process Validation: General Principles and Practices for general principles and approaches that FDA considers appropriate elements of process validation at https://www.fda.gov/media/71021/download.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements.
+
+Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Unapproved New Drug Charges
+
+Inspection of your firm and review of your website in July 2019 at the internet address http://gordonlabs.net/ revealed that your firm caused the introduction into interstate commerce of “TRI-CHLOR,” “SILVER NITRATE SOLUTION 10%,” “SILVER NITRATE SOLUTION 25%,” and “SILVER NITRATE SOLUTION 50%” in violation of sections 505(a) and 301(d) of the FD&C Act 21 U.S.C. 355(a) and 331(d).
+
+Your “TRI-CHLOR,” “SILVER NITRATE SOLUTION 10%,” “SILVER NITRATE SOLUTION 25%,” and “SILVER NITRATE SOLUTION 50%” are “drugs” within the meaning of section 201(g)(1) of the FD&C Act, 21 U.S.C. 321(g)(1) because they are articles intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease in man or other animals and/or an article (other than food) intended to affect the structure or any function of the body of man or other animals.
+
+Examples of claims and statements observed in your product label and labeling that establish the intended uses (as defined in 21 CFR 201.128) of the product include, but may not be limited to, the following:
+
+SILVER NITRATE SOLUTION, 10%, product label:
+     • “INDICATIONS: Epithelial stimulant, astringent and germicidal action, treatment of helomas.”
+
+TRI-CHLOR (trichloroacetic acid) Solution, 80%, product labeling:
+     • “To aid in the elimination of condylomata.”
+     • “It is used as cauterant to treat condyloma, a wart like growth of skin, usually seen on external genitalia or near the anus.”
+
+SILVER NITRATE SOLUTION, 25%, product label:
+     • “INDICATIONS: Escharotic, dehydrating and sclerosing agent.”
+
+SILVER NITRATE SOLUTION, 50%, product label:
+     • “INDICATIONS: Strong escharotic, dehydrating and sclerosing agent.”
+
+Additionally, claims observed on your website in July 2019 include, but are not limited to, the following:
+
+TRI-CHLOR (trichloroacetic acid) Solution, 80%:
+     • “INDICATIONS: To aid in the elimination of condylomata.”
+     • “It is used as cauterant to treat condyloma, a wart like growth of skin, usually seen on external genitalia or near the anus.”
+
+SILVER NITRATE SOLUTION, 25%:
+     • “INDICATIONS: Escharotic, dehydrating and sclerosing agent.”
+     • “In treating pruritus, the moist and macerated, perianal and intergluteal dermatitis is best treated with desiccating agents such as Silver Nitrate Solution.”
+
+SILVER NITRATE SOLUTION, 50%:
+     • “INDICATIONS: Strong escharotic, dehydrating and sclerosing agent.”
+     • The antiseptic effects of silver probably also derive, in part, from the reaction with bacterial and viral proteins.”
+
+Under 21 CFR 310.548, any OTC drug product such as “SILVER NITRATE SOLUTION 10%” that contains colloidal silver ingredients or silver salts that is labeled, represented, or promoted for the treatment and/or prevention of any disease is regarded as a “new drug” within the meaning of section 201(p) of the FD&C Act, 21 U.S.C. 321(p), for which an approved application is required for marketing.
+
+As formulated and labeled, “TRI-CHLOR,” “SILVER NITRATE SOLUTION 25%,” and “SILVER NITRATE SOLUTION 50%” are also new drugs within the meaning of section 201(p) of the FD&C Act, 21 U.S.C. 321(p) because they are not generally recognized as safe and effective for their labeled uses. As new drugs, “TRI-CHLOR,” “SILVER NITRATE SOLUTION 10%,” “SILVER NITRATE SOLUTION 25%,” and “SILVER NITRATE SOLUTION 50%” may not be legally marketed in the United States absent approval of an application filed in accordance with section 505(a) of the FD&C Act, 21 U.S.C. 355(a).
+
+“TRI-CHLOR,” “SILVER NITRATE SOLUTION 10%,” “SILVER NITRATE SOLUTION 25%,” and “SILVER NITRATE SOLUTION 50%” are not the subject of FDA-approved applications. Therefore, the current marketing of these products violates section 505(a) of the FD&C Act, 21 U.S.C. 355(a). Introduction or delivery for introduction of such products into interstate commerce is prohibited under section 301(d) of the FD&C Act, 21 U.S.C. 331(d).
+
+Misbranded Drugs Violations
+
+“TRI-CHLOR,” “SILVER NITRATE SOLUTION 25%,” and “SILVER NITRATE SOLUTION 50%” are misbranded under section 502(f)(1) of the FD&C Act, 21 U.S.C. 352(f)(1). According to section 502(f)(1) of the Act, 21 U.S.C. 352(f)(1), a drug is misbranded if, among other things, it fails to bear adequate directions for its intended use(s). “Adequate directions for use” means directions under which a layman can use a drug safely and for the purposes for which it is intended (See 21 CFR 201.5).
+
+“TRI-CHLOR,” “SILVER NITRATE SOLUTION 25%,” and “SILVER NITRATE SOLUTION 50%” are intended for conditions that are not amendable to self-diagnosis and treatment by individuals who are not medical practitioners and are prescription drugs as defined in section 503(b)(1) of the FD&C Act, 21 U.S.C. 353(b)(1). Because the conditions for which your products are intended require the professional supervision of a practitioner licensed by law to administer drugs for such conditions, adequate directions for use cannot be written so that a layman can use your products safely for their intended uses. Moreover, your products are not exempt from the requirements that their labeling bear adequate direction for use, under 21 CFR 201.100(c)(2) or 201.115, because no FDA approved applications are in effect for your “TRI-CHLOR,” “SILVER NITRATE SOLUTION 25%,” and “SILVER NITRATE SOLUTION 50%”. Thus, your products’ labeling fails to bear adequate directions for their intended uses, which causes the products to be misbranded under section 502(f)(1) of the FD&C Act, 21 U.S.C. 352(f)(1).
+
+The introduction or delivery for introduction into interstate commerce of these misbranded products violates section 301(a) of the FD&C Act, 21 U.S.C. 331(a).
+
+Conclusion
+
+Violations cited in this letter are not intended as an all-inclusive list. You are responsible for investigating these violations, for determining the causes, for preventing their recurrence, and for preventing other violations.
+
+Correct the violations cited in this letter promptly. Failure to promptly correct these violations may result in legal action without further notice including, without limitation, seizure and injunction. Unresolved violations in this warning letter may also prevent other Federal agencies from awarding contracts.
+
+Until these violations are corrected, we may withhold approval of pending drug applications listing your facility. We may re-inspect to verify that you have completed your corrective actions. We may also refuse your requests for export certificates.
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Please send your electronic response to orapharm1_responses@fda.hhs.gov and CDER-OC-OMQ-Communications@fda.hhs.gov. Please reach out to Compliance Officer Yvette Johnson, at Yvette.Johnson@fda.hhs.gov with any questions.
+
+Please identify your response with FEI 2510734.
+
+Sincerely,
+/S/
+
+Diana Amador-Toro
+Division Director /OPQO Division I
+New Jersey District Office

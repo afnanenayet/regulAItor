@@ -1,0 +1,292 @@
+Delivery Method: 
+        VIA EMAIL CONFIRMED DELIVERY
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Leslie Nguyen, R.Ph. PharmD
+          
+
+                                
+  
+    Recipient Title
+              Director of Pharmacy
+          
+
+          
+            Central Admixture Pharmacy Services, Inc.
+
+          
+                      7935 Dunbrook Road Ste C
+San Diego, CA 92126-6322
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Division of Pharmaceutical Quality Operations IV
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+WARNING LETTER
+
+July 10, 2024
+
+Dear Dr. Nguyen:
+
+You registered your facility with the U.S. Food and Drug Administration (FDA) as an outsourcing facility under section 503B of the Federal Food, Drug, and Cosmetic Act (FDCA) [21 U.S.C. § 353b]1 on June 4, 2021, initially, and most recently on October 27, 2022; your facility has been de-registered as of October 17, 2023. From July 10, 2023, to August 25, 2023, FDA investigators inspected your facility, Central Admixture Pharmacy Services Inc. located at 7935 Dunbrook Road Ste C, San Diego, CA 92126. During the inspection, the investigators noted that drug products you produced failed to meet the conditions of section 503B of the FDCA necessary for drugs produced by an outsourcing facility to qualify for exemptions from certain provisions of the FDCA. In addition, the investigators noted serious deficiencies in your practices for producing drug products intended or expected to be sterile, which put patients at risk.
+
+FDA issued a Form FDA 483 to your facility on August 25, 2023; as well as amendments to the Form FDA 483 on August 25, 2023, and October 12, 2023. FDA acknowledges receipt of your facility’s responses, dated September 12, 2023, October 18, 2023, November 17, 2023, and January 31, 2024. FDA also acknowledges that, on July 17, 2023, and September 21, 2023, your firm initiated voluntary recalls of drug products intended or expected to be sterile, within expiry, due to lack of sterility assurance. FDA further acknowledges your November 17, 2023, written statement that CAPS has made the decision “to permanently cease operations at its San Diego location.” Based on this inspection, it appears you produced drugs that violate the FDCA.
+
+A. Compounded Drug Products under the FDCA
+
+Under section 503B(b) of the FDCA, a compounder can register as an outsourcing facility with FDA. Drug products compounded by or under the direct supervision of a licensed pharmacist in an outsourcing facility qualify for exemptions from the drug approval requirements in section 505 of the FDCA [21 U.S.C. § 355(a)], the requirement in section 502(f)(1) of the FDCA [21 U.S.C. § 352(f)(1)] that labeling bear adequate directions for use and the Drug Supply Chain Security Act requirements in section 582 of the FDCA [21 U.S.C. § 360eee-1] if the conditions in section 503B of the FDCA are met.2
+
+An outsourcing facility, which is defined in section 503B(d)(4) of the FDCA [21 U.S.C. § 353b(d)(4)], is a facility at one geographic location or address that — (i) is engaged in the compounding of sterile drugs; (ii) has elected to register as an outsourcing facility; and (iii) complies with all of the requirements of this section. Outsourcing facilities must comply with other applicable provisions of the FDCA, including section 501(a)(2)(B) [21 U.S.C. § 351(a)(2)(B)], regarding current good manufacturing practice (CGMP), and section 501(a)(2)(A) [21 U.S.C. § 351(a)(2)(A)], regarding insanitary conditions. Generally, CGMP requirements for the preparation of drug products are established in Title 21 of the Code of Federal Regulations (CFR) parts 210 and 211.
+
+For a compounded drug product to qualify for the exemptions under section 503B, the labeling of the drug must include certain information (section 503B(a)(10) of the FDCA [21 U.S.C. §353b(a)(10)]).
+
+In addition, for a compounded drug product to qualify for the exemptions under section 503B, it must be compounded in an outsourcing facility that is in compliance with the registration and reporting requirements in section 503B(b), including the requirement to submit adverse event reports to FDA “in accordance with the content and format requirements established through guidance or regulation under section 310.305 of title 21, Code of Federal Regulations (or any successor regulations)” (section 503B(a)(1), (b)(5) of the FDCA [21 U.S.C. § 353b(a)(1), (b)(5)]).
+
+B. Failure to Meet the Conditions of Section 503B
+
+During the inspection, FDA investigators noted that drug products produced by your facility failed to meet the conditions of section 503B. For example, the investigators noted:
+
+1. Some of your facility’s drug products, including Ephedrine Sulfate, Fentanyl Citrate, Hydromorphone Hydrochloride, Ketamine Hydrochloride, Succinylcholine Chloride, Vecuronium Bromide, and Lidocaine Hydrochloride did not include the following on the label: the established name of the drug product.
+
+2. Your facility did not submit adverse event reports to FDA in accordance with the content and format requirements established through guidance or regulation under section 310.305 of title 21, Code of Federal Regulations (or any successor regulations)3. For example, you failed to submit adverse event reports identified in NEQ-US32-211028-093 and NEQ-US32-221031-167.
+
+Because your compounded drug products have not met all of the conditions of section 503B, they are not eligible for the exemptions in that section from the FDA approval requirements of section 505, the requirement under section 502(f)(1) that labeling bear adequate directions for use, and the Drug Supply Chain Security Act requirements described in section 582 of the FDCA.
+
+Specific violations are described below.
+
+C. Violations of the FDCA
+
+Adulterated Drug Products
+
+FDA investigators noted that drug products intended or expected to be sterile were prepared, packed, or held under insanitary conditions, whereby they may have become contaminated with filth or rendered injurious to health, causing your drug products to be adulterated under section 501(a)(2)(A) of the FDCA. For example, the investigators observed that:
+
+1. You did not perform adequate product evaluation and take appropriate corrective action after microbial contamination was recovered within the ISO 5 aseptic processing area.
+
+2. Operators dragged the underside of their gowning sleeves on the work surface of the ISO 5 hood during aseptic production. This practice may introduce contamination into the ISO 5 work area.
+
+3. Your firm did not adequately disinfect materials during transfer from the ISO 7 cleanroom into the ISO 5 hood.
+
+4. You failed to adequately disinfect containers of sterile drug components immediately prior to puncturing critical sites for use in operations.
+
+5. Surface sampling was conducted after disinfectant was sprayed on surfaces. Therefore, surface sampling results are not representative of the aseptic processing environment and may not provide meaningful results.
+
+FDA investigators also noted CGMP violations at your facility, that caused your drug products to be adulterated within the meaning of section 501(a)(2)(B) of the FDCA. The violations include, for example:
+
+1. Your firm failed to establish adequate written responsibilities and procedures applicable to the quality control unit and to follow such written procedures (21 CFR 211.22(d)).
+
+2. Your firm failed to thoroughly investigate any unexplained discrepancy or failure of a batch or any of its components to meet any of its specifications, whether or not the batch has already been distributed (21 CFR 211.192).
+
+3. Your firm failed to establish and follow appropriate written procedures that are designed to prevent microbiological contamination of drug products purporting to be sterile, and that include validation of all aseptic and sterilization processes (21 CFR 211.113(b)).
+
+4. Your firm failed to establish adequate written procedures for production and process control designed to assure that drug products you manufacture have the identity, strength, quality, and purity they purport or are represented to possess, and to follow all of your written production and process control procedures (21 CFR 211.100(a) and (b)).
+
+5. Your firm failed to prepare batch production and control records with complete information relating to the production and control of each batch of drug product produced (21 CFR 211.188).
+
+6. Your firm failed to document at the time of performance required laboratory control mechanisms (21 CFR 211.160(a)).
+
+7. Your firm failed to have, for each batch of drug product, appropriate laboratory determination of satisfactory conformance to final specifications for the drug product, including the identity and strength of each active ingredient, prior to release (21 CFR 211.165(a)).
+
+8. Your firm failed to establish and document the accuracy, sensitivity, specificity, and reproducibility of its test methods (21 CFR 211.165(e)).
+
+9. Your firm failed to establish and follow an adequate written testing program designed to assess the stability characteristics of drug products and to use results of stability testing to determine appropriate storage conditions and expiration dates (21 CFR 211.166(a)).
+
+10. Your firm failed to establish an adequate system for monitoring environmental conditions in aseptic processing areas (21 CFR 211.42(c)(10)(iv)).
+
+11. Your firm failed to exercise appropriate controls over computer or related systems to assure that only authorized personnel institute changes in master production and control records, or other records (21 CFR 211.68(b)).
+
+Outsourcing facilities must comply with CGMP requirements under section 501(a)(2)(B) of the FDCA. FDA’s regulations regarding CGMP requirements for the preparation of drug products have been established in 21 CFR parts 210 and 211. FDA intends to promulgate more specific CGMP regulations for outsourcing facilities. FDA has issued a revised draft guidance, Current Good Manufacturing Practice — Guidance for Human Drug Compounding Outsourcing Facilities under Section 503B of the FD&C Act. This draft guidance, when finalized, will describe FDA’s expectations regarding outsourcing facilities and the CGMP requirements in 21 CFR parts 210 and 211 until more specific CGMP regulations for outsourcing facilities are promulgated.
+
+Under section 301(a) of the FDCA [21 U.S.C. § 331(a)], the introduction or delivery for introduction into interstate commerce of any drug that is adulterated is a prohibited act. Further, it is a prohibited act under section 301(k) of the FDCA [21 U.S.C. § 331(k)] to do any act with respect to a drug, if such act is done while the drug is held for sale after shipment in interstate commerce and results in the drug being adulterated.
+
+Unapproved New Drug Products
+
+You do not have any FDA-approved applications on file for drug products that you compound.4 Under sections 505(a) and 301(d) of the FDCA [21 U.S.C. §§ 331(d)] a new drug may not be introduced into or delivered for introduction into interstate commerce unless an application approved by FDA under section 505 of the FDCA is in effect for the drug. Marketing of these products, or other applicable products, without an approved application violates these provisions of the FDCA.
+
+Misbranded Drug Products
+
+You compound drug products that are intended for conditions not amenable to self-diagnosis and treatment by individuals who are not medical practitioners; therefore, adequate directions for use cannot be written so that a layman can use these products safely for their intended uses. Consequently, their labeling fails to bear adequate directions for their intended uses causing them to be misbranded under section 502(f)(1) of the FDCA.5 The introduction or delivery for introduction into interstate commerce of these products therefore violates section 301(a) of the FDCA. Further, it is also a prohibited act under section 301(k) of the FDCA to do any act with respect to a drug, if such act is done while the drug is held for sale after shipment in interstate commerce and results in the drug being misbranded.
+
+Failure to Report Adverse Events
+As noted above, your facility failed to submit adverse event reports (section 503B(b)(5) of the FDCA). The failure to report adverse events by an entity that is registered with FDA in accordance with section 503B(b) is a prohibited act under section 301(ccc)(3) of the FDCA [21 U.S.C. § 331(ccc)(3)].
+
+D. Corrective Actions
+
+We have reviewed your facility’s responses to the Form FDA 483. We acknowledge that, on July 17, 2023, and September 21, 2023, your firm initiated voluntary recalls of drug products intended or expected to be sterile, within expiry, due to lack of sterility assurance. We further acknowledge your November 17, 2023, written statement that CAPS has made the decision “to permanently cease operations at its San Diego location.”
+
+We are unable to fully evaluate some of your corrective actions due to lack of adequate supporting documentation:
+
+1. In your response, regarding your firm’s failure to establish adequate written responsibilities and procedures applicable to the quality control unit and to follow such written procedures:
+
+a. You discussed, but did not provide documentation of, updates to SOP-CAPS-4000343, Supplier Qualification, FRM-CAPS-4000352, New Supplier Material Selection Request & Approval, and up to date qualifications of critical suppliers in accordance with those documents.
+
+b. You stated you are working on a short term corrective and preventive action (CAPA) to reformat the Notification of Quality Event (NQE) form to allow more efficient initiation by simplifying the required data. However, you did not provide the updated form in your response.
+
+c. You stated SOP-CAPS-4000857, Control of GxP Laboratory Systems in a GMP Environment, would be updated to provide additional clarification on conducting an audit trail review of each laboratory system, and relevant personnel would be trained on the updated procedure. Additionally, you stated that “CAPS aims to be conducting full GxP audit trail reviews by December 31, 2023.” However, you did not provide an updated procedure or documentation of audit trail reviews in your response.
+
+2. In your response, regarding your firm’s failure to thoroughly investigate any unexplained discrepancy or failure of a batch or any of its components to meet any of its specifications, whether or not the batch has already been distributed:
+
+a. You stated you revamped your investigation report template, RPT-CAPS-4000048, “which provides a thorough investigation into non-conformances that are escalated to a full investigation.” However, you did not provide RPT-CAPS-4000048 in your response.
+
+b. You stated that “TP-CAPS-4000081 … has been updated to remove the requirement for duplicate confirmation testing for samples with OOS. Instead of performing a duplicate confirmation testing, any observed OOS result is handled consistent with SOP-CAPS-4000317 Investigation of Out-of-Specification Results for CAPS Quality.” You also stated that “CAPS commits to create a form or logbook that will be used in tracking the review of the audit trail not just for this instrument but for all of its GxP laboratory equipment. The Test procedure (TP-CAPS-4000081) will be updated to capture the form/logbook requirement. The update along with the form/logbook will be completed and trained to no later than November 30, 2023.” However, you did not provide TP-CAPS-4000081, or documentation of employee training, in your response.
+
+3. In your response, regarding your firm’s failure to ensure adequate aseptic technique and disinfection of materials used in aseptic processing, you stated the following, however, supporting documentation was not provided:
+
+a. SOP-CAPS-4000175, Aseptic Technique-503B, will be updated to address compounders setting the ISO 5 hood (b)(4) to mitigate gowning sleeves from touching the hood surface.
+
+b. SOP-CAPS-4000582, Environmental Monitoring-503B, will be updated to enhance the testing location of gown sleeves to cover the (b)(4) gown that may come in contact with surfaces within the ISO 5 classified spaces, and employees will be trained on the update.
+
+c. CAPS commits to studying the use of (b)(4) gloves to mitigate excess gowning sleeve material from hanging on the hood surface.
+
+d. CAPS will require (b)(4) skills requalification and testing for all its aseptic production employees. (b)(4) requalification using TM-CAPS-4000388 was updated in the (b)(4) system beginning September 1, 2023.
+
+4. In your response, regarding your firm’s failure to establish and follow adequate written procedures for 100% visual inspection, you stated “CAPS has committed to creating additional visual inspection standards to ensure that operators are qualified using standards covering major and critical defects found in injectable drug products. There will also be documented assurance that these defects are all represented in ‘positive’ samples of CAPS visual inspection standards used for visual inspector qualification. Updated visual inspection standards have been prepared, and CAPS will retrain and requalify all inspectors at the Phoenix and Lehigh Valley facilities by December 15, 2023.” However, you did not provide complete documentation of such, including employee retraining and requalification, and documentation to show which critical and major defects are represented in “positive” samples in visual inspection standards used for inspector qualification.
+
+5. Your response, regarding your firm’s failure to document laboratory data at the time of performance, did not include documentation to show employee training on COP-CAPS-4000014, Data Integrity Requirements, and training and implementation of the referenced SOP-CAPS 4000390, Controlled Data Sheets, at CAPS remaining 503B sites.
+
+6. Your response, regarding your firm’s failure to report and investigate all out of specification finished product test results, states that “(b)(4) personnel at the two remaining facilities will re-train on SOP-CAPS-4000317 ‘Investigation of Out of Specifications Results for CAPS Quality.’” Documentation of employee training for this SOP was not provided. Additionally, your response provided updated test procedure TP-CAPS-4000041, “(b)(4).” However, your response was not clear on whether training would be performed, and documentation of employee training was not provided.
+
+7. Your response states that your firm is evaluating the current sterility testing method validation in order to address formal (b)(4) per Change Control CCR-4000319, (b)(4) for Sterility and Endotoxin Testing. However, you have not provided supporting (b)(4) documentation demonstrating your firm’s (b)(4) sterility test method is suitable for its intended purpose. Therefore, there is no assurance that your (b)(4) sterility test method is able to provide valid results prior to release of each drug product lot.
+
+8. In your response, regarding your firm’s failure to establish and follow an adequate written stability testing program to ensure that drug products remain sterile through the labeled expiration date, you stated that “CAPS shall implement (b)(4) sterility testing … per Change Control CCR-4000317, (b)(4) Sterility and Endotoxin Testing for (b)(4) Stability Program … and update all associated SOPs.” However, you did not provide data to show performance of (b)(4) sterility testing of stability batches, updated SOPs, or employee training records.
+
+9. In your response, regarding your firm’s failure to establish an adequate system for monitoring environmental conditions in aseptic processing areas, you stated that all relevant personnel at the remaining two 503B facilities would be retrained, and that SOP-CAPS-4000582, Environmental Monitoring-503B, would be updated, (b)(4). You did not provide documentation of employee training, or the updated SOP showing this change.
+
+10. In your response, regarding your firm’s failure to exercise appropriate controls over access to the HIAC Particulate Matter system, you state that “Control of GxP Laboratory Systems in a GMP Environment (SOP-CAPS-4000857, Exhibit 10-4) will be revised to further clarify the (b)(4). The (b)(4) and (b)(4) audit trail reviews will help CAPS ensure that (b)(4).” However, you did not provide documentation of the SOP revision, employee training, or audit trail reviews.
+
+Additionally, you stated that “(b)(4)”, and “(b)(4).” You did not provide the procedures or master plans for review.
+
+Some of your corrective actions appear deficient:
+
+1. Regarding your firm’s failure to thoroughly investigate instances of acceptable quality limit (AQL) failure of the 100% visual inspection process, you stated that Section 6.4.7.A of SOP-CAPS-4000688, Visual Inspection, was revised “(b)(4).” SOP-CAPS-4000688, Version 13.0, provided in your response, states in section 6.4.7. “(b)(4).”, and section 6.4.7.A states “(b)(4) per SOP-CAPS-4000693, ‘Notification of Quality Event’.” The procedure does not appear to ensure an investigation will be performed per SOP-CAPS-4000317, to identify a root cause and evaluate whether corrective action is needed, (b)(4) the (b)(4) 100% visual inspection directed in the procedure.
+
+2. Your firm did not provide a response regarding the use of (b)(4) to record batch production information on (b)(4) sheets. In addition, no response was provided regarding the (b)(4) test results, found in your record storage room, that were not reviewed and saved into the official batch records.
+
+3. In your response, regarding your firm’s failure to ensure each stability (b)(4) is uniquely identified, you provided CAPS-SOP-4000804, (b)(4) Stability Study-503B, which states, “(b)(4).” This statement in your procedure does not appear to ensure the integrity and traceability of stability data by ensuring the (b)(4) for multiple stability (b)(4).
+
+In addition to the issues discussed above, you should note that CGMP requires the implementation of quality oversight and controls over the manufacture of drugs, including the safety of raw materials, materials used in drug manufacturing, and finished drug products. See section 501 of the FDCA. If you choose to contract with a laboratory to perform some functions required by CGMP, it is essential that you select a qualified contractor and that you maintain sufficient oversight of the contractor’s operations to ensure that it is fully CGMP compliant. Regardless of whether you rely on a contract facility, you are responsible for assuring that drugs you produce are neither adulterated nor misbranded. [See 21 CFR 210.1(b), 21 CFR 200.10(b).]
+
+In addition, regarding observations related to the conditions of section 503B of the FDCA, some of your corrective actions appear adequate. Specifically, you state that you are revising your adverse event reporting SOP, intend to utilize the services of “(b)(4)” to assist with adverse event reporting, and will report adverse events to FDA as deemed necessary.
+
+With respect to your labeling violations, FDA expects to evaluate compliance with section 503B(a)(10) of the FDCA upon reviewing any updated labels of compounded drug products that you submit in response to this letter.
+
+Should you continue to compound and distribute drug products that do not meet the conditions of section 503B, the compounding and distribution of your drugs would be subject to the new drug approval requirement, the requirement to label drug products with adequate directions for use, and the Drug Supply Chain Security Act requirements.
+
+FDA strongly recommends that if you decide to resume production of sterile drugs your management first undertake a comprehensive assessment of operations, including facility design, procedures, personnel, processes, maintenance, materials, and systems. In particular, this review should assess your aseptic processing operations. A third party consultant with relevant sterile drug manufacturing expertise should assist you in conducting this comprehensive evaluation.
+
+Repeat Violations at Multiple Sites
+
+The FDA identified similar CGMP deficiencies at other facilities in your company’s network. CAPS Allentown and CAPS Phoenix were also inspected and cited for CGMP deficiencies and insanitary conditions. These repeated failures at multiple sites demonstrate that management oversight and control over the manufacture of drugs is inadequate.
+
+Your executive management remains responsible for fully resolving all deficiencies and ensuring ongoing CGMP compliance. You should immediately and comprehensively assess your company’s global manufacturing operations to ensure that systems, processes, and the products manufactured conform to FDA requirements.
+
+E. Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive statement of violations at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations. It is your responsibility to ensure that your firm complies with all requirements of federal law, including FDA regulations.
+
+If you decide to resume operations to produce drugs intended or expected to be sterile, you should take prompt action to address any violations. Failure to adequately address any violations may result in legal action without further notice, including, without limitation, seizure and injunction.
+
+Within fifteen (15) working days of receipt of this letter, please notify this office in writing of the specific steps you have taken to address any violations, or you may inform us that you do not intend to resume production of drugs intended or expected to be sterile or move any of your operations to a new location. If you intend to resume production of drugs intended or expected to be sterile in the future or move any of your operations to a new location in the future, please include an explanation of each step being taken to prevent the recurrence of any violations, as well as copies of related documentation. This letter notifies you of our concerns and provides you an opportunity to address them. If you believe your products are not in violation of the FDCA, include your reasoning and any supporting information for our consideration. In addition to taking appropriate corrective actions, you should notify this office fifteen (15) days prior to resuming production of any drugs intended or expected to be sterile or moving any of your operations to a new facility in the future.
+
+Please send your electronic reply to ORAPHARM4_Responses@FDA.HHS.GOV or mail your reply to:
+
+CDR Steven E. Porter, Jr.
+Director, Division of Pharmaceutical Quality Operations IV
+U.S. Food & Drug Administration
+19701 Fairchild Road
+Irvine, California 92612-2506
+
+Please identify your responses with the unique identifier: CMS 687936.
+
+If there is any question about the released information, please contact Compliance Officer Mariza Jafary, at 949-608-2977, or at Mariza.Jafary@fda.hhs.gov.
+
+Sincerely,
+/S/
+
+CDR Steven E. Porter, Jr.
+Director, Division of Pharmaceutical Quality Operations IV
+
+cc:
+
+Jim West
+President
+Central Admixture Pharmacy Services, Inc.
+901 Marcon Blvd.
+Allentown, PA 18109
+(via email)
+
+___________________
+
+1 See Pub. L. No. 113-54, § 102(a), 127 Stat. 587, 587-588 (2013).
+
+2 We remind you that there are conditions, other than those discussed in this letter, that must be satisfied to qualify for the exemptions in section 503B of the FDCA.
+
+3 For more information, see, FDA’s guidance, “Adverse Event Reporting for Outsourcing Facilities Under Section 503B of the Federal Food, Drug, and Cosmetic Act,” which can be found at https://www.fda.gov/downloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/UCM434188.pdf.
+
+4 The specific products made by your firm are drugs within the meaning of section 201(g) of the FDCA [21 U.S.C. § 321(g)] because they are intended for use in the diagnosis, cure, mitigation, treatment, or prevention of diseases and/or because they are intended to affect the structure or any function of the body. Further, they are “new drugs” within the meaning of section 201(p) of the FDCA [21 U.S.C. § 321(p)] because they are not generally recognized as safe and effective for their labeled uses.
+
+5 Your compounded drug products are not exempted from the requirements of section 502(f)(1) of the FDCA by regulations issued by the FDA (see, e.g., 21 CFR 201.115).

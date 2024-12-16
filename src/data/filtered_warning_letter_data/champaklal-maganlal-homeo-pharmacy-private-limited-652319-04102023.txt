@@ -1,0 +1,158 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Dhaval Kapadia
+          
+
+                                
+  
+    Recipient Title
+              Director
+          
+
+          
+            Champaklal Maganlal Homeo Pharmacy Private Limited
+
+          
+                      701, SAFAL PRELUDE 100 Ft. Ring Road
+Nr. Ashwaraj Bunglow, Corporate Road
+Prahlad Nagar, Ahmedabad 380015
+Gujarat
+India
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research | CDER
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter 320-23-13
+
+April 10, 2023
+
+Dear Mr. Kapadia:
+
+Your facility is registered with the United States Food and Drug Administration (FDA) as a manufacturer of over-the-counter (OTC) and homeopathic drug products. FDA has reviewed the records you submitted in response to our November 15, 2022 request for records and other information pursuant to section 704(a)(4) of the Federal Food, Drug, and Cosmetic Act (FD&C Act) for your facility, CMHP Private Limited, FEI 3018725547, at 18, Shubh Laxmi Estate, Viramgam Road, Sanand, Ahmedabad, Gujarat.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations, parts 210 and 211 (21 CFR, parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding of drugs as described in your response to our 704(a)(4) request do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the FD&C Act (21 U.S.C. 351(a)(2)(B)).
+
+704(a)(4) Request for Records and Related CGMP Violations
+
+Following review of records and other information provided pursuant to section 704(a)(4) of the FD&C Act, significant violations were observed including, but not limited to, the following:
+
+1. Your firm failed to conduct at least one test to verify the identity of each component of a drug product (21 CFR 211.84(d)(1)).
+
+You manufacture several over-the-counter (OTC) and homeopathic drug products including (b)(4) intended for administration to (b)(4). Some of your formulations contain high percentages of glycerin up to (b)(4) percent. Based on the records and information you provided, you did not demonstrate that you adequately tested each shipment of each lot of the incoming high-risk component, glycerin, you use in manufacturing drug products to determine their appropriate identity. The identity testing of glycerin, along with other high-risk components, includes a limit test per the United States Pharmacopeia (USP) to ensure that the component meets the relevant safety limits for the levels of diethylene glycol (DEG) or ethylene glycol (EG). Because you did not perform the identity testing on each shipment of each glycerin lot using the USP identification test that detects these hazardous impurities, you failed to assure the acceptability of glycerin used in the manufacture of drug products.
+
+The use of glycerin contaminated with DEG or EG has resulted in various lethal poisoning incidents in humans worldwide.
+
+Additionally, in response to our record request, you tested retain samples of some finished product batches that had been shipped to or distributed in the United States for the presence of DEG and EG impurities using the 2018 Indian Pharmacopeia (IP) monograph for glycerin. However, you did not demonstrate that the 2018 IP method used for glycerin testing is suitable to identify the levels of DEG or EG in the finished drug product. Furthermore, you did not test every lot of drug product shipped to or distributed nor provide any evidence that would substantiate the results of the analytical testing (e.g., quantitative worksheets and chromatograms for impurities for each batch that was tested).
+
+See FDA’s guidance document Testing of Glycerin for Diethylene Glycol to help you meet the CGMP requirements when manufacturing drugs containing glycerin at https://www.fda.gov/media/71029/download.
+
+In response to this letter, provide:
+
+
+	Within 30 calendar days upon receipt of this letter, provide the results of tests for DEG and EG in retain samples of all glycerin lots used in production of your glycerin-containing drug products. Indicate whether DEG or EG is present in any glycerin lots used to manufacture your drug products some/all of which are intended for use in (b)(4).
+	A full risk assessment for drug products that contain glycerin and are within expiry in the U.S. market. Take prompt and appropriate actions to determine safety of all lots of this ingredient and any related drug product that could contain DEG or EG, including customer notifications and product recalls for any contaminated lots. Identify additional appropriate corrective actions and preventive actions that secure supply chains in the future, including but not limited to ensuring that all incoming raw material lots are from fully qualified manufacturers and free from unsafe impurities. Detail these actions in your response to this letter.
+	A comprehensive review of your material system to determine whether all suppliers of components, containers, and closures, are each qualified and the materials are assigned appropriate expiration or retest dates. The review should also determine whether incoming material controls are adequate to prevent use of unsuitable components, containers, and closures.
+	A description of how you will test each component lot for conformity with all appropriate specifications for identity, strength, quality, and purity. If you intend to accept any results from your supplier’s Certificates of Analysis (COA) instead of testing each component lot for strength, quality, and purity, specify how you will robustly establish the reliability of your supplier’s results through initial validation as well as periodic re-validation. In addition, include a commitment to always conduct at least one specific identity test for each incoming component lot.
+	The chemical and microbiological quality control specifications you use to test and release each incoming lot of components for use in manufacturing.
+	A comprehensive assessment of your laboratory practices, procedures, methods, equipment, documentation, and analyst competencies. Based on this review, provide a detailed plan to remediate and evaluate the effectiveness of your laboratory system.
+
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, you should engage a consultant qualified as set forth in 21 CFR 211.34 to evaluate your operations and to assist your firm in meeting CGMP requirements if your firm intends to resume manufacturing drugs for the U.S. market. The qualified consultant should also perform a comprehensive six-system audit1 of your entire operation for CGMP compliance and evaluate the completion and efficacy of your corrective actions and preventive actions before you pursue resolution of your firm’s compliance status with FDA.
+
+Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+Note that FDA placed all drugs and drug products manufactured by your firm on Import Alert 66-40 on March 3, 2023, as the methods used in and controls used for the manufacture, processing, packing, or holding of these products do not appear to conform to current good manufacturing practices within the meaning of section 501(a)(2)(B) of the FD&C Act. Drugs and drug products that appear to be adulterated or misbranded may be detained or refused admission without physical examination pursuant to section 801(a)(3) of the FD&C Act, 21 U.S.C. 381(a)(3).
+
+All drugs and drug products manufactured by your firm may remain listed on this import alert until there is evidence establishing that the conditions that gave rise to the appearance of a violation have been resolved, and the Agency has confidence that future entries will be in compliance with the FD&C Act. This may include an inspection prior to the Agency considering the appearance of adulteration to be addressed.
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov. Identify your response with FEI 3018725547 and ATTN: Frank Wackes.
+
+Sincerely,
+/S/
+
+Francis Godwin
+Director
+Office of Manufacturing Quality
+Office of Compliance
+Center for Drug Evaluation and Research
+
+_______________________
+
+1 i.e. Quality System, Facilities & Equipment System, Materials System, Production System, Packaging & Labeling System, and Laboratory Control System per FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations.

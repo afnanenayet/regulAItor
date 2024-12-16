@@ -1,0 +1,189 @@
+Delivery Method: 
+        UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+              Reference #: 
+        320-19-15
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Pramod Yadav 
+          
+
+                                
+  
+    Recipient Title
+              Chief Executive Officer
+          
+
+          
+            Jubilant Generics Limited
+
+          
+                      1A, Sector 16A
+Noida 201301
+Uttar Pradesh
+India
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research
+        
+         
+          10903 New Hampshire Avenue
+Silver Spring, MD 20993
+United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Dear Mr. Yadav:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Jubilant Generics Limited at Roorkee – Dehradun Highway, Sikanderpur Bhainswal, Uttaranchal from July 30, 2018, to August 8, 2018.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See 21 CFR, parts 210 and 211.
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your August 28, 2018, response in detail and acknowledge receipt of your subsequent correspondence.
+
+During our inspection, our investigator observed specific violations including, but not limited to, the following.
+
+1.    Your firm failed to thoroughly investigate any unexplained discrepancy or failure of a batch or any of its components to meet any of its specifications, whether or not the batch has already been distributed (21 CFR 211.192). 
+
+Your investigations into deviations and consumer complaints were inadequate. You did not adequately justify root causes, expand investigations to all potentially affected batches, implement corrective action and preventive actions (CAPA) in a timely manner, or evaluate CAPA effectiveness. For example:
+
+A.    Your firm opened investigation PR 8065 on December 14, 2017, after discovering a particle size issue for crospovidone excipient associated with the manufacture of multiple drug products. You identified the root cause as an incorrect crospovidone internal label on one drum of (b)(4), which was received in a shipment of at least (b)(4) drums. Your firm had discarded the remaining drums from this shipment by the time the investigation occurred. Therefore, you could not confirm the assumption that only one drum was mislabeled. Although you expanded your investigation and identified 12 batches of valsartan tablets for the U.S. market that used crospovidone from the same shipment as the mislabeled drum, only two batches were recalled on May 17, 2018. Your firm failed to recall the remaining ten batches until August 14, 2018.
+
+B.    Your firm received numerous complaints for damage to functional coating on pantoprazole delayed release tablets batch PA26037A, including peeling, rippled, “wet,” discolored, and sticking tablets. Notably, your examination of retention samples also found irregularities. While you acknowledged that dissolution could be impacted, you only tested samples with minor defects (discoloration). You failed to perform dissolution testing on tablets with considerable damage to the enteric coating that were more likely to fail. Your investigation was insufficient in timeliness and depth to address the scope of the issue. After the investigation was closed, you found several more lots with defective coating and issued a recall.
+
+Your response was inadequate because it did not sufficiently address your investigation process as a factor in the delays and inadequate management of product quality issues. Your retrospective review of investigations did not include an evaluation of root cause analysis competencies, timeliness, investigations expanded to include all potentially affected products, and CAPA efficacy.
+
+In response to this letter, provide the following:
+
+
+	A comprehensive, independent assessment of your overall system for investigations of deviations, atypical events, complaints, out-of-specification results, and failures. Your CAPA should include, but not be limited to, improvements in investigation competencies, root cause analysis, written procedures, and quality unit oversight. Also include your process for evaluating CAPA effectiveness.
+	A summary of all atypical or failing dissolution test results for pantoprazole including, but not limited to, those related to complaints, stability, and release in the last four years. Also provide an updated list of complaints for coating defects for the same period.
+	The final investigation for PR 8065, including all test results associated with the investigation.
+	An independent, retrospective review of all complaints and associated investigations for batches within expiry. This review should focus on the completeness of the investigations and analysis of complaint or reserve samples, particularly for investigations involving more than one complaint.
+	An independent, retrospective review of all investigations into batch rejects and critical defects since September 1, 2016. 
+
+
+2.     Your firm’s quality control unit failed to test and reject in-process materials that did not conform to appropriate testing during the production process (21 CFR 211.110(c)).
+
+You failed to follow established process controls for the manufacture of (b)(4) tablets. Change Control CC/16/284, completed February 2, 2017, required that the (b)(4) test be re-introduced for every commercial batch of (b)(4) tablets USP if any batch failed assay or (b)(4) specifications. You committed to this as part of (b)(4), which was approved (b)(4). On October 10, 2017, investigation OOSQC17112 found that (b)(4) batch (b)(4) failed to meet assay specification. However, you failed to perform (b)(4) testing on the (b)(4) batches of (b)(4) tablets manufactured after investigation OOSQC17112.
+
+Your response was inadequate because it did not include a systemic review of your change management program.
+
+In response to this letter, conduct a comprehensive, independent evaluation of your change management system. This review should include, but not be limited to, an examination of your procedures to ensure changes are sufficiently justified, reviewed, and approved by your quality unit. The change management program should also include specific provisions for determining change effectiveness. In addition, provide the final investigation, PR 4894, regarding assay failure in batch (b)(4).
+
+Repeat violations
+
+In a previous inspection, dated April 4 to 8, 2016, FDA cited similar CGMP violations. You proposed specific remediation for these violations in your response. Repeated failures demonstrate that executive management oversight and control over the manufacture of drugs is inadequate.
+
+CGMP Consultant Recommended
+
+Because you failed to correct repeat violations, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements. Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+Violations cited in this letter are not intended as an all-inclusive list. You are responsible for investigating these violations, for determining the causes, for preventing their recurrence, and for preventing other violations.
+
+If you are considering an action that is likely to lead to a disruption in the supply of drugs produced at your facility, FDA requests that you contact CDER’s Drug Shortages Staff immediately, at drugshortages@fda.hhs.gov, so that FDA can work with you on the most effective way to bring your operations into compliance with the law. Contacting the Drug Shortages Staff also allows you to meet any obligations you may have to report discontinuances or interruptions in your drug manufacture under 21 U.S.C. 356C(b) and allows FDA to consider, as soon as possible, what actions, if any, may be needed to avoid shortages and protect the health of patients who depend on your products.
+
+Until you correct all violations completely and we confirm your compliance with CGMP, FDA may withhold approval of any new applications or supplements listing your firm as a drug manufacturer.
+
+Failure to correct these violations may also result in FDA refusing admission of articles manufactured at Jubilant Generics Limited at Roorkee – Dehradun Highway, Sikanderpur Bhainswal, Uttaranchal into the United States under section 801(a)(3) of the FD&C Act, 21 U.S.C. 381(a)(3). Under the same authority, articles may be subject to refusal of admission, in that the methods and controls used in their manufacture do not appear to conform to CGMP within the meaning of section 501(a)(2)(B) of the FD&C Act, 21 U.S.C. 351(a)(2)(B).
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov or mail your reply to:
+
+ 
+
+Marisa Heayn
+
+Consumer Safety Officer
+
+U.S. Food and Drug Administration
+
+White Oak Building 51, Room 4359
+
+10903 New Hampshire Avenue
+
+Silver Spring, MD 20993
+
+USA
+
+Please identify your response with FEI 3006895982.
+
+ 
+
+Sincerely,
+
+/S/ 
+
+Francis Godwin
+
+Acting Director
+
+Office of Manufacturing Quality
+
+Office of Compliance
+
+Center for Drug Evaluation and Research

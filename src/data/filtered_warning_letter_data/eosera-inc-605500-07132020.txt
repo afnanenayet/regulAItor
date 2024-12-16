@@ -1,0 +1,267 @@
+Delivery Method: 
+        Via Email
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Ms. Elyse S. Dickerson
+          
+
+                                
+  
+    Recipient Title
+              CEO
+          
+
+          
+            Eosera, Inc.
+
+          
+                      5000 South Freeway Suite 106
+Fort Worth, TX 76115-3902
+United States
+          
+          
+            
+            
+
+     elyse@eosera.com
+
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Division of Pharmaceutical Quality Operations II
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+DATE: 7/13/2020
+
+Case # 605500
+
+WARNING LETTER
+
+
+Ms. Dickerson:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Eosera, Inc., FEI 3013559620, at 5000 South Freeway, Suite 106, Fort Worth, from January 13 to 17, 2020.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351 (a)(2)(B).
+
+Your firm manufactures the OTC drug products "EAR PAIN MD," "EAR PAIN MD FOR KIDS," and "EAR ITCH MD." "EAR PAIN MD," "EAR PAIN MD FOR KIDS," and "EAR ITCH MD" are unapproved new drugs in violation of section 505(a) of the FD&C Act, 21 U.S.C. 355(a). Introduction or delivery for introduction of such products into interstate commerce is prohibited under section 301(d) of the FD&C Act, 21 U.S.C. 331(d). These violations are described in more detail below.
+
+We reviewed your February 6, 2020, response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence.
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to thoroughly investigate any unexplained discrepancy or failure of a batch or any of its components to meet any of its specifications, whether or not the batch has already been distributed (21 CFR 211.192).
+
+You failed to adequately investigate an out-of-specification (OOS) microbial test result obtained during release testing of "EAR PAIN MD FOR KIDS" Lot P193084. The initial sample exceeded the specification of (b)(4) cfu with a (b)(4) cfu/ml result for Aerobic Plate Count (APC) and was positive or gram-negative rods. You instructed your contract testing lab to re-test instead of conducting an investigation into the failing result. You used the passing re-test results to approve the release of this batch on November 20, 2019. You failed to identify the gram-negative rods and the source of contamination, and to determine if other lots were impacted. Your management acknowledged during the inspection that no investigation was performed and indicated that this batch was still on site.
+
+In your response, you provided an OOS investigation initiated on February 4, 2020, after the inspection, and stated that your quality unit (QU) investigated this event but failed to document it adequately. This appears to be a discrepancy from what was communicated during the inspection. You also proposed to update your OOS results procedure and establish an OOS investigation form.
+
+Your response is inadeguate because you failed to evaluate all potential root causes, such as your (b)(4) equipment, and components. Your investigation only included a review of your manufacturing batch record, non-process related events, and microbial trends from previous batches. You also lacked any clear evidence of laboratory failure as a root cause of the OOS result. Furthermore, your corrective action and preventive actions (CAPA) of increasing sample size for testing did not address the cause of the failure. Finally, you failed to provide interim measures to ensure all OOS results are properly investigated by your QU while you are updating your OOS procedure.
+
+We also noted during the inspection that your investigation into microbial failures during finished product testing of "EAR PAIN MD" Lots P193087, P193089, and P193091 was inadequate. Two lots failed for APC and the third was positive for gram-negative organisms. Re-tests confirmed microbial failures in these lots and you identified Burkholderia cepacia in lots P193089 and P193091. The investigation concluded that water was the likely source and you rejected these three lots.
+
+However, your investigation failed to adequately determine root causes and scope of significant product failures. Notably, you failed to extend the investigation to all lots of drug products manufactured with or affected by questionable water. You provided passing microbial test results for these product lots with your response, after product distribution. Your corrective action of using (b)(4) to treat your (b)(4) water prior to manufacture is an ineffective remedy and cannot compensate for a deficient (b)(4). You did not assure implementation of an effective CAPA.
+
+Contamination is not uniformly distributed in a system, and a sample may not be representative of the type or level of contamination that may exist in other individual units of a batch. Therefore, a passing re-test is not sufficient to invalidate the initial OOS result without a sound scientific justification and supporting evidence. In addition, timely investigations are essential when data indicates a problem with a system or process.
+
+You manufacture topical products that are intended for otic use by adults and children over two years old. Objectionable microbiological contamination of these products can pose a serious hazard to patients.
+
+In response to this letter provide:
+
+• A retrospective, independent review of all invalidated OOS (including in-process and release/stability testing) results for products currently in the U.S. market and within expiry as of the date of this letter, and a report summarizing the findings of the analysis, including the following for each OOS:
+o Determine whether the scientific justification and evidence relating to the invalidated OOS result conclusively or inconclusively demonstrate causative laboratory error.
+o For investigations that conclusively establish laboratory root cause, provide rationale and ensure that all other laboratory methods vulnerable to the same or similar root cause are identified for remediation.
+o For all OOS results found by the retrospective review to have an inconclusive or no root cause identified in the laboratory, include a thorough review of production (e.g., batch manufacturing records, adequacy of the manufacturing steps, suitability of equipment/facilities, variability of raw materials, process capability, deviation history, complaint history, batch failure history). Provide a summary of potential manufacturing root causes for each investigation, and any manufacturing operation improvements.
+
+• A comprehensive review and remediation plan for your OOS result investigation systems. The CAPA should include but not be limited to addressing the following:
+o Quality unit oversight of laboratory investigations
+o Identification of adverse laboratory control trends
+o Resolution of causes of laboratory variation
+o Initiation of thorough investigations of potential manufacturing causes whenever a laboratory cause cannot be conclusively identified
+o Adequately scoping of each investigation and its CAPA
+o Revised OOS investigation procedures with these and other remediations
+
+• A comprehensive, independent assessment of your overall system for investigating deviations, discrepancies, complaints, OOS results, and failures. Provide a detailed action plan to remediate this system. Your action plan should include, but not be limited to, significant improvements in investigation competencies, scope determination, root cause evaluation, CAPA effectiveness, quality unit oversight, and written procedures. Address how your firm will ensure all phases of investigations are appropriately conducted.
+
+• A comprehensive CAPA plan for the design, control, and maintenance of your (b)(4) including but not limited to the following:
+o For your current (b)(4) that includes storage and conveyance of (b)(4) water, provide a comprehensive risk assessment, CAPA, and interim risk mitigation plan to ensure quality of water. Also include a detailed, independent retrospective risk assessment of the impact of the lack of (b)(4) control on all in-date drug products produced by your firm.
+o For your proposed (b)(4) provide a comprehensive, independent assessment of your design, control and maintenance plans. Also include a procedure for monitoring your (b)(4) that specifies routine microbial and chemical testing of water to ensure its acceptability for use in each batch of drug products produced by your firm. Finally, describe how executive management will implement a robust ongoing control, maintenance, and monitoring program for the new (b)(4) to ensure it consistently produces water adhering to (b)(4) Water, (b)(4), monograph specifications and appropriate microbial limits.
+
+2. Your firm failed to follow a written testing program designed to assess the stability characteristics of drug products and to use results of stability testing to determine appropriate storage conditions and expiration dates (21 CFR 211.166(a)).
+
+Your stability program is deficient. You initially established an (b)(4) expiry date for your "EAR PAIN MD" over-the-counter product based on accelerated stability data of (b)(4) for (b)(4). After obtaining OOS results for weight loss/gain and assay at the (b)(4) long-term stability interval, you identified the container-closure system as the root cause for the failures. You changed your container-closure from a dropper to a flat cap and reinitiated accelerated and long-term stability studies. You obtained failing pH results as early as the initial test interval. You proceeded to shift the range of the pH specification with no scientific rationale, allowing failing batches to meet the new specification. You also continued to have OOS assay results at the (b)(4) and (b)(4) accelerated study intervals. You failed to conduct a recall of this product even though you lacked data to support expiry dating.
+
+In your response, you indicated that you verified that affected batches have been depleted from inventory and that all existing inventory of "EAR PAIN" has expiration dates supported by stability studies. This response is inadequate because you failed to provide stability studies data to support expiration dating for your "EAR PAIN" OTC product. You also did not indicate any actions you plan to take in the future when stability failures are obtained.
+
+Your response acknowledged a lack of statistical analysis in your stability procedure, but failed to address the fundamental failures of your firm to ensure that all your distributed products meet their quality attributes. Furthermore, your investigation has not sufficiently addressed the root cause for the repeated failure in attributes, including assay, even after implementing your CAPA.
+
+In response to this letter provide:
+
+• A comprehensive, independent assessment and CAPA plan to ensure the adequacy of your stability program. Your remediated program should include, but not be limited to:
+o Stability indicating methods
+o Stability studies for each drug product in its marketed container-closure system before distribution is permitted
+o An ongoing program in which representative batches of each product are added each year to the program to determine if the shelf-life claim remains valid
+o Detailed definition of the specific attributes to be tested at each station (timepoint)
+
+• All procedures that describe these and other elements of your remediated stability program, including actions you will take when failures are obtained.
+• Stability study data for all products manufactured at your facility.
+• An investigation into your assay and pH failures including root cause, CAPA and effectiveness checks.
+• All of your specifications for your drug products and your justification for the ranges for each specification including the upper and lower levels, where applicable. Also include a detailed, independent assessment of your lidocaine products including studies to support your container-closure system.
+
+3. Your firm's quality control unit did not review and approve written procedures for production and process control, including any changes to them, designed to ensure that the drug products you manufacture have the identity, strength, quality, and/or purity they purport or are represented to possess (21 CFR 211.100(a)).
+
+Your firm failed to validate the manufacturing processes for your "EAR ITCH MD" OTC drug product. During the inspection, you stated that your manufacturing process for "EAR ITCH MD" was similar enough to "EAR PAIN MD," therefore there was no need to conduct process validation for "EAR ITCH MD." These products do not have the same API or preservative.
+
+You also failed to re-validate the manufacturing process for your "EAR PAIN MD" product after you moved production to a new facility in October 2019. You relied on the process validation performed at your previous facility. Furthermore, you lacked change management for the relocation of your manufacturing processes to your new facility
+
+The recurring test failures of both microbial and chemical attributes indicate that you do not have an adequate ongoing program for monitoring process control to ensure stable manufacturing operations and consistent drug quality.
+
+In your response, you provided a retrospective validation report for your "EAR ITCH MD" product. You also acknowledged that you failed to follow your change management procedure and that you lacked understanding of validation requirements for new products.
+
+Your response is inadequate. Your validation approach for your products does not demonstrate that your processes are capable of consistently delivering quality product. Our inspection found significant deficiencies in manufacturing and quality. Your retrospective review of previous batches is unacceptable.
+
+See FDA's guidance document Process Validation: General Principles and Practices for general principles and approaches that FDA considers to be appropriate elements of process validation at https://www.fda.gov/media/71021/download.
+
+Process validation evaluates the soundness of design and state of control of a process throughout its lifecycle. Each significant stage of a manufacturing process must be designed robustly, controlled appropriately, and assure the ongoing quality of raw material inputs, in-process materials, and finished drugs.
+
+Process qualification studies determine whether an initial state of control has been established. Successful process qualification studies are necessary before commercial distribution. Thereafter, ongoing vigilant oversight of the variables affecting process performance and product quality is necessary to ensure you maintain a stable manufacturing operation throughout the product lifecycle.
+
+Failure to implement adequate process validation practices can result in insufficient understanding of process variables or failure to detect a drift in capability, which increases the risk of drug quality defects.
+
+In response to this letter provide:
+
+• A detailed summary of your validation program for ensuring a state of control throughout the product lifecycle, along with associated procedures. Describe your program for process performance qualification, and ongoing monitoring of both intra-batch and inter-batch variation to ensure a continuing state of control.
+
+• A timeline for performing appropriate process performance qualification (PPQ) for each of your marketed drug products.
+
+• Your process performance protocol(s), and written procedures for qualification of equipment and facilities.
+
+• An assessment of each drug product process to ensure that there is a data-driven and scientifically sound program that identifies and controls all sources of variability, such that your production processes consistently meet appropriate specifications and manufacturing standards. This includes, but is not limited to, evaluating suitability of equipment for its intended use, sufficiency of detectability in your monitoring and testing systems, quality of input materials, and reliability of each manufacturing process step and control.
+
+• Timelines for further process performance qualification studies on remediated processes for marketed drug products for which a state of control has not been adequately/fully established.
+
+4. Failure to establish an adequate quality control unit and procedures applicable to the quality control unit with the responsibility and authority to approve or reject all components, drug product containers, closures, in-process materials, packaging materials, labeling, and drug products (21 CFR 211.22(a) and (d)).
+
+Your quality unit failed to have adequate procedures, documentation and practices to properly exercise its functions.
+
+For example, in your response, you identified insufficient procedures or inadequate execution of these procedures as root causes for CGMP lapses related to change management, process validation, investigations of OOS results, and stability.
+
+Significant findings in this letter indicate that your quality unit is not able to fully exercise its authority and/or responsibilities. Your firm must provide the quality unit with the appropriate authority and sufficient resources to carry out its responsibilities and consistently ensure drug quality.
+
+In response to this letter provide:
+
+• A comprehensive assessment and remediation plan to ensure your QU is given the authority and resources to effectively function. The assessment should also include, but not be limited to:
+o A determination of whether procedures used by your firm are robust and appropriate
+o Provisions for Q U oversight throughout your operations to evaluate adherence to appropriate practices
+o A complete and final review of each batch and its related information before the Q U disposition decision
+o Your quality agreements with any contract laboratories
+
+Unapproved New Drug Violations
+
+"EAR PAIN MD," "EAR PAIN MD FOR KIDS," and "EAR ITCH MD" are drugs as defined by section 201 (g)(1)(B) of the FD&C Act, 21 U.S.C. 321 (g)(1)(B), because they are intended for the diagnosis, cure, mitigation, treatment, or prevention of disease and/or as defined by section 201 (g)(1)(C) of the FD&C Act, 21 U.S.C. 321 (g)(1)(C), because they are intended to affect the structure or any function of the body. Specifically, "EAR PAIN MD,'' "EAR PAIN MD FOR KIDS,'' and "EAR ITCH MD" are intended for use as otic drug products.
+
+Examples of claims observed on the products' label and on the products' website, www.earcaremd.com, that provide evidence of their intended uses (as defined by 21 CFR 201.128) include, but may not be limited to, the following:
+
+"EAR PAIN MD" Website Claims
+"EAR PAIN MD is a doctor-recommended ear drop that provides rapid ear pain relief. It helps to avoid discomfort by desensitizing aggravated nerves and provides numbing relief."
+
+"EAR PAIN MD" Product Label Claims
+"It starts working on contact to relieve pain . . . Pain Relief Drops .. . Relieves EAR PAIN Fast ... •Fast acting pain relief ... •Instantly soothes ... For the temporary relief of pain"
+
+"EAR PAIN MD FOR KIDS" Website Claims
+"EAR PAIN MD is doctor recommended to provide rapid pain relief for children suffering from ear pain and earaches. It helps to avoid discomfort by desensitizing aggravated nerves and providing numbing relief."
+
+"EAR PAIN MD FOR KIDS" Product Label Claims
+"It starts working on contact to relieve pain ... Pain Relief Drops ... Relieves EAR PAIN Fast . .. ·Fast acting pain relief ... ·Instantly soothes .. . For the temporary relief of pain"
+
+"EAR ITCH MD" Website Claims
+"EAR ITCH MD is a topical spray that alleviates that uncomfortable itchy feeling in your ear ... Ear care is our niche and we are here to alleviate itch. When you are dealing with discomfort due to an itch in your ear that you can't quite scratch, you can turn to EAR ITCH MD to provide rapid relief. EAR ITCH MD is a fast-acting, safe product that resolves irritation fast. Stop scratching and start enjoying your day again. EAR ITCH MD® is the first product designed to alleviate itching ears."
+
+"EAR ITCH MD" Product Label Claims
+"When you are suffering from persistent itching, you need EAR ITCH MD ... Anti-Itch Spray ... Soothing ear spray ... • Medicated rapid relief ... • Instantly soothes ... For the temporary relief of itching associated with minor skin irritations."
+
+OTC drug products intended for otic use are subject to the final rule for Topical Otic Drug Products For Over-The-Counter Human Use (otic final rule), see 21 CFR 344. In addition, OTC drug products that are intended for external analgesic indications such as the temporary relief of pain have been the subject of ongoing rulemaking under the Agency's OTC Drug Review. In particular, such products were addressed in the Tentative Final Monograph (TFM) for External Analgesic Drug Products for Over-the-Counter Human Use (external analgesic TFM; 48 FR 5852, February 8, 1983).
+
+The Coronavirus Aid, Relief, and Economic Security Act (CARES Act), enacted on March 27, 2020, added section 505G to the FD&C Act. Under section 505G(a) of the FD&C Act, an over-the-counter (OTC) drug marketed in conformance with a final monograph and other applicable requirements is determined to be generally recognized as safe and effective (GRASE) and not a new drug under section 201 (p) of the FD&C Act. Under section 505G(a) of the FD&C Act, as added by the CARES Act, drug ingredients that were classified as Category I in a TFM, such as lidocaine hydrochloride and pramoxine hydrochloride, are deemed generally recognized as safe and effective (GRASE), and are not required to have approved applications under section 505 in order to be marketed, as long as they are in conformity with the relevant conditions of use outlined in the applicable TFM, including the labeling conditions, and comply with all other applicable requirements for nonprescription drugs.
+
+However, "EAR PAIN MD," "EAR PAIN MD FOR KIDS," and "EAR ITCH MD" are not labeled or formulated in accordance with the otic final rule or the external analgesic TFM for the reasons explained below. The otic final rule allows for otic drug products intended for use as earwax removal aides and ear drying aides. For products that contain the active ingredient lidocaine hydrochloride or pramoxine hydrochloride, permitted intended uses under the external analgesic TFM are the temporary relief of pain, itching, or pain and itching that may be associated with minor burns, sunburn, minor cuts, scrapes, insect bites, or minor skin irritations. The relief of ear pain and the relief of itch in the ear are not intended uses permitted under either the otic final rule or the external analgesic TFM.
+
+Thus, as formulated and labeled, "EAR PAIN MD," "EAR PAIN MD FOR KIDS," and "EAR ITCH MD" do not comply with the otic final rule or external analgesic TFM described above. Furthermore, we are not aware of sufficient evidence to show "EAR PAIN MD," "EAR PAIN MD FOR KIDS," and "EAR ITCH MD" as formulated and labeled, are generally recognized as safe and effective. Therefore, these products are new drugs within the meaning of section 201 (p) of the FD&C Act, 21 U.S.C. 321 (p). As new drugs, "EAR PAIN MD," "EAR PAIN MD FOR KIDS," and "EAR ITCH MD" may not be legally marketed in the United States absent approval of an application filed in accordance with section 505(a) of the FD&C Act, 21 U.S.C. 355(a). "EAR PAIN MD," "EAR PAIN MD FOR KIDS," and "EAR ITCH MD" are not the subject of an FDA approved application, and therefore, the current marketing of these products violates section 505(a) of the FD&C Act, 21 U.S.C. 355(a). Introduction or delivery for introduction of such products into interstate commerce is prohibited under section 301(d) of the FD&C Act, 21 U.S.C. 331 (d).
+
+Quality Systems
+
+Your firm's quality systems are inadequate. See FDA's guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations for help implementing quality systems and risk management approaches to meet the requirements of CGMP regulations 21 CFR, parts 210 and 211 at https://www.fda.gov/downloads/Drugs/Guidances/UCM070337.pdf
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements. Your use of a consultant does not relieve your firm's obligation to comply with CGMP. Your firm's executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of these violations and for preventing their recurrence or the occurrence of other violations.
+
+Correct the violations cited in this letter promptly. Failure to promptly correct these violations may result in legal action without further notice including, without limitation, seizure and injunction. Unresolved violations in this warning letter may also prevent other Federal agencies from awarding contracts.
+
+FDA may also withhold approval of requests for export certificates and approval of pending new drug applications or supplements listing your facility as a supplier or manufacturer until the above violations are corrected. We may re-inspect to verify that you have completed your corrective actions.
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Your written notification should refer to case# 605500.
+
+Please electronically submit your reply, on company letterhead, to Samantha Bradley, Compliance Officer, at ORAPHARrv12_RESPONSES@fda.hhs.gov. In addition, please submit a signed copy of your response to CDR John W. Diehl, Director, Compliance Branch, at john.diehl@fda.hhs.gov.
+
+If you have questions regarding the contents of this letter, you may contact Samantha Bradley via phone at 205-731-0017 x 1004 or email at samantha.bradley@fda.hhs.gov.
+ 
+
+Sincerely,
+/S/
+Monica R. Maxwell
+Program Division Director
+Office of Pharmaceutical Quality Operations,
+Division II

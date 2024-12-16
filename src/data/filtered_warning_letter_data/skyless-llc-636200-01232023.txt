@@ -1,0 +1,284 @@
+Delivery Method: 
+        VIA Electronic Mail
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Héctor I. Gracia Collazo
+          
+
+                                
+  
+    Recipient Title
+              President
+          
+
+          
+            Skyless, LLC
+
+          
+                      Urb. La Rambla, Calle Castellana # 1352
+Ponce 00730
+Puerto Rico
+          
+          
+            
+            
+
+     h.gracia@skylesspr.com
+
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+           Division of Pharmaceutical Quality Operations II 
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+January 23, 2023
+
+Case # 636200
+
+WARNING LETTER
+
+Dear Mr. Collazo:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Skyless, LLC, FEI 3020256087, located at Barrio Real Anón, Carr. 511, Km. 2.0, Ponce, from May 2 to May 16, 2022.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+In addition, “X-PASMO® ARTHRITIS FORMULA PAIN RELIEF OINTMENT,” “XPASMO® MUSCULAR FORMULA MUSCULAR PAIN RELIEF & MASSAGE RUB OINTMENT,” and “X-PASMO® UNGUENTO MANTECA DE UBRE ANALGESICO TOPICO” are unapproved new drugs introduced or delivered for introduction into interstate commerce in violation of section 505(a) of the FD&C Act, 21 U.S.C 355(a), and are misbranded under section 502(ee) of the FD&C Act, 21 U.S.C. 352(ee). The product, “X-PASMO® UNGUENTO MANTECA DE UBRE ANALGESICO TOPICO,” is also misbranded under section 502(c) of the FD&C Act, 21 U.S.C. 352(c). Introduction or delivery for introduction of such products into interstate commerce is prohibited under sections 301(d) and (a) of the FD&C Act, 21 U.S.C. 331(d) and (a). These violations are described in more detail below.
+
+We reviewed your June 20, 2022 response to our Form FDA 483 in detail.
+
+During our inspection, our investigator observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to have, for each batch of drug product, appropriate laboratory determination of satisfactory conformance to final specifications for the drug product, including the identity and strength of each active ingredient, prior to release (21 CFR
+211.165(a)).
+
+You failed to perform analytical and microbiological release testing for each batch of your over-the-counter (OTC) topical drug products prior to distribution, including Xpasmo Manteca de Ubre (Cow’s Udder grease) and Xpasmo Arthritis Formula.
+
+Drug product batches must be tested for identity, strength, quality, and purity prior to release. Testing is an essential part of ensuring that the drug products you manufacture conform to all predetermined quality attributes and are appropriate for their intended use. Without adequate testing, you lack basic data to support that each drug product batch conforms to appropriate specifications before release.
+
+Your response is inadequate because your firm did not provide a procedure describing how your firm will ensure your finished products meet the appropriate quality standards prior to release.
+
+In response to this letter, provide:
+
+
+	A comprehensive, independent assessment of your laboratory practices, procedures, methods, equipment, documentation, and analyst competencies. Based on this review, provide a detailed plan to remediate and evaluate the effectiveness of your laboratory system.
+	A list of chemical and microbial specifications, including test methods, used to analyze each lot of your drug product before making a batch disposition decision, and the associated written procedures.
+
+
+2. Your firm failed to conduct at least one test to verify the identity of each component of a drug product. Your firm also failed to validate and establish the reliability of your component supplier’s test analyses at appropriate intervals (21 CFR 211.84(d)(1) and
+211.84(d)(2)).
+
+You failed to test all your incoming raw materials including active pharmaceutical ingredients (API) and other components. You relied on your supplier’s certificate of analysis (COA) in lieu of testing each component lot for purity, strength, identity, and quality. You also did not establish a supplier qualification program to assess (i.e., initially and periodically) the reliability of your suppliers’ test results for these attributes.
+
+Your response is inadequate. You intend to establish necessary procedures to evaluate all raw materials to determine if they are acceptable for further manufacturing. However, you did not provide any procedures or testing methods for review. In addition, you did not provide a plan for your supplier qualification program. Furthermore, you did not commit to testing reserve samples of your raw materials to verify the identity of components used in your distributed OTC drug products.
+
+In response to this letter, provide:
+
+
+	A comprehensive, independent review of your material system to determine whether all suppliers of components, containers, and closures, are each qualified and the materials are assigned appropriate expiration or retest dates. The review should also determine whether incoming material controls are adequate to prevent use of unsuitable components, containers, and closures.
+	The chemical and microbiological quality control specifications you use to test and release each incoming lot of components for use in manufacturing.
+	A description of how you will test each component lot for conformity with all appropriate specifications for identity, strength, quality, and purity. If you intend to accept any results from your supplier’s COA instead of testing each component lot for strength, quality, and purity, specify how you will robustly establish the reliability of your supplier’s results through initial validation as well as periodic re-validation. In addition, include a commitment to always conduct at least one specific identity test for each incoming component lot.
+	A summary of results obtained from testing all components to evaluate the reliability of the COA from each component manufacturer. Include your SOP that describes this COA validation program.
+
+
+3. Your firm’s quality control unit failed to exercise its responsibility to ensure drug products manufactured are in compliance with CGMP, and meet established specifications for identity, strength, quality, and purity (21 CFR 211.22)
+
+Your firm failed to establish an adequate Quality Unit (QU) to ensure that:
+
+
+	Adequate procedures were established and written for roles and responsibilities of the QU to have the responsibility and authority to review and approve quality related functions that impact product quality (21 CFR 211.22(d)).
+	An ongoing written program for monitoring process control was established to ensure stable manufacturing operations and consistent drug quality (21 CFR 211.100(a)).
+	Cleaning processes were written, validated, reviewed, and approved for cleaning nondedicated manufacturing equipment to ensure that residues are adequately removed from the product contact surfaces of manufacturing equipment during cleaning (21 CFR 211.67(b)).
+	Equipment maintenance procedures were established, written, reviewed, and approved for your drug manufacturing equipment to ensure robust equipment operations (21 CFR 211.67(b)).
+
+
+Your response is inadequate. You intend to establish and implement procedures to comply with CGMPs. However, you did not provide detailed corrective action and preventive actions (CAPA) plan to systematically address the deficiency.
+
+Your firm’s quality systems are inadequate. See FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations for help implementing quality systems and risk management approaches to meet the requirements of CGMP regulations 21 CFR, parts 210 and 211 at https://www.fda.gov/media/71023/download.
+
+In response to this letter, provide the following:
+
+
+	A comprehensive assessment and remediation plan to ensure your QU is given the authority and resources to effectively function. The assessment should also include, but not be limited to:
+
+
+    o A determination of whether procedures used by your firm are robust and appropriate
+    o Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices
+    o A complete and final review of each batch and its related information before the QU disposition decision
+    o Oversight and approval of investigations and discharging of all other QU duties to ensure identity, strength, quality, and purity of all products
+
+
+	A detailed summary of your validation program for ensuring a state of control throughout the product lifecycle, along with associated procedures. Describe your program for process performance qualification, and ongoing monitoring of both intra-batch and inter-batch variation to ensure a continuing state of control.
+	A timeline for performing appropriate process performance qualification (PPQ) for each of your marketed drug products.
+	An assessment of each drug product process to ensure that there is a data-driven and scientifically sound program that identifies and controls all sources of variability, such that your production processes will consistently meet appropriate specifications and manufacturing standards. This includes, but is not limited to, evaluating suitability of equipment for its intended use, sufficiency of detectability in your monitoring and testing systems, quality of input materials, and reliability of each manufacturing process step and control.
+
+
+    o See FDA’s guidance document Process Validation: General Principles and Practices for general principles and approaches that FDA considers appropriate elements of process validation at https://www.fda.gov/regulatory-information/search-fda-guidancedocuments/process-validation-general-principles-and-practices.
+
+
+	Appropriate improvements to your cleaning validation program, with special emphasis on incorporating conditions identified as worst case in your drug manufacturing operation. This should include but not be limited to identification and evaluation of all worst-case:
+
+
+    o drugs with higher toxicities
+    o drugs with higher drug potencies
+    o drugs of lower solubility in their cleaning solvents
+    o drugs with characteristics that make them difficult to clean
+    o swabbing locations for areas that are most difficult to clean
+    o maximum hold times before cleaning
+
+In addition, describe the steps that must be taken in your change management system before introduction of new manufacturing equipment or a new product.
+
+
+	A summary of updated SOPs that ensure an appropriate program is in place for verification and validation of cleaning procedures for products, processes, and equipment.
+	Your CAPA plan to implement routine, vigilant operations management oversight of facilities and equipment. This plan should ensure, among other things, prompt detection of equipment/facilities performance issues, effective execution of repairs, adherence to appropriate preventive maintenance schedules, timely technological upgrades to the equipment/facility infrastructure, and improved systems for ongoing management review.
+
+
+Unapproved New Drug and Misbranding Violations
+
+Unapproved New Drug Violations
+
+“X-PASMO® ARTHRITIS FORMULA PAIN RELIEF OINTMENT,” “X-PASMO® MUSCULAR FORMULA MUSCULAR PAIN RELIEF & MASSAGE RUB OINTMENT,” and “X-PASMO® UNGUENTO MANTECA DE UBRE ANALGESICO TOPICO” are “drugs” as defined by section 201(g)(1)(B) of the FD&C Act, 21 U.S.C. 321(g)(1)(B), because they are intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease, and/or under section 201(g)(1)(C) of the FD&C Act, 21 U.S.C. 321(g)(1)(C), because they are intended to affect the structure or any function of the body. Specifically, “X-PASMO® ARTHRITIS FORMULA PAIN RELIEF OINTMENT,” “X-PASMO® MUSCULAR FORMULA MUSCULAR PAIN RELIEF & MASSAGE RUB OINTMENT,” and “X-PASMO® UNGUENTO MANTECA DE UBRE ANALGESICO TOPICO” are topical products intended for use as counterirritant external analgesics.
+
+Examples of claims from the products’ labeling, including the website where products are available for purchase, that provide evidence of the intended uses (as defined by 21 CFR 201.128) of these products include, but may not be limited to, the following:
+
+“X-PASMO® ARTHRITIS FORMULA PAIN RELIEF OINTMENT”
+
+“WITH CAMPHOR . . . XTRA STRENGTH . . . DRUG FACTS . . . Uses: . . . Uses (sic) for a temporary relief of minor aches and pains of the joints and muscles associated with ■ Arthritis ■ Sprains ■ Bruises ■ Simple Backache" [from product label]
+
+“X-PASMO® ARTHRITIS FORMULA XTRA STRENGTH”, is a topical analgesic for joint pain caused by injuries or bone and joint diseases. The formula of this ointment contains “Camphor”, which in addition to relieving pain, also helps reduce inflammation and swelling caused by arthritis.  It is also beneficial for blood circulation." [from your website https://xpasmo.com/x-pasmo-arthritis-formula]
+
+“X-PASMO® MUSCULAR FORMULA MUSCULAR PAIN RELIEF & MASSAGE RUB OINTMENT”
+
+“WITH EUCALYPTUS . . . XTRA STRENGTH . . . DRUG FACTS . . . Uses: . . . Uses(sic) for a temporary relief of minor aches and pains of the joints and muscles associated with ■ Sprains ■ Bruises ■ Muscle Spasms ■ Simple Backache" [from product label]
+
+“X-PASMO® MUSCULAR FORMULA XTRA STRENGTH”, is a topical analgesic for pain caused by injuries or muscle spasms. The formula of this ointment contains “Eucalyptus Oil”, which works as an anti-inflammatory and antispasmodic. Among the many benefits of this essential oil, it is found that it works as a great stress and anxiety reducer. It also helps the respiratory system and reduce inflammation in blood vessels and arteries." [from your website https://xpasmo.com/x-pasmo-muscular-formula]
+
+“X-PASMO® UNGUENTO MANTECA DE UBRE ANALGESICO TOPICO”
+
+“ANALGESICO TOPICO . . . PARA ALIVIO DE DOLORES CORPORALES . . . DRUG FACTS . . . Uses: . . . Uses (sic) for a temporary relief of minor aches and pains of the joints and muscles associated with ■ Arthritis ■ Sprains ■ Bruises ■ Simple Backache" [from product label]
+
+“X-PASMO® “UDDER BUTTER” is a topical analgesic to relieve body aches. This ointment has been used as a remedy by Puerto Rican families for generations. It works as a temporary relief of muscle pain and inflammation, joints, back, arthritis, among others.”
+[from your website https://xpasmo.com/tienda/ols/products/xn-x-pasmo-manteca-deubre-3-n8a5-oz]
+
+As described below, “X-PASMO® ARTHRITIS FORMULA PAIN RELIEF OINTMENT,” “X-PASMO® MUSCULAR FORMULA MUSCULAR PAIN RELIEF & MASSAGE RUB OINTMENT,” and “X-PASMO® UNGUENTO MANTECA DE UBRE ANALGESICO TOPICO” are “new drugs” within the meaning of section 201(p) of the FD&C Act, 21 U.S.C. 321(p), because they are not generally recognized as safe and effective (GRASE) for use under the conditions prescribed, recommended, or suggested in their labeling. New drugs may not be introduced or delivered for introduction into interstate commerce without prior approval from FDA, as described in section 505(a) of the FD&C Act, 21 U.S.C. 355(a), unless they are lawfully marketed under section 505G of the FD&C Act (which is not the case for these products, as further described below) or under other exceptions not applicable here. No FDA-approved applications pursuant to section 505 of the FD&C Act, 21 U.S.C. 355, are in effect for these drug products, nor are we aware of any adequate and well-controlled clinical studies in the published literature that support a determination that “X-PASMO® ARTHRITIS FORMULA PAIN RELIEF OINTMENT,” “X-PASMO® MUSCULAR FORMULA MUSCULAR PAIN RELIEF & MASSAGE RUB OINTMENT,” and “X-PASMO® UNGUENTO MANTECA DE UBRE ANALGESICO TOPICO” drug products are GRASE for use under the conditions suggested, recommended, or prescribed in their labeling. Accordingly, these drug products are unapproved new drugs marketed in violation of sections 505(a) and 301(d) of the FD&C Act, 21 U.S.C 355(a) and 331(d).
+
+“X-PASMO® ARTHRITIS FORMULA PAIN RELIEF OINTMENT,” “X-PASMO® MUSCULAR FORMULA MUSCULAR PAIN RELIEF & MASSAGE RUB OINTMENT,” and “X-PASMO® UNGUENTO MANTECA DE UBRE ANALGESICO TOPICO” are external analgesic drugs subject to section 505G of the FD&C Act, 21 U.S.C. 355h, which governs nonprescription drugs marketed without an approved application. Under section 505G(a)(1) of the FD&C Act, 21 U.S.C. 355h(a)(1), category I drugs that were subject to a tentative final monograph (TFM) that is the most recently applicable proposal or determination for such drug issued under 21 CFR Part 330 are deemed to be GRASE and not “new drugs,” as long as they are in conformity with the relevant conditions of use outlined in the applicable TFM and comply with all other applicable requirements. We note that over-the-counter (OTC) external analgesic products were addressed in the TFM for External Analgesic Drug Products for Over-the-Counter Human Use (external analgesic TFM; 48 FR 5852, February 8, 1983) and subsequent rulemakings. Under 505G(b)(8) of the FD&C Act, the 1983 external analgesic TFM, in combination with subsequent rulemakings, was deemed to be a final administrative order.
+
+This final administrative order addresses counterirritants, analgesic/anesthetics, and antipruritics, and it identifies active ingredients, dosage strengths, and indications for use corresponding to each of these categories of external analgesic drug products. Your drug products “X-PASMO® ARTHRITIS FORMULA PAIN RELIEF OINTMENT,” “X-PASMO® MUSCULAR FORMULA MUSCULAR PAIN RELIEF & MASSAGE RUB OINTMENT,” and “XPASMO® UNGUENTO MANTECA DE UBRE ANALGESICO TOPICO” do not conform to the conditions of use specified in the final administrative order for the reasons described below.
+
+Your “X-PASMO® ARTHRITIS FORMULA PAIN RELIEF OINTMENT” is labeled for use as a counterirritant external analgesic drug product because it is labeled for “temporary relief of minor aches and pains of the joints and muscles.” One of the labeled active ingredients, 2% camphor, falls below the allowable dosage range of 3% -11% for this active ingredient when used as a counterirritant in the 1983 TFM (48 FR 5862 at 5868).1 Further, the product labeling on your website for “X-PASMO® ARTHRITIS FORMULA PAIN RELIEF OINTMENT” claims that your product “also helps reduce inflammation and swelling caused by arthritis” and that it is “also beneficial for blood circulation.” These claims are not indications for which counterirritant external analgesic drug products were proposed to be GRASE in the 1983 TFM. Claims that your drug product reduces inflammation and swelling caused by arthritis and claims that your product benefits blood circulation are therefore indications that do not conform with the permitted conditions of marketing for counterirritant drug products marketed under the external analgesic final administrative order. These labeled intended uses go beyond merely describing the general intended use for counterirritant drug products as set forth in the external analgesic final administrative order.
+
+Your “X-PASMO® MUSCULAR FORMULA MUSCULAR PAIN RELIEF & MASSAGE RUB OINTMENT” is labeled for use as a counterirritant external analgesic drug product because it claims to provide “muscular pain relief” and “temporary relief of minor aches and pains of the joints and muscles associated with sprains, bruises, muscle spasms, or simple backaches.” Labeling on your website also includes claims that the product “works as an anti-inflammatory and antispasmodic” as well as claims to reduce stress and anxiety and claims to help the respiratory system. These claims are not indications for which counterirritant external analgesic drug products were proposed to be GRASE in the 1983 TFM. Claims that your “XPASMO® MUSCULAR FORMULA MUSCULAR PAIN RELIEF & MASSAGE RUB OINTMENT” drug product provides anti-inflammation, antispasmodic, stress and anxiety reduction, and respiratory claims are indications that do not conform with the permitted conditions of marketing under the external analgesic final administrative order. These labeled intended uses go beyond merely describing the general intended use for counterirritant products as set forth in the external analgesic final administrative order.
+
+Furthermore, “X-PASMO® MUSCULAR FORMULA MUSCULAR PAIN RELIEF & MASSAGE RUB OINTMENT” product is deemed to be a new drug under section 505G(a)(5) of the FD&C Act (21 USC 355h(a)(5)), because FDA has determined that counterirritant external analgesic drug products with the active ingredient eucalyptus oil are not GRASE under a final determination issued under 21 CFR part 330.2
+
+Your “X-PASMO® UNGUENTO MANTECA DE UBRE ANALGESICO TOPICO” is labeled for use as a counterirritant external analgesic drug product because it includes claims to provide “temporary relief of minor aches and pains of the joints and muscles associated with sprains, bruises, muscle spasms, or simple backaches.” One of the labeled active ingredients, 8% methyl salicylate, falls below the allowable dosage range of 10%-60% for this active ingredient when used as a counterirritant in the 1983 TFM (48 FR 5862 at 5868). Further, the product labeling for your “X-PASMO® UNGUENTO MANTECA DE UBRE ANALGESICO TOPICO” product includes claims on your website to provide relief from “inflammation”, which does not conform with the permitted conditions of marketing for counterirritant drug products marketed under the external analgesic final administrative order.
+
+In addition, FDA is not aware of any adequate and well-controlled clinical studies in the published literature that support a determination that “X-PASMO® ARTHRITIS FORMULA PAIN RELIEF OINTMENT,” “X-PASMO® MUSCULAR FORMULA MUSCULAR PAIN RELIEF & MASSAGE RUB OINTMENT,” and “X-PASMO® UNGUENTO MANTECA DE UBRE ANALGESICO TOPICO” drug products are GRASE for use under the conditions prescribed, recommended, or suggested in their labeling. Moreover, there is no evident basis under the FD&C Act under which these products would be legally marketed without an approved application. Accordingly, these products are unapproved new drugs marketed in violation of section 505(a) of the FD&C Act, 21 U.S.C 355(a). Introduction or delivery for introduction of such products into interstate commerce is prohibited under section 301(d) of the FD&C Act, 21 U.S.C. 331(d).
+
+Misbranded Drug Violations
+
+In addition, “X-PASMO® UNGUENTO MANTECA DE UBRE ANALGESICO TOPICO” is misbranded under section 502(c) of the FD&C Act, 21 U.S.C 352(c) because, although the labeling includes both English and Spanish, some of the information required under authority of the FD&C Act does not appear in both English and Spanish. Specifically, the Principal Display Panel appears primarily in Spanish, including the statement of identity, while the Drug Facts panel only appears in English. Under 21 CFR 201.15(c)(2) and 201.15(c)(3), if a product’s label or labeling contains any representation in a foreign language, all words, statements, and other information required by or under authority of the FD&C Act appearing on the label shall appear thereon in the foreign language.
+
+Further, “X-PASMO® ARTHRITIS FORMULA PAIN RELIEF OINTMENT,” “X-PASMO® MUSCULAR FORMULA MUSCULAR PAIN RELIEF & MASSAGE RUB OINTMENT,” and “X-PASMO® UNGUENTO MANTECA DE UBRE ANALGESICO TOPICO” are misbranded under section 502(ee) of the FD&C Act, 21U.S.C. 352(ee), because they are nonprescription drugs subject to section 505G of the FD&C Act, 21 U.S.C. 355h, but do not comply with the requirements for marketing under that section, and are not the subjects of applications approved under section 505 of the FD&C Act, 21 U.S.C. 355.
+
+Introduction or delivery for introduction of such products into interstate commerce is prohibited under section 301(a) of the FD&C Act, 21 U.S.C. 331(a).
+
+Establishment Registration and Listing Violations
+
+Under section 510(j)(1) of the FD&C Act, 21 U.S.C. 360(j)(1), and 21 CFR 207.41, all drugs manufactured, prepared, propagated, compounded, or processed for U.S. commercial distribution must be listed with FDA. Xpasmo Arthritis Formula (ointment), Xpasmo Muscular Formula (ointment), and Xpasmo Manteca de Ubre (Cow’s Udder Grease) were never listed with FDA. Failure to properly list a drug product in accordance with section 510 of the FD&C Act is prohibited under section 301(p) of the FD&C Act, 21 U.S.C. 331(p), and will render a drug misbranded under section 502(o) of the FD&C Act, 21 U.S.C. 352(o).
+
+The introduction or delivery for introduction of a misbranded drug into interstate commerce is prohibited under section 301(a) of the FD&C Act, 21 U.S.C. 331(a).
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34, to assist your firm in meeting CGMP requirements. Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+Correct any violations promptly. Failure to promptly and adequately address this matter may result in regulatory or legal action without further notice including, without limitation, seizure and injunction. Unresolved violations may also prevent other Federal agencies from awarding contracts.
+
+Failure to address violations may also cause FDA to withhold issuance of Export Certificates. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to address any violations.
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Please electronically submit your reply on company letterhead to Mark W. Rivero, Compliance Officer, at ORAPHARM2_RESPONSES@fda.hhs.gov. If you have questions regarding the contents of this letter, you may contact Mr. Rivero via (954) 527-4239 or mark.rivero@fda.hhs.gov.
+
+Sincerely,
+/S/
+
+Monica R. Maxwell
+Program Division Director
+Office of Pharmaceutical Quality Operations,
+Division II
+
+___________________
+
+1 As noted earlier, the 1983 external analgesic TFM, in combination with subsequent determinations, was deemed to be a final administrative order under 505G(b)(8) of the FD&C Act.
+
+2 On November 7, 1990, FDA issued a final rule establishing that OTC counterirritant external analgesic drug products containing certain active ingredients, including eucalyptus oil, are not generally recognized as safe and effective, 55 FR 46920. FDA’s final determination was codified in regulations at 21 CFR 310.545(a)(10)(ii). Under section 505G(k)(2)(A) of the FD&C Act, the non-monograph conditions in CFR 310.545 in effect on the day before the date of enactment of the CARES Act (i.e., March 26, 2020) were deemed to be a final administrative order. The final administrative order is entitled “Non-Monograph Conditions NM900: Drug Products Containing Certain Active Ingredients Offered Over-the-Counter for Certain Uses” (See Order ID OTC 000007 and NM900, available at OTC Monographs@FDA, https://www.accessdata.fda.gov/scripts/cder/omuf/, and https://dps-admin.fda.gov/omuf/sites/omuf/files/non-monograph-documents/2022-09/NonMonographConditions_NM900-DrugProductsContainingCertainActiveIngredientsOfferedOTC09242021.pdf).

@@ -1,0 +1,259 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Wenjun Qian
+          
+
+                                
+  
+    Recipient Title
+              President and General Manager
+          
+
+          
+            Ningbo Pulisi Daily Chemical Products Co., Ltd
+
+          
+                      Fangjia Road Xiaocao’e Town, Yuyao City
+Zhejiang Sheng, 315476
+China
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research
+        
+         
+          10903 New Hampshire Avenue
+Silver Spring, MD 20993
+United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter 320-19-36 
+ 
+
+August 13, 2019
+
+ 
+
+Dear Mr. Qian:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Ningbo Pulisi Daily Chemical Products Co., Ltd. at Fangjia Road Xiaocao’e Town, Yuyao City, Zhejiang Province, from February 25 to 28, 2019.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See 21 CFR, parts 210 and 211.
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+In addition, Ningbo Pulisi Daily Chemical Products Co., Ltd manufactures Foaming Acne Scrub that is misbranded under section 502(c) of the FD&C Act, 21 U.S.C. 352(c). You also manufacture AuraFresh instant Hand Sanitizer 1.8 oz (Berries, Original, Lavender, Fresh Citrus); AuraFresh Instant Hand Sanitizer 8 oz (Vitamin E and Aloe, Aloe Vera & Moisturizers); AuraFresh INSTANT Hand Sanitizer 2 x 2 oz (Aloe Vera, Vitamin E); HALSA SHAMPOO; SPA MYSTIQUE Skin Relief Oatmeal and SPA MYSTIQUE Skin Protection Soothing Relief that are misbranded under section 502(x) of the FD&C Act, 21 U.S.C. 352(x). Introduction of such products into interstate commerce is prohibited under section 301(a) of the FD&C Act, 21 U.S.C. 331(a).
+
+We reviewed your March 10, 2019, response in detail.
+
+During our inspection, our investigator observed specific violations including, but not limited to, the following.
+
+1.    Your firm failed to perform, for each batch of drug product, appropriate laboratory determination of satisfactory conformance to final specifications for the drug product, including the identity and strength of each active ingredient, prior to release, and appropriate laboratory testing of each batch of drug product required to be free of objectionable microorganisms (21 CFR 211.165(a) and (b)).
+
+You released your over-the-counter (OTC) drug products without adequate testing, including identity testing for each active ingredient. For example, you did not test drug products Halsa Anti-Dandruff Shampoo and Oil Free Acne Wash for their labelled active ingredients zinc pyrithione and salicylic acid, respectively, prior to release.
+
+Your firm also lacked adequate testing for critical microbial attributes (e.g., absence of objectionable microorganisms). You lacked evidence to support that you have adequately performed microbial testing on each batch you manufactured before making a batch release decision.
+
+Appropriate testing is essential to ensure that the drug products you manufacture meet established specifications for chemical and microbial attributes they purport to possess.
+
+In your response, you stated that testing of OTC drug products was done via customer requirements for limited samples sent to a contract laboratory, (b)(4). You also stated that you would, in the future, conduct required drug release testing and discuss adjustment in price with your customer.
+
+Your response is inadequate. You did not provide evidence that each of your OTC drug product batches manufactured in the facility is analyzed in accordance with an approved specification, nor did you provide analytical and microbial analyses of retain samples representing drug products distributed to the United States.
+
+In response to this letter, provide:
+
+
+	Your revised finished drug product release procedure. Your procedure should include the completion of manufacturing and product quality release testing before shipping. It should specify appropriate release tests of finished drug product samples that are taken at statistically appropriate intervals.
+	A summary of test results obtained from testing retain samples of all OTC drug products within expiry that have been distributed in the United States. Include test results for identity and strength of active ingredients, and all other appropriate chemical and microbial quality attributes.
+
+
+2.    Your firm failed to conduct at least one test to verify the identity of each component of a drug product. Your firm also failed to validate and establish the reliability of your component supplier’s test analyses at appropriate intervals (21 CFR 211.84(d)(1) and (2)).
+
+Your firm failed to adequately test your incoming raw materials, including active pharmaceutical ingredients and other components, for identity, purity, strength, and quality. You used raw materials, including active ingredients, for drug manufacturing only after evaluating materials for appearance and smell.
+
+In your response, you acknowledged that each component used to manufacture your OTC drug products should be tested, and that you would investigate testing feasibility with a contract lab.
+
+Your response is inadequate in the following:
+
+
+	You made no commitment to test for identity all incoming materials prior to use in the manufacture of your drug products.
+	While you provided an analysis of one supplier’s Certificate of Analysis (COA), you did not establish the reliability of all of your different supplier’s analysis through appropriate validation.
+	You did not describe how you will qualify your third-party laboratories.
+	You did not explain how you will ensure that all incoming raw materials meet USP testing requirements.
+
+
+ In response to this letter, provide:
+
+
+	Your procedure for incoming component testing. Include your corrective action and preventive action (CAPA) plan to ensure that you conduct at least one specific identity test for each incoming lot (both active and inactive ingredients).
+	Describe in detail how you plan to test each incoming component lot for conformity with all appropriate written specifications for purity, strength, and quality.
+	If you accept your supplier’s COA in lieu of testing each component lot for purity, strength, and quality, specify how you plan to establish the reliability of your suppliers’ test results for these attributes through periodic validation.
+	A comprehensive, independent review of your material system to determine whether all containers, closures, and ingredients from each supplier are adequately qualified; whether they are assigned appropriate expiration or retest dates; and whether incoming material lot controls are adequate to prevent the use of unsuitable containers, closures, and components.
+
+
+3.    Your firm failed to follow an adequate written testing program designed to assess the stability characteristics of drug products. (21 CFR 211.166(a)).
+
+Your firm did not have an adequate stability testing program to demonstrate that the chemical and microbiological properties of your OTC drug products, Halsa Anti-Dandruff Shampoo and Foaming Acne Scrub, remain acceptable throughout their labeled expiry period. Your firm does not have adequate stability data to support the assigned expiration date.
+
+Your response included a stability procedure. Your response is inadequate. You did not provide supporting documentation to support the three-year expiry date assigned to above OTC drugs.
+
+In response to this letter, provide a comprehensive assessment and CAPA plan to ensure the adequacy of your stability program. Your CAPA plan should include, but not be limited to:
+
+
+	A remediated SOP describing your stability program
+	Stability indicating methods
+	Stability studies for each drug product in its container-closure system
+	Specific attributes to be tested at each station
+	An ongoing program in which representative batches of each drug product are added each year to the program to determine if the shelf-life claim remains valid
+
+
+4.    Your firm failed to establish written procedures for production and process control designed to assure that the drug products you manufacture have the identity, strength, quality, and purity they purport or are represented to possess (21 CFR 211.100(a)).
+
+Your firm failed to validate the manufacturing processes for your OTC drug products. When our investigator asked you for validation documents for distributed drug products, you were not able to provide evidence that your drug manufacturing processes were validated.
+
+In your response, you acknowledged your procedures did not meet the standard for manufacturing process controls for OTC drug products.
+
+Successful process qualification studies are necessary before commercial distribution. Thereafter, ongoing vigilant oversight of process performance and product quality is necessary to ensure you maintain a stable manufacturing operation throughout the product lifecycle. See FDA’s guidance for industry, Process Validation: General Principles and Practices, at:
+https://www.fda.gov/media/71021/download
+
+In response to this letter, provide a validation plan for ensuring a state of control throughout the
+product lifecycle. Include a timeline for performing appropriate process performance
+qualification for each of your drug products. Describe your program for monitoring lot-to-lot variation to ensure an ongoing state of control. Also include your process performance protocol(s) and your written procedures for qualification of equipment and facilities.
+
+Quality Unit Authority
+
+Significant findings in this letter indicate that your quality unit is not able to fully exercise its authority and/or responsibilities. Your firm must provide the quality unit with the appropriate authority and sufficient resources to carry out its responsibilities and consistently ensure drug quality. See FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations for help implementing quality systems and risk management approaches to meet the requirements of CGMP regulations 21 CFR, parts 210 and 211 at: https://www.fda.gov/media/71023/download.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements if your firm intends to resume manufacturing drugs for the U.S. market. We also recommend that the qualified consultant perform a comprehensive audit of your entire operation for CGMP compliance and that the consultant evaluates the completion and efficacy of your corrective actions and preventive actions before you pursue resolution of your firm’s compliance status with FDA. 
+
+Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Misbranding Charges
+
+Foaming Acne Scrub; AuraFresh instant Hand Sanitizer 1.8 oz (Berries, Original, Lavender, Fresh Citrus); AuraFresh Instant Hand Sanitizer 8 oz (Vitamin E and Aloe, Aloe Vera & Moisturizers); AuraFresh INSTANT Hand Sanitizer 2 x 2 oz (Aloe Vera, Vitamin E); HALSA SHAMPOO; SPA MYSTIQUE Skin Relief Oatmeal; and SPA MYSTIQUE Skin Protection Soothing Relief
+
+All of the products listed above are “drugs” as defined by section 201(g)(1)(B) of the FD&C Act, 21 U.S.C. 321(g)(1)(B), because they are intended for the diagnosis, cure, mitigation, treatment, or prevention of disease and/or under section 201(g)(1)(C) of the FD&C Act, 21 U.S.C. 321(g)(1)(C), because they are intended to affect the structure or any function of the body.
+
+Examples of claims observed on the products’ labels that establish the intended uses, as defined in 21 CFR 201.128, of the products include, but may not be limited to, the following:
+
+Foaming Acne Wash
+
+“For the management of acne”
+
+AuraFresh instant Hand Sanitizer 1.8 oz (Berries, Original, Lavender, Fresh Citrus); AuraFresh Instant Hand Sanitizer 8 oz (Vitamin E and Aloe, Aloe Vera & Moisturizers); and AuraFresh INSTANT Hand Sanitizer 2 x 2 oz (Aloe Vera, Vitamin E)
+
+“[H]elp reduce bacteria on the skin”
+
+HALSA SHAMPOO
+
+“Anti-Dandruff…prevent recurrence of flaking and itching associated with dandruff”
+
+SPA MYSTIQUE Skin Relief Oatmeal & SPA MYSTIQUE Skin Protection Soothing Relief
+
+“Help prevent and temporarily protects chafed, chapped or cracked skin.”
+
+The labeling for such drugs, like all OTC drugs, must comply with all the requirements of section 502 of the FD&C Act and all pertinent regulations found in Title 21 of the Code of Federal Regulations (21 CFR). However, your products do not meet these requirements for the reasons described below.
+
+Foaming Acne Scrub is misbranded within the meaning of section 502(c) of the FD&C Act, 21 U.S.C. 352(c), because its label fails to bear a complete statement of identity on the principal display panel, as required under 21 CFR 333.350. For topical acne drug products, such as Foaming Acne Scrub, the statement of identity must contain the established name, (i.e., Salicylic Acid) followed by either the description “acne medication” or “acne treatment” and then the dosage form. This product fails to include this required statement of identity on the principal display panel of the label.
+
+AuraFresh instant Hand Sanitizer 1.8 oz (Berries, Original, Lavender, Fresh Citrus); AuraFresh Instant Hand Sanitizer 8 oz (Vitamin E and Aloe, Aloe Vera & Moisturizers); AuraFresh INSTANT Hand Sanitizer 2 x 2 oz (Aloe Vera, Vitamin E); HALSA SHAMPOO; SPA MYSTIQUE Skin Relief Oatmeal; and SPA MYSTIQUE Skin Protection Soothing Relief are misbranded under section 502(x) of the FD&C Act, 21 U.S.C. 352(x), because the products’ labels fail to disclose a domestic address or domestic telephone number through which the responsible person may receive a report of a serious adverse event with such drug. Please note that section 201(k) of the FD&C Act states “The term "label" means a display of written, printed, or graphic matter upon the immediate container of any article; and a requirement made by or under the authority of the FD&C Act that any word, statement, or other information appear on the label shall not be considered to be complied with unless such…also appears on the outside container….” Therefore, the domestic address or domestic telephone number must appear on the immediate container label and on the outside container label if one exists. None of these products have this information on the immediate container label or outside container.
+
+The introduction or delivery for introduction of a misbranded drug into interstate commerce is prohibited under section 301(a) of the FD&C Act, 21 U.S.C. 331(a). Therefore, the marketing and distribution of Foaming Acne Scrub; AuraFresh instant Hand Sanitizer 1.8 oz (Berries, Original, Lavender, Fresh Citrus); AuraFresh Instant Hand Sanitizer 8 oz (Vitamin E and Aloe, Aloe Vera & Moisturizers); AuraFresh INSTANT Hand Sanitizer 2 x 2 oz (Aloe Vera, Vitamin E); HALSA SHAMPOO; SPA MYSTIQUE Skin Relief Oatmeal; and SPA MYSTIQUE Skin Protection Soothing Relief violate this provision of the FD&C Act.
+
+Conclusion
+
+Violations cited in this letter are not intended as an all-inclusive list. You are responsible for investigating these violations, for determining the causes, for preventing their recurrence, and for preventing other violations in all your facility.
+
+FDA placed your firm on Import Alert 66-40 on June 10, 2019.
+
+Until you correct all violations completely and we confirm your compliance with CGMP, FDA may withhold approval of any new applications or supplements listing your firm as a drug manufacturer.
+
+Failure to correct these violations may also result in FDA continuing to refuse admission of articles manufactured at Ningbo Pulisi Daily Chemical Products Co., Ltd at Fangjia Road Xiaocao’e Town, Yuyao City, Zhejiang Province into the United States under section 801(a)(3) of the FD&C Act, 21 U.S.C. 381(a)(3). Under the same authority, articles may be subject to refusal of admission, in that the methods and controls used in their manufacture do not appear to conform to CGMP within the meaning of section 501(a)(2)(B) of the FD&C Act, 21 U.S.C. 351(a)(2)(B). 
+ 
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov or mail your reply to:
+Rafael Arroyo
+Compliance Officer
+U.S. Food and Drug Administration
+White Oak Building 51, Room 4237
+10903 New Hampshire Avenue
+Silver Spring, MD 20993
+USA
+
+Please identify your response with FEI 3003727322.
+
+ 
+
+Sincerely,
+
+/S/                                                                       
+Francis Godwin
+Director
+Office of Manufacturing Quality
+Office of Compliance
+Center for Drug Evaluation and Research

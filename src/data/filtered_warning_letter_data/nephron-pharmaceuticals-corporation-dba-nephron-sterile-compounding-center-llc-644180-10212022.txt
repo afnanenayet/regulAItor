@@ -1,0 +1,210 @@
+Delivery Method: 
+        VIA Electronic Mail
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Lou Wood Kennedy
+          
+
+                                
+  
+    Recipient Title
+              CEO and Owner
+          
+
+          
+            Nephron Pharmaceuticals Corporation dba Nephron Sterile Compounding Center, LLC
+
+          
+                      4500 12th Street Extension
+West Columbia, SC 29172-3025
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Office of Pharmaceutical Quality Operations, Division II
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+DATE: 10/21/2022
+Case #: 644180
+
+WARNING LETTER
+
+Dear Ms. Kennedy:
+
+You registered your facility with the U.S. Food and Drug Administration (FDA) as an outsourcing facility under section 503B of the Federal Food, Drug, and Cosmetic Act (FDCA) [21 U.S.C. § 353b]1 on July 15, 2014 and reregistered most recently on January 20, 2022. From March 28, 2022 to April 20, 2022, FDA investigators inspected your facility, Nephron Pharmaceuticals Corporation dba Nephron Sterile Compounding Center, LLC located at 4500 12th Street Extension, West Columbia, SC 29172. During the inspection, the investigators noted that drug products you produced failed to meet the conditions of section 503B of the FDCA necessary for drugs produced by an outsourcing facility to qualify for exemptions from certain provisions of the FDCA. In addition, the investigators noted serious deficiencies in your practices for producing drug products intended or expected to be sterile, which put patients at risk.
+
+FDA issued a Form FDA 483 to your facility on April 20, 2022. FDA acknowledges receipt of your facility’s responses, dated May 10, 2022, June 2, 2022, June 22, 2022, and July 22, 2022. We acknowledge that on May 18, 2022, and June 30, 2022, your firm initiated voluntary recalls of certain drug products intended to be sterile that were within expiry due to a lack of sterility assurance. Based on this inspection, it appears you produced drugs that violate the FDCA.
+
+A. Compounded Drug Products under the FDCA
+
+Under section 503B(b) of the FDCA, a compounder can register as an outsourcing facility with FDA. Drug products compounded by or under the direct supervision of a licensed pharmacist in an outsourcing facility qualify for exemptions from the drug approval requirements in section 505 of the FDCA [21 U.S.C. § 355(a)], the requirement in section 502(f)(1) of the FDCA [21 U.S.C. § 352(f)(1)] that labeling bear adequate directions for use and the Drug Supply Chain Security Act requirements in section 582 of the FDCA [21 U.S.C. § 360eee-1] if the conditions in section 503B of the FDCA are met.2
+
+An outsourcing facility, which is defined in section 503B(d)(4) of the FDCA [21 U.S.C. § 353b(d)(4)], is a facility at one geographic location or address that — (i) is engaged in the compounding of sterile drugs; (ii) has elected to register as an outsourcing facility; and (iii) complies with all of the requirements of this section. Outsourcing facilities must comply with other applicable provisions of the FDCA, including section 501(a)(2)(B) [21 U.S.C. § 351(a)(2)(B)], regarding current good manufacturing practice (CGMP), and section 501(a)(2)(A) [21 U.S.C. § 351(a)(2)(A)], regarding insanitary conditions. Generally, CGMP requirements for the preparation of drug products are established in Title 21 of the Code of Federal Regulations (CFR) parts 210 and 211.
+
+In addition, for a drug product compounded using bulk drug substances to qualify for exemptions under section 503B, the bulk drug substances that are used must appear on a list established by the Secretary identifying bulk drug substances for which there is a clinical need (“503B bulks list”), or the compounded drug must appear on the drug shortage list in effect under section 506E of the FDCA at the time of compounding, distribution, and dispensing (section 503B(a)(2)(A) of the FDCA [21 U.S.C. § 353b(a)(2)(A)]).
+
+B. Failure to Meet the Conditions of Section 503B
+
+During the inspection, FDA investigators noted that drug products produced by your facility failed to meet the conditions of section 503B. For example, the investigators noted that your facility compounded drug products using glycopyrrolate. Drug products compounded using this bulk drug substance are not eligible for the exemptions provided by section 503B, because it does not appear on the 503B bulks list, and is not used to compound a drug that appears on the drug shortage list.3
+
+Because your compounded drug products have not met all of the conditions of section 503B, they are not eligible for the exemptions in that section from the FDA approval requirements of section 505, the requirement under section 502(f)(1) that labeling bear adequate directions for use, and the Drug Supply Chain Security Act requirements described in section 582 of the FDCA.
+
+Specific violations are described below.
+
+C. Violations of the FDCA
+
+Adulterated Drug Products
+
+FDA investigators noted that drug products intended or expected to be sterile were prepared, packed, or held under insanitary conditions, whereby they may have become contaminated with filth or rendered injurious to health, causing your drug products to be adulterated under section 501(a)(2)(A) of the FDCA. For example, the investigators observed that:
+
+1. You did not take appropriate corrective actions, nor did you perform adequate product evaluation after approximately 1686 excursions of microbial contamination were recovered within the ISO 5 aseptic processing area.
+
+2. Your media fills were not performed under the most challenging or stressful conditions such as failing to simulate the largest batch size produced at your firm. Therefore, there is a lack of assurance that your firm can aseptically produce drug products within your facility.
+
+FDA investigators also noted CGMP violations at your facility, that caused your drug product(s) to be adulterated within the meaning of section 501(a)(2)(B) of the FDCA. The violations include, for example:
+
+1. Your firm failed to establish an adequate system for monitoring environmental conditions in aseptic processing areas (21 CFR 211.42(c)(10)(iv)).
+
+2. Your firm failed to conduct, for each batch of drug product, appropriate laboratory testing, as necessary, required to be free of objectionable microorganisms (21 CFR 211.165(b)).
+
+3. Your firm failed to thoroughly investigate any unexplained discrepancy or failure of a batch or any of its components to meet any of its specifications, whether or not the batch has already been distributed (21 CFR 211.192).
+
+4. Your firm failed to establish and follow appropriate written procedures that are designed to prevent microbiological contamination of drug products purporting to be sterile, and that include validation of all aseptic and sterilization processes (21CFR113(b)).
+
+5. Your firm failed to maintain written production, control, or distribution records specifically associated with a batch of a drug product for at least one year after the expiration date of the batch (CFR 211.180(a)).
+
+6. Laboratory records are deficient in that they do not include the initials and signature of the second person reviewing the record for accuracy (21 CFR 211.194 (a)(8)).
+
+Outsourcing facilities must comply with CGMP requirements under section 501(a)(2)(B) of the FDCA. FDA’s regulations regarding CGMP requirements for the preparation of drug products have been established in 21 CFR parts 210 and 211. FDA intends to promulgate more specific CGMP regulations for outsourcing facilities. FDA has issued a revised draft guidance, Current Good Manufacturing Practice — Guidance for Human Drug Compounding Outsourcing Facilities under Section 503B of the FD&C Act. This draft guidance, when finalized, will describe FDA’s expectations regarding outsourcing facilities and the CGMP requirements in 21 CFR parts 210 and 211 until more specific CGMP regulations for outsourcing facilities are promulgated.
+
+Under section 301(a) of the FDCA [21 U.S.C. § 331(a)], the introduction or delivery for introduction into interstate commerce of any drug that is adulterated is a prohibited act. Further, it is a prohibited act under section 301(k) of the FDCA [21 U.S.C. § 331(k)] to do any act with respect to a drug, if such act is done while the drug is held for sale after shipment in interstate commerce and results in the drug being adulterated.
+
+Unapproved New Drug Products
+
+You do not have any FDA-approved applications on file for drug products that you compound.4 Under sections 505(a) and 301(d) of the FDCA [21 U.S.C. §§ 331(d)] a new drug may not be introduced into or delivered for introduction into interstate commerce unless an application approved by FDA under section 505 of the FDCA is in effect for the drug. Marketing of these products, or other applicable products, without an approved application violates these provisions of the FDCA.
+
+Misbranded Drug Products
+
+You compound drug products that are intended for conditions not amenable to self-diagnosis and treatment by individuals who are not medical practitioners; therefore, adequate directions for use cannot be written so that a layman can use these products safely for their intended uses. Consequently, their labeling fails to bear adequate directions for their intended uses causing them to be misbranded under section 502(f)(1) of the FDCA.5 The introduction or delivery for introduction into interstate commerce of these products therefore violates section 301(a) of the FDCA. Further, it is also a prohibited act under section 301(k) of the FDCA to do any act with respect to a drug, if such act is done while the drug is held for sale after shipment in interstate commerce and results in the drug being misbranded.
+
+D. Corrective Actions
+
+We have reviewed your facility’s responses to the Form FDA 483. We acknowledge your recall of drug products intended to be sterile due to a lack of sterility assurance on May 18, 2022, and June 30, 2022. Furthermore, we acknowledge that you acquired a third party consultant to assist you with your evaluation.
+
+We are unable to fully evaluate some of your corrective actions due to lack of adequate supporting documentation:
+
+In response to observation 3 of the Form FDA 483, you committed to discontinue the use of the (b)(4) and instead implement USP <71> for the sterility testing of all your 503B drug products. However, your response did not include:
+
+1. A USP <71> sterility test validation timeline for each product;
+2. A (b)(4) discontinuation date;
+3. An investigation into all the products that were associated with excess events; and
+4. A determination of the impact on the sterility assurance of each of the effected products involved in the excess event excursions.
+
+Some of your corrective actions appear deficient:
+
+In response to observation 2 of the Form FDA 483, you stated that you have modified your environmental monitoring, EM, and personnel monitoring, PM, limits such that any microbial contamination in the ISO 5 aseptic processing area will be investigated. However, you did not provide a determination of the impact on the sterility assurance of each of the affected products that were manufactured when EM/PM exceeded (b)(4) CFUs. Additionally, there was a lack of transparency regarding the identification of all products/lots affected by the substandard EM/PM within your recall and post market assessment.
+
+In addition to the issues discussed above, you should note that CGMP requires the implementation of quality oversight and controls over the manufacture of drugs, including the safety of raw materials, materials used in drug manufacturing, and finished drug products. See section 501 of the FDCA. If you choose to contract with a laboratory to perform some functions required by CGMP, it is essential that you select a qualified contractor and that you maintain sufficient oversight of the contractor’s operations to ensure that it is fully CGMP compliant. Regardless of whether you rely on a contract facility, you are responsible for assuring that drugs you produce are neither adulterated nor misbranded. [See 21 CFR 210.1(b), 21 CFR 200.10(b).]
+
+Furthermore, regarding observations related to the conditions of section 503B of the FDCA, your corrective actions appear adequate: you state that you have “ceased manufacturing and distribution of Glycopyrrolate Injection, USP” and that the “drug product was removed from the online ordering system as of April 4, 2022, and is not available for purchase.”
+
+Should you continue to compound and distribute drug products that do not meet the conditions of section 503B, the compounding and distribution of your drugs would be subject to the new drug approval requirement, the requirement to label drug products with adequate directions for use, and the Drug Supply Chain Security Act requirements.
+
+FDA strongly recommends that your management undertake a comprehensive assessment of operations, including facility design, procedures, personnel, processes, maintenance, materials, and systems. In particular, this review should assess your aseptic processing operations.
+
+E. Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive statement of violations at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations. It is your responsibility to ensure that your firm complies with all requirements of federal law, including FDA regulations.
+
+You should take prompt action to address any violations. Failure to adequately address any violations may result in legal action without further notice, including, without limitation, seizure and injunction.
+
+Within fifteen (15) working days of receipt of this letter, please notify this office in writing of the specific steps that you have taken to address any violations. Please include an explanation of each step being taken to prevent the recurrence of violations, as well as copies of related documentation. This letter notifies you of our concerns and provides you an opportunity to address them. If you believe your products are not in violation of the FDCA, include your reasoning and any supporting information for our consideration. If you cannot completely address this matter within fifteen (15) working days, state the reason for the delay and the time in which you will do so.
+
+Your written notification should refer to case # 644180.
+
+Please electronically submit your reply, on company letterhead, to Dayna I. Martinez, Compliance Officer, at ORAPHARM2_RESPONSES@fda.hhs.gov. In addition, please submit a signed copy of your response to dayna.matinez@fda.hhs.gov.
+
+If you have questions regarding the contents of this letter, you may contact Dayna I. Martinez via phone at 787-729-8608 or email at dayna.martinez@fda.hhs.gov.
+
+Sincerely,
+/S/
+
+Frances de Jesus
+Acting Program Division Director
+Office of Pharmaceutical Quality Operations,
+Division II
+
+________________________
+
+1 See Pub. L. No. 113-54, § 102(a), 127 Stat. 587, 587-588 (2013).
+
+2 We remind you that there are conditions, other than those discussed in this letter, that must be satisfied to qualify for the exemptions in section 503B of the FDCA.
+
+3 The glycopyrrolate bulk drug substance is not on the 503B bulks list and cannot be used for compounding consistent with section 503B(a)(2) unless it is used to compound a drug that appears on FDA’s drug shortage list. Glycopyrrolate was nominated for inclusion on the 503B bulks list; FDA evaluated glycopyrrolate and, on January 27, 2022, determined that there is not a clinical need for outsourcing facilities to compound drug products using this bulk drug substance under section 503B of the FD&C Act. For additional information, see 87 Fed. Reg. 4240, available at https://www.govinfo.gov/content/pkg/FR-2022-01-27/pdf/2022-01558.pdf. Once FDA has published in the Federal Register its decision not to place a particular substance on the 503B bulks list, the policy described in section III of the Interim Policy on Compounding Using Bulk Drug Substances Under Section 503B of the Federal Food, Drug, and Cosmetic Act (Revision 1) no longer applies.
+
+4 The specific products made by your firm are drugs within the meaning of section 201(g) of the Act, [21 U.S.C. § 321(g)] because they are intended for use in the diagnosis, cure, mitigation, treatment, or prevention of diseases and/or because they are intended to affect the structure or any function of the body. Further, they are “new drugs” within the meaning of section 201(p) of the FDCA [21 U.S.C. § 321(p)] because they are not generally recognized as safe and effective for their labeled uses.
+
+5 Your compounded drug products are not exempted from the requirements of section 502(f)(1) of the FDCA by regulations issued by the FDA (see, e.g., 21 CFR 201.115).

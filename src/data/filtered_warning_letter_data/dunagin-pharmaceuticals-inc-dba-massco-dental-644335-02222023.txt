@@ -1,0 +1,301 @@
+Delivery Method: 
+        VIA Electronic Mail
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Michael Sean Dunagin
+          
+
+                                
+  
+    Recipient Title
+              Owner
+          
+
+          
+            Dunagin Pharmaceuticals Inc. dba Massco Dental
+
+          
+                      1506 N. 2nd Street
+Rogers, AR 72756-2418
+United States
+          
+          
+            
+            
+
+     (b)(6)
+
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+           Division of Pharmaceutical Quality Operations II 
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+DATE: 2/22/2023
+
+Case #: 644335
+
+WARNING LETTER
+
+Dear Mr. Dunagin:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Dunagin Pharmaceuticals Inc. dba Massco Dental, FEI 3001238690, at 1506 N. 2nd Street, Rogers, from August 29 to September 2, 2022.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your September 21, 2022 response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence.
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to have separate or defined areas or such other control systems necessary to prevent contamination or mix-ups (21 CFR 211.42(c)).
+
+You manufacture finished drug products, including toothpaste and mouth rinse products containing sodium fluoride, stannous fluoride, and potassium nitrate using the same equipment you use to manufacture numerous nonpharmaceutical materials in your facility, including (b)(4). This product is labeled as “Caution: Keep away from children, do not consume and avoid contact with eyes.”
+
+The ingredients in your nonpharmaceutical products could contaminate the drug products that you manufacture on shared equipment, such as the various drugs for oral use discussed above. It is unacceptable as a matter of CGMP to continue manufacturing drugs using the same equipment you use to manufacture nonpharmaceutical products.
+
+In your response, you state each “follow up batch” is tested for microbial analysis, pH, taste, and other attributes prior to the filling process, and that it is not standard for a manufacturer to have a tank for every product and every flavor. You also state you have purchased a swab kit and a luminometer to assess the cleanliness of surfaces.
+
+In response to this letter, discontinue manufacturing drugs on shared equipment in your facility, and if you intend to continue to manufacture both pharmaceutical and nonpharmaceutical products at your facility provide a plan to show how you will separate the areas in which you will maintain dedicated manufacturing equipment for your pharmaceutical manufacturing and nonpharmaceutical product manufacturing operations.
+
+Also provide a risk assessment for all drugs you have previously produced on equipment shared with nonpharmaceutical products. For each product, assess the risk of potential contamination due to the shared equipment, and provide your plans for addressing the product quality and patient safety risks for any product still in distribution, including potential recalls or market withdrawals.
+
+2. Your firm failed to test samples of each component for conformity with all appropriate written specifications for purity, strength, and quality (21 CFR 211.84(d)(2)).
+
+You relied on certificates of analysis (COA) for incoming components from your suppliers without establishing the reliability of your suppliers’ test results. Additionally, a representative COA noted the use of nonpharmaceutical grade potassium nitrate in your drug product manufacturing. As a manufacturer, you have a responsibility to sample, test, and examine drug components before use in production to ensure acceptable quality parameters are met.
+
+You also lacked appropriate testing of components used in the manufacture of your drug products. For example, you lacked a specific identity test to detect diethylene glycol (DEG) and ethylene glycol (EG) in all shipments, containers, and lots of glycerin before use in the manufacturing of drug products. Some of your firm’s glycerin-containing products are intended for oral use in pediatric populations. The use of glycerin contaminated with diethylene glycol (DEG) has resulted in various lethal poisoning incidents in humans worldwide.
+
+In your response, you note you follow USP monographs for your raw materials, and you provided an additional nonpharmaceutical grade potassium nitrate COA. You state you “perform ID testing and/or review COAs for all incoming raw materials” at the time of delivery, and note you have a new logbook to document your raw material evaluations. You also state glycerin is tested for diethylene glycol (DEG) by a contract laboratory.
+
+Your response is inadequate. You do not address your use of a nonpharmaceutical grade component. You also fail to provide sufficient evidence showing you performed adequate testing on all containers of all lots of glycerin prior to its use in the manufacture of drug products. Additionally, you do not provide scientific evidence demonstrating that you have established the reliability of your suppliers’ test results.
+
+In response to this letter, provide:
+
+• A comprehensive, independent review of your material system to determine whether all suppliers of components, containers, and closures, are each qualified and the materials are assigned appropriate expiration or retest dates. The review should also determine whether incoming material controls are adequate to prevent use of unsuitable components, containers, and closures.
+• The chemical and microbiological quality control specifications you use to test and release each incoming lot of component for use in manufacturing.
+• A description of how you will test each component lot for conformity with all appropriate specifications for identity, strength, quality, and purity. If you intend to accept any results from your supplier’s COA’s instead of testing each component lot for strength, quality, and purity, specify how you will robustly establish the reliability of your supplier’s results through initial validation as well as periodic revalidation. In addition, include a commitment to always conduct at least one specific identity test for each incoming component lot.
+• A summary of results obtained from testing all components to evaluate the reliability of the COA from each component manufacturer. Include your standard operating procedure (SOP) that describes this COA validation program.
+• A summary of your program for qualifying and overseeing contract facilities that test the drug products you manufacture.
+• Results of tests for diethylene glycol (DEG) and ethylene glycol (EG) in retain samples of all containers for all lots of glycerin used to manufacture your drug products.
+• A full risk assessment for drug products that contain glycerin and are within expiry in the U.S. market. Take prompt corrective actions and preventive actions, and detail your future actions to ensure appropriate selection of your suppliers, ongoing scrutiny of their supply chain, and appropriate incoming lot controls
+
+See FDA’s guidance document Testing of Glycerin for Diethylene Glycol to help you meet the CGMP requirements when manufacturing drugs containing glycerin at https://www.fda.gov/media/71029/download.
+
+3. Your firm failed to establish written procedures for production and process control designed to assure that the drug products you manufacture have the identity, strength, quality, and purity they purport or are represented to possess (21 CFR 211.100(a)).
+
+Lack of Process Validation
+
+You failed to provide data to demonstrate you have validated the manufacturing processes for all your drug products. During the inspection, when asked for validation documents for your manufacturing processes, you stated that you did not have any validation information.
+
+In your response, you explain your equipment manufacturer validates the equipment’s function with the same packaging components you use before delivery to your facility. You also state you will document this compatibility testing in each equipment logbook.
+
+Your response is inadequate. You fail to demonstrate that the commercial manufacturing process performs as expected using your actual facility, utilities, equipment, personnel, controls, and other variables unique to your operation. In addition, your response does not address or otherwise include a risk assessment for any marketed drug products manufactured and distributed with unvalidated processes. Failure to perform adequate process validation can result in product quality attribute failure.
+
+Successful process qualification studies are necessary before commercial distribution. Thereafter, ongoing vigilant oversight of process performance and product quality is necessary to ensure you maintain a stable manufacturing operation throughout the product lifecycle.
+
+See FDA’s guidance document Process Validation: General Principles and Practices for general principles and approaches that FDA considers appropriate elements of process validation at https://www.fda.gov/media/71021/download.
+
+Inadequate Equipment Maintenance
+
+You failed to adequately maintain equipment used in the manufacture of your drug products. For example, motorized mixing equipment located in your liquid manufacturing area was observed in a poor state of repair, with rust and paint chipping.
+
+In your response, you state the motorized equipment has been refurbished, and the active ingredient is corrosive by nature. You also state you perform regular cleaning and wipe down the motors before use.
+
+Your response is inadequate. You do not provide an assessment of your manufacturing equipment’s material of construction to ensure compatibility with the products you manufacture. You also fail to provide evidence of your investigation into the scope of your equipment maintenance issues to determine if other equipment was in need of maintenance. Further, you do not provide a corrective action and preventive action (CAPA) plan to prevent equipment maintenance deficiencies in the future.
+
+In response to this letter, provide:
+
+• A detailed summary of your validation program for ensuring a state of control throughout the product lifecycle, along with associated procedures. Describe your program for process performance qualification, and ongoing monitoring of both intra-batch and inter-batch variation to ensure a continuing state of control.
+• A timeline for performing process performance qualification (PPQ) for each of your marketed drug products.
+• Include your process performance protocol(s), and written procedures for qualification of equipment and facilities.
+• Provide a detailed program for designing, validating, maintaining, controlling and monitoring each of your manufacturing processes that includes vigilant monitoring of intra-batch and inter-batch variation to ensure an ongoing state of control. Also, include your program for qualification of your equipment and facility.
+• An assessment of each drug product process to ensure that there is a data-driven and scientifically sound program that identifies and controls all sources of variability, such that your production processes, and will consistently meet appropriate specifications and manufacturing standards. This includes, but is not limited to, evaluating suitability of equipment for its intended use, sufficiency of detectability in your monitoring and testing systems, quality of input materials, and reliability of each manufacturing process step and control.
+• Timelines for completed process performance qualification (PPQ) for marketed drug products.
+• Your CAPA plan to implement routine, vigilant operations management oversight of facilities and equipment. This plan should ensure, among other things, prompt detection of equipment/facilities performance issues, effective execution of repairs, adherence to appropriate preventive maintenance schedules, timely technological upgrades to the equipment/facility infrastructure, and improved systems for ongoing management review.
+
+4. Your firm failed to establish an adequate quality control unit with the responsibility and authority to approve or reject all components, drug product containers, closures, in-process materials, packaging materials, labeling, and drug products (21 CFR 211.22(a)).
+
+You failed to provide adequate oversight of finished product testing, and other quality functions. For example, your Quality Unit (QU) failed to initiate and document an investigation into out-of-specification (OOS) results. During the inspection, our investigator observed your analyst obtained OOS finished drug product assay results. You stated the results would be discarded, and the tests would be reperformed by a different analyst.
+
+In your response, you state you have no unexplained discrepancies. You provided your “Yield Deviation Report” and indicated it would be used if a test result was outside the appropriate range.
+
+Your response is inadequate. Your investigation did not include sufficient detail as to the possible scope and probable root cause for the OOS results observed during the inspection. For example, you failed to investigate the impact of the root cause on other batches you manufactured and distributed. You also failed to provide a retrospective review to ensure you have fully identified and thoroughly investigated all OOS results. Additionally, you failed to implement appropriate CAPAs to mitigate and prevent recurrence.
+
+In addition, we identified you did not perform stability testing at the intervals required by your procedure. Our inspection also noted you did not perform periodic evaluations of your drug products. You also lack an adequate change management system.
+
+Your firm’s quality systems are inadequate. See FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations for help implementing quality systems and risk management approaches to meet the requirements of CGMP regulations 21 CFR, parts 210 and 211 at https://www.fda.gov/media/71023/download.
+
+In response to this letter, provide:
+
+• A comprehensive independent assessment and remediation plan to ensure your QU is given the authority and resources to effectively function. The assessment should also include, but not be limited to:
+
+  o A determination of whether procedures used by your firm are robust and appropriate
+  o Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices
+  o A complete and final review of each batch and its related information before the QU disposition decision
+  o Oversight and approval of investigations and discharging of all other QU duties to ensure identity, strength, quality, and purity of all products
+
+• A comprehensive, independent assessment of your overall system for investigating deviations, discrepancies, complaints, OOS results, and failures. Provide a detailed action plan to remediate this system. Your action plan should include, but not be limited to, significant improvements in investigation competencies, scope determination, root cause evaluation, CAPA effectiveness, quality unit oversight, and written procedures. Address how your firm will ensure all phases of investigations are appropriately conducted.
+
+• A retrospective, independent review of all invalidated OOS (including in-process and release/stability testing) results for U.S. products currently in the U.S. market and within expiry as of the date of this letter and a report summarizing the findings of the analysis, including the following for each OOS:
+  o Determine whether the scientific justification and evidence relating to the invalidated OOS result conclusively or inconclusively demonstrates causative laboratory error.
+  o For investigations that conclusively establish laboratory root cause, provide rationale and ensure that all other laboratory methods vulnerable to the same or similar root cause are identified for remediation.
+  o For all OOS results found by the retrospective review to have an inconclusive or no root cause identified in the laboratory, include a thorough review of production (e.g., batch manufacturing records, adequacy of the manufacturing steps, suitability of equipment/facilities, variability of raw materials, process capability, deviation history, complaint history, batch failure history). Provide a summary of potential manufacturing root causes for each investigation, and any manufacturing operation improvements.
+
+• A comprehensive review and remediation plan for your OOS result investigation systems. The CAPA should include but not be limited to addressing the following:
+  o Quality unit oversight of laboratory investigations
+  o Identification of adverse laboratory control trends
+  o Resolution of causes of laboratory variation
+  o Initiation of thorough investigations of potential manufacturing causes whenever a laboratory cause cannot be conclusively identified
+  o Adequately scoping of each investigation and its CAPA
+  o Revised OOS investigation procedures with these and other remediations
+
+• A comprehensive, independent assessment of your stability program and CAPA plan to ensure the adequacy of your stability program. Your remediated program should include, but not be limited to:
+  o Stability indicating methods
+  o Stability studies for each drug product in its marketed container-closure system before distribution is permitted
+  o an ongoing program in which representative batches of each product are added each year to the program to determine if the shelf-life claim remains valid
+  o detailed definition of the specific attributes to be tested at each station (timepoint)
+
+• All procedures that describe these and other elements of your remediated stability program
+
+• An assessment of manufacturing and quality data associated with each drug product you manufacture. Include remediated procedures and retrospective trending to identify any adverse findings and determine the need for changes to manufacturing processes or equipment, controls, or specifications.
+
+• Describe how you intend to implement your annual product review (APR) program and how you intend to monitor effectiveness.
+
+• A comprehensive, independent assessment of your change management system. This assessment should include, but not be limited to, your procedure to ensure changes are justified, reviewed, and approved by your quality unit. Your change management program should also include provisions for determining change effectiveness.
+
+5. Your firm failed to establish laboratory controls that include scientifically sound and appropriate specifications, standards, sampling plans, and test procedures designed to assure that components, drug product containers, closures, in-process materials, labeling, and drug products conform to appropriate standards of identity, strength, quality, and purity (21 CFR 211.160(b)).
+
+You have inadequate laboratory controls. For example:
+• You failed to demonstrate your water system can consistently meet the minimum United States Pharmacopeia (USP) monograph specifications suitable for drug manufacturing. Specifically, you do not perform chemical analysis of your water, and you lack data to support your water system consistently produces water adhering to appropriate microbial limits (total counts, objectionable microbes).
+
+Furthermore, you stated you test your water system (b)(4), but you failed to test your water in 2021. This frequency does not provide meaningful information about the quality of the water used to manufacture your products throughout the year. Additionally, your system contains a dead leg with no recirculation loop. Inadequate control of water used as an ingredient in oral rinse products increases the risk of contaminated drug products reaching consumers, including pediatric patients.
+
+• You failed to establish adequate finished product testing procedures. You send finished product samples to a contract laboratory for microbial analysis. However, you have not adequately evaluated the suitability of the laboratory’s test methods for use with your drug products. In addition, you use an (b)(4) to quantify fluoride content as part of your finished drug products’ in-house testing. However, you lack sufficient evidence showing your method is equivalent or better than applicable USP compendial methods.
+
+For further information regarding the significance of Burkholderia cepacia complex and other objectionable contamination of non-sterile, water-based drug products, see FDA’s advisory notice posted on July 7, 2021, at https://www.fda.gov/Drugs/DrugSafety/ucm559508.htm.
+
+In your response, you state your water system’s “quality light” assures the system is sufficient, and it is an “effective form of validation of system function.” You also state you send your water to a third-party lab for microbial analysis, and you perform (b)(4) testing. In addition, you indicate you are considering incorporating (b)(4) and testing for “(b)(4).”
+
+Your response is inadequate. You lack adequate evidence that your water system meets the minimum USP monograph specifications suitable for drug manufacturing, and you fail to adequately address the deficiencies of your water system’s design. In addition, you do not provide evidence that your proposed corrective actions would address the quality of your water system. Furthermore, your response regarding finished product testing fails to provide an adequate evaluation of your contract laboratory’s microbial test methods.
+
+In response to this letter, provide:
+
+• A comprehensive, independent assessment of your water system design, control, and maintenance.
+• A thorough remediation plan to install and operate a suitable water system. Include a robust ongoing control, maintenance, and monitoring program to ensure the remediated system design consistently produces water adhering to (b)(4) Water, USP monograph specifications and appropriate microbial limits.
+• Regarding the latter, ensure that your total microbial count limit for water is appropriate in view of the intended use of the products produced by your firm.
+• A detailed risk assessment addressing the potential effects of the water system on the quality of all drug product lots currently within expiry. Specify actions that you will take in response to the risk assessment, such as customer notifications and product recalls.
+• A procedure for your water system monitoring that specifies routine microbial testing of water to ensure its acceptability for use in each batch of drug products produced by your firm.
+• The current action/alert limits for total counts and objectionable organisms used for your (b)(4) Water system. Ensure that the total count limits for your (b)(4) water are appropriately stringent in view of the intended use of each of the products produced by your firm.
+• A procedure governing your program for ongoing control, maintenance, and monitoring that ensures the remediated system consistently produces water that meets (b)(4) Water, USP monograph specifications and appropriate microbial limits.
+• A comprehensive, independent assessment of your laboratory practices, procedures, methods, equipment, documentation, and analyst competencies. Based on this review, provide a detailed plan to remediate and evaluate the effectiveness of your laboratory system.
+• A list of chemical and microbial specifications, including test methods, used to analyze each lot of your drug products before a lot disposition decision.
+  o An action plan and timelines for conducting full chemical and microbiological testing of retain samples to determine the quality of all batches of drug product distributed to the United States that are within expiry as of the date of this letter.
+  o A summary of all results obtained from testing retain samples from each batch. If such testing reveals substandard quality drug products, take rapid corrective actions, such as notifying customers and product recalls.
+
+If any of the assessments performed to address the violations listed in this letter indicate substandard quality of drug product you manufacture, specify actions that you will take in response to the assessments, such as customer notifications and product recalls.
+
+Use of Contract Manufacturers
+
+Drugs must be manufactured in conformance with CGMP. FDA is aware that many drug manufacturers use independent contractors such as production facilities, testing laboratories, packagers, and labelers. FDA regards contractors as extensions of the manufacturer.
+
+You are responsible for the quality of your drugs regardless of agreements in place with your contract facilities. You are required to ensure that drugs are made in accordance with section 501(a)(2)(B) of the FD&C Act to ensure safety, identity, strength, quality, and purity. See FDA’s guidance document Contract Manufacturing Arrangements for Drugs: Quality Agreements at https://www.fda.gov/media/86193/download.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements. Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Data Integrity Remediation
+
+Your quality system does not adequately ensure the accuracy and integrity of data to support the safety, effectiveness, and quality of the drugs you test. See FDA's guidance document Data Integrity and Compliance with Drug CGMP for guidance on establishing and following CGMP compliant data integrity practices at https://www.fda.gov/media/119267/download.
+
+A. A comprehensive investigation into the extent of the inaccuracies in data records and reporting, including results of the data review for drugs distributed to the United States. Include a detailed description of the scope and root causes of your data integrity lapses.
+
+B. A current risk assessment of the potential effects of the observed failures on the quality of your drugs. Your assessment should include analyses of the risks to patients caused by the release of drugs affected by a lapse of data integrity, and analyses of the risks posed by ongoing operations.
+
+C. A management strategy for your firm that includes the details of your global corrective action and preventive action plan. The detailed corrective action plan should describe how you intend to ensure the reliability and completeness of all data generated by your firm, including microbiological and analytical data, manufacturing records, and all data submitted to FDA.
+
+Conclusion
+
+You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+Correct any violations promptly. Failure to promptly and adequately address this matter may result in regulatory or legal action without further notice including, without limitation, seizure and injunction. Unresolved violations may also prevent other Federal agencies from awarding contracts.
+
+Failure to address violations may also cause FDA to withhold issuance of Export Certificates. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to address any violations.
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Your written notification should refer to case # 644335.
+
+Please electronically submit your reply, on company letterhead, to Shawn Larson, Compliance Officer, at ORAPHARM2_RESPONSES@fda.hhs.gov. In addition, please submit a signed copy of your response to shawn.larson@fda.hhs.gov and ronda.loyd-jones@fda.hhs.gov. .
+
+If you have questions regarding the contents of this letter, you may contact Shawn Larson via phone at 214-253-5216 or email at shawn.larson@fda.hhs.gov.
+
+Sincerely,
+/S/
+
+Monica R. Maxwell
+Program Division Director
+Office of Pharmaceutical Quality Operations, Division II

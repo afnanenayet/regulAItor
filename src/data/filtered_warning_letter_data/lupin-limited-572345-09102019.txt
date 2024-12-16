@@ -1,0 +1,230 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Ms. Vinita D. Gupta
+          
+
+                                
+  
+    Recipient Title
+              Group President – CEO
+          
+
+          
+            Lupin Limited 
+
+          
+                      B/4 Laxmi Towers
+Bandra Kurla Complex, Bandra (E)
+Mumbai 400051
+India
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research
+        
+         
+          10903 New Hampshire Avenue
+Silver Spring, MD 20993
+United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter 320-19-43
+
+ 
+
+September 10, 2019
+
+            
+
+Dear Ms. Gupta:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Lupin Limited Unit 1 (FEI 3002807511) at Unit 1, 198-202 New Ind Area No 2, Mandideep, Madhya Pradesh, from November 26 to December 4, 2018. 
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals, 21 CFR parts 210 and 211, and significant deviations from CGMP for active pharmaceutical ingredients (API). 
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drugs are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B). 
+
+We reviewed your December 26, 2018, response in detail and acknowledge receipt of your subsequent correspondence. 
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+1.    Your firm failed to thoroughly investigate any unexplained discrepancy or failure of a batch or any of its components to meet any of its specifications, whether or not the batch has already been distributed (21 CFR 211.192). 
+
+Your investigations into out-of-specification (OOS) assay results were inadequate. Since 2016, you initiated a substantial number of OOS assay investigations for multiple (b)(4) drug products, including (b)(4) (e.g., (b)(4) mg/(b)(4)ml). You frequently closed these OOS investigations without an assignable root cause, and released batches based on passing retest results. In other cases, batches were rejected. You often lacked sufficient investigations to determine the laboratory or manufacturing origins of your out-of-specification assays and failed to implement adequate corrective actions and preventive actions (CAPA). 
+
+In response to this letter, provide the following.
+
+
+	A retrospective, independent review of all invalidated OOS (in-process and finished testing) results for all of your U.S. drug products since July 1, 2016, irrespective of whether each batch was ultimately shipped to the U.S. Assess whether the scientific justification and evidence for each invalidated OOS result was conclusive. For investigations that conclusively establish laboratory root cause, ensure that other laboratory methods vulnerable to the same or similar root cause are identified for remediation. For any OOS results found by the review to have an inconclusive or no root cause identified in the laboratory, include a thorough review of production (e.g., batch manufacturing records, adequacy of the manufacturing steps, suitability of equipment/facilities, variability of raw materials, process capability, deviation history, complaint history, batch failure history). 
+	An analysis of overall trends in your (b)(4) operations, and identification of any systemic factors that may be contributing to excessive variation in testing or manufacturing.
+	A comprehensive and independent assessment of your system for investigating deviations, atypical events, complaints, OOS results, and failures. Your CAPA plan should include, but not be limited to, improvements in investigations, root cause analysis, written procedures, staff competencies (e.g., evaluating potential root causes), and quality unit oversight. Also, include your process for evaluating CAPA effectiveness.
+
+
+2.    Your firm failed to establish adequate written procedures for production and process control designed to assure that the drug products you manufacture have the identity, strength, quality, and purity they purport or are represented to possess (21 CFR 211.100(a)). 
+
+Your (b)(4) process validation was insufficient. You did not adequately identify sources of variation and demonstrate an ongoing state of control in this process in which the active ingredient is a small proportion ((b)(4)%) of the formulation. 
+
+You lacked an evaluation of the (b)(4) process from your (b)(4) into multiple individual in-process containers. Your testing of composite samples provided inadequate information on potential for non-uniformity, including after maximum hold times. You had insufficient data to evaluate the variability introduced at this significant stage of the manufacturing process. In addition, you failed to reassess factors impacting process consistency and batch uniformity during the product lifecycle, although batch failures (including assay) have occurred for which root causes were unknown.
+
+Your response is inadequate. You did not provide a comprehensive evaluation of the state of control of the manufacturing process for (b)(4) and any other (b)(4) products that may also have significant manufacturing vulnerabilities. 
+
+In response to this letter, provide the following.
+
+
+	A comprehensive and independent assessment of your manufacturing processes to determine the current state of control as well as to determine if any process remediation and new validation studies are necessary. This assessment should include, but not be limited to, a study to extensively assess intra/inter-batch uniformity for all appropriate attributes of (b)(4), as well as other (b)(4) that may lack robustness (e.g., (b)(4)). Include your CAPA plan(s) and timelines. 
+	Assurance of ongoing oversight throughout the manufacturing lifecycle of all drug products. Provide a data-driven and scientifically sound program that identifies and controls process variability by assuring that production and packaging processes meet appropriate manufacturing standards and parameters. This includes, but is not limited to, evaluating suitability of equipment for its intended use, ensuring quality of input materials, vigilant monitoring of process performance and product quality, and determining the capability and reliability of each manufacturing process step and its controls.
+
+
+3.    Your firm failed to clean, maintain, and, as appropriate for the nature of the drug, sanitize and/or sterilize equipment and utensils at appropriate intervals to prevent malfunctions or contamination that would alter the safety, identity, strength, quality, or purity of the drug product beyond the official or other established requirements (21 CFR 211.67(a)). 
+
+Your cleaning process for manufacturing equipment was inadequate.
+
+On November 26, 2018, our investigator observed non-dedicated equipment (i.e., tablet press) labeled as “cleaned,” although there were unknown (b)(4) residues on multiple product contact surfaces. Inadequately cleaned and maintained equipment can lead to cross-contamination and poor quality of drug products. 
+
+You acknowledged in your response that the procedure was not followed or the required post-cleaning checks were inadequate. You added that the tablet press was re-cleaned, and operators were retrained.
+
+Your response is inadequate. You did not provide a comprehensive assessment of your cleaning processes, determine the identity of the residues, assess whether other manufacturing equipment had been improperly cleaned, and evaluate if cross-contaminated products were released for distribution. 
+
+In response to this letter, provide the following.
+
+
+	A comprehensive, independent retrospective assessment of your cleaning processes, practices, and validation studies to evaluate the scope of cross-contamination hazards. Include the identity of residues, other manufacturing equipment that may have been improperly cleaned, and an assessment whether cross-contaminated products may have been released for distribution. The assessment should cover each piece of equipment used to manufacture more than one product, including API and finished products. 
+
+
+
+	A CAPA plan, based on the retrospective assessment, that includes appropriate remediations to your cleaning processes and practices, and timelines for completion. Also include a detailed summary of your process for lifecycle management of equipment cleaning. Describe provisions for ongoing verification that proper cleaning is consistently executed for all products, and any improvements to be implemented. 
+	Appropriate improvements to your cleaning validation program, with special emphasis on incorporating conditions identified as worst case in your drug manufacturing operation. This should include but not be limited to identification and evaluation of all worst-case:
+	
+		drugs with higher toxicities
+		drugs with higher drug potencies 
+		drugs of lower solubility in their cleaning solvents
+		drugs with characteristics that make them difficult to clean
+		swabbing locations for areas that are most difficult to clean
+		maximum hold times before cleaning 
+	
+	
+
+
+In addition, describe the steps that must be taken in your change management system before introducing new manufacturing equipment or a new product.
+
+
+	A summary of updated SOPs that ensure an appropriate program is in place for verification and validation of cleaning procedures for products, processes, and equipment. 
+
+
+ 
+
+Repeat Violations at Multiple Sites 
+
+FDA has cited similar CGMP violations at two other facilities in your company’s manufacturing network. On November 6, 2017, we issued a warning letter to your facilities Lupin Limited, Goa, (FEI 3004819820) and Lupin Limited, Indore (FEI 3007549629). 
+
+These repeated failures at multiple sites demonstrate that management oversight and control over the manufacture of drugs are inadequate. You should immediately and comprehensively assess your company’s global manufacturing operations to ensure that systems, processes, and the products you manufacture conform to FDA requirements.
+
+Conclusion
+
+Violations and deviations cited in this letter are not intended as an all-inclusive list. You are responsible for investigating these violations and deviations, for determining the causes, for preventing their recurrence, and for preventing other violations and deviations in all your facilities.
+
+If you are considering an action that is likely to lead to a disruption in the supply of drugs produced at your facility, FDA requests that you contact CDER’s Drug Shortages Staff immediately, at drugshortages@fda.hhs.gov, so that FDA can work with you on the most effective way to bring your operations into compliance with the law. Contacting the Drug Shortages Staff also allows you to meet any obligations you may have to report discontinuances or interruptions in your drug manufacture under 21 U.S.C. 356C(b) and allows FDA to consider, as soon as possible, what actions, if any, may be needed to avoid shortages and protect the health of patients who depend on your products.
+
+Until you correct all violations completely and we confirm your compliance with CGMP, FDA may withhold approval of any new applications or supplements listing your firm as a drug manufacturer. 
+
+Failure to correct these violations may also result in FDA refusing admission of articles manufactured at Lupin Limited (Unit I) at Unit 1, 198-202 New Ind Area, No 2 Mandideep, Madhya Pradesh into the United States under section 801(a)(3) of the FD&C Act, 21 U.S.C. 381(a)(3). Under the same authority, articles may be subject to refusal of admission, in that the methods and controls used in their manufacture do not appear to conform to CGMP within the meaning of section 501(a)(2)(B) of the FD&C Act, 21 U.S.C. 351(a)(2)(B). 
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion. 
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov or mail your reply to:
+
+Rafael Arroyo
+
+Compliance Officer
+
+U.S. Food and Drug Administration
+
+White Oak Building 51, Room 4359
+
+10903 New Hampshire Avenue
+
+Silver Spring, MD 20993
+
+USA
+
+ 
+
+Please identify your response with FEI 3002807511.
+
+ 
+
+Sincerely,
+
+/S/
+
+Francis Godwin
+
+Director
+
+Office of Manufacturing Quality
+
+Office of Compliance
+
+Center for Drug Evaluation and Research

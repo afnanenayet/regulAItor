@@ -1,0 +1,213 @@
+Recipient:
+
+                      
+  
+    Recipient Name
+              Matthew L. McDonald
+          
+
+                                
+  
+    Recipient Title
+              Owner
+          
+
+          
+            Triad Rx, Inc
+
+          
+                      26258 Pollard Road
+Daphne, AL 36526
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Division of Pharmaceutical Quality Operations II
+        
+         
+          4040 North Central Expressway, Suite 300
+Dallas, TX 75204-3128
+United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+
+ 
+
+February 5, 2019
+
+ 
+
+CMS Case #569659
+
+ 
+
+WARNING LETTER
+
+  
+
+VIA UPS EXPRESS
+
+ 
+
+Matthew L. McDonald, Owner Triad Rx, Inc.
+
+26258 Pollard Road
+
+Daphne, AL 36526
+
+ 
+
+Dear Mr. McDonald:
+
+From July 17, 2017, to July 21, 2017, a U.S. Food and Drug Administration (FDA) investigator inspected your facility, Triad Rx, Inc., located at 26258 Pollard Road, Daphne, AL 36526.  During the inspection, the investigator noted that drug products you produced failed to meet the conditions of section 503A of the Federal Food, Drug, and Cosmetic Act (FDCA) [21 U.S.C. § 353a] for exemption from certain provisions of the FDCA. The investigator noted serious deficiencies in your practices for producing sterile drug products, which put patients at risk.
+
+FDA issued a Form FDA 483 to your firm on July 21, 2017. FDA acknowledges receipt of your facility’s response, dated August 3, 2017. Based on this inspection, it appears that you produced drug products that violate the FDCA.
+
+A.     Compounded Drug Products Under the FDCA
+
+Section 503A of the FDCA describes the conditions under which human drug products compounded by a licensed pharmacist in a State licensed pharmacy or a Federal facility, or a licensed physician, qualify for exemptions from three sections of the FDCA: compliance with current good manufacturing practices (CGMP) (section 501(a)(2)(B)); labeling with adequate directions for use (section 502(f)(1)); and FDA approval prior to marketing (section 505) [21 U.S.C. §§ 351(a)(2)(B), 352(f)(1) and 355(a)].1 Receipt of valid prescriptions for individually- identified patients is one of the conditions for the exemptions under section 503A.
+
+In addition, for a compounded drug product to qualify for the exemptions under section 503A, bulk drug substances used to compound it must: (I) comply with the standards of an applicable United States Pharmacopeia (USP) or National Formulary (NF) monograph, if a monograph exists, and the USP chapter on pharmacy compounding; (II) if such a monograph does not exist, be components of drugs approved by the Secretary; or (III) if such a monograph does not exist and the drug substance is not a component of a drug approved by the Secretary, appear on a list developed by the Secretary through regulation (“503A bulks list”) (section 503A(b)(1)(A)(i) of the FDCA).
+
+B.     Failure to Meet the Conditions of Section 503A
+
+During the inspection, the FDA investigator noted that drug products produced by your firm failed to meet the conditions of section 503A. For example, the investigator noted your firm compounded drug products using GHRP-2, GHRP-6, and chromium picolinate. Drug products compounded using GHRP-2, GHRP-6, and chromium picolinate are not eligible for the exemptions provided by section 503A(a), because these bulk drug substances are not the subject of an applicable USP or NF monograph, are not a component of an FDA-approved human drug, and do not appear on the 503A bulks list.2
+
+Therefore, you compounded drug products that do not meet the conditions of section 503A and are not eligible for the exemptions in that section from the FDA approval requirement of section 505 of the FDCA, the requirement under section 502(f)(1) of the FDCA that labeling bear adequate directions for use, and the requirement of compliance with CGMP under section 501(a)(2)(B) of the FDCA.  In the remainder of this letter, we refer to your drug products that do not qualify for exemptions under section 503A as the “ineligible drug products.”
+
+Specific violations are described below.
+
+C.     Violations of the FDCA Adulterated Drug Products
+
+The FDA investigator noted that drug products intended or expected to be sterile were prepared, packed, or held under insanitary conditions, whereby they may have become contaminated with filth or rendered injurious to health, causing your drug products to be adulterated under section 501(a)(2)(A) of the FDCA. For example:
+
+1.  Partially stoppered vials of product intended to be sterile were observed to be exposed to lower than ISO 5 quality air during production while being transferred into the lyophilizer.
+
+2.  Personnel were observed conducting aseptic manipulations that blocked the movement of first pass air over and around open vials.
+
+3.  The (b)(4) testing of the (b)(4) was not conducted per the manufacturer’s specification.
+
+4.  The ISO classified areas have difficult to clean, particle-generating, or visibly dirty equipment or surfaces.
+
+5.  The media fills were not performed under the most challenging or stressful conditions. Therefore, there is a lack of assurance that your firm can aseptically produce drug products within your facility.
+
+6.  You re-used isopropyl alcohol (IPA) bottles containing (b)(4) IPA for disinfecting ISO 5 areas without assurance that the bottles remained sterile after multiple uses and can adequately prevent the spread of contamination in the ISO 5 area.
+
+7.  Personnel engaged in aseptic processing were observed with exposed hands and wrists in the ISO 5 area.
+
+8.  Cleaning pads or wipes used in the ISO 5 area were not sterile.
+
+9.  Personnel were observed touching equipment or other surfaces located outside of the ISO 5 area with gloved hands and then proceeding with aseptic processing in the ISO 5 area without changing or sanitizing gloves.
+
+10.  Equipment used for aseptic processing was not disinfected prior to entering the ISO 5 processing area.
+
+11.  Your firm’s preparation and contact time of the sporicidal agent used in the cleanrooms and ISO 5 areas was not adequate for its intended use.
+
+Unapproved New Drug Products
+
+You do not have any FDA-approved applications on file for the ineligible drug products that you compounded.3  Under sections 505(a) and 301(d) of the FDCA [21 U.S.C. § 331(d)], a new drug may not be introduced into or delivered for introduction into interstate commerce unless an application approved by FDA under section 505 of the FDCA is in effect for the drug. Marketing of these products, or other applicable products, without an approved application violates these provisions of the FDCA.
+
+Misbranded Drug Products
+
+The ineligible drug products you compounded are intended for conditions not amenable to self- diagnosis and treatment by individuals who are not medical practitioners; therefore, adequate directions for use cannot be written so that a layman can use these products safely for their intended uses. Consequently, their labeling fails to bear adequate directions for their intended uses.4  Accordingly, these ineligible drug products are misbranded under section 502(f)(1) of the FDCA. The introduction or delivery for introduction into interstate commerce of these products therefore violates section 301(a) of the FDCA.  It is also a prohibited act under section 301(k) of the FDCA to do any act with respect to a drug, if such act is done while the drug is held for sale after shipment in interstate commerce and results in the drug being misbranded.
+
+D.     Corrective Actions
+
+We have reviewed your firm’s response to the Form FDA 483.
+
+Regarding the insanitary condition observations in the Form FDA 483, we cannot fully evaluate the adequacy of the following corrective actions described in your response because you did not include sufficient information or supporting documentation:
+
+1.  In your response, you indicated that you have “consulted with (b)(4)” and provided a copy of the diagram of the proposed cleanroom layout where “the ISO 5 area created by (b)(4) to allow direct access to the lyophilizer’s chamber and controls without any unsealed product leaving the ISO 5 environment.” However, you did not provide any detailed plans of construction or timeframe regarding the facility modification of the ISO 5 or the ISO 7 areas.  Furthermore, it is unclear if your firm will continue to produce lyophilized product while construction is underway.
+
+2.  In your response, you indicated that you have revised “the drug formulation worksheet” to reflect “the need to keep unfilled vials covered while (b)(4) in order to minimize the risk of unclean air flowing over the vials.” However, you did not provide “the drug formulation worksheet” or any other documents reflecting the revised procedures to support this corrective action.
+
+3.  In your response, you indicated that you can modify the cleanroom “(b)(4) the area where the lyophilizer is located” and the “exposed part” of the lyophilizer “will be located (b)(4), limiting exposure to any part of the room.” However, you did not provide any detailed plans or timeline of construction within the ISO 5 or the ISO 7 areas. Furthermore, it is unclear if your firm evaluated whether the “(b)(4)” is considered a difficult to clean surface and whether a “(b)(4)” between an ISO 5 area and unclassified space could potentially introduce contamination directly in the aseptic processing areas.
+
+4.  In your response, you indicated that you have revised your media fill procedure which includes a “more complex process with (b)(4) and (b)(4) the lyophilizer”. However, your revised media fill procedures reference only (b)(4) which do not simulate production operations incorporating the worst-case activities and conditions.
+
+5.  In your response, you indicated that you have purchased “sterile cleaning pads” for use in the ISO 5 area to replace the non-sterile wipes. However, you did not provide a receipt or a certificate of analysis of the sterile “cleaning pads” purchased or the starting date of their use within your facility.
+
+In addition, our review of your batch records collected during the inspection revealed that your (b)(4) testing for your L-Carnitine 250mg/ml injectable product was performed for (b)(4) with volumes of (b)(4) and (b)(4), but the batch quantity made was (b)(4). Therefore, the (b)(4) volume is not adequate for the quantity of drug product (b)(4).
+
+Please be aware that section 501(a)(2)(A) of the FDCA concerning insanitary conditions applies regardless of whether drug products you compound meet the conditions of section 503A, including that bulk drug substances used to compound must: (I) comply with the standards of an applicable USP or NF monograph, if a monograph exists, and the USP chapter on pharmacy compounding; (II) if such a monograph does not exist, be components of drugs approved by the Secretary; or (III) if such a monograph does not exist and the drug substance is not a component of a drug approved by the Secretary, appear on 503A bulks list.
+
+In addition, regarding issues related to the conditions of section 503A of the FDCA, your corrective actions appear partially adequate. In your response you state: “Triad's P&Ps have been updated to require (b)(4) reviews of FDA publications to ensure that no [nominated] article in 503A Categories 2 (Bulk Drug Substances that Raise Significant Safety Risks) or 3 (Bulk Drug Substances Nominated Without Adequate Support including, without limitation, GHRP-2 or -6) is inadvertently included as an active ingredient in compounded products.” However, you did not state how your firm will ensure that other ineligible bulk drug substances that do not appear in the categories you referenced in your letter would not be used in compounding. An example bulk drug substance that is not the subject of an applicable USP or NF monograph, a component of an FDA-approved drug, and does not appear in category 2 or 3 of the interim 503A bulks list is chromium picolinate.
+
+Should you continue to compound and distribute drug products that do not meet the conditions of section 503A, the compounding and distribution of such drugs would be subject to the new drug approval requirement, the requirement to label drug products with adequate directions for use, and the drug CGMP regulations. Before doing so, you must comply with the requirements of section 505, 502(f)(1), and 501(a)(2)(B).
+
+In addition to the issues discussed above, you should note that CGMP requires the implementation of quality oversight and controls over the manufacture of drugs, including the safety of raw materials, materials used in drug manufacturing, and finished drug products. See section 501 of the FDCA.  If you choose to contract with a laboratory to perform some functions required by CGMP, it is essential that you select a qualified contractor and that you maintain sufficient oversight of the contractor’s operations to ensure that it is fully CGMP compliant. Regardless of whether you rely on a contract facility, you are responsible for assuring that drugs you produce are neither adulterated nor misbranded. [See 21 CFR 210.1(b), 21 CFR 200.10(b)].
+
+FDA strongly recommends that your management undertake a comprehensive assessment of operations, including facility design, procedures, personnel, processes, maintenance, materials,  and systems.  In particular, this review should assess your aseptic processing operations. A third party consultant with relevant sterile drug manufacturing expertise should assist you in  conducting this comprehensive evaluation.
+
+E.     Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive statement of violations at  your facility. You are responsible for investigating and determining the causes of the violations  identified above and for preventing their recurrence or the occurrence of other violations.  It is  your responsibility to ensure that your firm complies with all requirements of federal law,  including FDA regulations.
+
+You should take prompt action to correct the violations cited in this letter. Failure to promptly  correct these violations may result in legal action without further notice, including, without  limitation, seizure and injunction.
+
+Within fifteen working days of receipt of this letter, please notify this office in writing of the specific steps that you have taken to correct violations. Please include an explanation of each  step being taken to prevent the recurrence of violations, as well as copies of related documentation.  If you do not believe that the products discussed above are in violation of the  FDCA, include your reasoning and any supporting information for our consideration.  If you  cannot complete corrective action within 15 working days, state the reason for the delay and the  time within which you will complete the correction.
+
+Your written notification should refer to the Warning Letter Number above (CMS Case #569659). Please address your reply to John W. Diehl, Director, Compliance Branch, at the FDA  address provided on bottom of first page of this letter. Additionally, please submit a signed copy  of your response on your firm’s letterhead via e-mail to  ORAPHARM2_Responses@fda.hhs.gov.
+
+If you have questions regarding the contents of this letter, please contact Rebecca A. Asente, Compliance Officer, via (504) 846-6104 or Rebecca.asente@fda.hhs.gov.
+
+
+Sincerely,
+
+/S/ 
+
+Monica R. Maxwell
+
+Program Division Director
+
+Office of Pharmaceutical Quality Operations,
+
+Division II
+
+ 
+
+ 
+
+CC:     Susan Alverson, Executive Secretary
+
+Alabama Board of Pharmacy
+
+P.O. Box 381988
+
+Birmingham, AL 35238-1988
+
+___________________________
+
+1  We remind you that there are conditions other than those discussed in this letter that must be satisfied to qualify for the exemptions in section 503A of the FDCA.
+
+2  On June 9, 2016, FDA issued a final guidance titled, Interim Policy on Compounding Using Bulk Drug Substances Under Section 503A of the Federal Food, Drug, and Cosmetic Act. This guidance describes FDA’s interim regulatory policy for State-licensed pharmacies, Federal facilities, and licensed physicians that compound human drug products using bulk drug substances that do not otherwise meet the conditions of section 503A(b)(1)(A)(i)  while the 503A bulks list is being developed. Specifically, the guidance sets out the conditions under which FDA does not intend to take action against a State-licensed pharmacy, Federal facility, or licensed physician for compounding a drug product using a bulk drug substance that is not the subject of an applicable USP or NF monograph or a component of an FDA-approved drug, until the substance is identified in a final rule as included or not included on the 503A bulks list. These conditions include that the substance may be eligible for inclusion on the 503A bulks list, was nominated with adequate support for FDA to evaluate it, and has not been identified by FDA as a substance that appears to present significant safety risks pending further evaluation. GHRP-2 andGHRP-6 were nominated, but not with adequate support for FDA to evaluate these substances. Chromium picolinate was not nominated. For additional information, see the guidance at  http://www.fda.gov/downloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/UCM469120.pdf.
+
+3  The specific products made by your firm are drugs within the meaning of section 201(g) of the Act, [21 U.S.C. § 321(g)] because they are intended for use in the diagnosis, cure, mitigation, treatment, or prevention of diseases and/or because they are intended to affect the structure or any function of the body. Further, they are “new drugs” within the meaning of section 201(p) [21 U.S.C. 321(p)] of the FDCA because they are not generally recognized as safe and effective for their labeled uses.
+
+4  Your ineligible drug products are not exempted from the requirements of section 502(f)(1) of the FDCA by regulations issued by the FDA (see, e.g., 21 CFR 201.115).

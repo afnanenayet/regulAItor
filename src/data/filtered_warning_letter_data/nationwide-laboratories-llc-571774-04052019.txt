@@ -1,0 +1,238 @@
+Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Ralph Massa, Jr.
+          
+
+                                
+  
+    Recipient Title
+              President and Owner
+          
+
+          
+            Nationwide Laboratories, LLC 
+
+          
+                      33 Wood Avenue South, Suite 600
+Iselin, NJ 08830-2717
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Division of Pharmaceutical Quality Operations I
+        
+         
+          10 Waterview Blvd, 3rd Floor
+Parsippany, NJ 07054
+United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+WARNING LETTER
+CMS # 571774
+
+04/05/2019
+
+VIA UPS OVERNIGHT
+Mr. Ralph Massa, Jr.
+President and Owner
+Nationwide Laboratories, LLC
+33 Wood Avenue South, Suite 600
+Iselin, NJ 08830-2717
+
+Dear Mr. Massa:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Nationwide Laboratories, LLC (FEI: 3012555723) at 33 Wood Avenue South, Suite 600, Iselin, New Jersey, from October 2 to November 27, 2018.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See 21 CFR, parts 210 and 211.
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+Your firm introduces or delivers for introduction into interstate commerce an unapproved new drug, in violation of sections 505(a) and 301(d) of the FD&C Act, 21 USC 355(a) and 331(d). Furthermore, this unapproved new drug is misbranded under section 502(f)(1) of the FD&C Act, 21 USC 352(f)(1), and by introducing or delivering this product for introduction into interstate commerce, you are in violation of section 301(a) of the FD&C Act, 21 USC 331(a)).
+
+We reviewed your December 13, 2018, response in detail and acknowledge receipt of your subsequent correspondence.
+
+During our inspection, our investigators observed specific violations during the inspection, including, but not limited to, the following.
+
+CGMP Violations
+
+1. Your firm failed to establish an adequate quality control unit with the responsibility and authority to approve or reject all components, drug product containers, closures, in-process materials, packaging materials, labeling, and drug products, including drug products manufactured, processed, packed or held under contract by another company. Your firm failed to establish adequate written responsibilities and procedures applicable to the quality control unit (211.22(a) and (d)).
+
+Your firm uses contract manufacturing organizations (CMOs) to perform various CGMP activities on your behalf. You have responsibility for CGMP activities you perform. In your response, you also maintained that you have CGMP responsibilities, including, but not limited to, oversight of stability and finished product testing, vendor qualification, and finished drug product release.
+
+During the inspection, you provided a procedure for approval and qualification of a contract warehouse, which includes requirements for assessments, audits and requalification. You acknowledged that you had not followed your procedure and had neither evaluated nor audited your contract warehouse used to store and distribute finished drug products. Also, you did not provide a procedure regarding qualification of your CMOs you use to manufacture your drug products.
+
+A) Inadequate QU oversight of your CMOs
+
+Your quality unit (QU) failed to institute adequate oversight and controls for your CMOs, which led to your use of multiple sub-standard CMOs. Since 2013, FDA has taken the following actions in response to CGMP violations found at your CMOs.
+
+(b)(4)
+
+In your response, you listed multiple corrective actions and explained that new corrective action and preventive action (CAPA) procedures will be systematically implemented at the discretion of a new QU. Your response was inadequate because you did not reference or provide any CAPA plans to ensure the proposed corrective actions will be monitored for adequate implementation and effectiveness. For example, you committed to hiring a “true” quality unit. You previously committed to hiring an “appropriate” quality unit following our July to August 2016 inspection. However, this corrective action was not effectively implemented.
+
+In your response, you also stated that your QU will audit your CMOs within (b)(4) of being put in place. However, your response was inadequate. You did not adequately address the need to establish qualification procedures to encompass all your existing CMOs and requalify them according to your updated procedures. In addition, you failed to provide any details about your audit process.
+
+In response to this letter, provide:
+
+? Qualification procedures that encompass all functions of CGMP activities your CMOs perform on your behalf.
+
+? Provisions for assessing the need to requalify and audit all CMOs you currently use.
+
+? A comprehensive assessment of your system for reviewing deviations, atypical events, complaints, out-of-specification results, and failures. Your CAPA plan should include, but not be limited to, improvements in written procedures and QU oversight of investigations and root cause analysis. Also include your process for evaluating CAPA plan effectiveness.
+
+B) Inadequate batch review and release
+
+As the drug product owner, you have final batch release responsibilities, which include determining whether drug products meet specifications for safety, identity, strength, quality, and purity. Our investigators found that your firm was not performing final reviews of each batch to determine its disposition. For example, your batch record review and release procedure requires the review of packaging records; however, your firm did not review packaging records before release. In addition, your procedure does not include a review of your CMO’s Certificate of Analysis (COA) as part of batch release. Determining the suitability of each batch for release is an essential component of your QU responsibilities.
+
+The quality agreement you have in place with (b)(4) which was effective on August 24, 2016, stipulated that the CMO is fully responsible for manufacturing, packaging, labeling, stability, and product testing, and release of your drug products. The quality agreement also indicated you had no responsibility for drug product release.
+
+A product owner cannot delegate finished product release decisions to its contractors.
+
+When you use a CMO for all or part of the manufacturing of a drug product, your QU is responsible for approving or rejecting the CMO’s products and services, including the suitability of releasing batches for commercial distribution.
+
+In your response, you stated that the root cause for lack of a QU was due to hiring a less-thanadequate third party to determine appropriate standard operating procedures and to identify all operational deficiencies with respect to CGMP requirements. Your response also states that your new QU will audit batch records after implementing your updated procedures for batch review, release, and approval. Your response was inadequate because you did not conduct a retrospective review of batch records to determine whether an action plan is necessary to address any potential product quality or patient safety risks for batches of your drug products currently in U.S. distribution.
+
+In response to this letter, provide the following:
+
+? A comprehensive assessment with CAPA to ensure your QU is given the authority and resources to effectively function. The assessment should also include, but not be limited to:
+
+o A determination of whether procedures used by your firm are robust and appropriate.
+o Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices.
+o A complete and final review of each batch and its related information before the QU disposition decision.
+o Oversight and approval of investigations, and discharging all other QU duties to ensure identity, strength, quality, and purity of all products.
+
+? A retrospective review of all batches released in commercial distribution and within expiry to determine if they meet specifications. Provide your action plan to address any product quality or patient safety risks for batches of your drug products in U.S. distribution, including potential customer notifications or recalls.
+
+2. Your firm failed to establish and follow adequate written procedures describing the handling of all written and oral complaints regarding a drug product (211.198(a)).
+
+Your firm failed to adequately establish and follow your complaint procedure, which stipulates that you receive complaints, inquiries, and adverse event information from consumers through a telephone number. Your toll-free number listed in your procedure was different than the number on your website and on your drug product labeling. You stated to FDA investigators that no drug product complaints were received for phenazopyridine and salsalate tablets since the last inspection. However, the voice mailbox used to receive and store complaints was full and incapable of receiving additional messages. Therefore, you were unable to receive complaints and investigate any associated manufacturing discrepancies.
+
+In your response, you explained you will send notifications to customers who received products without a toll-free number. Your response was inadequate because you did not address how you will effectively capture complaints that may not have been previously reported when the toll-free number was not listed on your firm’s website or product labeling.
+
+In response to this letter, provide the following:
+
+? Your plan to address potentially unreported complaints due to the lack of a listed and working toll-free number for complaints.
+
+? A list of complaints from all sources, including telephone numbers on your website and labeling, and summaries of all quality-related investigations associated with them.
+
+Repeat Violations at Facility
+
+During the July to August 2016 inspection, FDA cited similar CGMP violations. You proposed specific remediation for these violations in your response. These repeated failures demonstrate that executive management oversight and control over the manufacture of drugs is inadequate.
+
+Use of Contract Manufacturers
+
+Drugs must be manufactured in conformance with CGMP. FDA is aware that many drug manufacturers use independent contractors such as production facilities, testing laboratories, packagers, and labelers. FDA regards contractors as extensions of the manufacturer.
+
+You are responsible for the quality of your drugs, regardless of agreements in place with your CMOs. You are required to ensure that drugs are made in accordance with section 501(a)(2)(B) of the FD&C Act to ensure safety, identity, strength, quality, and purity.
+
+See FDA’s guidance document Contract Manufacturing Arrangements for Drugs: Quality Agreements at https://www.fda.gov/downloads/drugs/guidances/ucm353925.pdf.
+
+Quality Systems Guidance
+
+Your firm’s quality systems are inadequate. See FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations for help implementing quality systems and risk management approaches to meet the requirements of CGMP regulations 21 CFR, parts 210 and 211 at https://www.fda.gov/downloads/Drugs/Guidances/UCM070337.pdf.
+
+CGMP Consultant Recommended
+
+Because you failed to correct repeat violations, we strongly recommend engaging a consultant, qualified as set forth in 21 CFR 211.34, to assist your firm in meeting CGMP requirements.
+
+Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Unapproved New Drug Violation
+
+Inspection of your firm revealed that your firm caused the introduction or delivery for introduction into interstate commerce of salicylic acid 6% lotion in violation of sections 505(a) and 301(d) of the FD&C Act, 21 U.S.C. 355(a) and 331(d). Your salicylic acid 6% lotion is a “drug” within the meaning of section 201(g)(1) of the FD&C Act 21 U.S.C. 321(g)(1) because it is an article intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease in man or other animals and/or an article (other than food) intended to affect the structure or any function of the body of man or other animals. Labeling statements documenting the intended uses of your products include, but are not limited, to the following.
+
+Salicylic acid 6% lotion, labeled with statement of intended use:
+
+1. For Dermatologic Use: Salicylic Acid 6% is a topical aid in the removal of excessive keratin in hyperkeratotic skin disorders including verrucae, and the various ichthyoses (vulgaris, sexlinked and lamellar), keratosis palmaris and plantaris keratosis pilaris, pityriasis rubra pilaris, and psoriasis (including body, scalp, palms and soles).
+
+2. For Podiatric Use: Salicylic Acid 6% is a topical aid in the removal of excessive keratin on dorsal and plantar hyperkeratotic lesions. Topical preparations of 6% salicylic acid have been reported to be useful adjunctive therapy for verrucae plantares.
+
+Further, this drug is a “new drug” within the meaning of section 201(p) of the FD&C Act 21 U.S.C. 321(p) because it is not generally recognized as safe and effective for use under the conditions prescribed, recommended, or suggested in its labeling.
+
+Under section 505(a) of the FD&C Act, 21 U.S.C. 355(a), new drugs may not be introduced or delivered for introduction into interstate commerce unless applications approved by FDA under either section 505(b) or (j) of the FD&C Act 21 U.S.C. 355(b) or (j) are effective with respect to such drugs. There are no FDA-approved applications in effect for your product listed above. The introduction or delivery for introduction (or the causing thereof) into interstate commerce of new drugs in violation of section 505 is prohibited under 301(d) of the FD&C Act, 21 U.S.C. 331(d). Consequently, your marketing and distribution of this product without an approved application violate provisions of the FD&C Act.
+
+Misbranded Drug Violation
+
+According to section 502(f)(1) of the FD&C Act, 21 U.S.C. 352(f)(1), a drug is misbranded if, among other things, it fails to bear adequate directions for its intended use(s). “Adequate directions for use” means directions under which a layman can use a drug safely and for the purposes for which it is intended (21 C.R.F. 201.5).
+
+Salicylic acid 6% lotion is intended for conditions that are not amendable to self-diagnosis and treatment by individuals who are not medical practitioners and is therefore a prescription drug. A prescription drug, as defined in section 503(b)(1) of the FD&C Act, 21 U.S.C. 353(b)(1), is a drug that “because of its toxicity or potential for harmful effect, or the method of its use, or the collateral measures necessary to its use, is not safe for use except under the supervision of a practitioner licensed by law to administer such drugs.” Accordingly, adequate directions for use cannot be written for prescription drugs so that a layman can use them safely for their intended uses.
+
+Adequate directions for use cannot be written for salicylic acid 6% lotion. Moreover, salicylic acid 6% lotion is not exempt from the requirement that the labeling bear adequate directions for use because there is no FDA-approved application in effect for salicylic acid 6% lotion nor is there an effective IND. (See 21 C.F.R. 201.100(c)(2) and 201.115.) As such, salicylic acid 6% lotion is misbranded under section 502(f)(1) of the FD&C Act, 21 U.S.C. 352(f)(1). The introduction or delivery for introduction into interstate commerce of this misbranded product violates section 301(a) of the FD&C Act, 21 U.S.C. 331(a).
+
+Conclusion
+
+Violations cited in this letter are not intended as an all-inclusive list. You are responsible for investigating these violations, for determining the causes, for preventing their recurrence, and for preventing other violations.
+
+Correct the violations cited in this letter promptly. Failure to promptly correct these violations may result in legal action without further notice including, without limitation, seizure and injunction. Unresolved violations in this warning letter may also prevent other Federal agencies from awarding contracts.
+
+Until these violations are corrected, we may withhold approval of pending drug applications listing your facility. We may re-inspect to verify that you have completed your corrective actions. We may also refuse your requests for export certificates.
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic response to orapharm1_responses@fda.hhs.gov. Please identify your response with FEI #3012555723 and refer to Warning Letter #571774.
+
+If you have any questions, contact Compliance Officer James Mason at james.mason@fda.hhs.gov or 570-262-0519.
+
+Sincerely,
+/S/
+
+Diana Amador-Toro
+Program Division Director/District Director
+U.S. Food and Drug Administration
+OPQO Division I/New Jersey District

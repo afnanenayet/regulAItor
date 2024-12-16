@@ -1,0 +1,214 @@
+Delivery Method: 
+        UPS Next Day
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Craig Rudin
+          
+
+                                
+  
+    Recipient Title
+              CEO
+          
+
+          
+            Fuller Industries Inc.
+
+          
+                      1 Fuller Way
+Great Bend, KS 67530
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+           Division of Pharmaceutical Quality Operations III 
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+June 28, 2023
+
+WARNING LETTER
+WL 654425
+
+Dear Mr. Rudin:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Fuller Industries Inc., FEI 1922337, at 1 Fuller Way, Great Bend, from February 15 to 17, 2023.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding drug products do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your March 2, 2023 response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence. Your response is inadequate because it did not provide sufficient detail or evidence of corrective actions to bring your operations into compliance with CGMP.
+
+During our inspection, our investigator observed specific violations including, but not limited to, the following.
+
+1. Your firm’s quality control unit failed to exercise its responsibility to ensure drug products manufactured are in compliance with CGMP, and meet established specifications for identity, strength, quality, and purity (21 CFR 211.22).
+
+Your firm manufactures over-the-counter (OTC) topical drug products, such as antibacterial hand soaps and hand sanitizers.1 Your quality unit (QU) did not provide adequate oversight for the manufacture of your drug products. For example, your QU failed to ensure the following:
+
+
+	Assay testing for the active ingredient, chloroxylenol (PCMX) used in your antibacterial foam hand soap is performed, appropriately documented, and reviewed by your QU for every batch prior to batch release and distribution (21 CFR 211.165(a), 211.160(a), 211.22(c)).
+	Appropriate procedures for investigating out-of-specification (OOS) and other non-conformances, and accordingly to conduct thorough investigations, including for the pH of your antibacterial foam hand soap. In addition, some PCMX assay results appeared OOS and were not investigated (21 CFR 211.192).
+	Establishment of an adequate ongoing stability program (21 CFR 211.166(a)).
+	Establishment of appropriate identification of samples listed on test records. (21 CFR 211.194(a)).
+	Performance of annual product reviews (21 CFR 211.180(e)).
+
+
+An adequate QU overseeing all manufacturing operations is necessary to consistently ensure drug quality. See FDA’s guidance document Quality Systems approach to Pharmaceutical CGMP Regulations for help implementing quality systems and risk management approaches to meet the requirements of CGMP regulations 21 CFR parts 210 and 211 at https://www.fda.gov/media/71023/download.
+
+In response to this letter, provide:
+
+
+	A comprehensive assessment and remediation plan to ensure your QU is given the authority and resources to effectively function. The assessment should also include, but not be limited to:
+
+
+    o A determination of whether procedures used by your firm are robust and appropriate
+    o Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices
+    o A complete and final review of each batch and its related information before the QU disposition decision
+    o Oversight and approval of investigations and discharging of all other QU duties to ensure identity, strength, quality, and purity of all products
+
+
+	A comprehensive, independent assessment of your overall system for investigating deviations, discrepancies, complaints, OOS results, and failures. Provide a detailed action plan to remediate this system. Your action plan should include, but not be limited to, significant improvements in investigation competencies, scope determination, root cause evaluation, corrective action and preventive action (CAPA) effectiveness, QU oversight, and written procedures. Address how your firm will ensure all phases of investigations are appropriately conducted.
+	A comprehensive, independent assessment and CAPA plan to ensure the adequacy of your stability program. Your remediated program should include, but not be limited to:
+
+
+    o Stability-indicating methods
+    o Stability studies for each drug product in its marketed container-closure system before distribution is permitted
+    o An ongoing program in which representative batches of each product are added each year to the program to determine if the shelf-life claim remains valid
+    o Detailed definition of the specific attributes to be tested at each station (timepoint)
+    o All procedures that describe these and other elements of your remediated stability program
+
+2. Your firm failed to test samples of each component for identity and conformity with all appropriate written specifications for purity, strength, and quality. Your firm also failed to validate and establish the reliability of your component supplier’s test analyses at appropriate intervals (21 CFR 211.84(d)(1) and 211.84(d)(2)).
+
+You failed to perform adequate identity testing of each component lot used in the manufacture of your OTC drug products. You also relied on your suppliers’ certificate of analysis (COA) without establishing the reliability of your component suppliers’ test analyses at appropriate intervals.
+
+For example, you failed to adequately test the propylene glycol used in the manufacture of your antibacterial foam hand soap. The identity testing of propylene glycol includes a limit test per the United States Pharmacopeia (USP) to ensure that the component meets the relevant safety limits for the levels of diethylene glycol (DEG) or ethylene glycol (EG). Because you did not adequately perform the identity testing on each shipment of each propylene glycol lot using the USP identification test that detects these hazardous impurities, you failed to assure the acceptability of propylene glycol used in the manufacture of drug products.
+
+See FDA’s guidance document Testing of Glycerin, Propylene Glycol, Maltitol Solution, Hydrogenated Starch Hydrolysate, Sorbitol Solution, and Other High-Risk Drug Components for Diethylene Glycol and Ethylene Glycol, to help you meet the CGMP requirements when manufacturing drugs containing ingredients at risk for DEG or EG contamination, at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/testing-glycerin-propylene-glycol-maltitol-solution-hydrogenated-starch-hydrolysate-sorbitol.
+
+You also failed to appropriately test your incoming ethanol active pharmaceutical ingredient (API) for impurities such as methanol. The use of ethanol contaminated with methanol has resulted in various lethal poisoning incidents in humans worldwide.
+
+See FDA’s guidance document Policy for Testing of Alcohol (Ethanol) and Isopropyl Alcohol for Methanol, Including During the Public Health Emergency (COVID-19) to help you meet the CGMP requirements when manufacturing drugs containing ethanol at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/policy-testing-alcohol-ethanol-and-isopropyl-alcohol-methanol-including-during-public-health.
+
+In response to this letter, provide:
+
+
+	A comprehensive review of your material system to determine whether all suppliers of components, containers, and closures, are each qualified and the materials are assigned appropriate expiration or retest dates. The review should also determine whether incoming material controls are adequate to prevent use of unsuitable components, containers, and closures.
+	A description of how you will test each component lot for conformity with all appropriate specifications for identity, strength, quality, and purity. If you intend to accept any results from your supplier’s COA instead of testing each component lot for strength, quality, and purity, specify how you will robustly establish the reliability of your supplier’s results through initial validation as well as periodic revalidation. In addition, include a commitment to always conduct at least one specific identity test for each incoming component lot.
+	Results of tests for DEG and EG in retain samples of all propylene glycol lots, and tests results for methanol in retain samples of all ethanol lots, used to manufacture your drug products.
+	A full risk assessment for drug products that contain propylene glycol and or ethanol that are within expiry in the U.S. market. Take prompt CAPA and detail your future actions to ensure appropriate selection of your suppliers, ongoing scrutiny of their supply chain, and appropriate incoming lot controls.
+
+
+3. Your firm failed to establish laboratory controls that include scientifically sound and appropriate specifications, standards, sampling plans, and test procedures designed to assure that components, drug product containers, closures, in-process materials, labeling, and drug products conform to appropriate standards of identity, strength, quality, and purity (21 CFR 211.160(b)).
+
+You did not ensure that your test methods were appropriate for their intended use. You lacked a scientifically sound procedure for testing your antibacterial foam hand soap drug product for total solids. Your analysts provided our investigator with a non-validated test method from an internet search, which did not appear to be specific for your drug products, nor appropriate for any drug product. Laboratories must establish and validate (or verify, where appropriate) analytical methods and procedures to ensure the robustness and consistency of testing.
+
+In response to this letter, provide:
+
+
+	A comprehensive, independent assessment of your laboratory practices, procedures, methods, equipment, documentation, and analyst competencies. Based on this review, provide a detailed plan to remediate and evaluate the effectiveness of your laboratory system.
+	A list of chemical and microbial test methods and specifications used to analyze each lot of your drug product before making a lot disposition decision, and the associated written procedures.
+
+
+Quality Unit Authority
+
+Significant findings in this letter indicate that your QU is not able to fully exercise its authority and/or responsibilities. Your firm must provide the QU with the appropriate authority and sufficient resources to carry out its responsibilities and consistently ensure drug quality.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, you should engage a consultant qualified as set forth in 21 CFR 211.34 to evaluate your operations and to assist your firm in meeting CGMP requirements. The qualified consultant should also perform a comprehensive six-system audit2 of your entire operation for CGMP compliance and evaluate the completion and efficacy of your CAPA before you pursue resolution of your firm’s compliance status with FDA.
+
+Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+Correct any violations promptly. Failure to promptly and adequately address this matter may result in regulatory or legal action without further notice including, without limitation, seizure, and injunction. Unresolved violations may also prevent other Federal agencies from awarding contracts.
+
+Failure to address violations may also cause FDA to withhold issuance of Export Certificates. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to address any violations.
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Please address your reply via email to: ORAPHARM3_RESPONSES@fda.hhs.gov
+
+Attention: Brian Nicholson, Compliance Officer
+U.S. Food and Drug Administration
+Division of Pharmaceutical Quality Operations III
+
+Refer to the Unique Identification Number (Case# 654425), and FEI 1922337 when replying. If you have questions regarding the contents of this letter, please contact Mr. Brian Nicholson by phone at (630) 207-3007
+
+Sincerely,
+/S/
+
+Jeffrey Meng
+Program Division Director
+Division of Pharmaceutical Quality Operations III
+
+_________________________
+
+1 Due to an increased demand for alcohol-based hand sanitizers during the COVID-19 pandemic, FDA published the Guidance for Industry: Temporary Policy for Preparation of Certain Alcohol-Based Hand Sanitizer Products During the Public Health Emergency (COVID-19) on March 19, 2020, and subsequently updated the guidance several times. The guidance was withdrawn effective December 31, 2021 (86 Fed Reg at 56960). This guidance communicated the Agency’s temporary policy that we did not intend to take action against firms for CGMP violations under section 501(a)(2)(B) of the FD&C Act if such firms prepared alcohol-based hand sanitizers for consumer use (or for use as a health care personnel hand rub) during the public health emergency, provided certain circumstances described in the guidance are present. These circumstances included preparation of hand sanitizer products using only the ingredients and formulas set forth in the guidance. Because Fuller Industries Inc.’s hand sanitizer products are not consistent with the formulations described in these guidances, they do not fall within any temporary Agency policy not to take action against firm’s manufacturing hand sanitizer products for violations of section 501(a)(2)(B) of the FD&C Act.
+
+2 i.e., Quality System, Facilities & Equipment System, Materials System, Production System, Packaging & Labeling System, and Laboratory Control System per FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations.

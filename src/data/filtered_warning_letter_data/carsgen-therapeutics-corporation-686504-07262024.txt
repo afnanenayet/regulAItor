@@ -1,0 +1,147 @@
+Delivery Method: 
+        Via UPS and EMAIL
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+              Reference #: 
+        CBER 24-686504
+      
+              Product: 
+        Biologics                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Zonghai Li, M.D.
+          
+
+                                
+  
+    Recipient Title
+              Chief Executive Officer
+          
+
+          
+            CARsgen Therapeutics Corporation
+
+          
+                      4022 Stirrup Creek Drive
+Durham, NC 27703
+United States
+          
+          
+            
+            
+
+     zonghaili@carsgen.com
+
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Biologics Evaluation and Research
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+WARNING LETTER
+
+July 26, 2024
+
+CBER 24-686504
+
+Dear Dr. Li:
+
+The United States Food and Drug Administration (FDA) inspected your facility located at the above address between November 28, 2023, and December 6, 2023. During the inspection, FDA documented significant violations of current good manufacturing practice (CGMP) requirements, including requirements in 21 CFR parts 210 and 211, in the manufacture of your investigational new drugs and biological products, Fully Human Anti-BCMA (B-Cell Maturation Antigen) Autologous CAR T Cell (CT053; CAR-BCMA T Cells) and Humanized Anti-claudin 18.2 Autologous CAR T Cells (CT041; CAR-CLDN18.2 T Cells) (collectively, “your products”). Your products have been made available for use in a Phase 2 study, as described in 21 CFR 312.21(b).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. § 351(a)(2)(B). It is a prohibited act under section 301(k) of the FD&C Act, 21 U.S.C. § 331(k), to do any act with respect to a drug that results in the drug being adulterated, while held for sale after shipment of the drug or one or more of its components in interstate commerce. Your causing your products to be adulterated within the meaning of 501(a)(2)(B) of the FD&C Act, while your products are held for sale after shipment in interstate commerce of one or more of their components, is a prohibited act under section 301(k) of the FD&C Act, 21 U.S.C. § 331(k). Further, it is a prohibited act under section 301(a) of the FD&C Act, 21 U.S.C.§ 331(a) to cause the introduction or delivery for introduction into interstate commerce of any drug that is adulterated or misbranded. Your causing of your products to be introduced or delivered for introduction into interstate commerce is a prohibited act under section 301(a) of the FD&C Act, 21 U.S.C. § 331(a).
+
+At the conclusion of the inspection, FDA investigators issued a Form FDA-483, List of Inspectional Observations (Form 483), documenting significant CGMP violations observed during the inspection. The CGMP violations applicable to your products include, but are not limited to, the following:
+
+1. Your firm failed to maintain the buildings used in the manufacture, processing, packing, or holding of a drug product in a clean and sanitary condition and to keep them free of infestation by rodents, birds, insects, and other vermin. Trash and organic waste matter shall be held and disposed of in a timely and sanitary manner. [21 CFR 211.56(a)]. Specifically, on July 14, 2023, your Quality Assurance team observed a box of food from June 16, 2023, covered in scuttle fly pupae in the mechanical room which houses the air handling units and failed to remove the box of food until July 31, 2023. After this event, scuttle fly larvae were found in ten environmental and personnel monitoring samples collected in the cleanrooms in July 2023. Additionally, on July 26, 2023, in Suite (b)(4) Clean Room (b)(4) (Grade (b)(4)) a living scuttle fly was observed on the tube rack. Adequate control of insect infestation is needed to ensure product quality and safety.
+
+2. Your firm failed to establish an adequate system for preventing contamination and monitoring environmental conditions in aseptic processing areas. [21 CFR 211.42(c)(10)(iv)]. Your firm also failed to establish and follow appropriate written procedures that are designed to prevent microbiological contamination of drug products purporting to be sterile. [21 CFR 211.113(b)]. For example,
+
+a. Non-viable particulate monitoring is not being conducted during open manufacturing manipulations within the Grade (b)(4) utilized as the aseptic processing area for production of Humanized Anti-claudin 18.2 Autologous CAR T Cells (CT041). Non-viable particulate monitoring is critical for the detection of particulates in the manufacturing area as they pose patient harm for products administered intravenously as microorganisms can travel on particulates to contaminate the product.
+
+b. Viable microbial active air monitoring is not being conducted during open manufacturing manipulations within the Grade (b)(4) utilized as the aseptic processing area for production of your products. Viable microbial active air monitoring is important for the detection of microorganisms in the environment surrounding the product that is exposed to the manufacturing environment.
+
+3. Your firm failed to establish an adequate system for cleaning and disinfecting the room and equipment to produce aseptic conditions. [21 CFR 211.42(c)(10)(v)]. For example, you have not validated the cleaning process for the (b)(4) used in the production of your products purported to be sterile. Your Senior Vice President of Quality stated that your firm has not conducted a cleaning validation to ascertain that your cleaning process for manufacturing your products can adequately remove contamination from your manufacturing equipment and cleanroom. Cleaning validation is used to establish cleaning conditions effective against the removal of microorganisms commonly found in your manufacturing environment that pose a contamination risk to your sterile products.
+
+Your responses dated December 28, 2023, March 1, 2024, April 15, 2024 and May 23, 2024, are acknowledged. Your cleaning gap assessment, cleaning validation protocol and revisions to SOPs have been reviewed. While you indicate the cleaning program will assess the effective removal of bacteria and fungi from surfaces through a disinfectant efficacy study, you have failed to provide any results from this study. Without this information, it is unclear whether your disinfection process is effective for the removal of microorganisms that may contaminate your product.
+
+4. Your firm failed to establish written procedures for production and process control designed to assure that the drug products you manufacture have the identity, strength, quality, and purity they purport or are represented to possess. [21 CFR 211.100(a)]. For example, there was no procedure for 100% visual inspection of the final drug product to ensure that it is essentially free from visible particulates, which is necessary to ensure quality and purity prior to intravascular administration.
+
+5. Your firm failed to thoroughly investigate any unexplained discrepancy or failure of a batch or any of its components to meet any of its specifications, whether or not the batch had already been distributed. [21 CFR 211.192]. For example, there were excursions of the action limit associated with microbial monitoring of personnel in the Grade (b)(4) environment where your products are manufactured. During the investigation of these excursions, CAPAs were proposed but never implemented. Since that time, additional excursions for microbial monitoring of personnel action limit within Grade (b)(4) during manufacturing of your products have occurred. Your products have been released following these excursions. Appropriate CAPAs are to be identified and implemented in a timely manner to prevent recurrence of excursions.
+
+It is noted in your response dated April 15, 2024, that “CARsgen RTP site Deviation and CAPA SOPs (NC-SOP-QA-0006, NC-SOP-QA-0007 respectively)” became effective on January 31, 2024. Appropriate control mechanisms have been added to the CAPA SOP to ensure both implementation of CAPAs and verification of effectiveness checks are in place.” However, the updated SOPs have not been provided for review to determine suitability of the response in addressing this violation and providing for appropriate corrective action.
+
+The nature of your above-listed violations demonstrates that you have failed to ensure that your firm manufactures drug products that meet established specifications for identity, strength, quality, and purity.
+
+We have reviewed your correspondences dated December 28, 2023, March 1, 2024, April 15, 2024, and May 23, 2024, which respond to the Form FDA-483 and set forth your corrective actions. We acknowledge you have paused manufacturing your products as of December 12, 2023, notified clinics not to administer previously released drug products to patients, and have plans for disposition of products that remain in your control. As noted above in response to specific violations, you have not provided sufficient detail to assess the adequacy of your proposed corrective actions; for all other violations, FDA may need to verify your proposed corrective actions during an inspection of your facility.
+
+Neither this letter nor the observations noted on the Form 483, which were discussed with you at the conclusion of the inspection, are intended to be an all-inclusive list of violations that may exist at your facility. It is your responsibility to ensure full compliance with applicable requirements in the FD&C Act, Public Health Service Act (PHS Act), and all applicable regulations.
+
+This letter notifies you of our findings and provides you an opportunity to address them. Failure to adequately address these matters may result in regulatory action without further notice. Such actions may include seizure and/or injunction.
+
+We request that you respond in writing within fifteen (15) working days from your receipt of this letter, outlining the specific steps you have taken or plan to take to address any violations and prevent their recurrence. Include any documentation necessary to show that the matters have been addressed. If you cannot address these matters within fifteen (15) working days, please explain the reason for your delay and the timeframe for completion. If you do not believe your products are in violation of the FD&C Act, PHS Act, or applicable regulations, include your reasoning and any supporting information for our consideration.
+
+Send your electronic response to CBERDCMRecommendations@fda.hhs.gov. If you have questions regarding this letter, contact the Division of Case Management, CBER at (240) 402-9156.
+
+Sincerely,
+/S/
+
+Melissa J. Mendoza
+Director
+Office of Compliance and Biologics Quality
+Center for Biologics Evaluation and Research

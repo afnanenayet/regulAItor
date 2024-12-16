@@ -1,0 +1,225 @@
+Delivery Method: 
+        Via Email
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Dr. Jay S. Duker
+          
+
+                                
+  
+    Recipient Title
+              President and Chief Executive Officer
+          
+
+          
+            EyePoint Pharmaceuticals, Inc.
+
+          
+                      480 Pleasant St Ste B300
+Watertown, MA 02472-2468
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Office of Pharmaceutical Quality Operations Division I
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter 679747
+
+July 12, 2024
+
+Dear Dr. Duker:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, EyePoint Pharmaceuticals, Inc., FEI 3005508657, located at 480 Pleasant St., Ste. B300, Watertown, from February 6 to 15, 2024.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for the combination product. See Title 21 Code of Federal Regulations (CFR), part 4 and 21 CFR parts 210 and 211 (drug CGMP).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug product is adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your March 7, 2024 response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence.
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to thoroughly investigate any unexplained discrepancy or failure of a batch or any of its components to meet any of its specifications, whether or not the batch has already been distributed (21 CFR 211.192).
+
+You did not investigate all unexplained discrepancies and your investigations did not consistently identify root cause(s) or appropriate preventative actions. You also did not consistently conduct investigations in a timely manner to ensure other batches of the same product are not similarly affected.
+
+A. You did not investigate an atypically high release rate value for (b)(4) drug cores tested during release testing of the YUTIQ (fluocinolone acetonide intravitreal implant, 0.18 mg) drug product batch 2022-00008. The atypical release rate was recorded as approximately 0.65 ug/day with the other drug cores yielding approximately 0.17-0.28 ug/day against a specification of (b)(4) for the average release rate of the (b)(4) drug cores. The average release rate of 0.30 ug/day was reported without further comment. Batch 2022-00008 was released for distribution on October 26, 2022 and was subject to two complaints associated with failure to achieve the desired therapeutic effect.
+
+B. Investigations did not consistently identify appropriate preventative actions. For example, investigations into three roof leaks, which resulted in moisture ingress to environmentally controlled manufacturing areas since July 2023, did not identify any long-term preventive action(s).
+
+C. Investigations were not consistently conducted in a timely manner to ensure other batches of the same product were not similarly affected. For example, investigation OOS-23-003 was opened October 13,2023, due to YUTIQ batch 2023-00008 finished product failing release rate analysis (0.35 ug/day against a specification of (b)(4)). The (b)(4) investigation was due by December 12, 2023,and remained open through February 8, 2024, despite no documentation of an extension. Although batch 2023-00008 remained in quarantine, you continued to manufacture and release additional batches without completing the investigation and determining whether other batches were associated with the specific deficiency.
+
+You firm’s response is inadequate.
+
+We acknowledge your commitment to add a specification for individual core release rate of (b)(4) based on (b)(4) standard deviations from the (b)(4) specifications based on the analytical method’s (b)(4). However, you do not provide scientific justification for this acceptance criterion. You also do not commit to investigate and assess the impact of atypical release rates for individual cores observed in finished product testing for all similarly affected batches.
+
+You commit to work with the current building owner to initiate a comprehensive assessment of the building’s roof. You also report your intention to (b)(4). You do not commit to establish regular facility inspections to assure an appropriate state of maintenance and continued suitability to manufacture drug products, including and not limited to the inspection of roof(s).
+
+In response to this letter, provide:
+
+
+	A comprehensive, independent assessment of your overall system for investigating deviations, discrepancies, complaints, out-of-specification (OOS) results, and failures. Provide a detailed action plan to remediate this system. Your action plan should include, but not be limited to, significant improvements in investigation competencies, scope determination, root cause evaluation, corrective actions and preventive actions (CAPA) effectiveness, quality unit oversight, and written procedures. Address how your firm will ensure all phases of investigations are appropriately conducted.
+	A retrospective review of all investigations into OOS results and unexplained discrepancies for U.S. products, irrespective of whether the batch was ultimately distributed in the United States, for the last three years from the initial date of inspection and a report summarizing the findings of the analysis including the following:
+
+
+  o Determine whether investigations are thorough; and investigation findings, root cause(s), and CAPA are identified and scientifically justified.
+  o For all OOS results and unexplained discrepancies associated with laboratory testing and found to have an inconclusive or not root cause identified in the laboratory, include a thorough review of production (e.g., batch manufacturing records, adequacy of the manufacturing steps, suitability of equipment/facilities, variability of raw materials, process capability, deviation history, complaint history, batch failure history). Provide a summary of potential manufacturing root causes for each investigation, and any manufacturing operation improvements.
+
+
+	A retrospective review of historical release rate test results including those for in-process and finished product release, validation, and stability. The retrospective review should identify for investigation all instances of atypical release rate results including where one or more units exceeded the approved release rate specification.
+	Your CAPA plan to implement routine, vigilant operations management oversight of facilities and equipment. This plan should ensure, among other things, prompt detection of equipment/facilities performance issues, effective execution of repairs, adherence to appropriate preventive maintenance schedules, timely technological upgrades to the equipment/facility infrastructure, and improved systems for ongoing management review.
+
+
+2. Your firm failed to establish adequate written procedures for production and process control designed to assure that drug products you manufacture have the identity, strength, quality, and purity they purport or are represented to possess, and to follow all of your written production and process control procedures (21 CFR 211.100(a) and 211.100(b)).
+
+Your firm lacked adequate scientific procedures and practices to establish and verify ongoing control of the manufacturing process ensuring finished products consistently meet their purported purity, quality, and efficacy.
+
+A. The current manufacturing process for YUTIQ, including the (b)(4) mixing of a (b)(4) that supplies the active substance in the finished implant, was subject to process performance studies through the manufacture of a single batch. This did not scientifically demonstrate blend uniformity due to a sampling plan that failed to take into account the depth of the mixing bowl, and lacked justification for the number of samples collected, the size of each sample, and the preparation of the samples for analysis. The validation also resulted in an abnormal low yield of approximately 30% that was not subject to investigation.
+
+B. The (b)(4) machines used to apply nonpermeable silicone cap and the release rate controlling polyvinyl alcohol cap were noted to be used with air supply line pressures (b)(4) that are lower than the (b)(4) required by the vendor and by your written procedure. The (b)(4) machine vendor stated operation of the machines with air supply line pressures below (b)(4) may not yield a consistent deposit. Inconsistent deposits of capping materials can adversely impact both the rate of drug delivery and the duration of drug therapy provided by the affected core.
+
+C. Your Manufacturing Operations and Engineering organizations did not generate statistical process control charts to monitor manufacturing process performance (and control) as required by procedure. You generated various statistical process control charts during our inspection of your facility and identified four previously unrecognized adverse trends including those associated with damage to cores and poor polyvinyl alcohol capping that required investigation per your procedure.
+
+D. Operators were observed to wipe the (b)(4) machine dispenser tips with a cleanroom wipe after each use on an individual core. The (b)(4) machines are used to form the nonpermeable silicone cap and the release rate controlling polyvinyl alcohol cap on each implant. There is no procedure describing this practice.
+
+E. Your written procedure requires operators to place (b)(4) such that tips do not touch any surfaces between uses. Operators did not follow the written procedure as they were observed to place (b)(4) used to remove debris from cut cores directly on tables where the YUTIQ implants are manufactured. You previously committed to correct this practice following the 2021 inspection of your facility.
+
+You firm’s response is inadequate.
+
+In lieu of process validation studies, you attempted to retrospectively review past batches without scientifically establishing blend uniformity and other critical process performance indicators. You do not commit to conduct further process performance qualification studies that scientifically establish the ability of your manufacturing process to consistently yield finished products that meet their quality attributes.
+
+You also commit to follow your written procedure requiring the generation of statistical control charts to evaluate manufacturing process performance and control, but you do not commit to investigate why this procedure was not followed. You commit to add an instruction to the YUTIQ master batch record for operators to wipe (b)(4) machine dispenser tips after each use on an individual core, but you do not explain the significance of this practice in the manufacturing process or evaluate the risk of not performing this step.
+
+You commit to review all master batch records for other instances where critical control parameters like air supply line pressure for the (b)(4) machines are not specified and to revise the master batch records where appropriate. However, you do not scientifically establish the reliability of the (b)(4) machines when operated at sub-minimum air supply pressure for batches of YUTIQ that were released and distributed, and you do not indicate you investigated why the YUTIQ master batch record did not include an instruction establishing a critical control parameter(s) for operation of the (b)(4) machines. You also commit to retrain operators on handling of the (b)(4), but you do not investigate why previous commitments to address this practice failed or discuss the implementation of quality unit oversight of manufacturing operations.
+
+In response to this letter, provide:
+
+
+	A detailed summary of your validation program for ensuring a state of control throughout the product lifecycle, along with associated procedures. Describe your program for process performance qualification, and ongoing monitoring of both intra-batch and inter-batch variation to ensure a continuing state of control. Identify the qualified, independent expert(s) assisting in the review of your validation program and provide their qualifications and assessments.
+	A timeline for performing appropriate process performance qualification (PPQ) for each of your marketed drug products.
+	Include your process performance protocol(s), and written procedures for qualification of equipment.
+	Provide a detailed program for designing, validating, maintaining, controlling and monitoring each of your manufacturing processes that includes vigilant monitoring of intra-batch and inter-batch variation to ensure an ongoing state of control. Also, include your program for qualification of your equipment and facility.
+	Provide your investigations into personnel failing to follow procedures for the generation of statistical control charts used to identify and trigger investigation of adverse trends including but not limited to those mentioned above, and the handling of (b)(4).
+	A remediation plan that better assures ongoing management oversight throughout the manufacturing lifecycle of all drug products. Provide a more data-driven and scientifically sound program that identifies sources of process variability, and assures that manufacturing operations meet appropriate parameters and quality standards. This includes, but is not limited to, evaluating suitability of equipment for its intended use, ensuring quality of input materials, determining the capability and reliability of each manufacturing process step and its controls, and vigilant ongoing monitoring of process performance and product quality. Identify the qualified, independent expert(s) assisting in the assessment of management oversight of the manufacturing lifecycles and creation of the remediation plan. Provide the qualifications and assessments of the aforementioned qualified, independent expert(s).
+
+
+3. Your firm failed to establish and follow adequate control procedures to monitor the output and to validate the performance of those manufacturing processes that may be responsible for causing variability in the characteristics of in-process material and the drug product (21 CFR 211.110(a)).
+
+100% Manual Visual Inspection
+
+Your procedures governing the conduct of 100% manual visual inspection of in-process materials and finished drug products lack action levels for significant individual as well as cumulative defects beyond which will require investigation. Significant defects subject to identification and rejection during 100% manual visual inspection include but are not limited to: processing matter, damage (to the polyimide core), poor poly vinyl alcohol cap, and poor silicone cap. For example, the 100% manual visual inspection of YUTIQ batch (b)(4) resulted in the rejection of (b)(4) drug cores (approximately (b)(4) of the batch) due to poor poly vinyl alcohol caps, but no investigation was conducted into this unexplained discrepancy.
+
+You firm’s response is inadequate. You commit to establish relevant action levels for defects identified during 100% manual visual inspection, but you do not provide the actual action levels or the date by which this change will be implemented. You also do not commit to investigate the high rejection rate observed during the manufacture of YUTIQ batch (b)(4), and other batches similarly affected by high rejection rates.
+
+Drug Core Release Rate Testing
+
+Analytical procedures for the evaluation of finished product critical quality attributes are not consistently followed. Our investigators observed centrifuge tubes holding YUTIQ cores for release rate testing were (b)(4) used to incubate YUTIQ implants for release rate testing instead of the (b)(4) required in the analytical procedure. The use of the (b)(4) for incubation is necessary to approximate the physiological temperature of the eye where drug cores are implanted and (b)(4) of the centrifuge tubes can artificially bias test results towards a slower release rate.
+
+In response to this letter, provide:
+
+
+	A comprehensive, independent assessment of your in-process monitoring and sampling operations, focusing on each (b)(4) process step that can introduce variability. Provide your remediation plan to improve: (1) in-process detection of variation; (2) (b)(4) controls; and (3) sampling plans.
+	Your investigation(s) into finished product batches manufactured and released for distribution despite relatively high number of units rejected during the 100% manual visual inspection process.
+	A comprehensive, independent assessment of your laboratory practices, procedures, methods, equipment, documentation, and analyst competencies. Based on this review, provide a detailed plan to remediate and evaluate the effectiveness of your laboratory system.
+	Provide your investigation into the impact of (b)(4) of centrifuge tubes on release rate test results associated with data submitted in support of approved and pending drug applications, analytical method validation activities, manufacturing process validations, and released and distributed batches of finished drugs products that remain within expiry.
+
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, you should engage a consultant qualified as set forth in 21 CFR 211.34 to evaluate your operations and to assist your firm in meeting CGMP requirements. The qualified consultant should also perform a comprehensive six-system audit1 of your entire operation for CGMP compliance and evaluate the completion and efficacy of your corrective actions and preventive actions before you pursue resolution of your firm’s compliance status with FDA.
+
+Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Responsibilities as a Contractor
+
+Drugs must be manufactured in conformance with CGMP. FDA is aware that many drug manufacturers use independent contractors such as production facilities, testing laboratories, packagers, and labelers. FDA regards contractors as extensions of the manufacturer.
+
+You and your customer (b)(4) have a quality agreement regarding the manufacture of YUTIQ (fluocinolone acetonide intravitreal implant, 0.18 mg). You are responsible for the quality of drugs you produce as a contract facility regardless of agreements in place with application sponsors and product owners. You are required to ensure that drugs are made in accordance with section 501(a)(2)(B) of the FD&C Act for safety, identity, strength, quality, and purity. See FDA’s guidance document Contract Manufacturing Arrangements for Drugs: Quality Agreements at https://www.fda.gov/media/86193/download.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+Correct any violations promptly. Failure to promptly and adequately address this matter may result in regulatory or legal action without further notice including, without limitation, seizure and injunction. Unresolved violations may also prevent other Federal agencies from awarding contracts.
+
+Failure to address violations may also cause FDA to withhold issuance of Export Certificates. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to address any violations.
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Please send your firm’s response electronically to orapharm1_responses@fda.hhs.gov. Also, please identify your correspondence with FEI 3005508657, and WL 679747. If you have any questions, please contact Samina Khan, Compliance Officer, at samina.khan@fda.hhs.gov.
+.
+Sincerely,
+/S/
+
+Lisa Harlan
+Program Division Director
+Office of Pharmaceutical Quality Operations
+Division I
+
+_________________________
+
+1 i.e. Quality System, Facilities & Equipment System, Materials System, Production System, Packaging & Labeling System, and Laboratory Control System per FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations.

@@ -1,0 +1,182 @@
+Delivery Method: 
+        UPS Next Day
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Bradley M. Rayner
+          
+
+                                
+  
+    Recipient Title
+              President
+          
+
+          
+            Legacy Pharmaceutical Packaging LLC
+
+          
+                      13333 Lakefront Drive
+Earth City, MO 63045
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Division of Pharmaceutical Quality Operations III
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+October 3, 2022
+
+WARNING LETTER
+WL #633735
+
+Dear Mr. Rayner:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Legacy Pharmaceutical Packaging, LLC., FEI 3004453700, at 13333 Lakefront Drive, Earth City, Missouri, from April 12 to April 27, 2022.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+Additionally, because your drug products were prepared, packed, or held under insanitary conditions, whereby they may have become contaminated with filth or rendered injurious to health, your drug products are adulterated within the meaning of section 501(a)(2)(A) of the FD&C Act, 21 U.S.C. 351(a)(2)(A).
+
+We reviewed your May 17, 2022, response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence.
+
+CGMP violations
+
+During our inspection, our investigator observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to thoroughly investigate any unexplained discrepancy or failure of a batch or any of its components to meet any of its specifications, whether or not the batch has already been distributed (21 CFR 211.192).
+
+You repack and relabel numerous finished drug products intended to treat various conditions, such as (b)(4) and (b)(4). You also repack and relabel controlled substances, such as (b)(4) and (b)(4). Given the scope of drug products that you repackage and their intended uses, the prevention of mix-ups is paramount. You failed to adequately investigate the presence of foreign tablets in your drug products. For example, you documented product mix-ups in two separate investigations:
+
+• A bottle of (b)(4) tablets contained one foreign tablet of (b)(4) [Lot (b)(4)]. A recall was initiated in August 2021.
+
+• A bottle of (b)(4) tablets contained one foreign tablet of (b)(4) [Lot (b)(4)].
+
+Both investigations indicated potential equipment design flaws, inappropriate cleaning, and ineffective line clearance. While you identified some corrective actions and preventive actions (CAPA) to address equipment design and cleaning, you did not extend the investigation to determine whether other batches in the same packaging line or within the same facility may also have been impacted.
+
+Furthermore, although you identified the existence of non-contemporaneous documentation during your investigation, you failed to address records being filled out for work not performed, such as for the (b)(4) filler cleaning checklist.
+
+In your response, you state that you would expand your previous investigations, and modify your root cause assessment for all investigations. However, your response is inadequate because you have yet to extend the investigation to other batches. In addition, your response does not address why activities were not documented at the time of performance, nor does it evaluate the reliability and accuracy of all manufacturing documentation.
+
+Inadequate investigations can lead to unidentified root causes, ineffective CAPA, and recurring problems that compromise the ability to manufacture safe and effective drug products. In addition, operators documenting activities that were not performed may increase the risk for additional product mix-ups.
+
+In response to this letter, provide:
+
+• A comprehensive, independent written evaluation of packaging and labeling operations, with emphasis on failure modes, capability, and design sufficiency. Provide an analysis including, but not limited to, the following factors:
+    o All human interactions with equipment before, during, and after (e.g., clearance) operations to identify all points with potential for human error
+    o Equipment design and suitability for intended use
+    o Capability of all process steps
+    o Retrospective review of batches (i.e., defect types and frequencies; deviations; complaints; related investigations)
+    o Analysis of equipment maintenance and repair history
+    o Sufficiency of all detection systems and related analytics
+    o Facility layout and personnel/material flow
+
+• A comprehensive, independent assessment of your overall system for investigating deviations, discrepancies, complaints, out-of-specification (OOS) results, and failures. Provide a detailed action plan to remediate this system. Your action plan should include, but not be limited to, significant improvements in investigation competencies, scope determination, root cause evaluation, CAPA effectiveness, quality assurance oversight, and written procedures. Address how your firm will ensure all phases of investigations are appropriately conducted.
+
+• A comprehensive, independent, retrospective assessment of your cleaning effectiveness to evaluate the scope of cross-contamination hazards. Include the identity of residues, other packaging equipment that may have been improperly cleaned, and an assessment whether cross-contaminated products may have been released for distribution. The assessment should identify any inadequacies of cleaning procedures and practices, and encompass each piece of manufacturing equipment used to manufacture more than one product.
+
+• Your action plan to address any product quality or patient safety risks for your drug products in U.S. distribution:
+    o Include review of customer complaints.
+    o Include evaluation of retain samples, and provide summary of all results obtained from testing retain samples from each batch. If such testing reveals substandard quality drug products, take rapid corrective actions, such as notifying customers and product recalls.
+
+Adulterated Drugs - Insanitary Conditions
+
+During the inspection, our investigator reviewed a production recording of active filling operations, where one of your operators was observed to pick individual tablets up off of the floor and place them directly into the feed hopper. Therefore, your drug products are considered adulterated under section 501(a)(2)(A) of the FD&C Act. This is also a violation of section 501(a)(2)(B) of the FD&C Act, see 21 CFR 211.113(a).
+
+Furthermore, during the inspection, you opened an “event” for the incident only after it was brought to your attention by the FDA investigator. However, this “event” only considered the operator practices for improper unloading of material from the (b)(4) into the hopper and for returning rejected and reclaimed material back into the filling hopper during the production run. You did not discuss or evaluate how to prevent operators from picking tablets up off of the floor and putting them into the feed hopper during production.
+
+In your response, you indicate your intent to update your procedures so that reclaimed material is placed into a pail and inspected before returning any material to the line. However, your response is inadequate because you did not evaluate the impact on product quality for the lot where individual tablets were picked up off of the floor, did not provide assurance that material which comes into contact with the floor will not be re-introduced into any batches, did not extend the investigation to other batches, and did not conduct any risk assessment or retrospective review to evaluate the impact on the quality of other batches.
+
+CGMP Consultant Recommended
+
+We acknowledge you engaged a consultant to assist your firm in meeting CGMP requirements. Your firm’s executive management is responsible for ensuring the consultant is qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements. The qualified consultant should also perform a comprehensive audit of your entire operation for CGMP compliance and evaluate the completion and efficacy of your corrective actions and preventive actions before you pursue resolution of your firm’s compliance status with FDA. Your use of a consultant does not relieve your firm’s obligation to comply with CGMP, and your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+Correct any violations promptly. Failure to promptly and adequately address this matter may result in regulatory or legal action without further notice including, without limitation, seizure, and injunction. Unresolved violations may also prevent other Federal agencies from awarding contracts.
+
+Failure to address violations may also cause FDA to withhold issuance of Export Certificates. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to address any violations.
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Please address your reply via email to: ORAPHARM3_RESPONSES@fda.hhs.gov
+
+Attention: Brian D. Garthwaite, Ph. D.
+Compliance Officer
+U.S. Food and Drug Administration
+Division of Pharmaceutical Quality Operations III
+
+Your written notification should refer to the Warning Letter Case Number above (#633735). If you have questions regarding the contents of this letter, please contact Dr. Garthwaite at (612) 758-7132.
+
+Sincerely,
+/S/
+
+CDR Jeffrey D. Meng
+Program Division Director
+Division of Pharmaceutical Quality Operations III

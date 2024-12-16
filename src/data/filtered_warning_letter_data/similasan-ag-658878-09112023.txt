@@ -1,0 +1,300 @@
+Delivery Method: 
+        Via Email
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Urs Lehmann
+          
+
+                                
+  
+    Recipient Title
+              CEO
+          
+
+          
+            Similasan AG
+
+          
+                      Industriestrasse 27
+6060 Sarnen
+Switzerland
+          
+          
+            
+            
+
+     Urs.lehmann@similasan.swiss
+
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research | CDER
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+WARNING LETTER
+
+September 11, 2023
+
+RE: 658878
+
+Dear Urs Lehmann and Dan Quail
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Similasan AG, FEI 1000110034, at Chriesiweg 6, Jonen, from March 27 to April 4, 2023. This letter is to advise you that FDA reviewed the information related to the inspection, including Similasan’s response to the FDA Form 483 and follow-up that Similasan submitted on June 19, 2023 in response to FDA’s request for information, which included product labels for multiple drug products. We also reviewed Similasan’s website at the Internet address https://www.similasanusa.com/. The FDA has observed that your website directs consumers in the United States (U.S.) to the linked websites of U.S. retailers where your drug products can be purchased, including “Similasan Dry Eye Relief,” “Similasan Complete Eye Relief,” “Similasan Allergy Eye Relief,” “Similasan Kids Allergy Eye Relief,” “Similasan Red Eye Relief,” “Similasan Pink Eye Relief,” “Similasan Kids Pink Eye Relief,” “Similasan Aging Eye Relief,” “Similasan Computer Eye Relief,” “Similasan Stye Eye Relief,” “Similasan Pink Eye Nighttime Gel,” and “Similasan Dry Eye Nighttime Gel” (hereinafter “your ophthalmic products”). Based on our review, these products are unapproved new drugs under section 505(a) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 355(a). As explained further below, introducing or delivering these products for introduction into interstate commerce violates sections 301(d) and 505(a) of the FD&C Act, 21 U.S.C. 331(d) and 355(a).
+
+This warning letter also summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B). We reviewed your April 21, 2023 response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence.
+
+Your unapproved ophthalmic drug products are especially concerning from a public health perspective, particularly given your firm’s significant violations of CGMP regulations. Ophthalmic drug products, which are intended for administration into the eyes, in general pose a greater risk of harm to users because the route of administration for these products bypasses some of the body’s natural defenses.1
+
+Unapproved New Drugs
+
+Based on a review of your product labeling, including on your website, your ophthalmic products are drugs under section 201(g)(1) of the FD&C Act, 21 U.S.C. 321(g)(1), intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease, and/or intended to affect the structure or any function of the body. Examples of claims from your product labeling, including on your website https://www.similasanusa.com/, that provide evidence of the intended use of these products as drugs include, but may not be limited to, the following:
+
+Similasan Dry Eye Relief
+• “Use As Often As Needed For •Dryness •Redness •Soothes •Moisturizes”
+• “[T]emporarily relieve minor symptoms such as: •dry eye •redness of eyes and lids •reflex watering secondary to dry eye”
+
+Similasan Complete Eye Relief
+• “Use As Often As Needed For •Redness •Burning •Watering •Grittiness •Dryness •Irritation”
+• “[T]emporarily relieve minor symptoms such as: •redness of eyes and eye lids •dry eye •reflex watering secondary to dry eye •sensation of grittiness •sensation of burning”
+• “Similasan Complete Eye Relief is designed for temporary multi-symptom relief from redness, burning, watering, grittiness, dryness, and irritation”
+
+Similasan Allergy Eye Relief
+• “Use As Often As Needed For •Itching •Burning •Watering •Redness”
+• “[T]emporarily relieve minor eye allergy symptoms such as: •itching •burning •excessive watering •redness of eyes and lids”
+
+Similasan Kids Allergy Eye Relief
+• “Use As Often As Needed For •Itching •Burning •Watering •Redness”
+• “[T]emporarily relieve minor eye allergy symptoms such as: •itching •burning •excessive watering •redness of eyes and lids”
+
+Similasan Red Eye Relief
+• “Use As Often As Needed For •Redness •Stinging •Irritation •Watering”
+• “[T]emporarily relieve minor eye symptoms such as: •itching •burning •redness of eyes and lids •stinging •excessive watering •irritation”
+
+Similasan Pink Eye Relief
+• “Use as often as needed for •Redness •Burning •Watery Discharge •Sensation of Grittiness”
+• “[T]emporarily relieve minor eye symptoms such as: •excessive watery (clear) discharge •sensation of grittiness •redness and burning”
+• “Similasan eye drops soothe and provide temporary relief of the following symptoms: •Redness •Burning •Watery discharge •Sensation of Grittiness”
+
+Similasan Kids Pink Eye Relief
+• “Use As Often As Needed For •Redness •Burning •Dryness •Stinging •Grittiness •Watering”
+• “[T]emporarily relieve minor symptoms such as: •redness of the eyes •irritation, dryness, and burning •sensation of grittiness, stinging •excessive watering (clear)”
+
+Similasan Aging Eye Relief
+• “Multi-Symptom Relief •Blurred Vision •Eyestrain •Tearing due to Dryness”
+• “[T]emporarily relieve minor symptoms such as: •Blurred vision •Eye Strain •Tearing due to dryness”
+• “Eye drops for symptoms of aging eyes such as cloudy or blurry vision”
+• “Similasan Aging Eye Relief eye drops are specially designed to support corneal and macular health, and […] provide temporary relief for dryness”
+
+Similasan Computer Eye Relief
+• “Use As Often As Needed For •Aching Eyes •Eye Strain •Burning •Redness”
+• “[T]emporarily relieve minor symptoms such as: •aching eyes •burning •redness •strained eyes (Computer, TV, reading, driving)”
+• “[T]emporarily relieve the symptoms of eye strain that may include blurred vision, hypersensitivity to light, and dry eyes”
+
+Similasan Stye Eye Relief
+• “Multi-Symptom Relief •Redness •Burning •Tearing”
+• “[T]emporarily relieve minor symptoms such as: •redness •burning •eyelid redness •tearing”
+• “[T]emporarily relieve symptoms of styes, such as redness, burning, and tearing”
+
+Similasan Pink Eye Nighttime Gel
+• “Use As Often As Needed For •Redness •Burning •Watery Discharge •Sensation of Grittiness”
+• “[T]emporarily relieve minor eye symptoms: •excessive watery (clear) discharge •sensation of grittiness •redness and burning”
+• “Pink Eye Nighttime Gel is a thicker formula made for overnight relief from pink eye symptoms: •Redness •Burning •Watery discharge • Sensation of Grittiness”
+
+Similasan Dry Eye Nighttime Gel
+• “Use As Often As Needed For •Dryness •Redness”
+• “[T]emporarily relieve minor eye symptoms such as: •dry eye •redness of eyes and lids •reflex watering secondary to dry eye”
+• “Dry Eye Nighttime Gel is a thicker gel formula made for nighttime and overnight relief of dry eye symptoms: •Dryness •Redness •Soothes & moisturizes”
+
+Your ophthalmic products are not generally recognized as safe and effective (GRASE) for their above referenced uses and, therefore, these products are “new drugs” under section 201(p) of the FD&C Act, 21 U.S.C. 321(p). With certain exceptions not applicable here, a new drug may not be introduced or delivered for introduction into interstate commerce without an approved application from FDA in effect, as described in sections 505(a) and 301(d) of the FD&C Act, 21 U.S.C. 355(a) and 331(d). No FDA-approved application pursuant to section 505 of the FD&C Act, 21 U.S.C. 355, is in effect for your ophthalmic products. Accordingly, the introduction or delivery for introduction into interstate commerce of these products violates sections 301(d) and 505(a) of the FD&C Act, 21 U.S.C. 331(d) and 355(a).
+
+We recognize that your ophthalmic products are labeled as homeopathic drugs with active ingredient(s) measured in homeopathic strengths. Under section 201(g)(1) of the FD&C Act, 21 U.S.C. 321(g)(1), the term “drug” includes articles recognized in the official Homeopathic Pharmacopeia of the United States (HPUS), or any supplement to it. Homeopathic drug products are subject to the same statutory requirements as other drugs; nothing in the FD&C Act exempts homeopathic drugs from any of the requirements related to adulteration, misbranding, or FDA approval.
+
+We note that Similasan’s information submission to FDA in June 2023 included product labels for additional ophthalmic products (i.e., “Similasan Children’s Allergy Eye Relief,” “Similasan Children’s Pink Eye Relief,” and “Similasan Irritated Eye Relief”) that are not currently listed on Similasan’s U.S. website. Please be advised that the violations and safety concerns outlined above also apply to these products if introduced into U.S. commerce.
+
+CGMP Violations
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following:
+
+1. Your firm failed to establish and follow appropriate written procedures that are designed to prevent microbiological contamination of drug products purporting to be sterile, and that include validation of all aseptic and sterilization processes. (21 CFR 211.113(b))
+
+The written procedures for your media fills were not appropriate because they failed to accurately simulate commercial manufacturing. Our inspection found that aseptic interventions simulated during your media fills were not sufficiently representative of commercial aseptic manufacturing. For example, the number of interventions conducted during your manually intensive commercial operations exceeded the number performed during your media fills as follows,
+
+• (b)(4), batch (b)(4), documented 38 interventions in the cap (b)(4) area during manufacture and 14 interventions were simulated during your supportive media fill
+• (b)(4), batch (b)(4), documented 40 interventions in the cap (b)(4) area during manufacture and 23 interventions were simulated during your supportive media fill
+
+Your inadequate media fill studies compromise your ability to accurately assess the state of validation and process control. To ensure a valid assessment, it is critical that media fill studies accurately simulate the number and type of interventions that occur during commercial manufacturing.
+
+Furthermore, interventions may increase contamination risks during aseptic manufacturing.
+
+Your response states that you plan to include these and other interventions in the next media fill simulation, scheduled for June 2023. Your response failed to include a risk assessment or investigation to determine whether the safety of your drug products are impacted by the excessive manual interventions during aseptic operations.
+
+You may refer to FDA’s guidance document Sterile Drug Products Produced by Aseptic Processing—Current Good Manufacturing Practice to help you meet the CGMP requirements when manufacturing sterile drugs using aseptic processing at https://www.fda.gov/media/71026/download.
+
+In response to this letter, provide:
+
+• Comprehensive risk assessment of all contamination hazards with respect to your aseptic processes, equipment, and facilities, including an independent assessment that includes, but is not limited to:
+    o All human interactions within the ISO 5 area
+    o Equipment placement and ergonomics
+    o Air quality in the ISO 5 area and surrounding room
+    o Facility layout
+    o Personnel Flows and Material Flows (throughout all rooms used to conduct and support sterile operations)
+
+• A detailed remediation plan with timelines to address the findings of the contamination hazards risk assessment. Describe specific tangible improvements to be made to aseptic processing operation design and control.
+
+2. Your firm failed to establish laboratory controls that include scientifically sound and appropriate specifications, standards, sampling plans, and test procedures designed to assure that components, drug product containers, closures, in-process materials, labeling, and drug products conform to appropriate standards of identity, strength, quality, and purity. (21 CFR 211.160(b))
+
+You failed to establish and conduct 100% visual inspections of your ophthalmic drug products to ensure that each container is essentially free of visible particulates. Since at least June 23, 2022, your established in-process inspection procedure for in-process inspection for visible particulates was limited to acceptable-quality-limits (AQLs). The use of AQL sampling is intended as an additional analysis routinely conducted as part of the quality release processes only after performing 100% visual inspection. Your failure to conduct 100% visual inspection increases the risk for the release of ophthalmic drug product with visible particulate contamination.
+
+Your response states that your (b)(4) particle inspection system’s imaging processing, that you qualified in 2022 and utilized for 100% visual inspection, “was too slow” and the rejection rate was too high with “false positive[s]” so you suspended its use and implemented manual visual inspections using AQLs, with no 100% visual inspection. As a corrective action, you planned to re-introduce the (b)(4) system on May 1, 2023.
+
+Your response is inadequate. There is no commitment to conduct a retrospective review for your released drug products that only relied on the AQL sampling to try and assure product quality and limit patient risk. Additionally, your response did not include supportive documentation for routine osmolarity testing of your ophthalmic drug products.
+
+In response to this letter, provide:
+
+• Improved in-process testing and monitoring to enhance detection of variation during production of each batch. Include remediated in-process quality standards, including but not limited to enhanced sampling, that will more robustly monitor (b)(4) process control. Describe how the improvements will ensure early detection of process variation and manufacturing defects, and prevent consumer exposure to substandard quality drug products.
+
+• Given that your container closure system uses an (b)(4) vial, provide data supporting that your (b)(4) particle inspection system can adequately detect particles within your container closure.
+
+• For all batches that you have not conducted 100% visual inspection, conduct 100% visible inspection of your retain samples. If you obtain out-of-specification (OOS) results, conduct investigations and provide your completed investigations, including conclusions and take appropriate market action for all batches of drug products confirmed not meeting specifications.
+
+• Supportive documentation clarifying whether you are conducting routine osmolarity testing for your topical ophthalmic drug products for release and stability testing.
+
+3. Your firm failed to ensure that laboratory records included complete data derived from all tests necessary to ensure compliance with established specifications and standards. (21 CFR 211.194(a))
+
+Your laboratory records do not include complete testing data to support the analysis performed. For example, negative controls for sterility testing are not documented at the time of performance. The absence of concurrently performed negative controls during sterility testing does not allow full assessment of the suitability of the testing performed.
+
+All CGMP-related data must be retained to enable appropriate assessments and decisions by the QU and to demonstrate ongoing control. The lack of complete testing records compromises the integrity of the testing results.
+
+In your response, you state that you will implement new test method records for standard preparations. You also state that you will follow your test procedures in accordance with the compendial method, and finished product test results reported by the quality control unit for sterile drug products will be accurately recorded. Your response is inadequate because there is no commitment to conduct retrospective reviews for tested products and training of employees to correct deficient practices.
+
+In response to this letter, provide:
+
+• A complete assessment of documentation systems used throughout your manufacturing and laboratory operations to determine where documentation practices are insufficient. Include a detailed CAPA plan that comprehensively remediates your firm’s documentation practices to ensure you retain attributable, legible, complete, original, accurate, contemporaneous records throughout your operation.
+
+• Your action plan to address any product quality or patient safety risks for your drug products in U.S. distribution, including potential customer notifications and recalls.
+
+4. Your firm failed to establish an adequate quality unit and the responsibilities and procedures applicable to the quality control unit are not in writing and fully followed (21 CFR 211.22(a) and 211.22(d)).
+
+Your quality unit (QU) did not provide adequate oversight for the manufacture of your drug products. For example, your QU failed to ensure:
+
+• Adequate procedures for that are designed to prevent microbiological contamination of drug products purporting to be sterile (21 CFR 211.113(b)).
+
+• Adequate procedures to establish laboratory controls that include scientifically sound and appropriate specifications, standards, and sampling plans sampling plans, and test procedures designed to assure that drug products conform to appropriate standards of identity, strength, quality, and purity (21 CFR 211.160(b)).
+
+• Adequate procedures to ensure that laboratory records included complete data (21 CFR 211.194(a)).
+
+• Adequate QU oversight to ensure the use of harmless components1 in your drug products.
+
+Your firm’s quality systems are inadequate. You may refer to FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations for help implementing quality systems and risk management approaches to meet the requirements of CGMP regulations 21 CFR, parts 210 and 211 at https://www.fda.gov/media/71023/download.
+
+In response to this letter, provide:
+
+• A comprehensive assessment and remediation plan to ensure your QU is given the authority and resources to effectively function. The assessment should also include, but not be limited to:
+    o A determination of whether procedures used by your firm are robust and appropriate
+    o Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices
+    o A complete and final review of each batch and its related information before the QU disposition decision
+    o Oversight and approval of investigations and discharging of all other QU duties to ensure identity, strength, quality, and purity of all products
+    o Also describe how top management supports quality assurance and reliable operations, including but not limited to timely provision of resources to proactively address emerging manufacturing/quality issues and to assure a continuing state of control.
+    o Take prompt and appropriate actions for all batches of drug products that contain unacceptable levels of ingredients that could cause them to be harmful, including customer notifications and other applicable market actions for any batches containing harmful ingredients. Detail these actions in your response to this letter.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, you should engage a consultant qualified as set forth in 21 CFR 211.34 to evaluate your operations and to assist your firm in meeting CGMP requirements if your firm intends to resume manufacturing drugs for the U.S. market. The qualified consultant should also perform a comprehensive six-system audit of your entire operation for CGMP compliance and evaluate the completion and efficacy of your corrective actions and preventive actions before you pursue resolution of your firm’s compliance status with FDA.
+
+Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Products Containing Glycerin and Sorbitol Solution
+
+You manufacture multiple drugs that contain glycerin or sorbitol solution. Identity testing for these and certain other high-risk drug components2 includes a limit test in the United States Pharmacopeia (USP) to ensure that the component meets the relevant safety limits for levels of diethylene glycol (DEG) or ethylene glycol (EG).
+
+The use of ingredients contaminated with DEG or EG has resulted in various lethal poisoning incidents in humans worldwide. See FDA’s guidance document Testing of Glycerin, Propylene Glycol, Maltitol Solution, Hydrogenated Starch Hydrolysate, Sorbitol Solution, and Other High-Risk Drug Components for Diethylene Glycol and Ethylene Glycol at https://www.fda.gov/media/167974/download, to help you meet the CGMP requirements when manufacturing drugs containing ingredients at high-risk for DEG or EG contamination.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive statement of violations that may exist in connection with your products and at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations. It is your responsibility to ensure that your firm complies with all requirements of federal law, including FDA regulations.
+
+FDA placed all products from your establishment in Switzerland on Import Alert 66-40 on July 24, 2023.
+
+Correct any violations promptly. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to any violations.
+
+This letter notifies you of our concerns and provides you an opportunity to address them. Failure to adequately address this matter may result in legal action including, without limitation, seizure and injunction. In addition, please note that unapproved new drugs are subject to refusal of admission into the United States, and such products may be subject to detention without physical examination. For more information about detention without physical examination, see Import Alert 66-41.
+
+Please notify FDA in writing, within fifteen working days of receipt of this letter, of the specific steps you have taken to correct any violations. Include an explanation of each step being taken to prevent the recurrence of violations, as well as copies of related documentation. If you believe that your products are not in violation of the FD&C Act, include your reasoning and any supporting information for our consideration. If you cannot complete corrective action within fifteen working days, state the reason for the delay and the time within which you will complete the correction. Your response should be sent to U.S. Food and Drug Administration, CDER/OC/Office of Unapproved Drugs and Labeling Compliance by email to FDAAdvisory@fda.hhs.gov.
+
+Sincerely,
+/S/
+
+Jill Furman
+Director
+Office of Compliance
+Center for Drug Evaluation and Research
+Food and Drug Administration
+
+___________________________
+
+1 We note that your ophthalmic drug products utilize silver sulfate as a preservative. The Agency has significant concerns regarding the safety of silver sulfate for use as an ophthalmic preservative. Long term use of medicinal compounds containing silver may cause argyria, which is a blueish-gray discoloration of the skin and eyes that is irreversible. Additionally, granular deposits of silver in the conjunctiva and cornea may cause decreased night vision. Accordingly, we are concerned that your use of silver sulfate as a preservative in your ophthalmic products is inconsistent with 21 C.F.R. 200.50(b)(1), under which ophthalmic preservatives should be “suitable and harmless.” FDA relayed our concerns regarding this issue with you on July 14, 2023.
+
+2 Components with higher risk of DEG or EG contamination compared to other drug components.

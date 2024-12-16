@@ -1,0 +1,249 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Yong (Roger) Ding
+          
+
+                                
+  
+    Recipient Title
+              President
+          
+
+          
+            Landy International
+
+          
+                      No. 192-196 Tianfeng Road
+Jimei Qu
+Xiamen Shi
+Fujian Sheng, 361021
+China
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research | CDER
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter 320-24-43
+
+June 12, 2024
+
+Dear Mr. Ding:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Landy International, FEI 3005698871, at No. 192-196, Tianfeng Road, Jimei District, Xiamen, from December 11 to 14, 2023.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your December 29, 2023 response to our Form FDA 483 in detail.
+
+During the inspection, our investigators observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to have, for each batch of drug product, appropriate laboratory determination of satisfactory conformance to final specifications for the drug product, including the identity and strength of each active ingredient, prior to release (21 CFR 211.165(a)).
+
+Your firm manufactures over-the-counter (OTC) hand sanitizers drug products.1 Your firm failed to adequately test batches of your hand sanitizer drug products for the identity and strength of your active ingredient, ethanol, before release and distribution. This is a repeat observation from the previous January 2017 FDA inspection.
+
+In your response, you state “21CFR211.110 was not fully understood” by your employees and that you will conduct training on 21 CFR part 211. You also state you will perform testing on samples of finished batches that remained in your warehouse. Your response is inadequate. You failed to provide sufficient details of your corrective actions, cited the incorrect regulatory requirement, and did not commit to performing a risk assessment of products released without appropriate assay testing.
+
+Because you lacked adequate testing of each batch of your drug product, you do not know whether they conform to all appropriate finished product specifications and are suitable for release and distribution.
+
+In response to this letter, provide:
+• A comprehensive, independent assessment of your laboratory practices, procedures, methods, equipment, documentation, and analyst competencies. Based on this review, provide a detailed plan to remediate and evaluate the effectiveness of your laboratory system.
+• A list of chemical and microbial specifications, including test methods, used to analyze each lot of your drug products before a lot disposition decision.
+    o An action plan and timelines for conducting full chemical and microbiological testing of retain samples to determine the quality of all batches of drug product distributed to the United States that are within expiry as of the date of this letter.
+    o A summary of all results obtained from testing retain samples from each batch. If such testing reveals substandard quality drug products, take rapid corrective actions, such as notifying customers and product recalls.
+
+2. Your firm failed to test samples of each component for identity and conformity with all appropriate written specifications for purity, strength, and quality. Your firm also failed to validate and establish the reliability of your component supplier’s test analyses at appropriate intervals (21 CFR 211.84(d)(1) and 211.84(d)(2).
+
+You failed to perform adequate identity testing of each component lot used in the manufacture of your OTC drug products. You also relied on your suppliers’ certificate of analysis (COA) without establishing the reliability of your component suppliers’ test analyses at appropriate intervals.
+
+Ethanol
+
+You also failed to adequately test your incoming ethanol, used as an active pharmaceutical ingredient, for methanol. The use of ethanol contaminated with methanol has resulted in various lethal poisoning incidents in humans worldwide. See FDA’s guidance document Policy for Testing of Alcohol (Ethanol) and Isopropyl Alcohol for Methanol to help you meet the CGMP requirements when manufacturing drugs containing ethanol at https://www.fda.gov/media/173005/download.
+
+Glycerin
+
+You failed to adequately test each shipment of each lot of glycerin for identity, a component at high-risk of diethylene glycol (DEG) or ethylene glycol (EG) contamination. Identity testing for glycerin and certain other high-risk drug components2 includes a limit test in the United States Pharmacopeia (USP) to ensure the component meets the relevant safety limits for levels of DEG or EG. Because you did not perform identity testing on each shipment of each lot using the USP identification test that detects these hazardous impurities, you failed to assure the acceptability of these components for use in the manufacture of your drug products.
+
+The use of ingredients contaminated with DEG or EG has resulted in various lethal poisoning incidents in humans worldwide. See FDA’s guidance document Testing of Glycerin, Propylene Glycol, Maltitol Solution, Hydrogenated Starch Hydrolysate, Sorbitol Solution, and Other High-Risk Drug Components for Diethylene Glycol and Ethylene Glycol to help you meet the CGMP requirements when manufacturing drugs containing ingredients at high-risk for DEG or EG contamination at https://www.fda.gov/media/167974/download.
+
+In your response, you state “21CFR211.84 was not fully understood” by your employees, that you will conduct training, and that you will perform identity or impurities testing on the lots of components that remain in your warehouse. Your response is inadequate. You did not discuss how you will verify the reliability of your suppliers’ COA, nor how you will perform qualification of your suppliers. Further, you did not consider retrospective identity testing of reserve samples, or assessment by other methods, of the components used in your OTC drug products that were manufactured, distributed, and remain within expiry.
+
+Without adequate testing, you do not have scientific evidence that the components conform to appropriate specifications before use in the manufacture of your drug products.
+
+In your response, provide:
+
+• A comprehensive, independent review of your material system to determine whether all suppliers of components, containers, and closures, are each qualified and the materials are assigned appropriate expiration or retest dates. The review should also determine whether incoming material controls are adequate to prevent use of unsuitable components, containers, and closures.
+• The chemical and microbiological quality control specifications you use to test and release each incoming lot of components for use in manufacturing.
+• A description of how you will test each component lot for conformity with all appropriate specifications for identity, strength, quality, and purity. If you intend to accept any results from your supplier’s COA instead of testing each component lot for strength, quality, and purity, specify how you will robustly establish the reliability of your supplier’s results through initial validation as well as periodic re-validation. In addition, include a commitment to always conduct at least one specific identity test for each incoming component lot.
+• A summary of results obtained from testing all components to evaluate the reliability of the COA from each component manufacturer. Include your standard operating procedure (SOP) that describes this COA validation program.
+• A summary of your program for qualifying and overseeing contract facilities that test the components and drug products you manufacture.
+• A commitment to provide DEG and EG test results, no later than 30 calendar days from the date of this letter, from testing retains for all lots of high-risk drug components used in the manufacture of drug products. Alternatively, if a retain of a component lot is unavailable, perform retain sample testing of all implicated finished drug product batches for the presence of DEG and EG.
+• A full risk assessment for drug products that are within expiry which contain any ingredient at risk for DEG or EG contamination (including, but not limited to, glycerin). Take prompt and appropriate actions to determine the safety of all lots of the component(s) and any related drug product that could contain DEG or EG, including customer notifications and product recalls for any contaminated lots. Identify additional appropriate corrective action and preventive action (CAPA) that secure supply chains in the future, including, but not limited to, ensuring that all incoming raw material lots are from fully qualified manufacturers and free from unsafe impurities. Detail these actions in your response to this letter.
+
+3. Your firm failed to establish adequate written procedures for production and process control designed to assure that the drug products you manufacture have the identity, strength, quality, and purity they purport or are represented to possess (21 CFR 211.100(a)).
+
+You failed to adequately design, monitor, and maintain your water system to ensure it was suitable for use in the manufacture of your drug products. Your (b)(4) water system was not continuously circulated, and the pipes were not under pressure. Stagnant water and lack of water pressure enable bacteria to cling to walls and form biofilms. Notably, biofilm was observed in your water storage tanks. Nevertheless, your firm used water from the storage tank observed with biofilm to manufacture drug products that were later released. When asked about the biofilm during the inspection, you stated that microbial growth was inevitable in the water storage tanks and your firm could not control it. Moreover, numerous leaks and pooling water were observed at various points in your water system. Leaks and pooling water can allow filth and microorganisms to grow and spread throughout the manufacturing areas.
+
+You also failed to provide justification for your (b)(4) and (b)(4) cleaning and monitoring schedules, and your water system cleaning logs did not include appropriate details such as cleaning solutions and contact time.
+
+In your response, you state FDA regulations “were not fully understood” and that you would conduct training. You also state you will conduct an overhaul of your water system, including revalidating the system and revisions to your written procedures. You will also conduct microbiological testing on reserve samples for products distributed to the U.S. market and failing batches will be recalled and destroyed. Your response is inadequate. You did not adequately describe details of your overhaul and revisions to your procedures to ensure your water system will consistently produce water that is appropriate for its intended use.
+
+Water is a major ingredient in many of your drug products, which include aqueous-based dosage forms. It is essential that you employ a water system that is robustly designed, and that you effectively control, maintain, and monitor the system to ensure it consistently produces water suitable for pharmaceutical use. (See also 21 CFR 211.113(a) and 211.160(b)).
+
+In response to this letter, provide:
+
+• A procedure governing your program for ongoing control, maintenance, and monitoring that ensures the remediated system consistently produces water that meets (b)(4) Water, USP monograph specifications and appropriate microbial limits.
+• A comprehensive, independent assessment of your water system design, control, and maintenance.
+• A thorough remediation plan to install and operate a suitable water system. Include a robust ongoing control, maintenance, and monitoring program to ensure the remediated system design consistently produces water adhering to (b)(4) Water, USP monograph specifications and appropriate microbial limits.
+• Regarding the latter, ensure that your total microbial count limit for water is appropriate in view of the intended use of the products produced by your firm.
+• A detailed risk assessment addressing the potential effects of the observed water system failures on the quality of all drug product lots currently in U.S. distribution or within expiry. Specify actions that you will take in response to the risk assessment, such as customer notifications and product recalls.
+
+4. Your firm failed to exercise appropriate controls over computer or related systems to assure that only authorized personnel institute changes in master production and control records, or other records (21 CFR 211.68(b)).
+
+Your stand-alone gas chromatogram (GC) computer system lacked appropriate controls, such as an audit trail and individual log-in access to prevent the deletion of data. For example, investigators found numerous analysis reports, test methods, raw data calibration, and system directories in the GC computer’s recycling bin. Additionally, your laboratory personnel used a shared password, located in an unsecured drawer, to access the GC software.
+
+In your response, you state “21 CFR 211.68 was not fully understood,” that you will conduct training, and conduct a retrospective review of deleted files and records. You will also contact the supplier of the software to upgrade, as needed, to ensure audit trail functionality, in addition to validating the software. Your response is inadequate because it did not provide sufficient details describing how you will fully secure your GC software and associated stand-alone computer. You did not discuss user access levels, access privileges, or authorized users to perform the analyses, collect data, review data, or perform other functions.
+
+Your response also did not describe how you will ensure the integrity of the data generated by your computerized systems in the interim, prior to the full implementation of your corrections.
+
+It is essential that your firm keep track of all changes made to your electronic data. The use of audit trails for computerized analytical instrumentation helps to ensure all additions, deletions, or modifications of information in your electronic records are authorized. It also allows you to verify the quality and integrity of the electronic data your laboratory generates.
+
+Data Integrity Remediation
+
+Your quality system does not adequately ensure the accuracy and integrity of data to support the safety, effectiveness, and quality of the drugs you manufacture. See FDA’s guidance document Data Integrity and Compliance With Drug CGMP for guidance on establishing and following CGMP compliant data integrity practices at https://www.fda.gov/files/drugs/published/Data-Integrity-and-Compliance-With-Current-Good-Manufacturing-Practice-Guidance-for-Industry.pdf.
+
+We strongly recommend that you retain an independent third-party qualified consultant to assist in your remediation.
+
+In response to this letter, provide:
+• A comprehensive investigation into the extent of the inaccuracies in data records and reporting. Your investigation should include:
+    o A detailed investigation protocol and methodology; a summary of all laboratories, manufacturing operations, and systems to be covered by the assessment; and a justification for any part of your operation that you propose to exclude.
+    o Interviews of current and former employees to identify the nature, scope, and root cause of data inaccuracies. We recommend that these interviews be conducted by a qualified third party.
+    o An assessment of the extent of data integrity deficiencies at your facility. Identify omissions, alterations, deletions, record destruction, non-contemporaneous record completion, and other deficiencies. Describe all parts of your facility’s operations in which you discovered data integrity lapses.
+    o A comprehensive retrospective evaluation of the nature of the testing data integrity deficiencies. We recommend that a qualified third party with specific expertise in the area where potential breaches were identified should evaluate all data integrity lapses.
+• A current risk assessment of the potential effects of the observed failures on the quality of your drugs. Your assessment should include analyses of the risks to patients caused by the release of drugs affected by a lapse of data integrity and analyses of the risks posed by ongoing operations.
+• A management strategy for your firm that includes the details of your global CAPA plan. Your strategy should include:
+    o A detailed corrective action plan that describes how you intend to ensure the reliability and completeness of all the data you generate including analytical data, manufacturing records, and all data submitted to FDA.
+    o A comprehensive description of the root causes of your data integrity lapses including evidence that the scope and depth of the current action plan is commensurate with the findings of the investigation and risk assessment. Indicate whether individuals responsible for data integrity lapses remain able to influence CGMP-related or drug application data at your firm.
+    o Interim measures describing the actions you have taken or will take to protect patients and to ensure the quality of your drugs, such as notifying your customers, recalling product, conducting additional testing, adding lots to your stability programs to assure stability, drug application actions, and enhanced complaint monitoring.
+    o Long-term measures describing any remediation efforts and enhancements to procedures, processes, methods, controls, systems, management oversight, and human resources (e.g., training, staffing improvements) designed to ensure the integrity of your company’s data.
+    o A commitment to have a qualified consultant conduct extensive annual audits, for at least two years, to assist in evaluating CAPA effectiveness after you have executed your data integrity remediation protocol.
+    o Inform FDA if you will be hiring a Chief Integrity Officer who is fully empowered to receive anonymous complaints from employees reporting data integrity concerns and with the authority to ensure any potential breach is promptly investigated (by independent quality assurance function, along with expertise from outside entities whenever needed).
+    o A status report for any of the above activities already underway or completed.
+
+Cosmetics Manufactured for Distribution in the United States
+
+In addition, some of the products you manufacture may be regulated as cosmetics, as defined in section 201(i) of the FD&C Act. A cosmetic is deemed adulterated under section 601(c) of the FD&C Act (21 U.S.C. 361(c)) if it has been prepared, packed, or held under insanitary conditions whereby it may have become contaminated with filth, or whereby it may have been rendered injurious to health. Some conditions that cause the drug products you manufacture to be adulterated may also cause any cosmetic you manufacture to be adulterated. We note that under section 301(a) of the FD&C Act (21 U.S.C. 331(a)) it is a prohibited act to introduce, or deliver for introduction into interstate commerce, a cosmetic that is adulterated.
+
+Further, your facility may be subject to requirements under the Modernization of Cosmetic Regulations Act of 2022 (MoCRA). Information on MoCRA requirements may be found at https://www.fda.gov/cosmetics/cosmetics-laws-regulations/modernization-cosmetics-regulation-act-2022-mocra.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, you should engage a consultant qualified as set forth in 21 CFR 211.34 to evaluate your operations and to assist your firm in meeting CGMP requirements if your firm intends to resume manufacturing drugs for the U.S. market. The qualified consultant should also perform a comprehensive six-system audit of your entire operation for CGMP compliance and evaluate the completion and efficacy of your corrective actions and preventive actions before you pursue resolution of your firm’s compliance status with FDA. Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Repeat Observations at Facility
+
+In a previous inspection, dated January 9 to 13, 2017, FDA cited similar CGMP observations. You proposed specific remediation for these observations in your response. Repeated failures demonstrate that executive management oversight and control over the manufacture of drugs is inadequate.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+FDA placed your firm on Import Alert 66-40 on May 24, 2024.
+
+Correct any violations promptly. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to any violations.
+
+Failure to address any violations may also result in the FDA continuing to refuse admission of articles manufactured at Landy International, FEI 3005698871, at No. 192-196, Tianfeng Road, Jimei District Xiamen, Fujian, into the United States under section 801(a)(3) of the FD&C Act, 21 U.S.C. 381(a)(3). Articles under this authority that appear to be adulterated may be detained or refused admission, in that the methods and controls used in their manufacture do not appear to conform to CGMP within the meaning of section 501(a)(2)(B) of the FD&C Act, 21 U.S.C. 351(a)(2)(B).
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov. Identify your response with FEI 3005698871 and ATTN: Daniel W. Brisker.
+
+Sincerely,
+/S/
+
+Francis Godwin
+Director
+Office of Manufacturing Quality
+Office of Compliance
+Center for Drug Evaluation and Research
+
+CC:
+Registered US Agent:
+Apax International, Inc
+6775 Verde Ridge Rd
+Rancho Palos Verdes, California
+90275-4648
+james@sino2us.com
+
+______________________
+
+1 Due to an increased demand for alcohol-based hand sanitizers during the COVID-19 pandemic, FDA published the Guidance for Industry: Temporary Policy for Preparation of Certain Alcohol-Based Hand Sanitizer Products During the Public Health Emergency (COVID-19) on March 19, 2020, and subsequently updated the guidance several times. The guidance was withdrawn effective December 31, 2021 (86 Fed Reg at 56960). This guidance communicated the Agency’s temporary policy that we did not intend to take action against firms for CGMP violations under section 501(a)(2)(B) of the FD&C Act if such firms prepared alcohol-based hand sanitizers for consumer use (or for use as a health care personnel hand rub) during the public health emergency, provided certain circumstances described in the guidance are present. These circumstances included preparation of hand sanitizer products using only the ingredients and formulas set forth in the guidance. Because Landy International’s hand sanitizer products are not consistent with the formulations described in these guidances, they do not fall within any temporary Agency policy not to take action against firms manufacturing hand sanitizer products for violations of section 501(a)(2)(B) of the FD&C Act.
+
+2 Components with higher risk of DEG or EG contamination compared to other drug components.

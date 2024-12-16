@@ -1,0 +1,223 @@
+Delivery Method: 
+        VIA Electronic Mail
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Dan Bigman
+          
+
+                                
+  
+    Recipient Title
+              CEO
+          
+
+          
+            Gascó Industrial Corporation
+
+          
+                      Rincón Industrial Park Calle A, Lote 3
+Gurabo 00778-2037
+Puerto Rico
+          
+          
+            
+            
+
+     dbigman@gascoindustrial.com
+
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+           Division of Pharmaceutical Quality Operations II 
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+February 17, 2023
+
+Case # 647393
+
+WARNING LETTER
+
+Dear Mr. Bigman:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Gascó Industrial Corporation, FEI 3010222586, at Rincón Industrial Park, Calle A, Lote 3, Gurabo, Puerto Rico 00778-2037, from October 11 to October 18, 2022.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your November 15, 2022 response to our Form FDA 483 in detail. Your response is inadequate because it did not provide sufficient detail or evidence of corrective actions to bring your operations into compliance with CGMP.
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to maintain adequate separate defined areas necessary to prevent contamination or mix-up (21 CFR 211.42(c)).
+
+Your firm manufactures over-the-counter (OTC) antibacterial hand soap, antiseptics, and hand sanitizer1 drug products. You manufacture these drug products using the same equipment that you use to manufacture numerous non-pharmaceutical materials in your facility, including industrial detergents and disinfectants. It is unacceptable as a matter of CGMP to continue manufacturing drugs using the same equipment that you use to manufacture these non-pharmaceutical products due to the risk of cross-contamination.
+
+In response to this letter, confirm whether you will discontinue manufacturing drugs on shared equipment in your facility. If you intend to continue to manufacture both pharmaceutical and non-pharmaceutical products at your facility, provide a plan to show how you will separate the areas in which you will maintain dedicated manufacturing equipment for your pharmaceutical manufacturing and industrial product manufacturing operations.
+
+In addition, provide a risk assessment for all drugs you have previously produced on equipment shared with industrial products. For each product, assess the risk of potential contamination due to the shared equipment, and provide your plans for addressing the product quality and patient safety risks for any product still in distribution, including potential recalls or market withdrawals.
+
+2. Your firm failed to establish adequate written procedures for production and process control designed to assure that the drug products you manufacture have the identity, strength, quality, and purity they purport or are represented to possess (21 CFR 211.100(a)).
+
+Inadequate Cleaning Controls
+
+Your cleaning procedures are inadequate. You have not demonstrated that your cleaning procedure is sufficient to enable operators to clean each type of equipment in a reproducible and effective manner. Additionally, your drug product production and storage areas were not observed to be in a clean state, and your filling equipment was soiled.
+
+Inadequate Water System Design and Controls
+
+Your firm uses water from your water system as a component to manufacture your drug products, however, you lack validation studies for your water system. Your firm has not demonstrated that you can effectively design, control, maintain, and monitor the system, so it consistently produces pharmaceutical grade water that, at a minimum, meets the USP monograph for (b)(4) water and appropriate microbial limits.
+
+Inadequate Process Controls
+
+Your firm lacks a process validation program. Process validation evaluates the soundness of design and state of control of a process throughout its lifecycle. Each significant stage of a manufacturing process must be designed appropriately and ensure the quality of raw material inputs, in-process materials, and finished drugs. Process qualification studies determine whether an initial state of control has been established. Successful process qualification studies are necessary before commercial distribution. Thereafter, ongoing vigilant oversight of process performance and product quality is necessary to ensure that you maintain a stable manufacturing operation throughout the product lifecycle.
+
+See FDA’s guidance document Process Validation: General Principles and Practices for general principles and approaches that FDA considers appropriate elements of process validation, at https://www.fda.gov/media/71021/download.
+
+In response to this letter, provide:
+
+
+	Appropriate improvements to your cleaning validation program, with special emphasis on incorporating conditions identified as worst case in your drug manufacturing operation. This should include but not be limited to identification and evaluation of all worst-case:
+
+
+    o drugs with higher toxicities
+    o drugs with higher drug potencies
+    o drugs of lower solubility in their cleaning solvents
+    o drugs with characteristics that make them difficult to clean
+    o swabbing locations for areas that are most difficult to clean
+    o maximum hold times before cleaning
+
+In addition, describe the steps that must be taken in your (b)(4) before introduction of new manufacturing equipment or a new product.
+
+
+	A summary of updated SOPs that ensure an appropriate program is in place for verification and validation of cleaning procedures for products, processes, and equipment.
+	A detailed summary of your validation program for ensuring a state of control throughout the product lifecycle, along with associated procedures. Describe your program for process performance qualification, and ongoing monitoring of both intra-batch and inter-batch variation to ensure a continuing state of control.
+	A timeline for performing appropriate process performance qualification for each of your marketed drug products.
+	Include your process performance protocol(s), and written procedures for qualification of your equipment and facility.
+	A detailed program for designing, validating, maintaining, controlling, and monitoring each of your manufacturing processes that includes vigilant monitoring of intra-batch and inter-batch variation to ensure an ongoing state of control. Also, include your program for qualification of your equipment and facility.
+	A comprehensive, independent assessment of your water system design, control, and maintenance.
+	A thorough remediation plan to install and operate a suitable water system. Include a robust ongoing control, maintenance, and monitoring program to ensure the remediated system design consistently produces water adhering to (b)(4) Water, USP monograph specifications and appropriate microbial limits.
+	Regarding the latter, ensure that your total microbial count limit for water is appropriate in view of the intended use of the products produced by your firm.
+
+
+3. Your firm’s quality control unit failed to exercise its responsibility to ensure drug products manufactured are in compliance with CGMP, and meet established specifications for identity, strength, quality, and purity (21 CFR 211.22).
+
+Your quality unit (QU) did not provide adequate oversight for the manufacture of your drug products. For example, your QU failed to ensure the following:
+
+
+	Adequate testing of your incoming components for identity, purity, strength, and other appropriate quality attributes (21 CFR 211.84(d)(1) and 211.84 (d)(2)).
+	Adequate chemical and microbial testing and appropriate specifications for your finished drug products (21 CFR 211.165(a) and 21 CFR 211.165(b)).
+	Any unexplained discrepancy or failure of a batch or any of its components to meet any of its specifications are thoroughly investigated, whether or not the batch has already been distributed (21 CFR 211.192).
+	Adequate training for your employees engaged in the manufacture, processing, packing, or holding of your hand sanitizer drug product (21 CFR 211.25(a)).
+	Establishment of a stability program (21 CFR 211.137(a)).
+	Establishment of adequate procedures describing out-of-specifications, change controls, annual product reviews, and good documentation practices (21 CFR 211.22(d)).
+
+
+Your firm’s quality systems are inadequate. See FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations for help in implementing quality systems and risk management approaches to meet the requirements of CGMP regulations 21 CFR parts 210 and 211, at https://www.fda.gov/media/71023/download.
+
+In response to this letter, provide:
+
+
+	A comprehensive assessment and remediation plan to ensure that your QU is given the authority and resources to function effectively. The assessment should also include, but not be limited to:
+
+
+    o A determination of whether procedures used by your firm are robust and appropriate.
+    o Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices.
+    o A complete and final review of (b)(4) and its related information before the QU disposition decision.
+    o Oversight and approval of investigations and discharging of all other QU duties to ensure identity, strength, quality, and purity of all drug products.
+
+
+	A complete assessment of documentation systems used throughout your manufacturing and laboratory operations to determine where documentation practices are insufficient. Include a detailed corrective action and preventative action (CAPA) plan that comprehensively remediates your firm’s documentation practices to ensure you retain attributable, legible, complete, original, accurate, contemporaneous records throughout your operation.
+
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm and because you failed to correct repeat violations, you should engage a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements. Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+Correct any violations promptly. Failure to promptly and adequately address this matter may result in regulatory or legal action without further notice including, without limitation, seizure, and injunction. Unresolved violations may also prevent other Federal agencies from awarding contracts.
+
+Failure to address violations may also cause FDA to withhold issuance of Export Certificates. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to address any violations.
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days2. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Please electronically submit your reply on company letterhead to Mark W. Rivero, Compliance Officer, at ORAPHARM2_RESPONSES@fda.hhs.gov. In addition, please submit a signed copy of your response to mark.rivero@fda.hhs.gov.
+
+If you have questions regarding the contents of this letter, you may contact Mr. Rivero via (954) 759-7718 or mark.rivero@fda.hhs.gov.
+
+Sincerely,
+/S/
+
+Monica R. Maxwell
+Program Division Director
+Office of Pharmaceutical Quality Operations,
+Division II
+
+______________________
+
+1 Due to an increased demand for alcohol-based hand sanitizers during the COVID-19 pandemic, the FDA published the Guidance for Industry: Temporary Policy for Preparation of Certain Alcohol-Based Hand Sanitizer Products During the Public Health Emergency (COVID-19) on March 19, 2020, and subsequently updated the guidance several times. The guidance was withdrawn effective December 31, 2021 (86 Fed Reg at 56960). This guidance communicated the agency’s temporary policy that we did not intend to take action against firms for CGMP violations under section 501(a)(2)(B) of the FD&C Act if such firms prepared alcohol-based hand sanitizers for consumer use (or for use as a health care personnel hand rub) during the public health emergency, provided certain circumstances described in the guidance were present. These circumstances included preparation of hand sanitizer products using only the ingredients and formulas set forth in the guidance. Because Gascó Industrial Corporation hand sanitizer drug products were not consistent with the formulations described in these guidances, they did not fall within any temporary agency policy not to take action against firms manufacturing hand sanitizer products for violations of section 501(a)(2)(B) of the FD&C Act.
+
+2 Under program enhancements for the Generic Drug User Fee Amendments (GDUFA) reauthorization for fiscal years (FYs) 2023-2027, also known as the GDUFA III Commitment Letter, your facility may be eligible for a Post-Warning Letter Meeting to obtain preliminary feedback from FDA on the adequacy and completeness of your corrective action plans.

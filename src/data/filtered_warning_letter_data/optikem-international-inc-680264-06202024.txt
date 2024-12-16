@@ -1,0 +1,388 @@
+Delivery Method: 
+        VIA EMAIL CONFIRMED DELIVERY
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Ms. Sally A. Cook
+          
+
+                                
+  
+    Recipient Title
+              President
+          
+
+          
+            Optikem International Inc.
+
+          
+                      2172 South Jason Street
+Denver, CO 80223
+United States
+          
+          
+            
+            
+
+     optikemint@aol.com
+
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Division of Pharmaceutical Quality Operations IV
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+WARNING LETTER
+
+June 20, 2024
+
+Dear Ms. Cook:
+
+The U.S. Food and Drug Administration inspected your drug manufacturing facility, Optikem International Inc., FEI 1720129, at 2172 South Jason Street, Denver, from January 17 to 26, 2024.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your February 6, 2024 response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence. Your response is inadequate because it did not provide sufficient detail or evidence of corrective actions taken to bring your operations into compliance with CGMP, nor did you commit to cease manufacturing sterile drugs until you have corrected the significant contamination hazards at your facility.
+
+CGMP Violations
+
+1. Your firm failed to perform operations within specifically defined areas of adequate size and to have separate or defined areas or such other control systems necessary to prevent contamination or mix-ups in aseptic processing areas (21 CFR 211.42(c)(10)).
+
+Your firm is a contract manufacturer of sterile over-the-counter (OTC) and homeopathic ophthalmic drug products produced by aseptic processing. Your aseptic processing line receives (b)(4) air flow from (b)(4) High Efficiency Particulate Air (HEPA) filters within the wall of the cleanroom. The aseptic processing line is open to the room environment, with no barrier protection.
+
+The conditions at your facility were not suitable to produce sterile drug products. Your cleanroom and processing line, as designed, required (b)(4) intensive operations during equipment setup and throughout routine production, and did not provide acceptable protection or adequate monitoring to facilitate proper aseptic operations. Furthermore, your cleanroom lacked easily cleanable surfaces and was inadequately designed to maintain (b)(4) relative to adjacent rooms of lower air cleanliness.
+
+Inadequate Design of Facility and Equipment
+
+Your cleanroom was inadequately designed to prevent contamination. Your cleanroom was observed to include:
+
+
+	Inadequate materials of construction that are not smooth and easily cleanable, and that present a potential contamination risk. For example:
+
+
+o We observed particle board between the HEPA filter surfaces and housing, rust on HEPA filter frames, chipping paint and rust on the aseptic processing line, and power supply cords attached to the ceiling above your processing line.
+o We also observed damaged chairs with exposed seat cushioning; discolored and poorly maintained rigid doors and barrier curtains between the cleanroom and adjacent rooms; inadequate room construction such as sharp doorknobs and ledges; and gaps in the (b)(4) ceiling.
+
+
+	Aseptic connections performed in areas without unidirectional HEPA-filtered airflow.
+
+
+There were fundamental flaws in your aseptic filling equipment design, cleanroom layout, facility maintenance, HEPA filtration, and protection of ISO 5 areas. These and other basic design deficiencies, as well as the (b)(4) intensive nature of your operations, were unsuitable for aseptic production.
+
+Inadequate Monitoring of Aseptic Processing
+
+Your firm failed to ensure adequate environmental monitoring (EM) of classified areas used for aseptic production of sterile ophthalmic drug products. For example:
+
+
+	The frequency, locations, incubation parameters, and action levels for EM were inadequate:
+
+
+o EM of your cleanroom was only performed (b)(4) and did not ensure monitoring of batch production that has occurred for up to (b)(4).
+o Your firm did not perform EM in rooms adjacent to the cleanroom.
+o Your EM action levels for critical area (e.g., ISO 5) permitted up to (b)(4) colony forming units (CFU). The ISO 5 area should be generally free from microbial contamination. Of particular concern, from February 2021 to March 2023, your firm identified repeat recoveries of fungi and bacteria from your critical areas (e.g., ISO 5 production lines).
+o Your abbreviated incubation duration as well as associated temperatures for EM samples were insufficient to consistently and reliably detect fungi.
+
+
+	The frequency, locations, and action levels of personnel monitoring were inadequate:
+
+
+o Personnel monitoring of the gloves and gowns worn by operators were conducted (b)(4).
+o Operator’s glove monitoring was limited to (b)(4) selected by the operator.
+o Personnel monitoring records failed to document the employees monitored.
+o An inappropriate personnel monitoring limit (e.g., (b)(4) CFU) was permitted for personnel operating within the critical area.
+
+It is essential that personnel are monitored on each day of aseptic processing. Your inadequate monitoring is especially concerning given the (b)(4) and highly (b)(4) nature of your operation.
+
+Unidirectional airflow
+
+Your firm’s qualification of airflow in critical areas was insufficient to evaluate unidirectional airflow, contamination risk, and aseptic processing line suitability. For example:
+
+
+	You have not performed adequate dynamic or static airflow studies to determine unidirectionality. Static airflow identified nonuniformity and there were no studies conducted under dynamic conditions.
+	Your firm failed to perform (b)(4) testing for each of the HEPA filters.
+	Your August 2023 HEPA certification record showed velocities at each of the (b)(4) HEPA filters installed in the room wall were inadequate and inconsistent across the (b)(4) panels.
+
+
+In your response, you state you would not perform airflow (smoke) studies because the “(b)(4).” Regarding EM you state, “no alert or action levels have ever been recorded which required an investigation.” You also commit to changing your EM incubation parameters ((b)(4)) and will microbiologically monitor personnel (b)(4).
+
+Your response is inadequate because it does not address your facility’s fundamental design flaws, or inadequate measurements of data to evaluate (b)(4) sterility assurance. Furthermore, persistently deficient environmental controls (e.g., poor design of facility and processing lines, lack of data integrity, and inadequate and insufficient EM) provide a fundamental lack of meaningful retrospective data to support (b)(4) sterility assurance.
+
+See FDA’s guidance document Sterile Drug Products Produced by Aseptic Processing—Current Good Manufacturing Practice to help you meet the CGMP requirements when manufacturing sterile drugs using aseptic processing at https://www.fda.gov/media/71026/download.
+
+In response to this letter, provide:
+
+
+	A comprehensive, independent risk assessment of all contamination hazards with respect to your aseptic processes, equipment, and facilities including, but not limited to:
+
+
+o All human interactions with the ISO 5 area.
+o Equipment placement and suitability, including ergonomics for each human interaction.
+o Air quality in the ISO 5 area, and surrounding room including, but not limited to, air volume, air flow, and microbial/particulate levels.
+o Reduction or elimination of aseptic manipulations and connections (e.g., replacing (b)(4) aseptic connections with (b)(4) system).
+o Facility layout.
+o Personnel flows and material flows throughout all rooms used to support and conduct sterile operations.
+
+
+	A detailed remediation plan with timelines to address the findings of the contamination hazards risk assessment. Describe the specific improvements to be made to aseptic processing operation design and control at your facility and explain how this corrective action and preventive action (CAPA) will robustly remediate your highly deficient sterile manufacturing operation. Include comprehensive changes to the design of your facility design, cleanroom, and aseptic processing line. Also describe your plans for qualification and validation of your extensively remediated operations.
+	Your CAPA plan to implement routine, vigilant operations management oversight of facilities and equipment. This plan should ensure, among other things, prompt detection of equipment/facilities performance issues, effective execution of repairs, adherence to appropriate preventive maintenance schedules, timely technological upgrades to the equipment/facility infrastructure, and improved systems for ongoing management review.
+	An independent assessment of your EM program including, but not limited to, establishing appropriate limits, sampling frequencies, investigating deviations, and trend analysis. Also ensure the implementation of a comprehensive CAPA plan.
+
+
+2. Your firm failed to establish and follow appropriate written procedures that are designed to prevent microbiological contamination of drug products purporting to be sterile, and that include validation of all aseptic and sterilization processes (21 CFR 211.113(b)).
+
+Inadequate Process Simulation
+
+You produced and distributed drug product purporting to be sterile without first conducting adequate process simulations (e.g., media fills), including but not limited to documentation of operator interventions. You also failed to perform routine (b)(4) media fills.
+
+Examples of media fill deficiencies include:
+
+
+	Media fills were not performed at a sufficient frequency. You distributed drug products purporting to be sterile as recently as November 2023, but your most recent media fill was conducted in October 2021.
+	The October 2021 media fills were conducted over a (b)(4) period with approximately (b)(4) bottles filled. This does not adequately simulate your (b)(4) intensive operations which can be nearly (b)(4) bottles filled over 10 to 13 hours and extending for up to (b)(4).
+
+
+The duration of the process simulation for (b)(4) intensive lines should normally be no less than the length (b)(4) to accurately simulate contamination risks.
+
+Poor Aseptic Technique and Cleanroom Behavior
+
+
+	Poor aseptic practices and procedures for filling operations, included, but were not limited to, the following:
+
+
+o Operators did not undergo gowning qualification, nor is this a procedural requirement.
+o Operators were observed with nonintegral gowning and exposed facial skin.
+o Failures to document the evaluation of sterile filtration processes including pre-filtration solution bioburden monitoring.
+
+Inadequate Sterilization of Equipment Surfaces that Contact Sterile Product
+
+
+	Connection hosing was stored in a nonsealed (b)(4) in a nonclassified room; the hosing was also discolored.
+	Your firm did not document the sterilization of numerous pieces of equipment, including, but not limited to, sterilizing (b)(4) and sterile product transfer hosing that directly contacts in-process material for your sterile products.
+	Your firm failed to use sterilizing (b)(4) intended for pharmaceutical production. Furthermore, these nonsterile (b)(4) were reused, and you failed to perform (b)(4) testing for these (b)(4).
+
+
+It is essential that product contact equipment is sterile to be suitable for its intended use. Sterilization cycle validation is based on sterility assurance established through rigorous physical and biological measurements. Between uses, such sterile equipment must be held under ISO 5 conditions and continuously maintained in a manner that prevents contamination.
+
+Your response includes commitments to change procedures for process simulations and gowning qualification, as well as aseptic connection procedures for in-process tubing. You also state that you have purchased goggles.
+
+Your response is inadequate because you fail to address aseptic processing deficiencies, including but not limited to, inadequate process simulations, inadequate equipment, material flow, and personnel behaviors. Furthermore, you have also failed to address the insufficiency of barrier protection to provide adequate separation of the multi-functional cleanroom from surrounding areas, as well as other fundamental issues.
+
+Significantly, your firm produced and distributed ophthalmic products presented to be sterile before performing adequate aseptic processing media fills and dynamic smoke studies. Your lack of qualification and validation studies posed an unacceptable risk, because these studies are of fundamental importance before a company determines whether operations are suitable to permit production and distribution of medicines for consumers.
+
+In response to this letter, provide:
+
+
+	Your plan to ensure appropriate aseptic practices and cleanroom behavior during production. Include steps to better assure routine and effective supervisory oversight for all production batches. Also, describe the frequency of quality assurance oversight (e.g., audit) during aseptic processing and other operations.
+	The frequency and validation of (b)(4) sterilization of each aseptic processing operation product contact part (i.e., any equipment that contacts the drug formulation, containers, closures) and any other critical surfaces in your operation. Also, provide your CAPA plans to address any practices or procedures that allow such equipment to be sterilized less frequently than (b)(4) for a given batch operation.
+
+
+3. Your firm failed to establish adequate written procedures for production and process control designed to assure that the drug products you manufacture have the identity, strength, quality, and purity they purport or are represented to possess (21 CFR 211.100(a)).
+
+You failed to adequately validate the manufacturing processes used for the production of your sterile ophthalmic drug product. You also lacked validation of the (b)(4) water system that produced water used in formulating your product. For example, for your ophthalmic drug product, you had not conducted process performance qualification (PPQ), ensured proper qualification of facility, utilities, and equipment, or implemented a program that vigilantly monitors process control to ensure stable operations and consistent drug quality. In addition, you failed to ensure water used in production was suitable for its intended use in sterile ophthalmic drug products.
+
+Your response acknowledges that validation of water systems and ophthalmic drug manufacturing processes had not been performed. You also state you will obtain a new source for production water.
+
+Your response is inadequate as you provide no supporting documentation or timeframes for your corrective actions. You also do not commit to ensuring ophthalmic drugs you produce are manufactured in a state of control, nor have you provided a source for production water, or data supporting the claim that your water meets the standards for use in pharmaceutical production.
+
+Process validation evaluates the soundness of design and state of control of a process throughout its lifecycle. Each significant stage of a manufacturing process must be designed appropriately to ensure the quality of raw material inputs, materials, and finished drugs. Process qualification studies determine whether an initial state of control has been established. Successful process qualification studies are necessary before commercial distribution. Thereafter, ongoing vigilant oversight of process performance and product quality are necessary to ensure you maintain a stable manufacturing operation throughout the product lifecycle.
+
+See FDA’s guidance document Process Validation: General Principles and Practices for general principles and approaches that the FDA considers appropriate elements of process validation, at https://www.fda.gov/media/71021/download.
+
+In response to this letter, provide:
+
+
+	An assessment of each drug product process to ensure that there is a data-driven and scientifically sound program that identifies and controls all sources of variability, such that your production processes will consistently meet appropriate specifications and manufacturing standards. This includes, but is not limited to, evaluating suitability of equipment for its intended use, sufficiency of detectability in your monitoring and testing systems, quality of input materials, and reliability of each manufacturing process step and control.
+	A timeline for performing appropriate PPQ for each of your marketed drug products. Also include an explanation how you will ensure satisfactory PPQ studies are performed prior to distribution of drugs.
+
+
+4. Your firm failed to establish laboratory controls that include scientifically sound and appropriate specifications, standards, sampling plans, and test procedures designed to assure that components conform to appropriate standards of identity, strength, quality, and purity, and conduct, for each batch of drug product, appropriate laboratory testing, as necessary, required to be free of objectionable microorganisms (21 CFR 211.160(b) and 211.165(b)).
+
+Your firm failed to establish adequate laboratory controls and conduct appropriate laboratory testing of your ophthalmic drug products. For example:
+
+
+	You have not performed method verification for USP <71> Sterility Testing, nor qualification of equipment used by your laboratory to perform sterility testing (21 CFR 211.160(b)).
+	You have not performed assay testing for the active ingredient of HylaTears ophthalmic drug products (21 CFR 211.165(b)).
+	You have not performed examination of visual particulates in your ophthalmic drug products (21 CFR 211.160(b)).
+
+
+In your response, you state: “a method to assay (b)(4) can be developed” and that “particulate matter will be tested with a (b)(4).”
+
+Your response is inadequate as you do not address the adequacy of methods used to perform sterility testing, nor did you commit to performing finished product assay testing. In addition, you did not provide details or methods for the visual particulate testing.
+
+In response to this letter, provide:
+
+
+	A comprehensive, independent assessment of your laboratory practices, procedures, methods, equipment, documentation, and analyst competencies. Based on this review, provide a detailed plan to remediate and evaluate the effectiveness of your laboratory system.
+
+
+5. Your firm failed to establish an adequate quality control unit with the responsibility and authority to approve or reject all components, drug product containers, closures, in-process materials, packaging materials, labeling, and drug products and the authority to review production records to assure that no errors have occurred or, if errors have occurred, that they have been fully investigated (21 CFR 211.22(a)).
+
+Your quality unit (QU) did not adequately exercise its authority and responsibilities including, but not limited to, implementing effective procedures and conducting adequate oversight. For example, your QU failed to:
+
+
+	Ensure that data was attributable, legible, contemporaneously recorded, original, and accurate. For example, our inspection found missing original data in your laboratory and production operations (21 CFR 211.194 & 211.100).
+	Ensure adequate laboratory facilities were available and used by your firm (21 CFR 211.22(b)).
+	Ensure that production and laboratory records were adequately reviewed for errors (21 CFR 211.22(a)).
+	Ensure an adequate stability program (including assessment of product sterility over the shelf life) to support your claimed 3-year expiry for ophthalmic drug products (21 CFR 211.166).
+	Ensure that operators had adequate training and experience for the production of sterile ophthalmic drug products (21 CFR 211.25(a)).
+
+
+Your response is inadequate as you do not address or provide sufficient detail for plans to ensure appropriate document control and data integrity. Your response lacked changes to batch record documentation, data management, and procedures for qualification of aseptic processing operators, along with applicable training. In addition, you did not provide supporting documentation of the 2017 stability study.
+
+Reliability of data is fundamentally compromised when there is a failure to record or maintain complete and accurate records of test results, or conditions associated with all tests. Furthermore, the lack of reliable data compromises the QU’s ability to exercise its function of ensuring compliance to applicable standards.
+
+You did not ensure your QU implemented its basic functions. Your management should immediately and comprehensively assess your company’s manufacturing operations to ensure that your systems, processes, and products meet CGMP.
+
+Your firm must provide the QU with the appropriate authority and sufficient resources to carry out its responsibilities and consistently ensure drug quality. See FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations for help implementing quality systems and risk management approaches to meet the requirements of the CGMP regulations (21 CFR Parts 210 and 211) at https://www.fda.gov/media/71023/download.
+
+In response to this letter, provide:
+
+
+	A comprehensive assessment and remediation plan to ensure your QU is given the authority and resources to effectively function. The assessment should also include, but not be limited to:
+
+
+o A determination of whether procedures used by your firm are robust and appropriate.
+o Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices.
+o A complete and final review of each batch and its related information before the QU disposition decision.
+o Oversight and approval of investigations and discharging of all other QU duties to ensure identity, strength, quality, and purity of all products.
+o Also, describe how your firm intends to support quality assurance and reliable operations, including, but not limited to, timely provision of resources to proactively address emerging manufacturing/quality issues and to assure a continuing state of control.
+
+Data Integrity Remediation
+
+Your quality system does not adequately ensure the accuracy and integrity of data to support the safety, effectiveness, and quality of the drugs you manufacture. See FDA’s guidance document Data Integrity and Compliance With Drug CGMP for guidance on establishing and following CGMP compliant data integrity practices at https://www.fda.gov/files/drugs/published/Data-Integrity-and-Compliance-With-Current-Good-Manufacturing-Practice-Guidance-for-Industry.pdf.
+
+We strongly recommend that you retain an independent third-party qualified consultant to assist in your remediation. In response to this letter, provide:
+
+
+	A comprehensive investigation into the extent of the inaccuracies in data records and reporting. Your investigation should include:
+
+
+o A detailed investigation protocol and methodology; a summary of all laboratories, manufacturing operations, and systems to be covered by the assessment; and a justification for any part of your operation that you propose to exclude.
+o Interviews of current and former employees to identify the nature, scope, and root cause of data inaccuracies. We recommend that these interviews be conducted by a qualified third party.
+o An assessment of the extent of data integrity deficiencies at your facility. Identify omissions, alterations, deletions, record destruction, non-contemporaneous record completion, and other deficiencies. Describe all parts of your facility’s operations in which you discovered data integrity lapses.
+o A comprehensive retrospective evaluation of the nature of the testing and manufacturing data integrity deficiencies. We recommend that a qualified third party with specific expertise in the area where potential breaches were identified should evaluate all data integrity lapses.
+
+
+	A current risk assessment of the potential effects of the observed failures on the quality of your drugs. Your assessment should include analyses of the risks to patients caused by the release of drugs affected by a lapse of data integrity and analyses of the risks posed by ongoing operations.
+	A management strategy for your firm that includes the details of your global CAPA plan. Your strategy should include:
+
+
+o A detailed corrective action plan that describes how you intend to ensure the reliability and completeness of all the data you generate including analytical data, manufacturing records, and all data submitted to the FDA.
+o A comprehensive description of the root causes of your data integrity lapses including evidence that the scope and depth of the current action plan is commensurate with the findings of the investigation and risk assessment. Indicate whether individuals responsible for data integrity lapses remain able to influence CGMP-related or drug application data at your firm.
+o Interim measures describing the actions you have taken or will take to protect patients and to ensure the quality of your drugs, such as notifying your customers, recalling product, conducting additional testing, adding lots to your stability programs to assure stability, drug application actions, and enhanced complaint monitoring.
+o Long-term measures describing any remediation efforts and enhancements to procedures, processes, methods, controls, systems, management oversight, and human resources (e.g., training, staffing improvements) designed to ensure the integrity of your company’s data.
+o A commitment to have a qualified consultant conduct extensive annual audits, for at least 2 years, to assist in evaluating CAPA effectiveness after you have executed your data integrity remediation protocol.
+o Inform the FDA if you will be assigning Data Integrity oversight responsibility to an individual who is fully empowered to receive anonymous complaints from employees reporting data integrity concerns and with the authority to ensure any potential breach is promptly investigated (by independent quality assurance function, along with expertise from outside entities whenever needed).
+o A status report for any of the above activities already underway or completed.
+
+Ineffective Quality System
+
+Significant findings in this letter demonstrate that your firm does not operate an effective quality system in accord with CGMP. In addition to the lack of effective management oversight of your production and laboratory operations, we found your QU is not enabled to exercise proper authority and/or has insufficiently implemented its responsibilities. Management should immediately and comprehensively assess your company’s manufacturing operations to ensure that your systems, processes, and products conform to FDA requirements.
+
+Responsibilities as a Contractor
+
+Drugs must be manufactured in conformance with CGMP. The FDA is aware that many drug manufacturers use independent contractors such as production facilities, testing laboratories, packagers, and labelers. The FDA regards contractors as extensions of the manufacturer.
+
+You are responsible for the quality of drugs you produce as a contract facility regardless of agreements in place with product owners. You are required to ensure that drugs are made in accordance with section 501(a)(2)(B) of the FD&C Act for safety, identity, strength, quality, and purity. See FDA’s guidance document Contract Manufacturing Arrangements for Drugs: Quality Agreements at https://www.fda.gov/media/86193/download.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, you should engage a consultant qualified as set forth in 21 CFR 211.34 to evaluate your operations and to assist your firm in meeting CGMP requirements if your firm intends to resume manufacturing drugs for the U.S. market. The qualified consultant should also perform a comprehensive six-system audit of your entire operation for CGMP compliance and evaluate the completion and efficacy of your corrective actions and preventive actions before you pursue resolution of your firm’s compliance status with the FDA.
+
+Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+Correct any violations promptly. Failure to promptly and adequately address this matter may result in regulatory or legal action without further notice including, without limitation, seizure and injunction. Unresolved violations may also prevent other Federal agencies from awarding contracts.
+
+Failure to address violations may also cause the FDA to withhold issuance of Export Certificates. The FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to address any violations.
+
+In addition, your firm was sent a copy of the warning letter issued to (b)(4) on (b)(4)1. We remind you that we consider ophthalmic drug products manufactured by Optikem for (b)(4) to be unapproved new drugs under section 505(a) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 355(a). The introduction or delivery for introduction into interstate commerce of unapproved new drugs violates sections 301(d) and 505(a) of the FD&C Act, 21 U.S.C. 331(d), 355(a).
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Please send your electronic reply to ORAPHARM4_Responses@FDA.HHS.GOV or mail your reply to:
+
+CDR Steven E. Porter, Jr.
+Director, Division of Pharmaceutical Quality Operations IV
+U.S. Food and Drug Administration
+19701 Fairchild Road
+Irvine, California 92612-2506
+
+Please identify your responses with the unique identifier: CMS 680264
+
+If you have questions regarding the contents of this letter, please contact Andrew Haack, compliance officer by telephone at 206-340-8212 or email at Andrew.Haack@fda.hhs.gov.
+
+Sincerely,
+/S/
+
+Lance M. De Souza
+Acting Director, Division of Pharmaceutical Quality Operations IV
+
+__________________
+
+1 See the warning letter issued to (b)(4) on (b)(4).

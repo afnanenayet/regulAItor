@@ -1,0 +1,184 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Jerry M. Duren
+          
+
+                                
+  
+    Recipient Title
+              Owner
+          
+
+          
+            Duren Health Mart Pharmacy
+
+          
+                      215 Dexter L. Woods Memorial Blvd.
+Waynesboro, TN 38485-2416
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Division of Pharmaceutical Quality Operations II
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+DATE: 11/1/2019
+
+Case #: 595524  
+
+WARNING LETTER
+
+Dear Mr. Duren:
+
+From November 6, 2018, to November 14, 2018, a U.S. Food and Drug Administration (FDA) investigator inspected your facility, Duren Health Mart Pharmacy, located at 215 Dexter L. Woods Memorial Blvd., Waynesboro, TN 38485-2416.  During the inspection, the investigator noted that drug products you produced failed to meet the conditions of section 503A of the Federal Food, Drug, and Cosmetic Act (FDCA) [21 U.S.C. § 353a] for exemption from certain provisions of the FDCA.  The investigator noted serious deficiencies in your practices for producing drug products, which put patients at risk.    
+
+FDA issued a Form FDA 483 to your firm on November 14, 2018, and an amended Form FDA 483 on November 28, 2018.  FDA acknowledges receipt of your facility’s response, dated December 12, 2018.  FDA also acknowledges that you have voluntarily ceased compounding operations.  Additionally, we acknowledge your action, on December 17, 2018, to voluntarily recall certain drug products due to a lack of processing controls.  Based on this inspection, it appears that you produced drug products that violate the FDCA.
+
+A. Compounded Drug Products Under the FDCA  
+
+Section 503A of the FDCA describes the conditions under which human drug products compounded by a licensed pharmacist in a State licensed pharmacy or a Federal facility, or a licensed physician, qualify for exemptions from three sections of the FDCA: compliance with current good manufacturing practice (CGMP) (section 501(a)(2)(B)); labeling with adequate directions for use (section 502(f)(1)); and FDA approval prior to marketing (section 505) [21 U.S.C. §§ 351(a)(2)(B), 352(f)(1) and 355(a)].1  Receipt of valid prescriptions for individually-identified patients is one of the conditions for the exemptions under section 503A.  
+
+In addition, for a compounded drug product to qualify for the exemptions under section 503A, bulk drug substances used to compound it must: (I) comply with the standards of an applicable United States Pharmacopeia (USP) or National Formulary (NF) monograph, if a monograph exists, and the USP chapter on pharmacy compounding; (II) if such a monograph does not exist, be components of drugs approved by the Secretary; or (III) if such a monograph does not exist and the drug substance is not a component of a drug approved by the Secretary, appear on a list developed by the Secretary through regulation (“503A bulks list”) (section 503A(b)(1)(A)(i) of the FDCA).
+
+B. Failure to Meet the Conditions of Section 503A
+
+During the inspection, the FDA investigator noted that drug products produced by your firm failed to meet the conditions of section 503A.  Specifically, the investigator noted that your firm compounded drug products using domperidone.  Drug products compounded using domperidone are not eligible for the exemptions provided by section 503A(a), because domperidone is not the subject of an applicable USP or NF monograph, is not a component of an FDA-approved human drug and does not appear on the 503A bulks list.2
+
+Therefore, you compounded drug products that do not meet the conditions of section 503A and are not eligible for the exemptions in that section from the FDA approval requirement of section 505 of the FDCA, the requirement under section 502(f)(1) of the FDCA that labeling bear adequate directions for use, and the requirement of compliance with CGMP under section 501(a)(2)(B) of the FDCA.  In the remainder of this letter, we refer to your drug products that do not qualify for exemptions under section 503A as the “ineligible drug products.”
+
+Specific violations are described below.  
+
+C. Violations of the FDCA
+
+Adulterated Drug Products  
+
+The FDA investigator noted that drug products were prepared, packed, or held under insanitary conditions, whereby they may have become contaminated with filth or rendered injurious to health, causing your drug products to be adulterated under section 501(a)(2)(A) of the FDCA.  For example, the investigator observed that:  
+
+  1. Your firm distributed non-sterile drug products that were prepared using expired active pharmaceutical ingredients (APIs) and expired excipients.
+
+  2. Your firm failed to confirm that the quality of water was suitable for its intended use in the production of non-sterile drug products.  
+
+  3. Your firm used equipment to prepare non-sterile drug products that was not suitable for its intended use.  For example, a (b)(4) was modified for use as an (b)(4).
+
+  4. Your firm used utensils and glassware to prepare non-sterile drug products that were washed using only dish detergent and tap water.  Therefore, your firm has no assurance that APIs are effectively removed during cleaning.  
+
+Furthermore, the manufacture of the ineligible drug products is subject to FDA’s CGMP regulations, Title 21, Code of Federal Regulations (CFR), parts 210 and 211.  The FDA investigator observed significant CGMP violations at your facility, causing the ineligible drug products to be adulterated within the meaning of section 501(a)(2)(B) of the FDCA.  
+
+The violations included:  
+
+  1. Your firm failed to thoroughly investigate any unexplained discrepancy or failure of a batch or any of its components to meet any of its specifications, whether or not the batch has already been distributed (21 CFR 211.192).
+
+It is a prohibited act under section 301(k) of the FDCA [21 U.S.C. § 331(k)] to do any act with respect to a drug, if such act is done while the drug is held for sale after shipment in interstate commerce and results in the drug being adulterated.
+
+Misbranded Drug Products  
+
+The ineligible drug products you compounded are intended for conditions not amenable to self-diagnosis and treatment by individuals who are not medical practitioners; therefore, adequate directions for use cannot be written so that a layman can use these products safely for their intended uses.  Consequently, their labeling fails to bear adequate directions for their intended uses.3  Accordingly, these ineligible drug products are misbranded under section 502(f)(1) of the FDCA.  It is a prohibited act under section 301(k) of the FDCA to do any act with respect to a drug, if such act is done while the drug is held for sale after shipment in interstate commerce and results in the drug being misbranded.
+
+D. Corrective Actions
+
+We have reviewed your firm’s response to the Form FDA 483.  We acknowledge your recall of omeprazole, progesterone, testosterone, promethazine, and domperidone drug products on December 17, 2018.  FDA also acknowledges your written commitment, dated November 5, 2018, to cease all compounding operations, including “no longer [compounding] simple pharmaceutical products, such as making solutions or changing dosage for convenience of patients.”
+
+Should you continue to compound and distribute drug products that do not meet the conditions of section 503A, the compounding and distribution of such drugs would be subject to the new drug approval requirement, the requirement to label drug products with adequate directions for use, and the drug CGMP regulations.  Before doing so, you must comply with the requirements of section 505 and 502(f)(1) and fully implement corrections that meet the minimum requirements of the CGMP regulations.4  
+
+In addition to the issues discussed above, you should note that CGMP requires the implementation of quality oversight and controls over the manufacture of drugs, including the safety of raw materials, materials used in drug manufacturing, and finished drug products. See section 501 of the FDCA.  If you choose to contract with a laboratory to perform some functions required by CGMP, it is essential that you select a qualified contractor and that you maintain sufficient oversight of the contractor’s operations to ensure that it is fully CGMP compliant.  Regardless of whether you rely on a contract facility, you are responsible for assuring that drugs you produce are neither adulterated nor misbranded.  [See 21 CFR 210.1(b), 21 CFR 200.10(b)].  
+
+Please be aware that section 501(a)(2)(A) of the FDCA concerning insanitary conditions applies regardless of whether drug products you compound meet the conditions of section 503A, including the condition on compounding drug products using a bulk drug substance that complies with an applicable USP or NF monograph, is a component of an FDA-approved human drug or appears on the 503A bulks list.
+
+In addition, regarding issues related to the conditions of section 503A of the FDCA, FDA acknowledges your statement that “We were not aware that [one of our staff pharmacist] had filled this [domperidone] prescription at our pharmacy and (b)(6) employment ended…upon discovery.”  Further, you noted that the domperidone bulk drug substance, along with other bulk drug substances, have been returned for destruction. E. Conclusion The violations cited in this letter are not intended to be an all-inclusive statement of violations at your facility.  You are responsible for investigating and determining the causes of the violations identified above and for preventing their recurrence or the occurrence of other violations.  It is your responsibility to ensure that your firm complies with all requirements of federal law, including FDA regulations.
+
+You should take prompt action to correct the violations cited in this letter.  Failure to promptly correct these violations may result in legal action without further notice, including, without limitation, seizure and injunction.  
+
+Within fifteen (15) working days of receipt of this letter, please notify this office in writing if you have taken any specific steps to correct the violations cited in this letter or you may inform us that you do not intend to resume production of drugs.  If you intend to resume production of drugs in the future, please include an explanation of each step being taken to prevent the recurrence of violations, as well as copies of related documentation.  If you do not believe that the products discussed above violated the FDCA, include your reasoning and any supporting information for our consideration.  In addition to taking appropriate corrective actions, you should notify this office 15 days prior to resuming production of any drugs in the future.  
+
+Your written notification should refer to case # 595524.  
+
+Please electronically submit your reply, on company letterhead, to Jose R. Lopez, Compliance Officer, at ORAPHARM2_RESPONSES@fda.hhs.gov. In addition, please submit a signed copy of your response to JoseR.Lopez@fda.hhs.gov and John.Diehl@fda.hhs.gov.
+
+If you have questions regarding the contents of this letter, you may contact Jose R. Lopez via phone at (787) 729-8603 or email at JoseR.Lopez@fda.hhs.gov.
+
+Sincerely,
+/S/
+Monica R. Maxwell
+Program Division Director
+Office of Pharmaceutical Quality Operations,
+Division II
+
+Cc: Reginald Dilliard
+Executive Director, Tennessee BOP
+665 Mainstream Dr
+Nashville, TN 37243
+
+______________________________
+
+1 We remind you that there are conditions other than those discussed in this letter that must be satisfied to qualify for the exemptions in section 503A of the FDCA.  
+
+2 On June 9, 2016, FDA issued a final guidance titled, Interim Policy on Compounding Using Bulk Drug Substances Under Section 503A of the Federal Food, Drug, and Cosmetic Act.  This guidance describes FDA’s interim regulatory policy for State-licensed pharmacies, Federal facilities, and licensed physicians that compound human drug products using bulk drug substances that do not otherwise meet the conditions of section 503A(b)(1)(A)(i) while the 503A bulks list is being developed.  Specifically, the guidance sets out the conditions under which FDA does not intend to take action against a State-licensed pharmacy, Federal facility, or licensed physician for compounding a drug product using a bulk drug substance that is not the subject of an applicable USP or NF monograph or a component of an FDA-approved drug, until the substance is identified in a final rule as included or not included on the 503A bulks list. These conditions include that the substance may be eligible for inclusion on the 503A bulks list, was nominated with adequate support for FDA to evaluate it, and has not been identified by FDA as a substance that appears to present significant safety risks pending further evaluation.  Domperidone was nominated for inclusion on the 503A bulks list. It has been identified as a substance that appears to present significant safety risks. For additional information, see the guidance at http://www.fda.gov/ downloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/UCM469120.pdf.  
+
+3 Your ineligible drug products are not exempted from the requirements of section 502(f)(1) of the FDCA by regulations issued by the FDA (see, e.g., 21 CFR 201.115).
+
+4 In this letter we do not address whether your proposed corrective actions would resolve the CGMP violations noted above.

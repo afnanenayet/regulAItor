@@ -1,0 +1,236 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Ms. Eleanor Palmer
+          
+
+                                
+  
+    Recipient Title
+              President
+          
+
+          
+            Coral Pharmaceuticals LTD
+
+          
+                      20 Longwood Road, P.O. Box F-40729
+Freeport City, Grand Bahama
+Bahamas
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research
+        
+         
+          10903 New Hampshire Avenue
+Silver Spring, MD 20993
+United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter 320-20-04 
+
+October 9, 2019
+
+ 
+
+Dear Ms. Palmer:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Coral Pharmaceuticals Ltd, FEI 3003301821, at 20 Longwood Road, Freeport City, from May 20 to 24, 2019.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See 21 CFR, parts 210 and 211. 
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug product is adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B). 
+
+We reviewed your June 6, 2019, response to our Form FDA 483 in detail. Your response is inadequate because it did not provide sufficient detail or evidence of corrective actions to bring your operations into compliance with CGMP.
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+1.    Your firm failed to establish adequate written procedures for production and process control designed to assure that the drug products you manufacture have the identity, strength, quality, and purity they purport or are represented to possess (21 CFR 211.100(a).
+
+Under contract, you manufacture a homeopathic drug product, (b)(4), derived from a toxic ingredient, (b)(4). You distributed this homeopathic drug product to the United States without adequate process validation data to demonstrate that your manufacturing process is capable of producing the homeopathic drug product of its purported quality and safety.
+
+Specifically, your data does not support that the drug product you manufacture is the concentration specified on the drug product label. When asked by FDA investigators for data supporting the finished drug product concentration, you could not provide adequate justification. You contacted your customer, (b)(4), for the information.
+
+During the inspection you received correspondence from your customer, (b)(4), indicating the manufacturing process utilized at your facility would yield final solution concentration at (b)(4) mcg/mL. This concentration is approximately equivalent to a (b)(4)X homeopathic dilution. However, the label on the homeopathic drug product you distributed is (b)(4)X. This means that you are manufacturing a drug with (b)(4) orders of magnitude, or (b)(4) times, the active concentration of the label that the homeopathic drug is purported to possess.  You did not know the true concentration of the homeopathic drug product you distributed, which is especially concerning as it contains the toxic ingredient, (b)(4).
+
+We acknowledge that your response to the Form FDA 483 indicated that you are not currently manufacturing drugs for the U.S. market and that it is unlikely you will manufacture products for the U.S. market in the future. FDA placed your firm on import alert 66-40 on September 25, 2019.
+
+If you intend to resume drug manufacturing for the U.S. market, provide the following in response to this letter. 
+
+
+	A detailed summary of your validation plan for ensuring a state of control throughout the product lifecycle, along with associated procedures. Describe your program for process performance qualification (PPQ), and ongoing monitoring of both intra-batch and inter-batch variation to ensure a continuing state of control. 
+	A timeline for performing appropriate PPQ for each of your drug products. 
+	A detailed program for designing, validating, maintaining, controlling, and monitoring each of your manufacturing processes that includes vigilant monitoring of intra-batch and inter-batch variation to ensure an ongoing state of control. Also, include your program for qualification of your equipment and facility. 
+	An assessment of each drug product process to ensure that there is a data-driven and scientifically sound program that identifies and controls all sources of variability, such that your production processes will consistently meet appropriate specifications and manufacturing standards. This includes, but is not limited to, evaluating suitability of equipment for its intended use, sufficiency of detectability in your monitoring and testing systems, quality of input materials, and reliability of each manufacturing process step and control.
+
+
+2.    Your firm failed to conduct at least one test to verify the identity of each component of a drug product. Your firm also failed to validate and establish the reliability of your component supplier’s test analyses at appropriate intervals (21 CFR 211.84(d)(1) and (2)). 
+
+ 
+
+You received a component containing a toxic ingredient, (b)(4), from the product owner to manufacture a finished drug product, (b)(4). However, you did not conduct identity testing prior to releasing the component for use in manufacturing. 
+
+ 
+
+Additionally, your firm used results from the certificate of analysis (COA) for the component containing (b)(4) without establishing the reliability of the supplier’s analyses through appropriate validation. Under 21 CFR 211.84(d)(2), you may not rely on your suppliers’ COA to verify the identity of your components. Furthermore, you do not receive COA or certificates of conformance and have not qualified the suppliers for (b)(4) Solution with (b)(4).
+
+ 
+
+If you intend to resume drug manufacturing for the U.S. market, provide the following in response to this letter. 
+
+
+	The chemical and microbiological quality control specifications you use to test and release each incoming lot of component for use in drug manufacturing. 
+	A description of how you will test each component lot for conformity with all appropriate specifications for identity, strength, quality, and purity. If you intend to accept any results from your supplier’s COA instead of testing each component lot for strength, quality, and purity, specify how you will robustly establish the reliability of your supplier’s results through initial validation as well as periodic re-validation. In addition, include a commitment to always conduct at least one specific identity test for each incoming component lot.
+	A summary of results obtained from testing all components to evaluate the reliability of the COA from each component manufacturer. Include your standard operating procedure (SOP) that describes this COA validation program.
+	A summary of your procedures for qualifying and overseeing contract facilities that test the drug products you manufacture.
+	A comprehensive, independent review of your material system to determine whether all suppliers of components, containers, and closures are each qualified and the materials are assigned appropriate expiration or retest dates. The review should also determine whether incoming material controls are adequate to prevent use of unsuitable components, containers, and closures. 
+
+
+3.    Your firm failed to establish an adequate quality control unit and procedures applicable to the quality control unit with the responsibility and authority to approve or reject all components, drug product containers, closures, in- process materials, packaging materials, labeling, and drug products, including drug products manufactured, processed, packed or held under contract by another company (211.22(a) and (d)). 
+
+Your firm lacked SOPs to ensure that roles and responsibilities pertaining to manufacturing activities are in writing and clearly detailed for each respective party. Additionally, your firm did not establish clear quality unit (QU) responsibilities for finished drug product approval. Furthermore, your firm did not follow its SOP for reserve samples.
+
+Establishing an adequate QU is essential to ensuring that your operations associated with all systems (facilities and equipment, materials, production, laboratory controls and packaging and labeling) are appropriately planned, approved, conducted, and monitored, and ultimately to ensuring that your firm is capable of consistently producing drug products of acceptable quality.
+
+If you intend to resume drug manufacturing for the U.S. market, provide a comprehensive assessment and remediation plan to ensure your QU is given the authority and resources to effectively function. The assessment should also include, but not be limited to:
+
+
+	A determination of whether procedures used by your firm are robust and appropriate.
+	Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices.
+	A complete and final review of each batch and its related information before the QU disposition decision.
+	Oversight and approval of investigations and discharging of all other QU duties to ensure identity, strength, quality, and purity of all products.
+
+
+See FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations for help implementing quality systems and risk management approaches to meet the requirements of CGMP regulations 21 CFR, parts 210 and 211 at https://www.fda.gov/media/71023/download.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, if your firm intends to resume manufacturing drugs for the U.S. market we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements. 
+
+We also recommend that the qualified consultant perform a comprehensive audit of your entire operation for CGMP compliance and that the consultant evaluates the completion and efficacy of your corrective actions and preventive actions before you pursue resolution of your firm’s compliance status with FDA. 
+
+If you intend to resume manufacturing for and shipping drugs to the United States, you should provide comprehensive corrective actions which include systemic remediation as well as a global assessment and remediation of all six systems of your manufacturing operations. 
+
+Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance. 
+
+Responsibilities as a Contractor
+
+Drugs must be manufactured in conformance with CGMP. FDA is aware that many drug manufacturers use independent contractors such as production facilities, testing laboratories, packagers, and labelers. FDA regards contractors as extensions of the manufacturer.
+
+You are responsible for the quality of drugs you produce as a contract facility regardless of agreements in place with product owners. You are required to ensure that drugs are made in accordance with section 501(a)(2)(B) of the FD&C Act for safety, identity, strength, quality, and purity. See FDA’s guidance document Contract Manufacturing Arrangements for Drugs: Quality Agreements at https://www.fda.gov/media/86193/download. 
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of these violations and for preventing their recurrence or the occurrence of other violations. 
+
+FDA placed your firm on Import Alert 66-40 on September 25, 2019. 
+
+Until you correct all violations completely and we confirm your compliance with CGMP, FDA may withhold approval of any new drug applications or supplements listing your firm as a drug manufacturer. 
+
+Failure to correct these violations may also result in the FDA continuing to refuse admission of articles manufactured at Coral Pharmaceuticals Ltd, 20 Longwood Road, Freeport City into the United States under section 801(a)(3) of the FD&C Act, 21 U.S.C. 381(a)(3). Articles under this authority may be subject to refusal of admission, in that the methods and controls used in their manufacture do not appear to conform to CGMP within the meaning of section 501(a)(2)(B) of the FD&C Act, 21 U.S.C. 351(a)(2)(B). 
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion. 
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov or mail your reply to:
+
+LCDR Matthew Schnupp
+
+Compliance Officer
+
+U.S. Food and Drug Administration
+
+White Oak Building 51, Room 4235
+
+10903 New Hampshire Avenue
+
+Silver Spring, MD 20993
+
+USA
+
+ 
+
+Please identify your response with FEI 3003301821.
+
+ 
+
+Sincerely,
+
+/S/
+
+Francis Godwin
+
+Director
+
+Office of Manufacturing Quality
+
+Office of Compliance
+
+Center for Drug Evaluation and Research 
+
+ 
+
+ 
+
+CC:      (b)(4)

@@ -1,0 +1,270 @@
+Reference #: 
+        320-19-18
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Tham Chew Thor
+          
+
+                                
+  
+    Recipient Title
+              Director
+          
+
+          
+            Luen Fook Medicine Sdn. Bhd. 
+
+          
+                      203 Henderson Road #05-08/09 (Wing B)
+Henderson Industrial Park
+159546
+Singapore
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research
+        
+         
+          10903 New Hampshire Avenue
+Silver Spring, MD 20993
+United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Via UPS                                                                                 Warning Letter 320-19-18
+
+Return Receipt Requested
+
+ 
+
+April 4, 2019
+
+           
+
+ 
+
+Mr. Tham Chew Thor
+
+Director
+
+Luen Fook Medicine Sdn., Bhd.
+
+203 Henderson Road #05-08/09 (Wing B)
+
+Henderson Industrial Park 159546
+
+Singapore
+
+ 
+
+Dear Mr. Tham Chew Thor:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Luen Fook Medicine Sdn., Bhd., at Taman Perindustrian Sri Plentong, No 6, Jalan Sri Plentong 5, Masai, Johor, 81750 Malaysia, from December 10 to 14, 2018.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See 21 CFR, parts 210 and 211.
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products is adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+In addition, as formulated and labeled, African “SEA-COCONUT” Sore Throat Syrup is an unapproved new drug in violation of section 505(a) of the FD&C Act, 21 U.S.C. 355(a). Introduction of such a product into interstate commerce is prohibited under section 301(d) of the FD&C Act, 21 U.S.C. 331(d). This violation is described in more detail below. 
+
+We reviewed your January 7, 2019, response in detail. Your response was inadequate because it did not provide sufficient detail or evidence of corrective actions to bring your operations into compliance with CGMP.
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+CGMP Violations
+
+1.      Your firm failed to have, for each batch of drug product, appropriate laboratory determination of satisfactory conformance to final specifications for the drug product, including the identity and strength of each active ingredient, prior to release (21 CFR 211.165(a)).
+
+You do not test your finished drug product, African “SEA-COCONUT” Sore Throat Syrup, to determine the identity and strength of the active ingredient prior to release.
+
+In response to this letter, provide a summary of results obtained from testing retain samples of all drug products within expiry that have been distributed in the United States. Include results for identity and strength of active ingredients, including any ingredient in your drug product that may have pharmacological activity, and all other appropriate chemical and microbial quality attributes. Also evaluate your formulation to identify all active ingredients intended to furnish pharmacological activity.
+
+2.      Your firm failed to establish written procedures for production and process control designed to assure that the drug products you manufacture have the identity, strength, quality, and purity they purport or are represented to possess, and your firm’s quality control unit did not review and approve those procedures, including any changes (21 CFR 211.100(a)).
+
+Your firm failed to validate the manufacturing process for your African “SEA-COCONUT” Sore Throat Syrup. Process validation evaluates the soundness of design and state of control of a process throughout its lifecycle. Each significant stage of a manufacturing process must be designed appropriately and assure the quality of raw material inputs, in-process materials, and finished drug products. Process qualification studies determine whether an initial state of control has been established.
+
+In your response, you provided a validation master plan. However, it lacked adequate detail and only listed pieces of equipment that you intended to qualify as a part of your validation program.
+
+Successful process qualification studies are necessary before commercial distribution. Thereafter, ongoing vigilant oversight of process performance and product quality is necessary to ensure you maintain a stable manufacturing operation throughout the product lifecycle. See FDA’s guidance for industry, Process Validation: General Principles and Practices, at: https://www.fda.gov/downloads/drugs/guidances/ucm070336.pdf
+
+In response to this letter, provide a validation plan for ensuring a state of control throughout the product lifecycle. Include a timeline for performing appropriate process performance qualification for each of your drug products. Describe your program for monitoring batch-to-batch variation to ensure an ongoing state of control. Also include your process performance protocol(s) and your written procedures for qualification of equipment and facilities.
+
+3.      Your firm failed to clean, maintain, and, as appropriate for the nature of the drug, sanitize and/or sterilize equipment and utensils at appropriate intervals to prevent malfunctions or contamination that would alter the safety, identity, strength, quality, or purity of the drug product beyond the official or other established requirements (21 CFR 211.67(a)).
+
+You failed to perform cleaning validation for the equipment used in the production of your African “SEA-COCONUT” Sore Throat Syrup. In addition, your current cleaning procedures do not include a sanitizer. You clean and rinse only with (b)(4).
+
+In your response, provide the following.
+
+
+	A comprehensive plan to evaluate cleaning procedures and practices and validation studies for each piece of manufacturing equipment used to manufacture more than one product
+	Scientific rationale for your cleaning validation strategy to ensure your cleaning procedures are effective
+	A summary of updates to your cleaning validation protocol incorporating conditions identified as worst case. This should include, but not be limited to:
+
+
+o   Evaluating drugs of the highest toxicity
+
+o   Assessing drugs of the lowest solubility in their cleaning solvents
+
+o   Evaluating drugs with characteristics that make them difficult to clean
+
+o   Swabbing equipment locations that are most difficult to clean
+
+4.      Your firm failed to establish an adequate quality control unit with the responsibility and authority to approve or reject all components, drug product containers, closures, in-process materials, packaging materials, labeling, and drug products (21 CFR 211.22(a)). 
+
+During the inspection, our investigator observed that your quality unit (QU) lacks adequate oversight for the manufacture of your drug product. For example, your QU failed to ensure that:
+
+
+	Appropriate finished product specifications for strength and identity were developed, and that each lot of drug product met all specifications prior to distribution in the U.S. market
+	Process validation was reviewed and approved by the QU prior to distributing drug products to the U.S. market
+	Cleaning validation was performed, reviewed, and approved to ensure your firm can prevent the potential of cross contamination from other drug products manufactured on the same shared equipment
+
+
+Your firm’s quality systems are inadequate. For help implementing quality systems and risk management approaches to meet the requirements of CGMP regulations 21 CFR, parts 210 and 211, see FDA’s guidance document, Quality Systems Approach to Pharmaceutical CGMP Regulations, at https://www.fda.gov/downloads/Drugs/Guidances/UCM070337.pdf
+
+In response to this letter, provide a comprehensive assessment with corrective and preventive actions to ensure your QU is given the authority and resources to effectively function. The assessment should also include, but not be limited to: 
+
+
+	A determination of whether procedures used by your firm are robust and appropriate
+	Provisions for QU oversight throughout your operations to evaluate practices
+	A complete and final review of each batch and its related information before the QU disposition decision
+	Oversight and approval of investigations, and discharging all other QU duties to ensure identity, strength, quality, and purity of all products
+
+
+Repeat Violations 
+
+In a May 2015 inspection, FDA cited similar CGMP observations. You proposed specific remediation for these observations in your response.
+
+Repeated failures demonstrate that executive management oversight and control over the manufacture of drugs is inadequate.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, if your firm intends to resume manufacturing drugs for the U.S. market we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements.
+
+We also recommend that the qualified consultant perform a comprehensive audit of your entire operation for CGMP compliance and that the consultant evaluates the completion and efficacy of your corrective actions and preventive actions before you pursue resolution of your firm’s compliance status with FDA.
+
+Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Unapproved New Drug Violation
+
+African “SEA-COCONUT” Sore Throat Syrup is a “drug” as defined by section 201(g)(1)(B) of the FD&C Act, 21 U.S.C. 321(g)(1)(B), because it is intended for the diagnosis, cure, mitigation, treatment, or prevention of disease, and/or as defined by section 201(g)(1)(C) of the FD&C Act, 21 U.S.C. 321(g)(1)(C), because it is intended to affect the structure or any function of the body. Specifically, this product is intended as a demulcent.
+
+Examples of claims observed on the product label that establish the intended uses of the product as defined in 21 CFR 201.128 include, but may not be limited to, the following: “Sore Throat Syrup. . . Demulcent…”
+
+OTC drug products intended for use as a demulcent, such as African “SEA-COCONUT” Sore Throat Syrup, are subject to the ongoing rulemaking for Oral Health Care Drug Products for Over-the-Counter Human Use; Tentative Final Monograph (TFM) (53 FR 2436, January 27, 1988). Pending the promulgation of a Final Rule, FDA generally does not intend to object to the marketing of products that meet both the proposed formulation and labeling conditions outlined in the TFM and each general condition in 21 CFR 330.1 unless a particular product poses a public health concern. Such marketing, however, is subject to the risk that a Final Rule may require reformulation and/or relabeling or FDA approval through the “new drug” procedures of the FD&C Act (section 505).
+
+African “SEA-COCONUT” Sore Throat Syrup is not formulated or labeled in accordance with the conditions proposed in the Oral Health Care TFM (see 53 FR 2436, January 27, 1988).
+
+Specifically, your product label lists elm bark 65 mg (in each 5mL tsp) as the active ingredient in a liquid dosage form. However, the before-mentioned TFM permits elm bark only in a solid dosage form at a concentration of 10 to 15% (53 FR 2436 at 2460, January 27, 1988).
+
+Furthermore, we are not aware of any adequate and well controlled clinical trials in the published literature that support a determination that African “SEA-COCONUT” Sore Throat Syrup is generally recognized as safe and effective for its labeled indication.
+
+African “SEA-COCONUT” Sore Throat Syrup, as formulated and labeled, is a new drug within the meaning of section 201(p) of the FD&C Act because it is not generally recognized among scientific experts as safe and effective for the drug use described in its labeling. “New drugs” may not be introduced or delivered for introduction into interstate commerce unless an application approved by FDA under section 505 of the FD&C Act is in effect for the drug.
+
+African “SEA-COCONUT” Sore Throat Syrup is not the subject of an approved new drug application; therefore, marketing this product in the United States is prohibited under section 301(d) of the FD&C Act, 21 U.S.C. 331(d) and violates section 505 of the FD&C Act.
+
+Conclusion
+
+Violations cited in this letter are not intended as an all-inclusive list. You are responsible for investigating these violations, for determining the causes, for preventing their recurrence, and for preventing other violations in all your facilities.
+
+FDA placed your firm on Import Alert 66-40 on March 29, 2019.
+
+Until you correct all violations completely and we confirm your compliance with CGMP, FDA may withhold approval of any new applications or supplements listing your firm as a drug manufacturer.
+
+Failure to correct these violations may also result in FDA continuing to refuse admission of articles manufactured at Luen Fook Medicine Sdn., Bhd., at Taman Perindustrian Sri Plentong, No 6, Jalan Sri Plentong 5, Masai, Johor, 81750 Malaysia into the United States under section 801(a)(3) of the FD&C Act, 21 U.S.C. 381(a)(3). Under the same authority, articles may be subject to refusal of admission, in that the methods and controls used in their manufacture do not appear to conform to CGMP within the meaning of section 501(a)(2)(B) of the FD&C Act, 21 U.S.C. 351(a)(2)(B).
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov or mail your reply to:
+
+ 
+
+Carla Norris
+
+Compliance Officer
+
+U.S. Food and Drug Administration
+
+White Oak Building 51, Room 4359
+
+10903 New Hampshire Avenue
+
+Silver Spring, MD 20993
+
+USA
+
+ 
+
+Please identify your response with FEI 3001321832.
+
+ 
+
+Sincerely,
+
+/S/ 
+
+Francis Godwin
+
+Director
+
+Office of Manufacturing Quality
+
+Office of Compliance
+
+Center for Drug Evaluation and Research

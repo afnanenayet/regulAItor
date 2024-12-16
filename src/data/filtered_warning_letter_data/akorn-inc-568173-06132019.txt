@@ -1,0 +1,358 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Douglas S. Boothe 
+          
+
+                                
+  
+    Recipient Title
+              Chief Executive Officer
+          
+
+          
+            Akorn Inc. 
+
+          
+                      1925 West Field Court Suite 300
+Lake Forest, IL 60045
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Division of Pharmaceutical Quality Operations I 
+        
+         
+          10 Waterview Blvd, 3rd Floor
+Parsippany, NJ 07054
+United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+WARNING LETTER
+CMS # 568173
+
+June 13, 2019
+
+VIA UPS Next Day Air
+
+Mr. Douglas S. Boothe
+Chief Executive Officer
+Akorn, Inc.
+1925 West Field Court
+Suite 300
+Lake Forest, IL 60045
+
+Dear Mr. Boothe:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Akorn Inc. at 72 Veronica Avenue, Somerset, New Jersey, from July 23 to August 30, 2018.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See 21 CFR, parts 210 and 211.
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your September 21, 2018, response in detail and acknowledge receipt of your subsequent correspondence.
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to thoroughly investigate any unexplained discrepancy or failure of a batch or any of its components to meet any of its specifications, whether or not the batch has already been distributed (21 CFR 211.192).
+
+Your investigations into out-of-specification (OOS) laboratory results and manufacturing deviations are inadequate and incomplete, do not include scientifically-supported conclusions, and lack prompt corrective action and preventive actions (CAPA). We reviewed numerous investigations that were open for more than six months; some were open for more than a year.
+
+Manufacturing Investigations
+
+A. You obtained an OOS osmolality result during the 18-month stability test of ketorolac tromethamine ophthalmic solution, 0.5%, lot 6C95A, performed in October 2017. Additional product defects including low volume, product leakage, and residue under the neckband were observed in the same lot in both the 18 and 24 month stability samples. You opened a manufacturing investigation and first concluded that defects in bottles received from the supplier led to the OOS osmolality result.
+
+This investigation was inadequate. You concluded the event was an isolated incident with no complaints received for the product. However, we identified several complaints you received for empty or leaking drug products for lots packaged in the implicated bottles.
+
+We note that your bottle supplier informed you in August 2018 that the bottle damage was most likely occurring during tip insertion on your filling line. Your investigation did not include a meaningful evaluation of this or other potential processing line root causes.
+
+At the time of our inspection, your investigation remained open, and no CAPAs were identified or implemented. Additionally, you had not yet completed a risk assessment of distributed lots and you continued to release drug products manufactured on this filling line.
+
+Non-integral containers pose a significant risk of non-sterility and can also impact chemical attributes of drug products.
+
+B. On May 3 and 4, 2018, your personnel observed metal shavings on aseptic filling equipment during filling of lidocaine hydrochloride 2% jelly, USP Sterile, lots 8E47B and 8E47C. Your investigation concluded the root cause was non-conforming aluminum tubes.
+
+Your investigation was inadequate because it only identified two of (b)(4) batches filled in the campaign as impacted. You did not perform identification tests to verify that the metal shavings came from the aluminum tubes. Your investigation lacked a review of other drug products packaged and distributed in the same type of aluminum tubes.
+
+At the time of our inspection, your investigation remained open, and no CAPAs were identified.
+
+Laboratory Investigations
+
+C. Your investigation into the practice of “trial” injections in your laboratory since June 30, 2011, was inadequate. The protocol we reviewed during the inspection included a retrospective evaluation of injections and sequences containing the words “test,” “trial,” and “dummy,” as well as unnamed injections. However, our inspection identified single injections with additional names including, but not limited to, “Trail” [sic], “sample,” and “Sample-Assay-1.” These single injections would not be identified within the scope of your protocol to assess the extent of “trial” injections in your testing laboratory.
+
+Our inspection found unjustified invalidation of OOS results obtained during both “trial injections” and official recorded testing of hydroxyamphetamine hydrobromide API.
+
+During our 2015 inspection, FDA raised concerns regarding your practice of trial injections. The inspection found that your procedures permitted “Trial injection(s) of sample solutions.” Our current inspection found your (b)(4) standard operating procedure (SOP) had not been revised to remove these instructions.
+
+D. You initiated numerous investigations into OOS azelastine hydrochloride ophthalmic solution, 0.05%, impurity results obtained during multiple stability time points beginning in January 2017. You first determined the root cause to be a laboratory procedure deficiency in March 2017. Later investigations noted the failures could be drug product-related. Your July 2017 Technical Assessment identified an error in the impurity calculation.
+
+At the time of our inspection, approximately 19 months after the initial impurity OOS results were obtained, your investigations remained open, you continued to recalculate test results to accurately report stability test data, and you had not yet determined a root cause for the OOS results. Recalculated impurity results were still OOS for both the nine- and 18-month stability time points.
+
+E. You obtained an OOS impurity result during the 18-month stability test of ciprofloxacin ophthalmic solution, 0.3%, lot 6D68A, performed on November 29, 2017. Testing was conducted at 20 months: two months after the drug product had expired. Previous stability results for the nine- and 12-month time points were at the upper specification limit (not more than (b)(4)%). You did not appropriately evaluate signals of potential quality problems. Your investigation determined the OOS impurity result would have occurred at 14 months. At the time of our inspection, approximately nine months after the initial OOS, your investigation remained open, and you had not yet determined a root cause for the impurity failure.
+
+Many of your investigations, including those initiated for stability failures, remained open for long periods of time, up to 19 months, without adequate justification. Unresolved drug product quality problems may pose a risk to patients.
+
+Your response is inadequate. The details provided in your response did not clearly define management responsibilities relating to timeliness and the number of extensions that may be granted to an ongoing investigation. We acknowledge that you have initiated efforts to remediate your investigation programs; however, your response did not provide enough detail of your remediation or adequately specify how you will improve root cause determinations.
+
+We acknowledge that you halted distribution of azelastine hydrochloride ophthalmic solution, 0.05%, on May 2, 2017, and recalled all batches of the product during the inspection on August 6, 2018. We also acknowledge that you recalled 21 lots of ciprofloxacin ophthalmic solution, 0.3%, on September 20, 2018.
+
+In response to this letter, provide the following.
+
+? An update on your trial injection assessment and other data integrity assessments performed by your third party. Include a copy of your protocols and any interim and final reports. See the Data Integrity Remediation heading below for additional requests.
+
+? Provide the procedures that define the naming convention to be used when performing laboratory analyses. The procedures should require injections to be clearly and consistently identified in order to prevent ambiguity.
+
+? A comprehensive, independent assessment of your system for investigating deviations, atypical events, complaints, OOS results, and failures. Your CAPA plan should include, but not be limited to, improvements in investigations, root cause analysis, written procedures, and quality unit oversight. Also include your process for evaluating CAPA plan effectiveness. Provide an evaluation of all open investigations for batches that remain on the market and include the length of time investigations are open.
+
+? A retrospective, independent review of all invalidated OOS (in-process and finished testing) results obtained for products currently on the U.S. market. Assess whether the scientific justification and evidence for each invalidated OOS result was conclusive. For investigations that conclusively establish laboratory root cause, determine effectiveness of the CAPA, and ensure that other laboratory methods vulnerable to the same root cause are identified for remediation. For any OOS results with inconclusive or no root cause identified in the laboratory, include a thorough review of production (e.g., batch manufacturing records, adequacy of the manufacturing steps, raw materials, process capability, deviation history, batch failure history). Provide a CAPA plan that identifies manufacturing root causes and specifies meaningful improvements.
+
+? Review and remediate your overall system for investigating OOS results. Provide a CAPA plan to improve OOS handling. Your CAPA plan should ensure that your revised OOS investigations procedure includes enhanced quality unit oversight of laboratory investigations, identification of adverse laboratory control trends, resolution of causes of laboratory variation, and investigations of potential manufacturing causes when a laboratory cause cannot be conclusively identified.
+
+? A comprehensive, independent assessment and CAPA plan to ensure the adequacy of your stability program. Your CAPA plan should include, but not be limited to:
+
+? A remediated SOP describing your stability program
+? Stability indicating methods
+? Stability studies for each drug product in its container-closure system before distribution is permitted
+? An ongoing program in which representative batches of each product are added each year to the program to determine if the shelf-life claim remains valid
+? Specific attributes to be tested at each station
+? An evaluation of the timeliness of your stability study testing
+
+? A list of the third parties performing consulting functions for your firm. Include their responsibilities and an estimated time frame for completion of their activities.
+
+? An update to your bottle tip insertion process investigation including an assessment of other products packaged on the same line which may also be impacted.
+
+? An update to your metal shavings investigations. Include an evaluation of all batches packaged in the implicated vendor tube lots. Explain how you will handle aluminum tube lots received before the implementation of CAPAs by your vendor.
+
+2. Your firm failed to exercise appropriate controls over computer or related systems to assure that only authorized personnel institute changes in master production and control records, or other records (21 CFR 211.68(b)). Your firm failed to ensure that laboratory records included complete data derived from all tests necessary to ensure compliance with established specifications and standards (21 CFR 211.194(a)).
+
+Our inspection found that data could be deleted and altered from laboratory instruments, such as the Fourier transform infrared spectrometer (FTIR), total organic carbon, and (b)(4) particle size analyzer instruments. Also, standalone laboratory instruments were not backed up.
+
+At the end of the inspection, you told our investigators that you discovered that the database, usage logs, and audit trails had been deleted from your high accuracy particle counter (b)(4) instrument on August 24, 2018.
+
+Laboratory records failed to include signatures. From January 2017 to August 2018, 294 sample injection sequences did not contain signatures denoting electronic data was reviewed, as required by your procedure. Your procedure requires review of chromatographic data to ensure completeness, accuracy, and compliance of laboratory data. More than 730 additional injection sequences, including standard and suitability injections, method validation, and calibration injections, did not contain the required signatures. Your response noted that additional injection sequences without the required signatures were identified after our inspection.
+
+We also found inadequate controls over your computerized systems. Chemists at your firm had full administrator access to the Windows folder on the FTIR computer, allowing data to be copied, renamed, and deleted. Similar user settings were observed on other laboratory instruments.
+
+Without complete and accurate records, you cannot make appropriate batch release decisions, stability decisions, and other decisions that are fundamental to ongoing assurance of quality.
+
+Your response is inadequate.
+
+You stated the “reviewer” of each laboratory test is responsible for confirming there are no signs of data deletion or modification as part of the audit trail review. You did not provide documentation of this activity.
+
+You committed to investigate and review all outstanding electronic data for anomalies or other issues, to identify potential root causes, and to assess product impact. You stated laboratory data “reviewers" evaluated laboratory notebooks and source data during their chromatographic data review. You did not provide supporting evidence.
+
+The extent of the data integrity violations throughout your facility remains unknown. We acknowledge that FDA initiated our inspection after Akorn notified FDA of (b)(4) and (b)(4). We also acknowledge that you commissioned a new laboratory space and purchased new laboratory equipment.
+
+In response to this letter, provide the following.
+
+? An update to your investigation into data associated with your legacy equipment and data deletion.
+? An update on your investigation into the (b)(4) database deletion.
+? An update on your investigations into the unreviewed HPLC injection sequences. Identify the root causes for these lapses and the CAPAs you have implemented, or plan to implement, to prevent recurrence. Include an update on CAPA effectiveness that will help ensure the adequacy of the CAPAs listed in your September 21, 2018, response and any additional CAPAs identified during your investigations.
+
+? A comprehensive, independent review of your laboratory practices, procedures, methods, equipment, and analyst competencies. Based on this review, provide a detailed CAPA plan to fully remediate your laboratory system. Your plan should include the process you will use to evaluate the effectiveness of the implemented CAPA plan.
+
+? We note that some initial efforts toward laboratory system remediation have been undertaken, including laboratory equipment upgrades. As part of your detailed CAPA, include an update on your new laboratory operations, including a timeline for qualification and transfer of testing onto new instruments. Also include a list of all new equipment and existing equipment that will be used in the new laboratory.
+
+3. Your firm failed to follow appropriate written procedures that are designed to prevent microbiological contamination of drug products purporting to be sterile, and that include validation of all aseptic and sterilization processes (21 CFR 211.113(b)).
+
+Poor Aseptic Behavior
+
+Operators repeatedly displayed multiple poor aseptic practices during set-up and filling operations of lidocaine hydrochloride 2% jelly, USP Sterile, lot 8G37A.
+
+A. Without sanitizing their hands, an operator performed an aseptic connection after moving the (b)(4). Another operator crouched to wipe the bottom of their foot with plastic wrap. Without sanitizing their hands, the same operator connected a new tank to the fill line.
+
+B. Sterile lidocaine hydrochloride 2% jelly leaked onto the floor during set-up and filling operations. Filling continued as operators attempted to clean up the spilled product by placing wipes and other materials over the area with their feet. Aseptic connections were made directly above the spilled product.
+
+Leaks of sterilized product and unsecure connections increase the risk of product contamination. No additional sterilization activities take place once the product is brought into the fill room where final aseptic filling operations occur.
+
+C. Your aseptic filling equipment design, room space, protection of the area and filling equipment where connections are made, and the number of personnel present during filling operations are deficient. Basic design deficiencies and manually intensive interventions in your operation undermine the ability to maintain asepsis.
+
+Inadequate Media Fills
+
+Interventions are not appropriately simulated in media fills. You replaced or fixed the (b)(4) cutting apparatus during aseptic production operations approximately 15 times between February 16, 2018, and August 13, 2018. However, your media fill program only evaluates the adjustment and wipe down of the cutting apparatus and not its replacement. Replacement can take approximately (b)(4)
+
+Your firm’s response was inadequate. We acknowledge that, before the inspection, you engaged a third party to assist in efforts to strengthen aseptic operations and to enhance the media fill program. You also stated that you plan to improve procedures and revalidate the filling lines by completing (b)(4) media fill runs per line. In addition, we acknowledge your decision to reject lidocaine hydrochloride 2% jelly, USP Sterile, lot 8G37A, following the inspection.
+
+However, you did not provide a sufficient evaluation of all batches that were produced with inadequate aseptic technique or under atypical operational conditions. You did not commit to evaluate the impact of lengthy maintenance operations during processing on product quality.
+
+In response to this letter, provide the following.
+
+? A comprehensive, independent identification of all contamination hazards with respect to your aseptic processes, equipment, and facilities. Provide an independent risk assessment that includes, but is not limited to:
+
+? All human interactions with the ISO 5 area
+? Equipment placement and ergonomics
+? Facility layout
+? Personnel flow
+? Material flow
+? Room space
+
+? A detailed CAPA plan, with timelines, to address the findings of the contamination hazards risk assessment. The plan should address how you will improve aseptic processing facility and equipment design, process control, personnel practices, and other deficient elements of your current operation.
+
+? Improvements in operations management that will ensure aseptic practices and cleanroom behavior during production. Include steps to better assure routine and effective supervisory oversight for all production batches. Also describe the frequency of quality assurance oversight (e.g., audit) during aseptic processing and other operations. As part of your assessment, summarize your review of past processing videos, including all batches with leak problems manufactured within three years of the date of this letter. Provide the batch number, date of processing, extent of leak, and assessment of batch quality.
+
+? Your full investigation into the leakage during filling of lidocaine hydrochloride 2% jelly, USP Sterile, lot 8G37A. Provide an assessment of filling line hoses, connector assemblies, cleaning, maintenance, and operator set-up procedures.
+
+? A thorough risk assessment that evaluates how poor aseptic technique and cleanroom behavior, such as those observed during the inspection, may have affected quality and sterility of your drugs.
+
+? An update on the third-party assessment of your media fill program. Include your plan for implementing the recommendations in the assessment.
+
+? A description of improvements made in your latest media fills to more accurately and appropriately simulate interventions that occur during production.
+
+Additional Guidance on Aseptic Processing
+
+See FDA’s guidance document Sterile Drug Products Produced by Aseptic Processing—Current Good Manufacturing Practice to help you meet the CGMP requirements when manufacturing sterile drugs using aseptic processing at https://www.fda.gov/downloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/ucm070342.pdf.
+
+4. Your firm failed to prepare batch production and control records with complete information relating to the production and control of each batch of drug product produced (21 CFR 211.188).
+
+You failed to document in your batch record the lidocaine hydrochloride 2% jelly, USP Sterile, lot 8G37A leak during aseptic filling operations on July 7, 2018. Further, your investigation into a low OOS yield for this batch did not discuss the leak observed during filling.
+
+You also failed to document significant filling machine interventions in the batch record. Quality personnel did not evaluate interventions recorded in the Mechanical Support (b)(4) Use Logbook. We acknowledge the commitments you made to review impact on product quality related to the lidocaine hydrochloride 2% jelly, USP Sterile leak. We also acknowledge your commitment to ensure all interventions, including mechanical interventions, will be documented in the batch record.
+
+Your response is inadequate because you did not sufficiently address the failure to document the leak and other mechanical interventions in your batch records. You did not provide your retrospective evaluation and risk assessment of mechanical interventions that may have warranted an investigation.
+
+In response to this letter, provide the following.
+
+? An update on your CAPA to review your Mechanical Support (b)(4) Use Logbook. Describe in detail the extent that mechanical interventions entries are missing from batch records. Include your risk assessment and explain how you determined product impact for all batches within expiry where mechanical interventions were made but not reviewed by your quality unit. Provide any investigations into mechanical intervention trends observed in the logbook.
+
+? A complete assessment of documentation systems used throughout your manufacturing and laboratory operations to determine where documentation practices are insufficient. Include a detailed CAPA plan that remedies documentation practices and ensures you retain complete and accurate records (including but not limited to batch records).
+
+Quality Systems Guidance
+
+Your firm’s quality systems are inadequate. For guidance on establishing and maintaining CGMP compliant quality systems, see FDA’s documents:
+
+? Q8(R2) Pharmaceutical Development, at https://www.fda.gov/media/71535/download
+
+? Q9 Quality Risk Management, at https://www.fda.gov/media/71543/download
+
+? Q10 Pharmaceutical Quality System, at https://www.fda.gov/media/71553/download
+
+Data Integrity Remediation
+
+Your quality system does not adequately ensure the accuracy and integrity of data to support the safety, effectiveness, and quality of the drugs you manufacture. See FDA’s guidance document Data Integrity and Compliance With Drug CGMP for guidance on establishing and following CGMP compliant data integrity practices at https://www.fda.gov/media/97005/download.
+
+We acknowledge that you are using a consultant to audit your operation and assist in meeting FDA requirements.
+
+In response to this letter, provide the following.
+
+A. A comprehensive investigation into the extent of the inaccuracies in data records and reporting. Your investigation should include, but not be limited to, the following:
+
+? A detailed investigation protocol and methodology; a summary of all laboratories, manufacturing operations, and systems to be covered by the assessment; and a justification for any part of your operation that you propose to exclude.
+
+? Interviews of current and former employees to identify the nature, scope, and root cause of data inaccuracies. We recommend that these interviews be conducted by a qualified third party.
+
+? An assessment of the extent of data integrity deficiencies at your facility. Identify omissions, alterations, deletions, record destruction, non-contemporaneous record completion, and other deficiencies. Describe all parts of your facility’s operations in which you discovered data integrity lapses.
+
+? A comprehensive, retrospective evaluation of the nature of the testing and manufacturing data integrity deficiencies. We recommend that a qualified third party with specific expertise in the area where potential breaches were identified evaluate all data integrity lapses.
+
+? The protocol and reports from your independent third parties that summarize the findings relating to data integrity at your facility. Include their findings regarding all laboratories, equipment, and staff involved with data manipulation and inaccurate reporting. Include details such as product, test type, test date, results that may have been compromised, description of data integrity issue, and any root cause identified.
+
+B. A current risk assessment of the potential effects of the observed failures on the quality of your drugs. Your assessment should include analyses of the risks to patients caused by the release of drugs affected by a lapse of data integrity and analyses of the risks posed by ongoing operations.
+
+C. A management strategy for your firm that includes the details of your global CAPA plan. Your strategy should include, but not be limited to, the following:
+
+? A detailed CAPA plan that describes how you intend to ensure the reliability and completeness of all the data you generate including analytical data, manufacturing records, and all data submitted to FDA.
+
+? A comprehensive description of the root causes of your data integrity lapses including evidence that the scope and depth of the current action plan is commensurate with the findings of the investigation and risk assessment. Indicate whether individuals responsible for data integrity lapses remain able to influence CGMP-related or drug application data at your firm.
+
+? Interim measures describing the actions you have taken or will take to protect patients and to ensure the quality of your drugs, such as notifying your customers, recalling product, conducting additional testing, adding lots to your stability programs to assure stability, drug application actions, and enhanced complaint monitoring.
+
+? Long-term measures describing any remediation efforts and enhancements to procedures, processes, methods, controls, systems, management oversight, and human resources (e.g., training, staffing improvements) designed to ensure the integrity of your company’s data.
+
+? A status report for any of the above activities already underway or completed.
+
+Quality Assurance Program Audits
+
+FDA reminds Akorn of their responsibility as a matter of CGMP to correct deficiencies found during quality assurance program audits, also referred to as “internal audits” in your correspondence with the FDA.
+
+In response to this letter, conduct a review of all quality assurance program audits and inspections within the last five years at all Akorn facilities. Provide written certification that required corrective actions for such audits and inspections have been taken. If, upon your review or the review by any pertinent party working on your behalf, it is determined that actions have not been taken, provide a timeline for completion for all related corrective actions identified in the audits. The certification and/or timeline should be signed by the CEO of Akorn.
+
+Repeat Violations at Multiple Sites
+
+FDA cited similar CGMP violations at other facilities in your company’s network. On January 4, 2019, Akorn, Inc. (FEI 1450114) was issued a Warning Letter, for among other violations, inadequate controls for manufacturing sterile drugs.
+
+These repeated failures at multiple sites demonstrate that management oversight and control over the manufacture of drugs are inadequate. Your executive management remains responsible for fully resolving all deficiencies and ensuring ongoing CGMP compliance. You should immediately and comprehensively assess your company’s global manufacturing operations to ensure that systems, processes, and the products you manufacture conform to FDA requirements.
+
+Conclusion
+
+Violations cited in this letter are not intended as an all-inclusive list. You are responsible for investigating these violations, for determining the causes, for preventing their recurrence, and for preventing other violations.
+
+If you are considering an action that is likely to lead to a disruption in the supply of drugs produced at your facility, FDA requests that you contact CDER’s Drug Shortages Staff immediately, at drugshortages@fda.hhs.gov, so that FDA can work with you on the most effective way to bring your operations into compliance with the law. Contacting the Drug Shortages Staff also allows you to meet any obligations you may have to report discontinuances or interruptions in your drug manufacture under 21 U.S.C. 356C(b) and allows FDA to consider, as soon as possible, what actions, if any, may be needed to avoid shortages and protect the health of patients who depend on your products.
+
+Correct the violations cited in this letter promptly. Failure to promptly correct these violations may result in legal action without further notice including, without limitation, seizure and injunction. Unresolved violations in this warning letter may also prevent other Federal agencies from awarding contracts.
+
+Until these violations are corrected, we may withhold approval of pending drug applications listing your facility. We may re-inspect to verify that you have completed your corrective actions. We may also refuse your requests for export certificates.
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to orapharm1_responses@fda.hhs.gov. Your written notification should refer to the Warning Letter CMS # 568173.
+
+If you have any questions, contact Compliance Officer CDR Liatte Closs at liatte.closs@fda.hhs.gov or CDR James Mason at james.mason@fda.hhs.gov.
+
+Sincerely,
+/S/
+
+Craig Swanson
+Acting Program Division Director/Deputy District Director
+U.S. Food and Drug Administration
+OPQO Division I/New Jersey District

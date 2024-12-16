@@ -1,0 +1,284 @@
+Delivery Method: 
+        VIA Electronic Mail
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Matt Schenk
+          
+
+                                
+  
+    Recipient Title
+              Chief Executive Officer and President
+          
+
+          
+            Midlab Incorporated
+
+          
+                      140 Private Brand Way
+Athens, TN 37303-1401
+United States
+          
+          
+            
+            
+
+     (b)(6), (b)(7)(C)
+
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+           Division of Pharmaceutical Quality Operations II 
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+February 15, 2023
+
+Case #642374
+
+WARNING LETTER
+
+
+Dear Mr. Schenk:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Midlab Incorporated, FEI 3001236208, at 140 Private Brand Way, Athens, Tennessee 37303-1401 from August 1 to August 5, 2022.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+In addition, your “MAXIM Instant Foam Hand Sanitizer” product is an unapproved new drug introduced or delivered for introduction into interstate commerce in violation of section 505(a) of the FD&C Act, 21 U.S.C. 355(a) and is misbranded under section 502(ee) of the FD&C Act, 21 U.S.C. 352(ee). Your “MAXIM Antibacterial Foam Soap FDF,” “MAXIM Antibacterial Hand Soap” and “MAXIM Assure Antibacterial” products are misbranded under section 502(c), of the FD&C Act, 21 U.S.C. 352(c). Introduction or delivery for introduction of such products into interstate commerce is prohibited under sections 301(d) and (a) of the FD&C Act, 21 U.S.C. 331(d) and (a). These violations are described in more detail below.
+
+We reviewed your August 26, 2022 response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence. Your response is inadequate because it did not provide sufficient detail or evidence of corrective actions to bring your operations into compliance with CGMP.
+
+During our inspection, our investigator observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to conduct, for each batch of drug product, appropriate laboratory testing, as necessary, required to be free of objectionable microorganisms (21 CFR 211.165(b)).
+
+Your firm failed to adequately test your over-the-counter (OTC) drug products prior to release for distribution. For example, although your batch records for hand sanitizer1 and antibacterial hand soap drug products include a requirement for microbial testing, you failed to test each batch for microbial attributes. Instead, you told our investigator that you only send (b)(4) to a third-party laboratory for analysis. You also did not provide documentation of what was included in the referenced standard plate count testing when requested by investigator or a scientific rationale for the sample testing frequency.
+
+In response to this letter, provide:
+
+
+	A list of chemical and microbial specifications, including test methods, used to analyze each batch of your drug products before a batch disposition decision.
+	An action plan and timelines for conducting full chemical and microbiological testing of retain samples to determine the quality of all batches of drug product distributed to the United States that are within expiry as of the date of this letter.
+	A summary of all results obtained from testing retain samples from each batch. If such testing reveals substandard quality drug products, take rapid corrective actions, such as notifying customers and product recalls.
+
+
+2. Your firm failed to thoroughly investigate any unexplained discrepancy or failure of a batch or any of its components to meet any of its specifications, whether or not the batch has already been distributed (21 CFR 211.192).
+
+You failed to investigate out-of-specification (OOS) assay results during stability checks for several batches of your antibacterial hand soap drug products. For example, assay testing for chloroxylenol in your antibacterial hand soap drug product revealed results including 0.31% at the (b)(4) timepoint stability check. Your specification for this product attribute was (b)(4)%. You failed to conduct any investigation into the OOS result.
+
+Your firm also failed to quarantine or reject expired raw materials and prevent their use in finished drug products. On June 28, 2022, your firm used raw material benzalkonium chloride (BZK), which expired June 17, 2021, to manufacture instant foam hand sanitizer that was released for distribution.
+
+We acknowledge in your response that you have quarantined the expired BZK for disposal, and your recall of instant foam hand sanitizer.
+
+Your quality system for investigations is inadequate and does not ensure consistent production of safe and effective products.
+
+For more information about handling failing, out-of-specification, out-of-trend, or other unexpected results and documentation of your investigations, see FDA’s guidance document Investigating Out-of-Specification (OOS) Test Results for Pharmaceutical Production at https://www.fda.gov/media/119267/download.
+
+In response to this letter, provide:
+
+
+	A retrospective, independent review of all OOS (including in-process and release/stability testing) results for U.S. products currently in the U.S. market and within expiry as of the date of this letter for the last three years from the initial date of inspection and a report summarizing the findings of the analysis, including the following for each OOS:
+
+
+  o Determine whether the scientific justification and evidence relating to the OOS result conclusively or inconclusively demonstrates causative laboratory error.
+  o For investigations that conclusively establish laboratory root cause, provide rationale, and ensure that all other laboratory methods vulnerable to the same or similar root cause are identified for remediation.
+  o For all OOS results found by the retrospective review to have an inconclusive or no root cause identified in the laboratory, include a thorough review of production (e.g., batch manufacturing records, adequacy of the manufacturing steps, suitability of equipment/facilities, variability of raw materials, process capability, deviation history, complaint history, batch failure history). Provide a summary of potential manufacturing root causes for each investigation, and any manufacturing operation improvements.
+
+
+	A comprehensive review and remediation plan for your OOS result investigation systems. The corrective action and preventive action (CAPA) should include, but not be limited to addressing the following:
+
+
+  o Quality unit (QU) oversight of laboratory investigations
+  o Identification of adverse laboratory control trends
+  o Resolution of causes of laboratory variation
+  o Initiation of thorough investigations of potential manufacturing causes whenever a laboratory cause cannot be conclusively identified
+  o Adequately scoping of each investigation and its CAPA
+  o Revised OOS investigation procedures with these and other remediations
+
+
+	A comprehensive, independent assessment of your overall system for investigating deviations, discrepancies, complaints, OOS results, and failures. Provide a detailed action plan to remediate this system. Your action plan should include, but not be limited to, significant improvements in investigation competencies, scope determination, root cause evaluation, CAPA effectiveness, QU oversight, and written procedures. Address how your firm will ensure all phases of investigations are appropriately conducted.
+
+
+3. Your firm’s quality control unit failed to exercise its responsibility to ensure drug products manufactured are in compliance with CGMP, and meet established specifications for identity, strength, quality, and purity (21 CFR 211.22).
+
+Your QU did not provide adequate oversight for the manufacture of your drug products. For example, your QU failed to ensure the following:
+
+
+	Adequate procedures describing investigation handling, quarantine products, complaint handling, change control, and stability failures (21 CFR 211.22(d)).
+	Adequate testing of your incoming components for identity, purity, strength, and other appropriate quality attributes (21 CFR 211.84(d)(1) and 211.84 (d)(2)).
+	Establishment of an adequate, ongoing stability program (21 CFR 211.166(a)).
+
+
+Your firm’s quality systems are inadequate. See FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations for help implementing quality systems and risk management approaches to meet the requirements of CGMP regulations 21 CFR, parts 210 and 211 at https://www.fda.gov/media/71023/download.
+
+In response to this letter, provide a comprehensive assessment and remediation plan to ensure your QU is given the authority and resources to effectively function. The assessment should also include, but not be limited to:
+
+  o A determination of whether procedures used by your firm are robust and appropriate.
+  o Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices.
+  o A complete and final review of each batch and its related information before the QU disposition decision.
+  o Oversight and approval of investigations and discharging of all other QU duties to ensure identity, strength, quality, and purity of all products.
+
+4. Your firm failed to establish adequate written procedures for production and process control designed to assure that the drug products you manufacture have the identity, strength, quality, and purity they purport or are represented to possess (21 CFR 211.100(a)).
+
+Your firm failed to adequately validate the manufacturing process and water system used in the manufacture of your hand sanitizer and antibacterial hand soap drug products. For example, your batch records included unvalidated in-process adjustments, such as adding (b)(4) as-needed if the density of your antibacterial hand soap was low. You did not demonstrate that your manufacturing processes were controlled to consistently yield a drug product of uniform character and quality. Furthermore, your firm has not validated the water system, does not maintain procedures, and did not provide specifications upon request by investigators.
+
+Your firm lacks an ongoing program for monitoring process control to ensure stable manufacturing operations and consistent drug quality.
+
+See FDA’s guidance document Process Validation: General Principles and Practices for general principles and approaches that FDA considers appropriate elements of process validation at https://www.fda.gov/media/71021/download.
+
+In response to this letter, provide:
+
+
+	A detailed summary of your validation program for ensuring a state of control throughout the product lifecycle, along with associated procedures. Describe your program for process performance qualification, and ongoing monitoring of both intra-batch and inter-batch variation to ensure a continuing state of control.
+	A timeline for performing appropriate process performance qualification for each of your marketed drug products.
+	Include your process performance protocol(s), and written procedures for qualification of equipment and facilities.
+	A detailed program for designing, validating, maintaining, controlling, and monitoring each of your manufacturing processes that includes vigilant monitoring of intra-batch and inter-batch variation to ensure an ongoing state of control. Also, include your program for qualification of your equipment and facility.
+	A procedure for your water system monitoring that specifies routine microbial testing of water to ensure its acceptability for use in each batch of drug products produced by your firm.
+	The current action/alert limits for total counts and objectionable organisms used for your (b)(4) Water system. Ensure that the total count limits for your (b)(4) water are appropriately stringent in view of the intended use of each of the products produced by your firm.
+	A procedure governing your program for ongoing control, maintenance, and monitoring that ensures the remediated system consistently produces water that meets (b)(4) Water, USP monograph specifications and appropriate microbial limits.
+
+
+Unapproved New Drug and Misbranding Violations
+
+Your “MAXIM Instant Foam Hand Sanitizer,” “MAXIM Antibacterial Foam Soap FDF,” “MAXIM Antibacterial Hand Soap” and “MAXIM Assure Antibacterial” products are “drugs” as defined by section 201(g)(1)(B) of the FD&C Act, 21 U.S.C. 321(g)(1)(B), because they are intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease, and/or under section 201(g)(1)(C) of the FD&C Act, 21 U.S.C. 321(g)(1)(C), because they are intended to affect the structure or any function of the body. Specifically, “MAXIM Instant Foam Hand Sanitizer” is intended for use as a consumer antiseptic rub and “MAXIM Antibacterial Foam Soap FDF,” “MAXIM Antibacterial Hand Soap,” and “MAXIM Assure Antibacterial” are intended for use as consumer antiseptic wash products.
+
+Examples of claims from your product labeling, that provide evidence of the intended uses (as defined in 21 CFR 201.128) of the product includes, but may not be limited to, the following:
+
+“MAXIM Instant Foam Hand Sanitizer”
+Drug Facts . . . Uses • For hand sanitizing to decrease bacteria on the skin . . . • Recommended for repeated use . . . This product, based on the active ingredient Benzalkonium chloride, is a unique Patented formulation featuring exceptional skin feel, conditioning and moisturizing properties. The efficacy of this product has been confirmed to reduce S. aureus 99.9% in as little as 15 seconds . . . Directions • Pump a small amount of foam into palm of hand • Rub thoroughly over all surfaces of both hands • Rub hands together briskly until dry. [from your product’s label]
+
+“MAXIM Antibacterial Foam Soap FDF”
+“This product is a foaming antiseptic hand soap that effectively removes bacteria with normal use. . . . Drug Facts . . . Active Ingredient . . . PCMX 0.1% . . . Uses . . . • Handwash to help decrease bacteria on the skin. . . Directions • Apply a small amount, covering hands with product for 30 seconds. Lather and rinse. . .” [from your product’s label]
+
+“MAXIM Antibacterial Hand Soap”
+“This product is a thick pearlescent antiseptic hand soap that effectively removes bacteria with normal use and is enhanced with emollients for softer, smoother hands. . . . Drug Facts . . . Active Ingredient . . . PCMX 0.1% . . . Uses • Handwash to help decrease bacteria on the skin Directions • Apply a small amount, covering hands with product for 30 seconds. Add water, lather and rinse. . .” [from your product’s label]
+
+“MAXIM Assure Antibacterial”
+“This product is a thick antiseptic hand soap that effectively removes bacteria with normal use and is enhanced with emollients for softer, smoother hands. . . . Drug Facts . . . Active Ingredient . . . PCMX 0.1% . . . Uses . . .  • Handwash to help decrease bacteria on the skin Directions •  Apply a small amount, covering hands with product for 30 seconds. Add water, lather and rinse. . .” [from your product’s label]
+
+Your “MAXIM Instant Foam Hand Sanitizer” product is a “new drug” within the meaning of section 201(p) of the FD&C Act, 21 U.S.C. 321(p), because it is not generally recognized as safe and effective (GRASE) for use under the conditions prescribed, recommended, or suggested in its labeling. New drugs may not be introduced or delivered for introduction into interstate commerce without prior approval from FDA, as described in section 505(a) of the FD&C Act, 21 U.S.C. 355(a), unless they are lawfully marketed under Section 505G of the FD&C Act (which is not the case for this product, as further described below), or under other exceptions not applicable here. No FDA approved application pursuant to section 505 of the FD&C Act, 21 U.S.C. 355, is in effect for this hand sanitizer product, nor are we aware of any adequate and well controlled clinical studies in the published literature that support a determination that your “MAXIM Instant Foam Hand Sanitizer” drug product is GRASE for use under the conditions suggested, recommended, or prescribed in its labeling. Accordingly, this product is an unapproved new drug marketed in violation of sections 505(a) and 301(d) of the FD&C Act, 21 U.S.C 355(a) and 331(d).
+
+We note that over-the-counter (OTC) topical antiseptic products had been the subject of rulemaking under the Agency’s OTC Drug Review. In particular, such products were addressed in a tentative final monograph (TFM) entitled “Topical Antimicrobial Drug Products for Over-the-Counter Human Use; Tentative Final Monograph for Health-Care Antiseptic Drug Products,” Proposed Rule, 59 FR 31402 (June 17, 1994) (1994 TFM), as further amended by “Safety and Effectiveness of Consumer Antiseptics; Topical Antimicrobial Drug Products for Over-the-Counter Human Use; Proposed Amendment of the Tentative Final Monograph; Reopening of Administrative Record,” Proposed Rule, 81 FR 42912 (June 30, 2016) (Consumer Antiseptic -Rubs Proposed Rule). Over the course of these rulemakings, three active ingredients (benzalkonium chloride, ethyl alcohol (ethanol), and isopropyl alcohol) were classified as Category III for use in consumer antiseptic rub products, meaning that additional safety and effectiveness data are needed to support a determination that a drug product containing one of these active ingredients would be GRASE for use in a consumer antiseptic rub.
+
+Section 505G of the FD&C Act addresses nonprescription drugs marketed without an approved application. Under 505G(a)(3) of the FD&C Act, drugs that were classified as Category III for safety or effectiveness in a TFM that is the most recently applicable proposal or determination for such drug issued under 21 CFR Part 330 – and that were not classified as Category II for safety or effectiveness – are not required to have an approved application under section 505 in order to be marketed, as long as they are in conformity with the relevant conditions of use outlined in the applicable TFM, including the active ingredient, and comply with all other applicable requirements.
+
+However, “MAXIM Instant Foam Hand Sanitizer” does not conform to the 1994 TFM, as further amended by the 2016 Consumer Antiseptic Rubs Proposed Rule, nor any other TFM, proposed rule or final rule, and does not meet the conditions under section 505G(a)(3) of the FD&C Act for marketing without an approved application under section 505. Specifically, your labeling claims suggesting that “MAXIM Instant Foam Hand Sanitizer” is effective in preventing infection or disease from specific pathogens such as “S. aureus” and “confirmed to reduce S. aureus 99.9% in as little as 15 seconds” goes beyond merely describing the general intended use of a topical antiseptic as set forth in the 1994 TFM or any of the amendments to the TFM discussed above.
+
+Additionally, your “MAXIM Antibacterial Foam Soap FDF,” “MAXIM Antibacterial Hand Soap” and “MAXIM Assure Antibacterial” products are misbranded within the meaning of section 502(c) of the FD&C Act, 21 U.S.C. 352(c) because the labels’ drug facts panels do not include the established name of their active ingredient, chloroxylenol. Specifically, 21 CFR 201.66(c)(2) states that the drug facts panel must include the established name2 of each active ingredient(s).
+
+However, your product labels identify “PCMX” (para-chloro-meta-xylenol)3 as the active ingredient in the Drug Facts panel. Although PCMX is a synonym or chemical abbreviation for chloroxylenol, this is not the established name as listed in an official compendium. The United States Pharmacopeia (USP), an official compendium, lists chloroxylenol4 in its compendium. Because chloroxylenol is an article listed in the USP compendium, it is considered to be the established name for this active ingredient and must be identified as such in the Drug Facts panel in accordance with 21 CFR 201.66(c)(2).
+
+Your “MAXIM Instant Foam Hand Sanitizer,” “MAXIM Antibacterial Foam Soap FDF,” “MAXIM Antibacterial Hand Soap” and “MAXIM Assure Antibacterial” products are also misbranded within the meaning of section 502(c) of the FD&C Act, 21 U.S.C. 352(c), because the products are not labeled in accordance with 21 CFR 201.15. Dual language labeling with English and another language is permissible when labeled in accordance with 21 CFR 201.15 and not otherwise false or misleading. 21 CFR 201.15 states that “all words, statements, and other information required by or under authority of the act to appear on the label or labeling shall appear thereon in the English language,”. . . and “if the label contains any representation in a foreign language, all words, statements, and other information required by or under authority of the act to appear on the label shall appear thereon in the foreign language.” 21 CFR 201.15(c). 21 CFR 201.62(e) requires that the label of an over-the-counter drug must bear a declaration of the net quantity of contents under 21 CFR 201.62(a). However, the declaration of net contents for the products is only in English. Because the declaration of net contents for the products is not also provided in Spanish, the products are not labeled in accordance with 21 CFR 201.15.
+
+Lastly, your “MAXIM Instant Foam Hand Sanitizer” is misbranded under section 502(ee) of the FD&C Act, 21 U.S.C. 352(ee), because this product is a nonprescription drug subject to section 505G of the FD&C Act, 21 U.S.C. 355h, is not the subject of an application approved under section 505 of the FD&C Act, 21 U.S.C. 355, and does not comply with the requirements under section 505G of the FD&C Act, 21 U.S.C. 355h.
+
+Introduction or delivery for introduction of such products into interstate commerce is prohibited under section 301(a) of the FD&C Act, 21 U.S.C. 331(a).
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, you should engage a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements if your firm intends to resume manufacturing drugs for the U.S. market. The qualified consultant should also perform a comprehensive audit of your entire operation for CGMP compliance and evaluate the completion and efficacy of any identified CAPA before you pursue resolution of your firm’s compliance status with FDA.
+
+Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+Correct any violations promptly. Failure to promptly and adequately address this matter may result in regulatory or legal action without further notice including, without limitation, seizure, and injunction. Unresolved violations may also prevent other Federal agencies from awarding contracts.
+
+Failure to address violations may also cause FDA to withhold issuance of Export Certificates. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to address any violations.
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Your written notification should refer to the Warning Letter Number above (Case #642374). Please electronically submit your signed reply on your firm’s letterhead to Ronda R. Loyd-Jones, Director, Compliance Branch, at email to: Ronda.Loyd-Jones@fda.hhs.gov and orapharm2_responses@fda.hhs.gov.
+
+If you have questions regarding the contents of this letter, you may contact Mr. Thao Ta, Compliance Officer, via phone at 214-253-5217 or e-mail at thao.ta@fda.hhs.gov.
+
+Sincerely,
+/S/
+
+Monica R. Maxwell
+Division Director
+Office of Pharmaceutical Quality Operations
+Division II
+
+cc: Via Electronic Mail
+Mr. Matt Johnston
+Chief Operations Officer
+Midlab Incorporated
+140 Private Brand Way
+Athens, Tennessee 37303-1401
+(b)(6), (b)(7)(C)
+
+___________________________
+
+1 Due to an increased demand for alcohol-based hand sanitizers during the COVID-19 pandemic, the FDA published the Guidance for Industry: Temporary Policy for Preparation of Certain Alcohol-Based Hand Sanitizer Products During the Public Health Emergency (COVID-19) on March 19, 2020, and subsequently updated the guidance several times. This guidance communicated the agency’s temporary policy that we did not intend to take action against firms for CGMP violations under section 501(a)(2)(B) of the FD&C Act if such firms prepared alcohol-based hand sanitizers for consumer use (or for use as a health care personnel hand rub) during the public health emergency, provided certain circumstances described in the guidance were present. These circumstances included preparation of hand sanitizer products using only the ingredients and formulas set forth in the guidance. The guidance was withdrawn effective December 31, 2021 (86 Fed Reg at 56960). Because Midlab Incorporated’s hand sanitizer products were not prepared under the circumstances described in this guidance, they do not fall within any temporary agency policy not to take action against firms manufacturing hand sanitizer products for violations of section 501(a)(2)(B) of the FD&C Act.
+
+2 Section 502(e)(3) of the FD&C Act defines “established name” as: (A) the applicable official name designated pursuant to section 508, or (B) if there is no such name and such drug, or such ingredient, is an article recognized in an official compendium, then the official title thereof in such compendium (C) if neither clause (A) or (B) applies, then the common or usual name, if any, of such drug or of such ingredient. See also 21 CFR 201.66(b)(5).
+
+3 https://pubchem.ncbi.nlm.nih.gov/compound/Chloroxylenol
+
+4 https://doi.org/10.31003USPNF_M16420_02_01

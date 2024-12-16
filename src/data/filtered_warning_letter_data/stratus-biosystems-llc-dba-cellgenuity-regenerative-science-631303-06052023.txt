@@ -1,0 +1,190 @@
+Delivery Method: 
+        VIA UNITED PARCEL SERVICE
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Biologics                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Jon D. Tryggestad
+          
+
+                                
+  
+    Recipient Title
+              Chief Executive Officer and Co-Owner
+          
+
+          
+            Stratus Biosystems, LLC dba CellGenuity Regenerative Science
+
+          
+                      913 S Main St Ste 215
+Grapevine, TX 76051-7575
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+           Division of Biological Products Operations II
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+WARNING LETTER
+
+June 5, 2023
+
+Warning Letter #OBPO 23-631303
+
+Lisa Sooter
+General Counsel and Co-Owner
+
+Dear Mr. Tryggestad and Ms. Sooter:
+
+During an inspection of your firm, Stratus Biosystems, LLC (dba CellGenuity Regenerative Science or CellGenuity), located at 913 S Main St, Ste 215, Grapevine, TX 76051-7575, conducted between October 26, 2021 and November 10, 2021, the United States Food and Drug Administration (FDA) documented your manufacture of products for allogeneic use, including an umbilical cord and amniotic membrane derived product, AmnioAMP-WJ™, and an amniotic fluid derived product, AmnioAllograft (collectively, “your products”).1,2,3 You distribute your products to healthcare providers and facilities throughout the United States. These products are intended for injection and are purported to be sterile.
+
+Information and records gathered at the time of and after the inspection, including information regarding your products available online at cellgenuity.com, reflect that your products are intended to treat various diseases or conditions.4 Additionally, information collected indicates your products fit within the definition of a biological product in the Public Health Service Act (PHS Act) [42 U.S.C. 262(i)]. Your products are drugs as defined in section 201(g) of the Federal Food, Drug, and Cosmetic Act (FD&C Act) [21 U.S.C. 321(g)] and biological products as defined in section 351(i) of the Public Health Service Act (PHS Act) [42 U.S.C. 262(i)].
+
+Your product derived from both umbilical cord and amniotic membrane, AmnioAMP-WJ™, is also a human cell, tissue, or cellular or tissue-based product (HCT/P) as defined in 21 CFR 1271.3(d) and is subject to regulation under 21 CFR Part 1271, issued under the authority of section 361 of the PHS Act [42 U.S.C. 264]. HCT/Ps that do not meet all the criteria in 21 CFR 1271.10(a), and when no exception in 21 CFR 1271.15 applies, are not regulated solely under section 361 of the PHS Act [42 U.S.C. 264] and the regulations in 21 CFR Part 1271. Such products are regulated as drugs, devices, and/or biological products under the FD&C Act and/or the PHS Act, and are subject to additional regulation, including appropriate premarket review.
+
+Based on a review of materials described above, Stratus Biosystems, LLC does not qualify for any exception in 21 CFR 1271.15, and your HCT/P derived from umbilical cord and amniotic membrane fails to meet all the criteria in 21 CFR 1271.10(a). Therefore, this HCT/P is not regulated solely under section 361 of the PHS Act [42 U.S.C. 264] and the regulations in 21 CFR Part 1271.
+
+Specifically, an HCT/P meets the criterion established by 21 CFR 1271.10(a)(2) if it is “intended for homologous use only, as reflected by the labeling, advertising, or other indications of the manufacturer's objective intent.” AmnioAMP-WJ™ is not intended to perform the same basic function or functions of umbilical cord and amniotic membrane in the recipient as in the donor, such as serving as a conduit (for umbilical cord) or serving as a selective barrier for the movement of nutrients between the external and in utero environment, protecting the fetus from the surrounding maternal environment, and serving as a covering to enclose the fetus and retain fluid in utero (for amniotic membrane). Rather, using your product to treat orthopedic diseases or conditions, for example, is not homologous use as defined in 21 CFR 1271.3(c).
+
+Be advised that the definition of HCT/Ps in 21 CFR 1271.3(d) excludes secreted or extracted human products. Accordingly, secreted bodily fluids, such as amniotic fluid, are generally not considered HCT/Ps subject to regulation under 21 CFR Part 1271. Amniotic fluid intended to treat diseases or conditions in humans is generally regulated as a drug under the FD&C Act and a biological product under the PHS Act and requires premarket review and approval. As such, your product derived from amniotic fluid, AmnioAllograft™, is regulated as a drug and biological product under section 351 of the PHS Act and the FD&C Act.
+
+To lawfully market a drug that is a biological product, a valid biologics license application (BLA) must be in effect [42 U.S.C. 262(a)]. Such licenses are issued only after showing that the product is safe, pure, and potent. While in the development stage, such products may be distributed for clinical use in humans only if the sponsor has an investigational new drug application (IND) in effect as specified by FDA regulations [21 U.S.C. 355(i); 42 U.S.C. 262(a)(3); 21 CFR Part 312]. None of your products are the subject of an approved BLA nor is there an IND in effect for any of them. Based on this information, we have determined that your actions have violated the FD&C Act and the PHS Act.
+
+Additionally, during the inspection, FDA investigators documented evidence of significant deviations from current good manufacturing practice (CGMP) requirements, including deviations from section 501(a)(2)(B) of the FD&C Act and 21 CFR Parts 210 and 211.
+
+At the conclusion of the inspection, FDA investigators issued a Form FDA-483, List of Inspectional Observations, which described significant CGMP deviations applicable to your products. FDA identified additional significant deviations upon further review of the information collected during inspection, as discussed below. These deviations, involving over (b)(4) vials of your products manufactured since March 2019, include, but are not limited to, the following:
+
+1. Failure to establish and follow appropriate written procedures designed to prevent microbiological contamination of drug products purporting to be sterile, including procedures for validation of all aseptic and sterilization processes [21 CFR 211.113(b)]. For example:
+
+a. The aseptic processes used to manufacture your products have not been validated (i.e., by performing media fill simulations). By the nature of their routes of administration, your products purport to be sterile and are expected to be sterile.
+
+b. You have not established appropriate written procedures for environmental monitoring in the aseptic processing areas where your products are manufactured. For example, you do not have written procedures that require surface sampling, personnel monitoring, viable air monitoring, and non-viable particulate monitoring to be performed in association with each production run. Such procedures are important to detect problems and demonstrate control of the aseptic processing areas.
+
+c. Your written gowning procedure for personnel who perform aseptic processing is inadequate to protect your products from contamination. For example, in accordance with your written procedure:
+
+  i. Personnel wear non-sterile gowning components, such as surgical masks and hairnets, while processing your products without any barrier between open products and personnel. Additionally, during the inspection, FDA investigators observed a technician with exposed skin processing your products.
+
+  ii. Personnel don gowning in the unclassified shipping and receiving room prior to entering the cleanroom, which may increase the risk of introducing product contaminants.
+
+d. You have not established and followed written procedures for the (b)(4) sterilization of the (b)(4) filter that comes into direct contact with your AmnioAllograft and AmnioAMP-WJ products during processing.
+
+2. Failure to have an adequate system for cleaning and disinfecting the room and equipment to produce aseptic conditions [21 CFR 211.42(c)(10)(v)]. For example:
+
+a. You have not validated your process for cleaning and disinfecting the cleanrooms, the critical processing areas where your products are manufactured.
+
+b. According to your Standard Operating Procedure (SOP) SB-024 titled “Clean Environment Cleaning and Maintenance”, your cleanrooms require cleaning with a (b)(4) only (b)(4). (b)(4)-forming microorganisms are routinely detected in your environmental samples.
+
+c. Standard Operating Procedure (SOP) SB-024 titled “Clean Environment Cleaning and Maintenance” lacks adequate instructions for cleaning and disinfection of your cleanrooms, including the disinfectant contact time and cleaning agents used. Additionally, this procedure does not require cleaning (b)(4) manufacture of batches nor is there data or rationale for the cleaning agents used.
+
+d. Your SOP SB-027 titled “Equipment Management and Cleaning” lacks adequate cleaning procedures for the equipment (e.g., incubators) used during aseptic processing operations, including but not limited to, use of a (b)(4) agent, frequency of disinfectants used, and disinfectant contact times. Additionally, this procedure does not address cleaning between batches.
+
+3. Failure to establish laboratory controls that include scientifically sound and appropriate specifications designed to assure that drug products conform to appropriate standards of identity, strength, quality, and purity [21 CFR 211.160(b)]. For example, you have not established scientifically sound and appropriate specifications and test procedures to assure that your products conform to appropriate standards of identity, strength, quality, and purity. Your finished product testing is limited to sterility testing and endotoxin testing as measurements of product attributes.
+
+4. Failure to establish written procedures for production and process control designed to assure that the drug products have the identity, strength, quality, and purity they purport or are represented to possess [21 CFR 211.100(a)]. For example:
+
+a. The manufacturing processes for your products have not been validated with respect to identity, strength, quality, and purity.
+
+b. Prior to June 2021, you had not established written procedures for manufacturing AmnioAllograft™ or AmnioAMP-WJ™.
+
+5. Failure to thoroughly investigate any unexplained discrepancy, or the failure of a batch or any of its components to meet any of its specifications whether or not the batch has been already distributed, [21 CFR 211.192]. For example, you failed to thoroughly investigate the following sterility and environmental monitoring failures:
+
+a. From January 2021 and November 2021, your firm has had approximately (b)(4) sterility failures and (b)(4) endotoxin failures; however, you did not conduct any investigations to determine root cause or determine if any other product lots/batches were affected by the failures. Examples of organisms identified in the sterility failures include Cutibacterium acnes, Staphylococcus pasteuri, and Corynebacterium acnes.
+
+b. From July 2021 and August 2021, your firm has had approximately (b)(4) environmental monitoring failures in your critical processing areas where your products are manufactured. While you identified the contaminating organisms, you failed to provide evidence that you investigated these failures to determine the root cause, product impact, or corrective and preventative actions. Examples of organisms identified in your critical processing areas include Bacillus species non-anthracis, Paenbacillus species, and fungi.
+
+6. Failure to establish and follow a written testing program designed to assess the stability characteristics of drug products and to use the results of such stability testing to determine appropriate storage conditions and expiration dates [21 CFR 211.166(a)]. Specifically, you assigned a (b)(4)- to (b)(4)-year expiration date to your products without stability testing.
+
+We have reviewed your written response, dated December 2, 2021, to FDA’s inspectional observations on the FDA-483 and have determined your response is inadequate to address the above-noted deficiencies. We acknowledge that you represent that “Stratus has stopped manufacture of products until such time as the FDA inspector observations can be addressed.” We also acknowledge your statement that Stratus “has responded to the facts cited in the observation and formulated its plans for action upon the most similar applicable rules under 21 CFR 1271 et seq.”
+
+While you assert that your products should only be regulated under section 361 of the PHS Act, the available evidence shows that your products do not meet the relevant criteria. Your response also does not adequately address your failure to have an IND in effect to study your products and your lack of an approved BLA to lawfully market your products. As noted above, to lawfully market a drug that is also a biological product, a valid biologics license must be in effect [42 U.S.C. 262(a)]. Such licenses are issued only after a demonstration that the product is safe, pure, and potent. While in the development stage, such products may be distributed for clinical use in humans only if the sponsor has an investigational new drug application (IND) in effect for that product, as specified by FDA regulations, that covers such clinical use [21 U.S.C. 355(i); 42 U.S.C. 262(a)(3); 21 CFR Part 312].
+
+Your response also does not address the quantity of product inventory you may still have at your facility and your plans for its disposition. Furthermore, your response does not describe actions you have taken or plan to take to address the impact of the above-noted CGMP deficiencies on your distributed products that carry a (b)(4)- to (b)(4)-year shelf life and were manufactured under the above-described conditions.
+
+Neither this letter nor the observations noted on the FDA-483, which were discussed with you at the conclusion of the inspection, are intended to be an all-inclusive list of deficiencies associated with your products. It is your responsibility to ensure full compliance with the law.
+
+This letter notifies you of our findings and provides you an opportunity to address them. Failure to adequately address these matters may lead to regulatory action without further notice. Such actions include seizure and/or injunction.
+
+For further information about IND requirements, please contact the Center for Biologics Evaluation and Research (CBER), Division of Regulatory Project Management, Office of Tissues and Advanced Therapies, at (240) 402-8190, or OTPRPMS@fda.hhs.gov. Please include a copy of this letter with your initial submission to CBER.
+
+We request that you respond in writing within fifteen (15) working days from your receipt of this letter, outlining the specific steps you have taken or plan to take to address any violations and prevent their recurrence. Include any documentation necessary to show that the matters have been addressed. If you do not believe your products are in violation of the FD&C Act, PHS Act, or applicable regulations, include your reasoning and any supporting information for our consideration. If you cannot complete all corrections within fifteen (15) working days, please explain the reason for your delay and the time frame for completion.
+
+Your response should be sent to the following address: Sam Labinjo, Compliance Officer, U.S. Food and Drug Administration, Office of Biological Products Operations, Division 2, 550 W. Jackson, Chicago, IL 66061 or emailed to Samuel.Labinjo@fda.hhs.gov. If you have any questions, please contact Mr. Labinjo at (312) 596-4254 or via e-mail.
+
+Sincerely,
+/S/
+
+Karlton T. Watson
+Program Division Director
+Office of Biological Products Operations – Division 2
+
+______________________________
+
+1 Your products or similar products were previously marketed under different names as follows: AmnioAllograft (previously AmnioAMP-PF) and AmnioAMP-WJ™ (previously AmnioAMP-EXS and Suspension EXS).
+
+2 You also manufactured and marketed amniotic membrane derived products, AmnioAMP-EXS-P and AmnioAMP-X. Based on the information provided, Amnio-EXS-P appeared to be intended to treat immunological diseases or conditions, and AmnioAMP-X appeared to be intended to treat orthopedic diseases or conditions. Such uses are not considered homologous use of amniotic membrane. It appears that these or similar products are currently marketed as AmnioAMP-WJ-P™ and Suspension Allograft, respectively. (AmnioAMP-X also appears the same or similar to amniotic membrane products, Suspension Sports Medicine and Suspension Spine.) Your amniotic membrane derived products must meet all the criteria at 21 CFR 1271.10(a), including the homologous use only criterion at 21 CFR 1271.10(a)(2), to be regulated solely under section 361 of the Public Health Service Act and the regulations in 21 CFR Part 1271.
+
+3 Additionally, you manufacture a product derived from umbilical cord blood, Progenitor Cell Stem Cells (PCSC). Please be advised that PCSC must meet all the criteria at 21 CFR 1271.10(a), including the homologous use only criterion at 21 CFR 1271.10(a)(2), to be regulated solely under section 361 of the Public Health Service Act and the regulations in 21 CFR Part 1271. This product or a similar product was previously marketed as CBX.
+
+4 For example, AmnioAMP-WJ™ and AmnioAllograft are marketed on your website as being made using your propriety PūrAMP process. Your website states, “PūRAMP PROCESSING preserves the products that can be used in a wide range of surgical and non-surgical applications.” This same webpage states, “PūrAMP SOLUTIONS DESIGNED FOR BROAD APPLICATIONS…NEURO/SPINE…ORTHOPEDICS…CARDIAC…ONCOLOGY… NERVES…”

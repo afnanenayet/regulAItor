@@ -1,0 +1,248 @@
+Delivery Method: 
+        VIA UNITED PARCEL SERVICE
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Hasmukh Patel
+          
+
+                                
+  
+    Recipient Title
+              CEO/COO
+          
+
+          
+            Health Pharma USA LLC 
+
+          
+                      1600 Hart Street
+Rahway, NJ 07065
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Division of Pharmaceutical Quality Operations I
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+WARNING LETTER
+CMS #588155
+
+December 18, 2019
+
+
+Dear Mr. Patel:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Health Pharma USA LLC, FEI 3013856804, at 1600 Hart Street, Rahway, New Jersey, from May 13 to June 3, 2019.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See 21 CFR, parts 210 and 211.
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your June 14, 2019, response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence.
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+1. Your firm’s quality control unit failed to exercise its responsibility to ensure drug products manufactured are in compliance with CGMP, and meet established specifications for identity, strength, quality, and purity (21 CFR 211.22).
+
+Your quality unit’s oversight of your drug manufacturing operations was inadequate.
+
+Inadequate quality unit (QU) oversight
+
+Your firm lacked adequate written procedures for many QU (i.e., quality assurance) functions, for example, review and approval of executed batch records, batch release, investigation of out-of-specification (OOS) results, cleaning, equipment qualification, stability testing, gowning, and sample control.
+
+Furthermore, your QU both lacked procedures for, and often failed to perform, many other QU functions. Some examples include: sampling, testing, release of components, supplier qualification, control and issuance of batch records, change controls, and investigating deviations and complaints.
+
+Shipping drug products before adequate review
+
+Records indicate that you shipped drug products to your customers prior to QU review. For example, aspirin 81mg enteric coated tablets, lot # M0069A, were shipped to your customer before final QU review.
+
+In other instances, the QU approved release of products with incomplete testing. Your QU obtained release testing data after you shipped your drug products. For example:
+
+• Aspirin 81mg enteric coated tablets, lot # M0069B, were delivered to your customer on January 26, 2019. However, the release testing containing salicylic acid, free salicylic acid, and dissolution results was approved by your contract lab on February 14, 2019.
+
+• Acetaminophen tablets 325mg, lot # M0125, were delivered to your customer on February 21, 2019. However, the release testing containing assay, dissolution, and impurities results was approved by your contract lab on May 6, 2019.
+
+Inadequate stability program
+
+Your QU failed to establish an adequate stability program.
+
+In your response, you provided procedures for the QU functions that were cited by FDA as absent and/or insufficient at the time of inspection. Your response is inadequate because you did not indicate whether you performed a global audit to determine if you lack any additional procedures.
+
+In response to this letter:
+
+• Provide a comprehensive assessment and remediation plan to ensure your QU is given the authority and resources to effectively function. The assessment should also include, but not be limited to:
+    o A determination of whether procedures used by your firm are robust and appropriate
+    o Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices
+    o A complete and final review of each batch and its related information before the QU disposition decision
+    o Oversight and approval of investigations and discharging of all other QU duties to ensure identity, strength, quality, and purity of all products
+
+• Commit to discontinue your practice of allowing shipment of a drug batch and describe how you will ensure the QU performs a proper, complete review that permits batch release
+
+• Provide a list of all lots within distribution, number and size of batches in a lot, dates of release, and all test results. Also include all historical and current stability data obtained for each of your drug products. Include annotation of any OOS results that may have occurred in release, stability, or component testing, irrespective of whether they were later invalidated.
+
+• Provide a comprehensive, independent assessment and remediation plan to ensure the adequacy of your stability program for both bulk and finished packaging. Your remediated program should include, but not be limited to:
+    o Stability indicating methods
+    o Stability studies for each drug product in its marketed container-closure system before distribution is permitted
+    o An ongoing program in which representative batches of each product are added each year to the program to determine if the shelf-life claim remains valid
+    o Detailed definition of the specific attributes to be tested at each station (timepoint)
+
+• Provide all procedures that describe these and other elements of your remediated stability programs
+
+2. Your firm failed to prepare batch production and control records with complete information relating to the production and control of each batch of drug product produced (21 CFR 211.188).
+
+Your batch records are inadequate and missing critical production information. For example:
+
+• Aspirin 81mg enteric coated tablets batch records lacked information on the entire enteric coating process, e.g., coating solution, coating process, ingredient quantities, in-process checks/samples.
+
+• Aspirin 81mg enteric coated tablets batch records also did not specify how long bulk material should be blended. We noted that you blended batches at times ranging between (b)(4).
+
+• You packed your aspirin and acetaminophen drug products in bulk boxes for shipment to your customers. Your batch records lacked information on the shipping boxes, lining, or labels. You lacked example labels in your batch records.
+
+In your response, you stated that you provided enteric coating draft procedures during the inspection and insisted that the tablet coating operation did occur, but you lacked batch records to document it. You also provided updated master batch records with space to record the enteric coating process and bulk packaging and labeling information. Your response is inadequate because you did not commit to perform a full evaluation of all of your batch records for all of your products to assure there is adequate specificity in all of your batch record instructions.
+
+In response to this letter, provide:
+
+• Release test results for aspirin 81mg enteric coated tablets, lot # M0138, and acetaminophen tablets 500mg, lot # M0143.
+
+• A comprehensive, independent global review of the adequacy of design, control, monitoring, and documentation of the production processes used for all of your drug products.
+
+• Appropriately detailed master batch records that capture all significant manufacturing steps for each of your drug products.
+
+• A remediation plan that better assures ongoing management oversight throughout the manufacturing lifecycle of all drug products. Provide a more data-driven and scientifically sound program that identifies sources of process variability, and assures that manufacturing (including both production and packaging) operations meet appropriate parameters and quality standards. This includes, but is not limited to, evaluating suitability of equipment for its intended use, ensuring quality of input materials, determining the capability and reliability of each manufacturing process step and its controls, ensuring suitable and sufficiently-detailed procedures to support manufacturing operations, and vigilant ongoing monitoring of process performance and product quality.
+
+3. Your firm failed to establish adequate written procedures for production and process control designed to assure that the drug products you manufacture have the identity, strength, quality, and purity they purport or are represented to possess, and your firm’s quality control unit did not review and approve those procedures, including any changes (21 CFR 211.100(a)).
+
+Your process validation for aspirin and acetaminophen drug products was inadequate. You acknowledged that you did not have procedures for process validation, but stated that you collected weight, thickness, hardness, and weight variation data for three lots of aspirin 81mg enteric coated tablets, as well as the same data for one lot each of acetaminophen tablets 325mg and 500mg. Also, you lacked data on other critical drug attributes such as impurities.
+
+In your response, you provided process validation procedures and reports for aspirin and acetaminophen containing content uniformity data. However, your response is inadequate because your process validation criteria was insufficient.
+
+In response to this letter, provide:
+
+• A detailed program for designing, validating, maintaining, controlling, and monitoring each of your manufacturing processes that includes vigilant monitoring of intra-batch and inter-batch variation to ensure an ongoing state of control. Also include your program for qualification of your equipment and facility.
+
+• A timeline for performing appropriate process performance qualification (PPQ) for each of your marketed drug products.
+
+• Process performance qualification protocols and written procedures for qualification of equipment and facilities.
+
+• Attributes you will measure as part of your revised process validation, including but not limited to: assay, impurities (e.g., 4-aminophenol), ingredient chemical and physical attributes, in-process material attributes including blend uniformity, and uniformity of dosage unit active content. Detail all such data to be used to determine whether your process can reproducibly manufacture drug products that conform to their intended strength, quality, and purity.
+
+• Your plans for drug products on the market, within expiry, manufactured prior to the completion of adequate process validation studies.
+
+• Information regarding why records indicate that the core tablet data for the aspirin 81 mg enteric coated tablet process validation were collected days prior to core tablet compression.
+
+4. Your firm failed to test samples of each component for identity and conformity with all appropriate written specifications for purity, strength, and quality. Your firm also failed to validate and establish the reliability of your component supplier’s test analyses at appropriate intervals (21 CFR 211.84(d)(1) and (2)).
+
+You did not routinely perform identity testing for incoming components (i.e., ingredients) such as aspirin DC90, microcrystalline cellulose 102, and acetaminophen DC90. Furthermore, you did not adequately qualify your component suppliers to establish the reliability of their certificates of analysis (COA).
+
+In your response, you acknowledged that you lacked control procedures for sampling and testing raw materials. You stated that you sent components to third-party contract testing labs for analytical testing and committed to performing analytical testing on components prior to release for use in manufacturing. You also acknowledged that you lacked verification of test results of your suppliers through independent testing. You committed to validate your suppliers and provided procedures for testing components. Your response is inadequate because you did not sufficiently describe your supplier qualification program.
+
+In response to this letter, provide:
+
+• The chemical and microbiological quality control specifications you or your contract testing laboratories (CTL) use to test and release each incoming lot of component for use in manufacturing.
+
+• A description of how you or your CTL will test each component lot for conformity with all appropriate specifications for identity, strength, quality, and purity. If you intend to accept any results from your supplier’s COA instead of testing each component lot for strength, quality, and purity, specify how you will robustly establish the reliability of your supplier’s results through initial validation as well as periodic re-validation. In addition, include a commitment to always conduct at least one specific identity test for each incoming component lot.
+
+• A summary of results obtained from testing all components to evaluate the reliability of the COA from each component manufacturer. Include your procedure that describes this COA validation program.
+
+• A summary of your program for qualifying and overseeing contract facilities that test the drug products you manufacture.
+
+Responsibilities as a Contractor
+
+Drugs must be manufactured in conformance with CGMP. FDA is aware that many drug manufacturers use independent contractors such as production facilities, testing laboratories, packagers, and labelers. FDA regards contractors as extensions of the manufacturer.
+
+You are responsible for the quality of drugs you produce as a contract facility regardless of agreements in place with product owners. You are required to ensure that drugs are made in accordance with section 501(a)(2)(B) of the FD&C Act for safety, identity, strength, quality, and purity. See FDA’s guidance document Contract Manufacturing Arrangements for Drugs: Quality Agreements at https://www.fda.gov/media/86193/download.
+
+Quality Systems
+
+Your firm’s quality systems are inadequate. See FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations for help implementing quality systems and risk management approaches to meet the requirements of CGMP regulations 21 CFR, parts 210 and 211 at https://www.fda.gov/media/71023/download.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements.
+
+Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of these violations and for preventing their recurrence or the occurrence of other violations.
+
+Correct the violations cited in this letter promptly. Failure to promptly correct these violations may result in legal action without further notice including, without limitation, seizure and injunction. Unresolved violations in this warning letter may also prevent other Federal agencies from awarding contracts.
+
+FDA may also withhold approval of requests for export certificates and approval of pending new drug applications or supplements listing your facility as a supplier or manufacturer until the above violations are corrected. We may re-inspect to verify that you have completed your corrective actions.
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to orapharm1_responses@fda.hhs.gov. Please identify your response with FEI #3013856804 and Warning Letter #588155.
+
+If you have any questions, contact Compliance Officer James Mason at james.mason@fda.hhs.gov or 570-262-0519.
+
+Sincerely,
+/S/
+
+Diana Amador-Toro
+Program Division Director/District Director
+U.S. Food and Drug Administration
+OPQO Division I/New Jersey District

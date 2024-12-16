@@ -1,0 +1,269 @@
+Delivery Method: 
+        VIA Parcel Courier
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Robert P. Manzo
+          
+
+                                
+  
+    Recipient Title
+              President and Chief Executive Officer
+          
+
+          
+            The Skin Atelier, Inc. d.b.a. Skinprint
+
+          
+                      1997 Route 17 M, Suite 10
+Goshen, NY 10924
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Division of Pharmaceutical Quality Operations I
+        
+         
+          10 Waterview Blvd, 3rd FL
+Parsippany, NJ 07054
+United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+WARNING LETTER
+CMS # 582512
+
+
+October 01, 2019
+
+FEI: 3005976760
+
+Dear Mr. Manzo:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, The Skin Atelier, Inc., d.b.a. Skinprint, FEI 3005976760, at 1997 Route 17 M, Suite 10, Goshen, New York, from March 28 to April 4, 2019.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See 21 CFR, parts 210 and 211.
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+Your firm manufactures “SPOT-ON™ WITH 5% MICRO-BENZ™ BENZOYL PEROXIDE SPOT TREATMENT,” “Reflect™ SPF 50 Broad Spectrum Sunscreen,” and “Blemish Control™ Cleanser 2% Salicylic Acid.” Your “SPOT-ON™ WITH 5% MICRO-BENZ™ BENZOYL PEROXIDE SPOT TREATMENT” is an unapproved new drug in violation of section 505(a) of the FD&C Act, 21 U.S.C. 355(a). Introduction or delivery for introduction of such product into interstate commerce is prohibited under section 301(d) of the FD&C Act, 21 U.S.C. 331(d). Your “Reflect™ SPF 50 Broad Spectrum Sunscreen” and “Blemish Control™ Cleanser 2% Salicylic Acid” are misbranded drugs under section 502(c) of the FD&C Act, 21 U.S.C. 352(c). The introduction or delivery for introduction of misbranded drugs into interstate commerce is prohibited under section 301(a) of the FD&C Act, 21 U.S.C. 331(a). These violations are described in more detail below.
+
+We reviewed your April 16, 2019 response in detail and acknowledge receipt of your subsequent correspondence.
+
+During our inspection, our investigator observed specific violations including, but not limited to, the following.
+
+CGMP Violations
+
+1. Your firm failed to have, for each batch of drug product, appropriate laboratory determination of satisfactory conformance to final specifications for the drug product, including the identity and strength of each active ingredient, prior to release (21 CFR 211.165(a)).
+
+Your finished drug product release testing was inadequate for multiple over-the-counter (OTC) topical drug products, including but not limited to Ultra Sheer SPF20, Reflect SPF50, and Blemish control cleaner. You lacked identity and strength testing for each active ingredient as part of your finished drug product release testing. You also lacked validation or verification to determine adequacy of the microbial test kit and methods used for microbiological release testing of your finished drug products. In addition, you lacked testing for objectionable microorganisms.
+
+It is essential that you test each drug product batch to ensure it meets all appropriate specifications. In addition to testing for chemical attributes including but not limited to identity and potency, each batch should also meet microbial specifications that are appropriate for the intended uses of your drug products.
+
+In your response, you stated that you are currently “researching the type and costs of chemical analysis involved for each specific raw ingredient.” However, this violation regards finished product testing, not raw materials. It is unclear whether you have made any efforts toward establishing finished product testing.
+
+Your response is inadequate because it did not address your failure to perform adequate release testing on finished drug products. You must test each batch of your finished drug products to assure conformance with all appropriate chemical and microbiological specifications prior to a disposition decision.
+
+In response to this letter, provide:
+• A summary of all chemical and microbial test methods and specifications used to analyze each batch of your drug product before a disposition decision and associated written procedures.
+• A summary of results obtained from testing reserve samples of all drug product batches within expiry. Include results for identity and strength of active ingredients and all other appropriate chemical and microbial quality attributes.
+• A comprehensive, independent review of your laboratory practices, procedures, methods, equipment, and analyst competencies. Based on this review, provide a detailed corrective and preventive action (CAPA) plan to remedy your laboratory system. Your plan should include the process you will use to evaluate the effectiveness of the implemented CAPA plan.
+
+2. Your firm’s quality control unit failed to exercise its responsibility to ensure drug products manufactured are in compliance with CGMP, and meet established specifications for identity, strength, quality, and purity (21 CFR 211.22).
+
+Your firm’s quality unit (QU) was inadequate. Your QU failed to ensure that you had adequate procedures and did not provide adequate oversight of your manufacturing activities. For example:
+• You lacked many important quality and production procedures, including appropriate provisions for batch review/disposition, deviations, out-of-specification results, investigations, complaints, recalls, change controls, annual product reviews, equipment qualification, method validation/verification, and controls for issuance, handling, reconciliation, and storage of OTC drug product labeling.
+• Your review of batch records was inadequate. You also lacked adequate QU-approved master batch records. Your production formulation procedure was insufficient, and you recorded manufacturing activities in (b)(4). Your records of such activities were missing key information, including but not limited to equipment identification, mix times, and hold times.
+• Your supplier qualification was inadequate. You accepted incoming components, such as titanium dioxide, zinc oxide, and salicylic acid from suppliers solely based on certificates of analysis. Your QU failed to ensure the suitability of all incoming lots of components for use in drug product manufacturing.
+
+In your response, you recited the corresponding regulations in 21 CFR 211 verbatim and stated that you would update internal procedures to meet FDA requirements. You did not adequately address the impact of the lack of QU oversight on marketed drug products within expiration date.
+
+This violation is a repeat violation from your last inspection in 2006. Your firm’s quality systems are inadequate. See FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations for help implementing quality systems and risk management approaches to meet the requirements of CGMP regulations 21 CFR, parts 210 and 211 at https://www.fda.gov/media/71023/download.
+
+In response to this letter, provide:
+• A comprehensive assessment with CAPA to ensure your QU is given the authority and resources to effectively function. The assessment should also include, but not be limited to:
+o A determination of whether procedures used by your firm are robust and appropriate
+o Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices
+o A complete and final review of each batch and its related information before the QU disposition decision
+o Oversight and approval of investigations and discharging of all other QU duties to ensure identity, strength, quality, and purity of all products
+• A summary of all the procedures you have created and updated.
+
+3. Your firm failed to establish and follow an adequate written testing program designed to assess the stability characteristics of drug products and to use results of stability testing to determine appropriate storage conditions and expiration dates (21 CFR 211.166(a)).
+
+Your stability program was inadequate. For example:
+• You set an (b)(4) for your drug products, but you only had (b)(4).
+• You did not monitor the active ingredient or its potential degradation products. The limited amount of stability testing (e.g., color, odor, appearance, pH, viscosity) you did perform provided little information regarding the appropriate shelf-life of your drug products.
+• You did not continuously monitor stability chamber temperature and humidity. You (b)(4). This frequency of monitoring fundamentally impaired your ability to capture excursions.
+• You did not perform on-going real-time stability studies for all of your drug products.
+
+In your response, you stated that you would update your internal procedures to meet all FDA requirements. Your response is inadequate because you did not address the lack of support for expiration dates of your drug products that are currently on the market.
+
+In response to this letter, provide a comprehensive, independent assessment and CAPA plan to ensure the adequacy of your stability program. Your CAPA plan should include, but not be limited to:
+• A remediated procedure describing your stability program.
+• Stability-indicating methods.
+• Stability studies for each drug product in its container-closure system before distribution is permitted.
+• An ongoing program in which representative batches of each product are added each year to the program to determine if shelf-life claims remain valid.
+• Specific attributes to be tested at each station.
+• Stability chambers that are fit for their intended use (e.g., continuous monitoring, alarms).
+
+4. Your firm failed to establish and follow adequate written procedures for cleaning and maintenance of equipment (21 CFR 211.67(b)).
+
+Your cleaning procedures were inadequate. You did not have cleaning validation studies for your non-dedicated manufacturing equipment, including but not limited to your (b)(4) and (b)(4). You also did not address the worst-case cleaning scenarios for your non-dedicated manufacturing equipment, nor did you establish maximum clean or dirty hold times for your equipment.
+
+In your response, you stated that you would “research different protocols and will include validation studies in internal SOPs wherever possible.” We are unable to evaluate your response because you did not provide sufficient details on your cleaning validation plans.
+
+In response to this letter, provide:
+• A comprehensive plan to evaluate cleaning procedures and practices and validation studies for each piece of manufacturing equipment used to manufacture more than one product.
+• Scientific rationale for your cleaning validation strategy to ensure your cleaning procedures are effective.
+• Appropriate improvements to your cleaning validation program, with special emphasis on incorporating conditions identified as worst case in your drug manufacturing operation. This should include but not be limited to identification and evaluation of all worst-case:
+o drugs with higher toxicities
+o drugs with higher drug potencies
+o drugs of lower solubility in their cleaning solvents
+o drugs with characteristics that make them difficult to clean
+o swabbing locations for areas that are most difficult to clean
+o maximum hold times before cleaning
+In addition, describe the steps that must be taken in your change management system before introducing new manufacturing equipment or a new product.
+• A summary of updated procedures that ensure an appropriate program is in place for verification and validation of cleaning procedures for products, processes, and equipment.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm and because you failed to correct repeat violations, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements.
+
+Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Unapproved New Drug and Misbranding Charges
+
+“SPOT-ON™ WITH 5% MICRO-BENZ™ BENZOYL PEROXIDE SPOT TREATMENT”
+
+“SPOT-ON™ WITH 5% MICRO-BENZ™ BENZOYL PEROXIDE SPOT TREATMENT” is a “drug” as defined by section 201(g)(1)(B) of the FD&C Act, 21 U.S.C. 321(g)(1)(B), because it is intended for the diagnosis, cure, mitigation, treatment, or prevention of disease, and/or under section 201(g)(1)(C) of the FD&C Act, 21 U.S.C. 321(g)(1)(C), because it is intended to affect the structure or any function of the body. Specifically, this product is intended for use as an acne treatment.
+
+Examples of claims found on the product website labeling “https://skinprint.com/” that establish the intended uses, as defined in 21 CFR 201.128, of “SPOT-ON™ WITH 5% MICRO-BENZ™ BENZOYL PEROXIDE SPOT TREATMENT” include, but may not be limited to, the following:
+
+“This Micro-Benz BPO™ allows the active ingredient to penetrate deeply into the pore to address the root cause of breakouts … Reduces blemishes & pimples with new small particle benzoyl peroxide to get into pores more effectively … CONDITIONS TREATED
+• Acne
+• Pustules
+• Papules
+• Cysts”
+
+OTC drug products intended for use as acne treatments are subject to the final rule for Topical Antimicrobial Drug Products for Over-the-Counter Human Use Subpart D – Topical Acne Drug Products (21 CFR 333 Subpart D). However, this product is not labeled or formulated in accordance with this final rule for the reasons explained below.
+
+As previously noted, the product labeling includes indications such as, “Cysts,” which is not included under this rulemaking or any rulemaking being considered under the OTC Drug Review. Thus, as formulated and labeled, “SPOT-ON™ WITH 5% MICRO-BENZ™ BENZOYL PEROXIDE SPOT TREATMENT” does not comply with the final rule described above. Furthermore, we are not aware of sufficient evidence to show “SPOT-ON™ WITH 5% MICRO-BENZ™ BENZOYL PEROXIDE SPOT TREATMENT” as formulated and labeled, is generally recognized as safe and effective. Therefore, this product is a new drug within the meaning of section 201(p) of the FD&C Act, 21 U.S.C. 321(p). As a new drug, “SPOT-ON™ WITH 5% MICRO-BENZ™ BENZOYL PEROXIDE SPOT TREATMENT” may not be legally marketed in the United States absent approval of an application filed in accordance with section 505(a) of the FD&C Act, 21 U.S.C. 355(a). “SPOT-ON™ WITH 5% MICRO-BENZ™ BENZOYL PEROXIDE SPOT TREATMENT” is not the subject of an FDA-approved application, and therefore, the current marketing of this product violates section 505(a) of the FD&C Act, 21 U.S.C. 355(a). Introduction or delivery for introduction of such product into interstate commerce is prohibited under section 301(d) of the FD&C Act, 21 U.S.C. 331(d).
+
+“Reflect™ SPF 50 Broad Spectrum Sunscreen” and “Blemish Control™ Cleanser 2% Salicylic Acid”
+
+“Reflect™ SPF 50 Broad Spectrum Sunscreen” and “Blemish Control™ Cleanser 2% Salicylic Acid” are “drugs” as defined by section 201(g)(1)(B) of the FD&C Act, 21 U.S.C. 321(g)(1)(B), because they are intended for the diagnosis, cure, mitigation, treatment, or prevention of disease, and/or under section 201(g)(1)(C) of the FD&C Act, 21 U.S.C. 321(g)(1)(C), because they are intended to affect the structure or any function of the body. Specifically, “Reflect™ SPF 50 Broad Spectrum Sunscreen” is intended for use as a sunscreen and “Blemish Control™ Cleanser 2% Salicylic Acid” is intended for use as an acne treatment.
+
+Examples of claims found on the product labels and website “https://skinprint.com/,” which is printed on the product labels, that establish the intended uses, as defined in 21 CFR 201.128, of “Reflect™ SPF 50 Broad Spectrum Sunscreen” and “Blemish Control™ Cleanser 2% Salicylic Acid” include, but may not be limited to, the following:
+
+“Reflect™ SPF 50 Broad Spectrum Sunscreen” Label
+
+“SPF 50 Broad Spectrum Sunscreen … UVA and UVB sun protection with a SPF of 50 …”
+
+“Reflect™ SPF 50 Broad Spectrum Sunscreen” Website Labeling
+
+“Protect your skin from harmful UVA and UVB … • Parsol HS and Parsol 1789 combine to provide SPF 50 broad spectrum (UVA and UVB) sun protection … SPF 50 provides broad spectrum sunscreen UVA and UVB Protection”
+
+“Blemish Control™ Cleanser 2% Salicylic Acid” Label
+
+“Reducing the Signs of Acne”
+
+“Blemish Control™ Cleanser 2% Salicylic Acid” Website Labeling
+
+“[R]educe blemishes, cysts, oil and acne. Reduces acne. CONDITIONS TREATED
+• Acne
+• Blemishes”
+
+The labeling for such drugs, like all OTC drugs, must comply with all of the requirements of section 502 of the FD&C Act and all pertinent regulations found in Title 21 of the Code of Federal Regulations (21 CFR). However, your products do not meet these requirements for the reason described below.
+
+“Reflect™ SPF 50 Broad Spectrum Sunscreen” and “Blemish Control™ Cleanser 2% Salicylic Acid” are not labeled in accordance with the “Drug Facts” labeling requirements described in 21 CFR 201.66. Specifically, the products’ labels fail to include a Drug Facts panel. Therefore, these products are misbranded under section 502(c) of the FD&C Act, 21 U.S.C. 352(c), because the information that is required to appear on the labeling is not prominently placed thereon with such conspicuousness and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use.
+
+The introduction or delivery for introduction of a misbranded drug into interstate commerce is prohibited under section 301(a) of the FD&C Act, 21 U.S.C. 331(a). Therefore, the marketing of “Reflect™ SPF 50 Broad Spectrum Sunscreen” and “Blemish Control™ Cleanser 2% Salicylic Acid” violate this provision of the FD&C Act.
+
+Access to Information During Inspection
+
+You allowed our investigator to review your drug product formulation procedures on-site but declined to provide photocopies of your product formulation procedure. You provided photocopies of (b)(4) but declined to provide the proportion of ingredients and redacted the weight information from (b)(4).
+
+Not allowing an authorized representative of the FDA access to or copying of records that FDA is entitled to inspect by law, including not providing records that FDA requests pursuant to section 704(a) of the FD&C Act, may be considered limiting an inspection. In addition, under section 501(j) of the FD&C Act, 21 U.S.C. 351(j), when an owner, operator, or agent delays, denies, limits, or refuses an inspection, the drugs may be deemed adulterated.
+
+See FDA’s guidance document, Circumstances that Constitute Delaying, Denying, Limiting, or Refusing a Drug Inspection, available at https://www.fda.gov/media/86328/download.
+
+Conclusion
+
+Violations cited in this letter are not intended as an all-inclusive list. You are responsible for investigating these violations, for determining the causes, for preventing their recurrence, and for preventing other violations.
+
+Please correct the violations cited in this letter promptly. Failure to promptly correct these violations may result in legal action without further notice including, without limitation, seizure and injunction. Unresolved violations in this warning letter may also prevent other Federal agencies from awarding contracts.
+
+Until these violations are corrected, we may withhold approval of pending drug applications listing your facility. We may re-inspect to verify that you have completed your corrective actions. We may also refuse your requests for export certificates.
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to orapharm1_responses@fda.hhs.gov . Please identify your response with FEI #3005976760 and CMS #582512.
+
+If you have any questions, please contact Compliance Officer Nancy Scheraga at nancy.scheraga@fda.hhs.gov or call 973-331-4910.
+
+Sincerely,
+/S/
+
+Diana Amador-Toro
+Program Division Director/District Director
+U.S. Food and Drug Administration
+OPQO Division I / New Jersey District

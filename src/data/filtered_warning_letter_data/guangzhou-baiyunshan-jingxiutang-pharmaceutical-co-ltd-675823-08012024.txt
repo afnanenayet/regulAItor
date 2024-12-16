@@ -1,0 +1,188 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+              Reference #: 
+        320-24-54
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Honghui Cheng
+          
+
+                                
+  
+    Recipient Title
+              Legal Representative and Chairman of the Board
+          
+
+          
+            Guangzhou Baiyunshan Jingxiutang Pharmaceutical Co. Ltd.
+
+          
+                      249 Poyang Road
+Huangqi, Dali Town
+Nanhai Qu
+Foshan Shi
+Guangdong Sheng, 528248
+China
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research (CDER)
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter 320-24-54
+
+August 1, 2024
+
+Dear Mr. Cheng:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Guangzhou Baiyunshan Jingxiutang Pharmaceutical Co. Ltd., FEI 3006010954, at 249 Poyang Road, Huangqi, Dali Town, Nanhai District, Foshan City, Guangdong, China, from December 4 to 8, 2023.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your January 2, 2024 response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence.
+
+During our inspection, our investigator observed specific violations including, but not limited to, the following:
+
+1. Your firm failed to establish laboratory controls that include scientifically sound and appropriate specifications, standards, sampling plans, and test procedures designed to assure that components, drug product containers, closures, in-process materials, labeling, and drug products conform to appropriate standards of identity, strength, quality, and purity (21 CFR 211.160(b)).
+
+Drug Products Lacked Appropriate Specifications
+
+You failed to establish appropriate release specifications and analytical testing procedures for critical quality attributes for the drug products you manufacture. For example, while the label for your over-the-counter (OTC) drug product (b)(4) lists two active ingredients, (b)(4), your certificate of analysis (COA) indicates only a single assay specification and result for (b)(4). You are responsible for ensuring you have scientifically sound specifications and test methods used to determine drug quality before release.
+
+In your response, you state your drug product (b)(4) is in “accordance with” Chinese pharmacopoeia, and that the total (b)(4) (which you state includes “(b)(4), etc.”) is determined by “repeated tests.” You also state you will explore (b)(4) and (b)(4) content testing in accordance with U.S. laws and regulations.
+
+Your response is inadequate because you did not provide specific details, such as a timeline for implementation, protocols, or test methods with updated specifications. In your response to our request for additional information on the test methods and specifications for your drug products, you stated you intend to carry out a separate study on the active component of your (b)(4) drug product, but did not provide the requested information.
+
+Inadequate (b)(4) Testing
+
+You lacked appropriate specifications to ensure the (b)(4) used as a component in your drug products is suitable for the intended use of your drug products. Specifically, you only tested for total aerobic microbial count and did not perform any testing for objectionable microorganisms on your (b)(4). In addition, your procedure did not specify the need for microbial identification of (b)(4) system sample isolates.
+
+In your response, you state you “studied the USP and consulted the relevant standards” and will specifically test for Burkholderia cepacia complex in your (b)(4).
+
+Your response is inadequate because it is unclear if you will adhere to United States Pharmacopoeia (USP) compendial methods for testing your (b)(4) sample and do not indicate you will test for objectionable microorganisms in addition to B. cepacia.
+
+In response to this letter, provide:
+
+
+	A comprehensive assessment of your laboratory practices, procedures, methods, equipment, documentation, and analyst competencies. Based on this review, provide a detailed plan to remediate and evaluate the effectiveness of your laboratory system.
+	A list of chemical and microbiological specifications, including test methods, used to analyze each lot of your drug products before a lot disposition decision.
+
+
+    o An action plan and timelines for conducting full chemical and microbiological testing of retain samples to determine the quality of all batches of drug product distributed to the United States that are within expiry as of the date of this letter.
+    o A summary of all results obtained from testing retain samples from each batch. If such testing reveals substandard quality drug products, take rapid corrective actions, such as notifying customers and product recalls.
+
+
+	A procedure governing your program for ongoing control, maintenance, and monitoring that ensures the system consistently produces (b)(4) that meets (b)(4), USP monograph specifications and appropriate microbial limits.
+
+
+2. Your firm failed to establish an adequate quality control unit with the responsibility and authority to approve or reject all components, drug product containers, closures, in-process materials, packaging materials, labeling, and drug products (21 CFR 211.22(a)).
+
+The records and information you provided demonstrate that your quality unit (QU) did not effectively exercise its responsibilities to oversee the quality of your drug manufacturing operations. Specifically, your QU did not adequately exercise its authority over the establishment of controls in your Laboratory System.
+
+Your QU is responsible for fully exercising its authority and responsibilities. FDA is concerned that your QU may also not be conducting appropriate oversight regarding other CGMP operations, including Production, Facilities & Equipment, Laboratory Controls, and Packaging & Labelling Systems.
+
+See FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations for help implementing quality systems and risk management approaches to meet the requirements of CGMP regulations 21 CFR, parts 210 and 211 at https://www.fda.gov/media/71023/download.
+
+In response to this letter, provide:
+
+
+	A comprehensive assessment and remediation plan to ensure your QU is given the authority and resources to effectively function. The assessment should also include, but not be limited to:
+
+
+    o A determination of whether procedures used by your firm are robust and appropriate
+    o Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices
+    o A complete and final review of each batch and its related information before the QU disposition decision
+    o Oversight and approval of investigations and discharging of all other QU duties to ensure identity, strength, quality, and purity of all products
+
+CGMP Consultant Recommended
+
+Because you failed to correct repeat violations, you should engage a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements. Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+Correct any violations promptly. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may reinspect to verify that you have completed corrective actions to any violations.
+
+Failure to address any violations may also result in the FDA refusing admission of articles manufactured at Guangzhou Baiyunshan Jingxiutang Pharmaceutical Co. Ltd., located at 249 Poyang Road, Huangqi, Dali Town, Nanhai District, Foshan City, Guangdong, China into the United States under section 801(a)(3) of the FD&C Act, 21 U.S.C. 381(a)(3). Articles under this authority that appear to be adulterated may be detained or refused admission, in that the methods and controls used in their manufacture do not appear to conform to CGMP within the meaning of section 501(a)(2)(B) of the FD&C Act, 21 U.S.C. 351(a)(2)(B).
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov. Identify your response with FEI 3006010954 and ATTN: Marisa Heayn.
+
+Sincerely,
+/S/
+
+Francis Godwin
+Director
+Office of Manufacturing Quality
+Office of Compliance
+Center for Drug Evaluation and Research
+
+CC:
+(b)(4)

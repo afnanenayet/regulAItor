@@ -1,0 +1,297 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Jeremy Willard
+          
+
+                                
+  
+    Recipient Title
+              President & CEO
+          
+
+          
+            LEC Custom Products, Inc.
+
+          
+                      7 Kenview Boulevard
+Brampton ON L6T 5G5
+Canada
+          
+          
+            
+            
+
+     Via UPS
+
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research | CDER
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter 320-20-47
+
+September 24, 2020
+
+Dear Mr. Willard:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, LEC Custom Products, Inc., 3004737602, at 7 Kenview Boulevard, Brampton, Ontario, from March 2 to 6, 2020.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug product are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your March 25, 2020, response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence.
+
+During our inspection, our investigator observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to use equipment in the manufacture, processing, packing, or holding of drug products that is of appropriate design, adequate size, and suitably located to facilitate operations for its intended use and for its cleaning and maintenance (21 CFR 211.63).
+
+You manufacture over-the-counter (OTC) drug products marketed for consumers, including children. The main component in your non-sterile drug products is (b)(4). You used an (b)(4) system to generate (b)(4), for cleaning and production operations. We observed approximately (b)(4) feet of hard piping and hoses coming from this (b)(4) system that holds stagnant (b)(4) when not in use and can harbor biofilm. Following a 2017 FDA inspection, you committed in writing to testing your (b)(4) for microbial attributes. However, during the current inspection we observed you only tested (b)(4), when you installed a new (b)(4) skid. In addition, your testing results demonstrated your (b)(4) consistently fails to meet United States Pharmacopeia (USP) specifications for (b)(4). The USP (b)(4) specification for (b)(4) is not more than (b)(4) μS/cm at 25 ºC. Your test data showed your levels approached (b)(4) μS/cm at 25 ºC, at which point you changed the (b)(4) skid, even though the test data showed the (b)(4) produced was already failing USP requirements.
+
+In your response, you stated that you established your (b)(4) specifications, tested your (b)(4) for (b)(4) and total plate count, and (b)(4) above (b)(4) μS/cm was not used in drug production.
+
+Your response is inadequate because your (b)(4) failed USP requirements for (b)(4), and you did not commit to routinely testing microbial attributes of your (b)(4). Additionally, because the main component in your non-sterile drug products is (b)(4), there is a potential risk of objectionable microbial contamination, such as Burkholderia cepacia (B. cepacia), which your firm did not test for as part of your microbial testing of the (b)(4) system.
+
+In your response to this letter, provide the following:
+
+• A comprehensive, independent remediation plan for the design, control, and maintenance of the (b)(4) system.
+
+• Validation report for the (b)(4) system obtained after all identified design issues have been fully corrected and any maintenance repairs have been completed. Include the system validation protocol, the complete test results, and the final validation report.
+
+• The summary of improvements made to the program for ongoing control and maintenance.
+
+• A procedure for your (b)(4) system monitoring that specifies routine microbial testing of (b)(4) to ensure its acceptability for use in each batch of drug products produced by your firm.
+
+• A procedure governing your program for ongoing control, maintenance, and monitoring that ensures the remediated system consistently produces (b)(4) that meets the (b)(4), USP monograph specifications and appropriate chemical and microbial limits.
+
+• Data demonstrating appropriate chemical attributes and microbial total count to ensure this system produces (b)(4) suitable for the intended uses of each of your drug products.
+
+• A detailed risk assessment addressing the potential effects of the (b)(4) you use on the quality of all drug product lots currently in U.S. distribution and within expiry. Specify actions that you will take in response to the risk assessment, such as customer notifications and product recalls.
+
+2. Your firm failed to establish written procedures for production and process control designed to assure that the drug products you manufacture have the identity, strength, quality, and purity they purport or are represented to possess (21 CFR 211.100(a)).
+
+Your firm lacked a process validation program.
+
+A. Inadequate Control of Manufacturing Processes
+
+During our inspection, you informed us there was no executed process validation for the (b)(4) OTC products you currently manufacture. You committed to performing process validation activities in writing after previous FDA inspections. However, you did not follow through on your promised corrective actions.
+
+Process validation evaluates the soundness of design and state of control of a process throughout its lifecycle. Each significant stage of a manufacturing process must be designed appropriately and assure the quality of raw material inputs, in-process materials, and finished drugs. Process qualification studies determine whether an initial state of control has been established. Successful process qualification studies are necessary before commercial distribution. Thereafter, ongoing vigilant oversight of process performance and product quality is necessary to ensure you maintain a stable manufacturing operation throughout the product lifecycle.
+
+See FDA’s guidance document Process Validation: General Principles and Practices for general principles and approaches that FDA considers appropriate elements of process validation at https://www.fda.gov/media/71021/download.
+
+B. Inadequate Control of (b)(4) System
+
+(b)(4) was used as the main component in the manufacture of your drug products. You lacked validation studies for your (b)(4) system. Your firm did not demonstrate that you could effectively design, control, maintain, and monitor the system, so it consistently produced pharmaceutical grade (b)(4) that, met the USP monograph for (b)(4) and appropriate chemical and microbial limits at a minimum.
+
+In your response, you stated you initiated process validation protocol activities.
+
+Your response cannot be fully evaluated because you didn’t provide sufficient details about your plan regarding process validation activities.
+
+In your response to this letter, provide the following:
+
+• A detailed summary of your validation program for ensuring a state of control throughout the product lifecycle, along with associated procedures. Describe your program for process performance qualification (PPQ), and ongoing monitoring of both intra-batch and inter-batch variation to ensure a continuing state of control.
+
+• A timeline for performing PPQ for each of your marketed drug products.
+
+• Include your process performance protocols, and written procedures for qualification of equipment and facilities.
+
+3. Your firm failed to clean, maintain, and, as appropriate for the nature of the drug, sanitize and/or sterilize equipment and utensils at appropriate intervals to prevent malfunctions or contamination that would alter the safety, identity, strength, quality, or purity of the drug product beyond the official or other established requirements (21 CFR 211.67(a)).
+
+You manufacture multiple OTC drug products on shared equipment. During the inspection, you informed us no cleaning validation data was available for your manufacturing and filling operations. You committed in writing to performing cleaning validation activities after previous FDA inspections. However, you did not follow through with your promised corrective actions.
+
+In your response, you stated you initiated cleaning validation activities.
+
+Your response cannot be fully evaluated because you did not provide sufficient details about your plan regarding cleaning validation activities.
+
+In your response to this letter, provide the following:
+
+• Appropriate improvements to your cleaning validation program, with special emphasis on incorporating conditions identified as worst case in your drug manufacturing operation. This should include, but not be limited to identification and evaluation of all worst-case:
+
+o Drugs with higher toxicities
+o Drugs with higher drug potencies
+o Drugs of lower solubility in their cleaning solvents
+o Drugs with characteristics that make them difficult to clean
+o Swabbing locations for areas that are most difficult to clean
+o Maximum hold times before cleaning
+
+• In addition, describe the steps that must be taken in your change management system before introduction of new manufacturing equipment or a new product.
+
+• A summary of updated SOPs that ensure an appropriate program is in place for verification and validation of cleaning procedures for products, processes, and equipment.
+
+4. Your firm failed to establish a written testing program designed to assess the stability characteristics of drug products and to use results of stability testing to determine appropriate storage conditions and expiration dates (21 CFR 211.166(a)).
+
+Your firm lacked appropriate stability data to support your firm’s (b)(4)-year expiration date for your drug products. During our inspection, you informed us there was no stability program and that you were not aware of how a stability program is executed. Without appropriate stability data, you cannot ensure your drug products meet established specifications and all pre-determined quality criteria throughout the drug product’s assigned shelf-life.
+
+You committed in writing to establishing a stability program after previous FDA inspections. However, you did not follow through on your promised corrective actions.
+
+In your response, you stated you initiated a stability program.
+
+Your response cannot be fully evaluated because you did not include accelerated studies to support the tentative expiry dates or justification for the quality of the product that remains on the market.
+
+In your response to this letter, provide the following:
+
+• A comprehensive, independent assessment and corrective action and preventive action (CAPA) plan to ensure the adequacy of your stability program. Your remediated program should include, but not be limited to:
+
+  o Stability indicating methods
+  o Stability studies for each product in its marketed container-closure system before distribution is permitted
+  o An on-going program in which representative batches of each product are added each year to the program to determine if the shelf-life claim remains valid
+  o Detailed definition of the specific attributes to be tested at each station (timepoint)
+
+• All procedures that describe these and other elements of your remediated stability program.
+• Stability study data for all drug products manufactured for the U.S. market at your facility.
+• All of your specifications for your drug products and your justification for the ranges for each specification including the upper and lower levels, where applicable.
+
+5. Your firm failed to test samples of each component for identity and conformity with all appropriate written specifications for purity, strength, and quality. Your firm also failed to validate and establish the reliability of your component supplier’s test analyses at appropriate intervals (21 CFR 211.84(d)(1) and (2)).
+
+Your firm failed to test incoming components used in manufacturing your finished OTC drug products to determine identity, purity, strength, and quality and your firm did not establish a vendor qualification program for any of your raw material suppliers.
+
+Instead, your firm used results from your suppliers’ certificates of analysis (COA) without establishing the reliability of your suppliers’ analyses through appropriate validation and without conducting at least one specific identity test on each incoming lot of components. Under 21 CFR 211.84(d)(2), you may not rely on your suppliers’ COA to verify the identity of your components.
+
+Additionally, you manufacture multiple drugs that contain glycerin, yet you did not perform identity testing for diethylene glycol (DEG) and ethylene glycol (EG). The use of glycerin contaminated with DEG has resulted in various lethal poisoning incidents in humans worldwide.
+
+See FDA’s guidance document Testing of Glycerin for Diethylene Glycol to help you meet the CGMP requirements when manufacturing drugs containing glycerin at https://www.fda.gov/media/71029/download.
+
+In your response, you committed to performing identity testing on all of your excipients, including glycerin.
+
+Your response is inadequate because you did not address your plans for qualification of your component suppliers and whether your firm tested all lots of drug product that you distributed to the United States for DEG and EG.
+
+In your response to this letter, provide the following:
+
+• A comprehensive, independent review of your material system to determine whether all suppliers of components, containers, and closures, are each qualified and the materials are assigned appropriate expiration or retest dates. The review should also determine whether incoming material controls are adequate to prevent use of unsuitable components, containers, and closures.
+• Provide a full risk assessment for drug products manufactured using components that were not adequately tested and qualified. Your risk assessment should address all products within expiry and distributed within the United States. Take prompt corrective actions and preventive actions, and detail your future actions to ensure appropriate selection of your suppliers, ongoing scrutiny of their supply chain, and appropriate incoming lot controls.
+
+6. Your firm failed to establish an adequate quality unit and the responsibilities, and procedures applicable to the quality control unit were not in writing and fully followed (21 CFR 211.22(a)&(d)).
+
+During the inspection, our investigator observed that your quality unit (QU) did not provide adequate oversight for the manufacture of your OTC drug products. For example, your QU failed to ensure the following:
+
+• Review of executed batch production and packaging records, including testing performed by your external laboratories, was performed before releasing your drug products for distribution.
+• Sampling, testing, and release of your drug product containers and closures was performed before use in manufacturing.
+• Logs for deviations and out-of-specifications (OOS) were maintained as required by your procedures.
+• An adequate complaint procedure was developed that requires maintaining a record of drug product complaints.
+
+In your response, you submitted numerous corrective actions, including hiring a Quality Manager, to address your QU failures.
+
+Your response is inadequate. You failed to review the scope of your QU deficiencies and provide evidence that you drafted and implemented procedures that ensure adequate control over your drug manufacturing processes. You also failed to address the potential effects of your lack of quality oversight on the quality of drugs you manufactured, and which remain within expiry.
+
+In your response to this letter, provide the following:
+
+• A comprehensive, independent assessment and remediation plan to ensure your QU is given authority and resources to effectively function. The assessment should also include, but not be limited to:
+
+  o A determination of whether procedures used by your firm are robust and appropriate
+  o Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices
+  o A complete and final review of each batch and its related information before the QU disposition decision
+  o Oversight and approval of investigations and discharging of all other QU duties to ensure identity, strength, quality, and purity of all products
+
+Your firm’s quality systems are inadequate. See FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations for help implementing quality systems and risk management approaches to meet the requirements of CGMP regulations 21 CFR, parts 210 and 211 at https://www.fda.gov/media/71023/download.
+
+Repeat Observations and Cessation of Manufacturing
+
+In your August 19, 2020, correspondence you indicated that you have ceased drug manufacturing at Kenview Boulevard (Brampton site, formerly the Burlington site) and moved all of your drug production operations to your facility located at 2300 Drew Road (Mississauga site). Based on repeat observations and your failure to follow through with written commitments to perform various corrective actions at the Brampton and Burlington sites, you do not have adequate executive management oversight and control over the manufacture of drugs.
+
+If you plan to resume manufacturing drugs for the U.S. market at the Brampton site, notify this office prior to resuming your operations and include written confirmation that the corrective actions from your March 25, 2020, response to the Form FDA 483 observations have been implemented.
+
+In your response to this letter provide the change control documents related to any equipment relocations to the Mississauga site. Additionally, provide documentation to demonstrate that all
+
+CGMP concerns detailed above were evaluated at the Mississauga site and you are operating in compliance with CGMP at the Mississauga site. FDA plans to verify the implementation of corrective actions and production change control related to drug manufacturing at the next Mississauga site inspection.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, we strongly recommend engaging a consultant qualified to evaluate your operations and to assist your firm in meeting CGMP requirements. We also recommend that the qualified consultant perform a comprehensive audit of your entire operation for CGMP compliance and that the consultant evaluates the completion and efficacy of your corrective actions and preventive actions before you pursue resolution of your firm’s compliance status with FDA.
+
+Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of these violations and for preventing their recurrence or the occurrence of other violations.
+
+In addition, we note that some of the OTC drug products you manufacture may also be regulated as cosmetics, as defined in section 201(i) of the FD&C Act. A cosmetic may be deemed adulterated under section 601(c) of the FD&C Act, 21 U.S.C. 361(c), if it has been prepared, packed, or held under unsanitary conditions whereby it may have become contaminated with filth, or whereby it may have been rendered injurious to health. Some of the sanitation conditions that cause the OTC drug products you manufacture to be adulterated may also cause the products to be adulterated cosmetics. We note that under section 301(a) of the FD&C Act, 21 U.S.C. 331 (a), it is a prohibited act to introduce or deliver for introduction into interstate commerce a cosmetic product that is adulterated.
+
+FDA placed your firm on Import Alert 66-40 on July 14, 2020.
+
+Until you correct all violations completely and we confirm your compliance with CGMP, FDA may withhold approval of any new drug applications or supplements listing your firm as a drug manufacturer.
+
+Failure to correct these violations may also result in the FDA continuing to refuse admission of articles manufactured at LEC Custom Products, Inc., located at 7 Kenview Boulevard, Brampton, Ontario into the United States under section 801(a)(3) of the FD&C Act, 21 U.S.C. 381(a)(3). Articles under this authority may be subject to refusal of admission, in that the methods and controls used in their manufacture do not appear to conform to CGMP within the meaning of section 501(a)(2)(B) of the FD&C Act, 21 U.S.C. 351(a)(2)(B).
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+If you believe that your products are not in violation of the FD&C Act (or you have complied with FDA regulations), include your reasoning and any supporting information for our consideration.
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov.
+
+Please identify your response with FEI 3004737602 and ATTN: Kevin Maguire.
+
+Sincerely,
+/S/
+
+Francis Godwin
+Director
+Office of Manufacturing Quality
+Office of Compliance
+Center for Drug Evaluation and Research
+
+Cc: (b)(4)

@@ -1,0 +1,266 @@
+Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Michael B. Younan
+          
+
+                                
+  
+    Recipient Title
+              Owner
+          
+
+          
+            Bella Pharmaceuticals, Inc. 
+
+          
+                      4301 Regency Dr.
+Glenview, IL 60025
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Detroit District Office
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+February 11, 2019
+
+ 
+
+WARNING LETTER
+
+Case# 572550
+
+ 
+
+ 
+
+UPS NEXT DAY
+
+SIGNATURE REQUIRED
+
+ 
+
+Michael B. Younan
+
+Owner
+
+Bella Pharmaceuticals, Inc.
+
+4301 Regency Dr.
+
+Glenview, IL 60025
+
+ 
+
+Dear Mr. Younan:
+
+You registered with the U.S. Food and Drug Administration (FDA) as an outsourcing facility under section 503B of the Federal Food, Drug, and Cosmetic Act (FDCA) [21 U.S.C. § 353b][1] on February 23, 2017. Although, as of the date of this letter, your facility is no longer registered as an outsourcing facility, this letter discusses violations identified during the time you were registered as an outsourcing facility.
+
+From June 10, 2017 to July 18, 2017, an FDA investigator inspected your facility, Bella Pharmaceuticals, Inc., 3101 W. Devon Avenue, Chicago, IL 60659-1407. During the inspection, the investigator noted that drug products you produced failed to meet the conditions of section 503B of the FDCA necessary for drugs produced by an outsourcing facility to qualify for exemptions from certain provisions of the FDCA. In addition, the investigator noted serious deficiencies in your practices for producing sterile drug products, which put patients at risk. 
+
+FDA issued a Form FDA 483 to your facility on July 18, 2017. FDA acknowledges receipt of your facility’s response, dated August 4, 2017. On August 15, 2017, you voluntarily recalled all sterile drug products distributed between April 17, 2017 and August 10, 2017 that were within expiry, and ceased sterile drug production until adequate corrective actions were implemented to correct lack of sterility assurance. Based on this inspection, it appears you produced drugs that violate the FDCA. 
+
+A. Compounded Drug Products under the FDCA
+
+Under section 503B(b) [21 U.S.C. § 353b(b)] of the FDCA, a compounder can register as an outsourcing facility with FDA. Drug products compounded by or under the direct supervision of a licensed pharmacist in an outsourcing facility qualify for exemptions from the drug approval requirements in section 505 of the FDCA [21 U.S.C. § 355(a)], the requirement in section 502(f)(1) of the FDCA [21 U.S.C. § 352(f)(1)] that labeling bear adequate directions for use, and the Drug Supply Chain Security Act requirements in section 582 of the FDCA [21 U.S.C. § 360eee-1] if the conditions in section 503B of the FDCA are met.[2]
+
+An outsourcing facility, which is defined in section 503B(d)(4) of the FDCA [21 U.S.C. § 353b(d)(4)], is a facility at one geographic location or address that — (i) is engaged in the compounding of sterile drugs; (ii) has elected to register as an outsourcing facility; and (iii) complies with all of the requirements of this section. Outsourcing facilities must comply with other applicable provisions of the FDCA, including section 501(a)(2)(B) [21 U.S.C. § 351(a)(2)(B)], regarding current good manufacturing practice (CGMP), and section 501(a)(2)(A) [21 U.S.C. § 351(a)(2)(A)], regarding insanitary conditions. Generally, CGMP requirements for the preparation of drug products are established in Title 21 of the Code of Federal Regulations (CFR) parts 210 and 211.
+
+In addition, for a compounded drug product to qualify for the exemptions under section 503B, bulk drug substances used to compound it must appear on a list established by the Secretary identifying bulk drug substances for which there is a clinical need (“503B bulks list”), or that appear on the drug shortage list in effect under section 506E [21 U.S.C. § 356e] of the FDCA at the time of compounding, distribution, and dispensing (section 503B(a)(2)(A)(i) of the FDCA [21 U.S.C. § 353b(a)(2)(A)(i)]).      
+
+Furthermore, for a compounded drug product to qualify for the exemptions under section 503B, the labeling of the drug must include certain information (section 503B(a)(10) of the FDCA [21 U.S.C. §353b(a)(10)]).
+
+Lastly, for a compounded drug product to qualify for the exemptions under section 503B, it must be compounded in an outsourcing facility that is in compliance with the registration and reporting requirements in section 503B(b) [21 U.S.C. §353b(b)]. This includes the requirement to submit a report to FDA upon initially registering as an outsourcing facility, once in June of each year, and once in December of each year identifying the drug products compounded during the previous 6-month period (section 503B(b)(2) of the FDCA [21 U.S.C. §353b(b)(2)]). 
+
+B. Failure to Meet the Conditions of Section 503B
+
+During the inspection, the FDA investigator noted that drug products produced by your facility failed to meet the conditions of section 503B. For example, the investigator noted: 
+
+1.  Your facility compounded a drug product using Fluorescein Sodium. Drug products compounded using Fluorescein Sodium are not eligible for the exemptions provided by section 503B because Fluorescein Sodium does not appear on the 503B bulks list, and is not used to compound a drug that appears on the drug shortage list. [3]
+
+2.  Some of your facility’s drug products did not include the following statements on the label: “This is a compounded drug”, “Not for Resale”, “Office use only”, your facility phone number, dosage form, the date of compounding, specific storage and handling instructions, and a list of active and inactive ingredients, identified by established name and the quantity or proportion of each ingredient. Some of your facility’s drug products did not include the following information on the container: Information to facilitate adverse event reporting and route of administration.
+
+3. Your facility failed to submit reports to FDA in February 23, 2017 upon initial registration as an outsourcing facility, and in June 2017 identifying the drug products that you compounded during the previous 6-month period.
+
+Because your compounded drug products have not met all of the conditions of section 503B, they are not eligible for the exemptions in that section from the FDA approval requirements of section 505, the requirement under section 502(f)(1) that labeling bear adequate directions for use, and the Drug Supply Chain Security Act requirements described in section 582 of the FDCA. 
+
+Specific violations are described below.
+
+C. Violations of the FDCA
+
+Adulterated Drug Products
+
+The FDA investigator noted that drug products intended or expected to be sterile were prepared, packed, or held under insanitary conditions, whereby they may have become contaminated with filth or rendered injurious to health, causing your drug products to be adulterated under section 501(a)(2)(A) of the FDCA. For example, the investigator observed that: 
+
+
+	During the prefilling of syringes of sterile drug product, your firm’s Chief Pharmacist did not sanitize the exterior of any of the components before introducing them into the ISO 5 classified area or prior to putting them in the (b)(4).
+
+
+
+	Your firm used non-pharmaceutical grade sterilizing (b)(4).
+
+
+
+	Your firm used a broad-spectrum hard surface disinfectant that was not labeled as sporicidal or sterile as the sole sanitizing agent for sanitizing the ISO 5 classified area.
+
+
+
+	Your firm used disposable towels that were not non-shedding when cleaning and sanitizing the ISO 5 classified aseptic processing area.
+
+
+
+	Your firm did not use any media fill simulations to validate aseptic filling operations. Therefore, there is a lack of assurance that your firm can aseptically produce drug products within your facility.
+	Your firm’s (b)(4), which is (b)(4) just outside the (b)(4) of the ISO 5 classified (b)(4) Room, was observed to be dusty. Also, our investigators observed that stained transparent packing tape was used to cover the (b)(4) the (b)(4) and the (b)(4) Room.
+	The floor in the IV Room, which is considered an IS0 5 classified area, is a laminate floating floor that shows chipping.
+	Your firm’s employee was observed with exposed skin around the eyebrow, eyes, neck, and/or wrist during aseptic processing.  
+
+
+The FDA investigator also noted CGMP violations at your facility, that caused your drug product(s) to be adulterated within the meaning of section 501(a)(2)(B) of the FDCA.  The violations include, for example:
+
+1.      Procedures designed to prevent objectionable microorganisms in drug products required to be sterile are not established, written, or followed. [21 CFR 211.113(b)]
+
+2.      Aseptic processing areas are deficient regarding the system for cleaning and disinfecting the room and equipment to produce aseptic conditions. [21 CFR 211.42(c)(10)(v)]
+
+3.      Aseptic processing areas are deficient regarding the system for monitoring environmental conditions. [21 CFR 211.42(c)(10)(iv)
+
+4.      The finished product testing for product release does not include an appropriate laboratory determination of satisfactory conformance to final specification for the drug product, including identity and strength.  [21 CFR 211.165(a)
+
+5.      Clothing of personnel engaged in the compounding, processing, packing, and holding of drug products purporting to be sterile is not appropriate for the duties they perform. [21 CFR 211.28(a)
+
+Under section 301(a) of the FDCA [21 U.S.C. § 331(a)], the introduction or delivery for introduction into interstate commerce of any drug that is adulterated is a prohibited act. Further, it is a prohibited act under section 301(k) of the FDCA [21 U.S.C. § 331(k)] to do any act with respect to a drug, if such act is done while the drug is held for sale after shipment in interstate commerce and results in the drug being adulterated.
+
+Unapproved New Drug Products 
+
+You do not have any FDA-approved applications on file for drug products that you compound.[4] Under sections 505(a) and 301(d) and of the FDCA [21 U.S.C. §§ 331(d)] a new drug may not be introduced into or delivered for introduction into interstate commerce unless an application approved by FDA under section 505 of the FDCA is in effect for the drug. Marketing of these products, or other applicable products, without an approved application violates these provisions of the FDCA. 
+
+ Misbranded Drug Products
+
+ You compound drug products that are intended for conditions not amenable to self-diagnosis and treatment by individuals who are not medical practitioners; therefore, adequate directions for use cannot be written so that a layman can use these products safely for their intended uses. Consequently, their labeling fails to bear adequate directions for their intended uses causing them to be misbranded under section 502(f)(1) of the FDCA.[5] The introduction or delivery for introduction into interstate commerce of these products therefore violates section 301(a) of the FDCA. Further, it is also a prohibited act under section 301(k) of the FDCA to do any act with respect to a drug, if such act is done while the drug is held for sale after shipment in interstate commerce and results in the drug being misbranded.
+
+Failure to Report Drugs
+
+As noted above, your facility failed to submit a report to FDA upon initial registration as an outsourcing facility in February, 2017, and again in June, 2017, identifying the drug products that you compounded during the previous 6-month period (section 503B(b)(2) of the FDCA [21 U.S.C. § 353b(b)(2)]). The failure to report drugs by an entity that is registered with FDA in accordance with section 503B(b) is a prohibited act under section 301(ccc)(3) of the FDCA [21 U.S.C. § 331(ccc)(3)].
+
+D. Corrective Actions 
+
+We have reviewed your facility’s responses to the Form FDA 483. We acknowledge your voluntary recall of all sterile drug products distributed by your firm, from April 17, 2017, to August 10, 2017, remaining within expiry. We also acknowledge that you ceased sterile drug production until adequate corrective actions could be implemented.
+
+We are unable to fully evaluate the adequacy of the following corrective actions due to lack of supporting documentation:
+
+1.      You state that you now have a log book next to each (b)(4) to record all sterilizing cycles, dates, and materials, but you did not provide any updated standard operation procedures (SOPs), training records or copy of the log book. In addition, your response did not include an updated procedure with the current validated (b)(4) cycles, calibration frequencies, maintenance, and general use of the (b)(4).
+
+2.      You state that you now have a log book to document all dates and times of sanitizing rooms, but you did not provide any updated cleaning SOPs. In addition, your response did not include a list of the newly purchased sporicidal disinfectants and efficacy studies to support established contact time.
+
+3.      You state that your firm has obtained a (b)(4) for your clean room to (b)(4) prior to making any sterile preparations; however, you did not provide a revised SOP or training records for the use of the equipment.
+
+4.      You state that your firm will be conducting potency, endotoxin, suitability, and sterility testing on all lots, but you did not provide current testing results, lot sample numbers, validation protocols or updated testing SOPs.
+
+5.      You state that sterile gowns and proper protective gear have been procured, but you did not provide any updated gowning SOPs or gowning training records.  
+
+6.      You state that your product labeling has been corrected to include all of the information required under section 503B, but you did not provide any samples of the labeling.
+
+In addition to the issues discussed above, should you decide to re-register as an outsourcing facility, you should note that CGMP requires the implementation of quality oversight and controls over the manufacture of drugs, including the safety of raw materials, materials used in drug manufacturing, and finished drug products. See section 501 of the FDCA. If you choose to contract with a laboratory to perform some functions required by CGMP, it is essential that you select a qualified contractor and that you maintain sufficient oversight of the contractor’s operations to ensure that it is fully CGMP compliant. Regardless of whether you rely on a contract facility, you are responsible for assuring that drugs you produce are neither adulterated nor misbranded. [See 21 CFR 210.1(b), 21 CFR 200.10(b)]
+
+FDA strongly recommends that if you decide to resume production of sterile drugs, your management first undertake a comprehensive assessment of operations, including facility design, procedures, personnel, processes, maintenance, materials, and systems. In particular, this review should assess your aseptic processing operations. A third party consultant with relevant sterile drug manufacturing expertise should assist you in conducting this comprehensive evaluation. 
+
+E. Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive statement of violations at your facility. You are responsible for investigating and determining the causes of the violations identified above and for preventing their recurrence or the occurrence of other violations. It is your responsibility to ensure that your firm complies with all requirements of federal law, including FDA regulations.
+
+If you decide to resume sterile operations, you should take prompt action to correct the violations cited in this letter. Failure to promptly correct these violations may result in legal action without further notice, including, without limitation, seizure and injunction. 
+
+Within fifteen (15) working days of receipt of this letter, please notify this office in writing if you have taken any specific steps to correct the violations cited in this letter, or you may inform us that you do not intend to resume production of sterile drugs. If you intend to resume production of sterile drugs in the future, please include an explanation of each step being taken to prevent the recurrence of violations, as well as copies of related documentation. If you do not believe that products discussed above violated the FDCA, include your reasoning and any supporting information for our consideration. In addition to taking appropriate corrective actions, you should notify this office 15 days prior to resuming production of any sterile drugs in the future. 
+
+Please address your reply via email to: ORAPHARM3_RESPONSES@fda.hhs.gov
+
+Russell Riley, Compliance Officer
+
+U.S. Food and Drug Administration
+
+Division of Pharmaceutical Quality Operations Division III
+
+Your written notification should refer to the Warning Letter Number above (Case# 572550). If you have questions regarding the contents of this letter, please contact Russell Riley at (630) 323-2763 ext. 101.
+
+ 
+
+Sincerely,
+
+ /S/ 
+
+Art O. Czabaniuk
+
+Program Division Director
+
+Division of Pharmaceutical Quality Operations III
+
+ 
+
+[1] See Pub. L. No. 113-54, § 102(a), 127 Stat. 587, 587-588 (2013).
+
+[2] We remind you that there are conditions, other than those discussed in this letter, that must be satisfied to qualify for the exemptions in section 503B of the FDCA.
+
+[3] On June 9, 2016, FDA issued a final guidance titled, Interim Policy on Compounding Using Bulk Drug Substances Under Section 503B of the Federal Food, Drug, and Cosmetic Act. This guidance describes FDA’s interim regulatory policy for outsourcing facilities registered under section 503B of the FDCA while the 503B bulks list is being developed. Specifically, the guidance sets out conditions under which FDA does not intend to take action against an outsourcing facility for compounding a drug product using a bulk drug substance that is not included on the 503B list and does not appear on the drug shortage list in effect under section 506E at the time of compounding, distribution, and dispensing until the substance is identified in a final rule as included or not included on the 503B bulks list. These conditions include that the substance may be eligible for inclusion on the 503B bulks list, was nominated with adequate support for FDA to evaluate it, and has not been identified by FDA as a substance that appears to present significant safety risks pending further evaluation.  Fluorescein Sodium was not nominated. For additional information, see the guidance at http://www.fda.gov/downloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/UCM469122.pdf
+
+[4] The specific products made by your firm are drugs within the meaning of section 201(g) of the Act, [21 U.S.C. § 321(g)] because they are intended for use in the diagnosis, cure, mitigation, treatment, or prevention of diseases and/or because they are intended to affect the structure or any function of the body. Further, they are “new drugs” within the meaning of section 201(p) of the FDCA [21 U.S.C. § 321(p)] because they are not generally recognized as safe and effective for their labeled uses. 
+
+[5] Your compounded drug products are not exempted from the requirements of section 502(f)(1) of the FDCA by regulations issued by the FDA (see, e.g., 21 CFR 201.115).

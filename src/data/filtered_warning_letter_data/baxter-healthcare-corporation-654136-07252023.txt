@@ -1,0 +1,224 @@
+Delivery Method: 
+        Via Email
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. José E. Almeida
+          
+
+                                
+  
+    Recipient Title
+              Chairman, CEO and President
+          
+
+          
+            Baxter Healthcare Corporation
+
+          
+                      1 Baxter Parkway
+Deerfield, IL 60015
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research | CDER
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter 320-23-18
+
+July 25, 2023
+
+Dear Mr. Almeida:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Baxter Pharmaceuticals India Pvt. Ltd., 3004610460, at Village Vasana Chacharwadi, Taluka Sanand, Ahmedabad, India, from January 19 to January 27, 2023.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your February 17, 2023 response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence.
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to thoroughly investigate any unexplained discrepancy or failure of a batch or any of its components to meet any of its specifications, whether or not the batch has already been distributed (21 CFR 211.192).
+
+You failed to conduct adequate investigations into endotoxin testing and your 100% automated visual inspection system. You conducted investigations that were not thorough, expanded to an appropriate scope, or based on scientifically supported root cause(s). You did not identify and implement appropriate corrective actions and preventive actions (CAPA). Specifically,
+
+
+	Your firm invalidated multiple endotoxin tests for finished products upon discovery of particulate matter in one or more wells used to perform the kinetic-turbidimetric assay (KTA) method. You failed to characterize the particulate matter and attributed the particulates to environmental and laboratory conditions, such as air ducts and activities being performed by personnel in the immediate vicinity of the analysis. You did not definitively identify the source or sources of the particulate matter, define the scope of potentially impacted operations (including potential manufacturing causes), and implement scientifically justified CAPA in a timely manner.
+
+
+In a previous inspection (May 2022), FDA cited your firm for inadequate investigations into these and other similar out-of-specification (OOS) endotoxin testing that you invalidated due to uncharacterized particulate contamination in one or more wells during KTA analyses. Prior to and during an October 5, 2022 regulatory meeting with your firm, we requested you perform a retrospective assessment of investigations associated with OOS endotoxin results or endotoxin testing deviations. During the current inspection, your personnel explained that these investigations were not reopened or otherwise reassessed. Although you retained a third-party consultant to perform a retrospective assessment of endotoxin investigations associated with OOS endotoxin result investigations, you did not provide the third-party consultant with an investigation cited during the May 2022 inspection. You also did not ensure the assessment included approximately 20 invalidated laboratory tests generated in 2021 and 2022 (including multiple investigations since the May 2022 inspection).
+
+
+	Your firm did not adequately investigate failures of the (b)(4) automatic inspection machine to detect known defects, including particulate matter in injectable drug products. Despite the data indicating significant deficiencies in the machine’s ability to detect known defects during its use, you continued to employ the (b)(4) automatic inspection machine to inspect commercially distributed products (e.g., several batches of (b)(4) injection (b)(4) mg/mL USP). Notably, you fully relied on this automated visual inspection system to detect various defects including particulate contamination for an extended period and did not perform a 100% manual visual inspection for all defects.
+
+
+Challenges with defect kits indicated failing rejection rates or other deficiencies. For example, an October 2022 challenge excluded the use of (b)(4) particles despite their lower detectability than other “dark” particles in (b)(4) mL amber glass vials. The challenge also used a highly detectable particle range of (b)(4) μm, but still indicated detection and capability issues. Similar challenges to the (b)(4) automatic inspection machine utilized commercial inspection parameters. You did not initiate adequate investigations into these detection issues. You lacked adequate assurance that sterile injectable drug batches visually inspected with the (b)(4) automatic inspection machine were free from visible particulates.
+
+Your response is inadequate. Your firm previously committed to evaluate and implement improvements to your procedures and practices associated with the conduct of investigations following the conclusion of the July 27 to August 4, 2017, inspection of this facility and in response to the warning letter sent to your firm on July 5, 2018. You also reported significant CAPA activities to address the frequency of endotoxin testing OOS results and deviations following the October 5, 2022, regulatory meeting.
+
+In your February 17, 2023, response to the Form FDA 483 issued at the conclusion of the most recent inspection, you commit to further revisions of your investigation procedures.
+
+However, you do not adequately address your failure to conduct timely investigations into recurring and persistent issues. Your response did not adequately address the use of insufficiently qualified (b)(4) equipment for 100% visual inspection of injectable drug products for approximately five years (until October 2022) and the excessive number of samples contaminated with endotoxins or particles in your laboratory.
+
+We encourage the use of automated visual inspection for particulates to augment the 100% manual visual inspection program. Automated methods should be rigorously studied for their capability and robustness under various conditions, machine settings, container-closure sizes, defect types, and other variables. In addition, any use of automated particulate inspection does not supplant the need for 100% manual visual inspection for various other attributes (e.g., cracks).
+
+In response to this letter, provide:
+
+
+	A written commitment to have all lots of finished products manufactured at your facility analyzed for endotoxins by a qualified laboratory until you have thoroughly investigated each endotoxin test invalidation event since January 1, 2018, and implemented all necessary CAPA to prevent recurrence of endotoxin result invalidations. This should include but not be limited to assuring CAPA effectiveness for your particulate and pipetting issues.
+	A comprehensive, independent assessment and remediation plan of your systems for the visual inspection of sterile injectable drugs for defects, including the presence of particulate matter, used for products distributed in the United States that remain within expiry. The assessment should include acceptance and rejection criteria, personnel training, supervision, equipment and personnel qualification, equipment maintenance, and process validation and the procedures governing them. Provide your detailed remediation action plan that includes dates by which each remediation activity will be completed and a periodic independent reassessment of the plan’s effectiveness.
+	An independent third-party assessment and remediation plan for your CAPA program. Provide a report that evaluates whether the program includes effective root cause analysis, ensures CAPA effectiveness, analyzes investigation trends, improves the CAPA program when needed, implements final quality unit decisions, and is fully supported by executive management.
+	A third-party protocol and the executed protocol final report for the retrospective review of particulate matter investigations associated with distributed in the United States that remain within expiry, irrespective of whether the original investigation resulted in the invalidation of the original result. The protocol should include an evaluation of the investigation’s thoroughness; assignment and scientific justification for root cause(s); documentation of CAPA implementation, and documented effectiveness of CAPA.
+
+
+2. Your firm failed to establish and follow adequate written procedures for cleaning and maintenance of equipment (21 CFR 211.67(b)).
+
+An FDA investigator observed white spots at the bottom of a (b)(4) L bulk solution holding tank used to supply a non-dedicated filling machine despite the vessel being documented as clean. You subsequently analyzed and identified the white spots as (b)(4) (the product previously processed on this equipment) at levels of up to (b)(4) parts per million (ppm). Your limit for post-cleaning residues is not more than (b)(4) ppm.
+
+Your response is inadequate. Although you revised your cleaning procedure to require vessels to be dry before conducting the visual inspection for cleanliness and implemented visual verification of the vessel interior via a sight glass following the cleaning and (b)(4) activities, you did not provide scientific justification for your use of visual inspection to verify the removal of residues to levels as low as (b)(4) ppm. Your response noted (b)(4) injection, not (b)(4) injection, is the “worst-case product” processed in this vessel, but you did not provide a comprehensive investigation to assess the impact of this cleaning deviation on products previously manufactured on this and other non-dedicated equipment. You also did not propose a systemic assessment of your equipment cleaning program.
+
+In response to this letter, provide:
+
+
+	A comprehensive, independent retrospective assessment of your cleaning effectiveness to evaluate the scope of cross-contamination hazards. Include the identity of residues, other manufacturing equipment that may have been improperly cleaned, and an assessment whether cross-contaminated products may have been released for distribution. The assessment should identify any inadequacies of cleaning procedures and practices, and encompass each piece of manufacturing equipment used to manufacture more than one product.
+	A CAPA plan, based on the retrospective assessment of your cleaning program, that includes appropriate remediations to your cleaning processes and practices, and timelines for completion. Provide a detailed summary of vulnerabilities in your process for lifecycle management of equipment cleaning. Describe improvements to your cleaning program, including enhancements to cleaning effectiveness; improved ongoing verification of proper cleaning execution for all products and equipment; and all other needed remediations.
+
+
+3. Your firm failed to establish adequate written procedures for production and process control designed to assure that drug products you manufacture have the identity, strength, quality, and purity they purport or are represented to possess, and to follow all of your written production and process control procedures (21 CFR 211.100(a) and (b)).
+
+Your program for the visual inspection of sterile injectable drug products does not provide adequate assurance that finished products manufactured at your facility possess their purported quality attributes, including that they are free from particulate matter. For example,
+
+
+	Personnel performed 100% manual visual inspection of sterile injectable units for less than the minimum amount of time required by your written procedures.
+	You lacked scientific justification for removing vials containing (b)(4) particles from the defect kits used to qualify visual inspection processes. For example, although (b)(4) particles were more difficult to reproducibly detect than (b)(4) stopper particles in the (b)(4) mL amber vials, you elected to only use the (b)(4) stopper particles in the defect kits.
+
+
+Your response is inadequate. You commit to using a “pacing device” during the 100% manual visual inspections and requiring a supervisor to periodically verify the inspection times. You did not provide a description of the pacing device or commit to requalify operators following implementation of the pacing device. Additionally, you did not commit to evaluate operator performance throughout a (b)(4).
+
+You also state a successful qualification program does not evaluate “… an inspector’s ability to differentiate and identify various types and morphologies of particles.” However, it is critical to be able to reproducibly detect particulate defects of different types, morphologies, and sizes.
+
+In response to this letter, provide a comprehensive, independent assessment of each lot of sterile injectable drugs distributed from your facility to the United States that remains within expiry to meet the requirement of being essentially free of visible particles. The assessment should also include consideration of gaps and other deficiencies identified in the independent assessment of your systems for visual inspection of sterile injectable drugs.
+
+4. Your firm failed to use equipment in the manufacture, processing, packing, or holding of drug products that is of appropriate design, adequate size, and suitably located to facilitate operations for its intended use and for its cleaning and maintenance (21 CFR 211.63).
+
+Equipment used in the manufacture of terminally sterilized drugs at your facility is not designed or maintained appropriately. Our inspection revealed instances of damaged metal and plastic parts, open vials exposed to worn bolt threading, and process flow that required employees to duck underneath the sterile processing line conveyer in order to perform interventions near open vials (e.g., stopper addition on the (b)(4) filling line).
+
+Your response is inadequate. Although you commit to replacing the threaded bolt (b)(4) on the (b)(4) filling line with a different part that will not expose a threading over open vials, you did not commit to evaluate production rooms and production equipment for wear, damage, or poor design that may lead to the generation of particulate matter in the vicinity of open vials. You also plan to install a (b)(4) conveyor at the capping machine outfeed, and merge filling and capping areas, for two filling lines ((b)(4) and (b)(4)), but you did not commit to perform a comprehensive assessment of your facility’s production lines to ensure they are appropriately designed and controlled.
+
+In response to this letter, provide:
+
+
+	A comprehensive, independent assessment of the design of each sterile drug production line, including facility layout, equipment placement and ergonomics, and personnel and material flow. Provide your detailed remediation plan with timelines to address the findings of the assessment. Describe specific tangible improvements to be made to the sterile processing operation design and control. Include a plan to assess the effectiveness of the improvements.
+	A comprehensive, independent assessment of the condition of equipment including change parts, and the procedures and practices associated with equipment maintenance. Provide your detailed remediation action plan that includes dates by which each remediation activity will be completed and periodic assessment of the plan’s effectiveness.
+
+
+Ineffective Quality System
+
+Significant findings in this letter demonstrate that your firm does not operate an effective quality system in accord with CGMP. In addition to the lack of effective production oversight, we found your quality unit is not enabled to exercise proper authority and/or has insufficiently implemented its responsibilities. Executive management should immediately and comprehensively assess your company’s global manufacturing operations to ensure that your systems, processes, and products conform to FDA requirements.
+
+Process Controls
+
+Your firm does not have an adequate ongoing program for monitoring process control to ensure stable manufacturing operations and consistent drug quality.
+
+See FDA’s guidance document Process Validation: General Principles and Practices for general principles and approaches that FDA considers appropriate elements of process validation at https://www.fda.gov/files/drugs/published/Process-Validation--General-Principles-and-Practices.pdf.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm and because you failed to correct repeat violations, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 and independent of your firm to assist your firm in meeting CGMP requirements. Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+If you are considering an action that is likely to lead to a disruption in the supply of drugs produced at your facility, FDA requests that you contact CDER’s Drug Shortages Staff immediately, at drugshortages@fda.hhs.gov, so that FDA can work with you on the most effective way to bring your operations into compliance with the law. Contacting the Drug Shortages Staff also allows you to meet any obligations you may have to report discontinuances or interruptions in your drug manufacture under 21 U.S.C. 356C(b). This also allows FDA to consider, as soon as possible, what actions, if any, may be needed to avoid shortages and protect the health of patients who depend on your products.
+
+Correct any violations promptly. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to any violations.
+
+Failure to address any violations may also result in the FDA refusing admission of articles manufactured at Baxter Pharmaceuticals India Pvt. Ltd., 3004610460, at Village Vasana Chacharwadi, Taluka Sanand, Ahmedabad, Gujarat, India into the United States under section 801(a)(3) of the FD&C Act, 21 U.S.C. 381(a)(3). Articles under this authority that appear to be adulterated may be detained or refused admission, in that the methods and controls used in their manufacture do not appear to conform to CGMP within the meaning of section 501(a)(2)(B) of the FD&C Act, 21 U.S.C. 351(a)(2)(B).
+
+We request you email Temeka Moore, Temeka.Moore@fda.hhs.gov, within five days of receipt of this letter to schedule a regulatory meeting.
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days1. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov. Identify your response with FEI 3004610460 and ATTN: Jason F. Chancey.
+
+Sincerely,
+/S/
+
+Francis Godwin
+Director
+Office of Manufacturing Quality
+Office of Compliance
+Center for Drug Evaluation and Research
+
+Cc: Rishikesh Jaiwant, Senior Director Manufacturing and Operations- Ahmedabad
+(rishikesh_jaiwant@baxter.com)
+
+_________________
+
+1 Under program enhancements for the Generic Drug User Fee Amendments (GDUFA) reauthorization for fiscal years (FYs) 2023-2027, also known as the GDUFA III Commitment Letter, your facility may be eligible for a Post-Warning Letter Meeting to obtain preliminary feedback from FDA on the adequacy and completeness of your corrective action plans.

@@ -1,0 +1,206 @@
+Delivery Method: 
+        VIA Electronic Mail
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Emil Scott Lucia
+          
+
+                                
+  
+    Recipient Title
+              Co-Owner/President
+          
+
+          
+            Jamol Laboratories, Inc.
+
+          
+                      13 Ackerman Avenue
+Emerson, NJ 07630
+United States
+          
+          
+            
+            
+
+     (b)(6), (b)(7)(C)
+
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+           Division of Pharmaceutical Quality Operations I 
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter 654464
+
+July 13, 2023
+
+Dear Mr. Lucia:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Jamol Laboratories, Inc., FEI 2211383, at 13 Ackerman Avenue, Emerson, New Jersey, from December 5, 2022, to January 12, 2023.
+
+Your drug products are adulterated under section 501(a)(2)(A) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(A), in that they have been prepared, packed, or held under insanitary conditions.
+
+This warning letter also summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug product is adulterated within the meaning of section 501(a)(2)(B) of the FD&C Act, 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your February 1, 2023 response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence.
+
+Insanitary Conditions
+
+Your firm manufactures an over-the-counter (OTC) drug product, Ponaris® NASAL EMOLLIENT (Ponaris). Your Ponaris drug product is adulterated under section 501(a)(2)(A) of the FD&C Act because it was prepared, packed, or held under insanitary conditions.
+
+Your drug manufacturing occurs in a multipurpose uncontrolled space used for a variety of activities. FDA investigators observed this space to be in a state of disrepair, poorly cleaned and maintained, as evidenced by a dead insect, exposed ceiling, and inadequate ventilation. For example, you conduct a portion of your manufacturing in a corridor using a stained and debris covered fan surrounded by cardboard. You lack adequate controls in place to maintain a clean production environment and prevent contamination of drug products.
+
+CGMP Violations
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+1. Your firm lacks an adequate quality control unit with adequate facilities and procedures to ensure that drugs are manufactured in compliance with CGMP regulations and meet established specifications for identity, strength, quality, and purity (21 CFR 211.22).
+
+Your quality unit (QU) did not provide adequate oversight for the manufacture of your drug product. For example, you lacked procedures describing the roles and responsibilities of the QU, investigations of out-of-specification (OOS) and other discrepant results and deviations. Additionally, your QU failed to ensure that all batch records are complete.
+
+Your response is inadequate because you failed to perform a review of your standard operating procedures (SOPs) and other governing documents to identify and address deficiencies in a holistic manner.
+
+In response to this letter, provide:
+
+
+	A comprehensive assessment with corrective action and preventive action (CAPA) to ensure your QU is given the authority and resources to effectively function. The assessment should also include, but not be limited to:
+
+
+    o A determination of whether procedures used by your firm are robust and appropriate.
+    o Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices.
+    o A complete and final review of each batch and its related information before the QU disposition decision.
+    o Oversight and approval of investigations and discharging of all other QU duties to ensure identity, strength, quality, and purity of all products.
+    o A complete assessment of documentation systems used throughout your manufacturing operations to determine where documentation practices are inadequate. Include a detailed CAPA plan that remedies documentation practices and ensures that you retain complete and accurate records.
+
+
+	A retrospective evaluation of your drug product in the U.S. market and within expiry to identify and take appropriate action on any product quality or patient safety risks.
+	A comprehensive assessment of your overall system for investigating deviations, discrepancies, complaints, OOS results, and failures. Provide a detailed action plan to remediate this system. Your action plan should include, but not be limited to, significant improvements in investigation competencies, scope determination, root cause evaluation, CAPA effectiveness, QU oversight, and written procedures. Address how your firm will ensure all phases of investigations are appropriately conducted.
+
+
+See FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations for help in implementing quality systems and risk management approaches to meet the requirements of CGMP regulations 21 CFR parts 210 and 211, at https://www.fda.gov/media/71023/download.
+
+2. Your firm failed to establish laboratory controls that include scientifically sound and appropriate specifications, standards, sampling plans, and test procedures designed to assure that components conform to appropriate standards of identity, strength, quality, and purity, and conduct for each batch of drug product, appropriate laboratory testing, as necessary, required to be free of objectionable microorganisms (21 CFR 211.160(b) and 211.165(b)).
+
+You failed to establish an identification test with adequate specificity to appropriately test incoming lots of Eucalyptus Oil to meet the United States Pharmacopoeia (USP) monograph. Specifically, your test procedure fails to include an appropriate test using infrared spectroscopy for identification.
+
+Your firm also failed to conduct appropriate laboratory testing for each batch of drug product that is required to be free of objectionable microorganisms. Your practice of conducting microbiological testing on (b)(4) of Ponaris selected (b)(4) is inadequate. Additionally, as your drug product contains ingredients of botanical origin, an assessment for the absence of aflatoxins or other mycotoxins should be conducted.
+
+In your response you state that you will continue to test (b)(4) of Ponaris for “microcontaminants” and heavy metals (b)(4), in addition to the rancidity test you already perform. Your response is inadequate because you did not provide scientific justification for conducting microbiological testing only (b)(4), nor recognize the need for conducting analysis showing your products are free of aflatoxins and other mycotoxins.
+
+In your response to this letter:
+
+
+	Provide a timeline to complete retroactive identification tests using an appropriate identification method for all potentially compromised batches. Respond promptly with all results. If your data indicates that defective products are in the U.S. marketplace, commit to recall the products.
+	Determine if all methods used to test your raw and in-process materials and finished drug products use USP-NF, or if not, employ an equivalent or better method. Provide a CAPA to address any inadequate methods that are identified.
+	A list of chemical and microbial specifications, including test methods, used to analyze each lot of your drug products before a lot disposition decision.
+
+
+    o An action plan and timelines for conducting full chemical and microbiological testing of retain samples to determine the quality of all batches of drug product distributed to the United States that are within expiry as of the date of this letter.
+    o A summary of all results obtained from testing retain samples from each batch. If such testing reveals substandard quality drug products, take rapid corrective actions, such as notifying customers and product recalls.
+
+3. Your firm failed to establish written procedures for production and process control designed to assure that the drug products you manufacture have the identity, strength, quality, and purity they purport or are represented to possess (21 CFR 211.100(a)).
+
+You failed to adequately validate the processes used to manufacture Ponaris, and do not have an ongoing program for monitoring process control, to ensure stable manufacturing operations and consistent drug quality.
+
+For example, you have not identified the component attributes (e.g., solubility, viscosity, and density) and the process parameters (e.g., speed, temperature, and (b)(4)) that are important to produce this product with a consistent quality.
+
+Process validation evaluates the soundness of design and state of control of a process throughout its lifecycle. Each significant stage of a manufacturing process must be designed appropriately to ensure the quality of raw material inputs, in-process materials, and finished drugs. Process qualification studies determine whether an initial state of control has been established. Successful process qualification studies are necessary before commercial distribution. Thereafter, ongoing vigilant oversight of process performance and product quality are necessary to ensure that you maintain a stable manufacturing operation throughout the product lifecycle.
+
+See FDA’s guidance document Process Validation: General Principles and Practices for general principles and approaches that FDA considers appropriate elements of process validation, at https://www.fda.gov/media/71021/download.
+
+In your response you state that you will begin recording mixing times for each lot that is manufactured to ensure consistency and quality of the product. Your response is inadequate because recording mixing times or performing a single “Uniformity in Drum” test does not itself provide adequate evidence of process control at each step of the manufacturing process and show lot-to-lot consistency.
+
+In response to this letter, provide the following:
+
+
+	An assessment of each drug product process to ensure that there is a data-driven and scientifically sound program that identifies and controls all sources of variability, such that your production processes will consistently meet appropriate specifications and manufacturing standards. This includes, but is not limited to, evaluating suitability of equipment for its intended use, sufficiency of detectability in your monitoring and testing systems (including analytical methods used by you and contract testing labs), quality of input materials, and reliability of each manufacturing process step and control.
+	A detailed summary of your validation program for ensuring a state of control throughout the product lifecycle, along with associated procedures. Describe your program for process performance qualification (PPQ), and ongoing monitoring of both intra-batch and inter-batch variation to ensure a continuing state of control.
+	A timeline for performing PPQ for each of your marketed drug products.
+	Your process performance protocols, and written procedures for qualification of equipment and facilities.
+	A detailed program for designing, validating, maintaining, controlling, and monitoring each of your manufacturing processes that includes vigilant monitoring of intra-batch and inter-batch variation to ensure an ongoing state of control. Also, include your program for qualification of your equipment and facility.
+
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations exist at your facility You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+Correct any violations promptly. Failure to promptly and adequately address this matter may result in regulatory or legal action without further notice including, without limitation, seizure, and injunction. Unresolved violations may also prevent other Federal agencies from awarding contracts.
+
+Failure to address violations may also cause FDA to withhold issuance of Export Certificates. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to address any violations.
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to orapharm1_responses@fda.hhs.gov. Identify your response with FEI 2211383 and Warning Letter 654464.
+
+If you have any questions, contact Compliance Officer, Barbara Wilimczyk-Macri, at barbara.wilimczyk@fda.hhs.gov.
+
+Sincerely,
+/S/
+
+Lisa Harlan
+Program Division Director
+Office of Pharmaceutical Quality Operations Division I

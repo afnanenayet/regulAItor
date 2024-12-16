@@ -1,0 +1,268 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+              Reference #: 
+        320-24-61
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Ms. Andrea Becerra
+          
+
+                                
+  
+    Recipient Title
+              CEO
+          
+
+          
+            Aromas Para El Alma S.A.
+
+          
+                      Calle Lindora, Commercial Park Warehouse 23
+Santa Ana, San Jose
+10903
+Costa Rica
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research (CDER)
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter 320-24-61
+
+September 10, 2024
+
+Dear Ms. Becerra:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Aromas Para El Alma S.A., FEI 3018061317, at Oficentro Ultima Park 2, Bodega No. 74, Calle Mango, Guachipelín, San Rafael, Escazu, San Jose 10203, Costa Rica, from October 16 to 19, 2023.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+In addition, EREWHON ANTIBACTERIAL SPRAY is an unapproved new drug introduced or delivered for introduction into interstate commerce in violation of section 505(a) of the FD&C Act, 21 U.S.C. 355(a). Introduction or delivery for introduction of such a product into interstate commerce is prohibited under section 301(d) of the FD&C Act, 21 U.S.C. 331(d). The product is also misbranded under section 502(ee) of the FD&C Act, 21 U.S.C. 352(ee). In addition, your EREWHON HAND SANITIZER and EREWHON ANTIBACTERIAL SPRAY are misbranded under section 502(a) of the FD&C Act, 21 U.S.C. 352(a). Introduction or delivery for introduction of such products into interstate commerce is prohibited under section 301(a) of the FD&C Act, 21 U.S.C. 331(a). These violations are described in more detail below.
+
+We reviewed your November 8, 2023 response to our Form FDA 483 in detail.
+
+CGMP Violations
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to establish adequate written production and control procedures for the charge-in of components designed to assure that the drug products produced have the identity, strength, quality, and purity they purport or are represented to possess (21 CFR 211.101).
+
+You failed to formulate your drug products with the intent to provide no less than 100% of the declared active ingredient. For example, your EREWHON drug products, EREWHON ANTIBACTERIAL SPRAY and EREWHON HAND SANITIZER, manufactured by your firm, are labeled to contain 60% and 70% of the active ingredient ethyl alcohol (ethanol), respectively. You originally formulated your drug products using (b)(4)% ethanol (active ingredient). Your firm failed to revise your manufacturing formulation after replacing the (b)(4)% ethanol with a lower strength ethanol. Your firm made this formulation change without assessing the impact of the change on the quality of your finished drug products, including failing to conduct validation studies. As a result, multiple batches were formulated to contain ethanol concentrations lower than what was declared on the labeling, with some concentration values calculated as low as approximately (b)(4)%. These batches were ultimately released for distribution.
+
+CDC recommends1 that, if soap and water are not readily available, consumers use an alcohol-based hand sanitizer that contains not less than 60% alcohol (ethanol). This is the minimum active ingredient concentration of ethanol specified in the 1994 Tentative Final Monograph (1994 TFM) for Health-Care Antiseptic Drug Products (59 FR 31402), as further amended by the “Safety and Effectiveness of Health Care Antiseptics; Topical Antimicrobial Drug Products for Over-the-Counter Human Use; Proposed Amendment of the Tentative Final Monograph; Reopening of Administrative Record,” Proposed Rule, 80 FR 25166 (May 1, 2015) (2015 Health Care Personnel Hand Rub Proposed Rule).
+
+On October 18, 2023, FDA inquired whether you had conducted a voluntary recall for any batches of drug products currently in distribution from the U.S. market that were potentially subpotent due to inadequate formulation. On October 19, 2023, you provided a written statement of your intent to voluntarily recall affected drug product batches. FDA has made multiple attempts to follow-up with you and your registered U.S. Agent. As of the date of this letter, you have not initiated a voluntary recall, nor contacted the Agency after multiple requests to do so.
+
+On March 13, 2024, FDA notified the public that your drug products are subpotent at the following website: https://www.fda.gov/drugs/drug-safety-and-availability/fda-updates-hand-sanitizers-consumers-should-not-use.
+
+Your response includes actions that will be taken to evaluate your drug product formulations. Your response is inadequate because you did not provide supportive documentation, did not consider a retrospective evaluation of potential impact to your products currently on the market, and your interim production plans are unclear.
+
+In response to this letter, provide:
+• A list of all batches of any drug product distributed in the United States by your firm, including lot numbers and expiry dates, and a full reconciliation of all material you distributed, including a list of customers and location for where the product was distributed.
+• An action plan and timelines for conducting full chemical and microbiological testing of retain samples to determine the quality of all batches of drug product distributed in the United States within expiry. If such testing reveals substandard quality drug products, take rapid corrective actions, such as notifying customers and product recalls.
+• An action plan for updating the formulation for your drug products including process validation.
+
+2. Your firm also failed to prepare batch production and control records with complete information relating to the production and control of each batch of drug product produced (21 CFR 211.188).
+
+Your batch production records for your drug products do not include adequate production instructions, including but not limited to, identification of critical steps in your manufacturing processes such as critical parameters (e.g., (b)(4) and (b)(4) times) or the weight or volume of each formulation component.
+
+Your response includes actions that will be taken to improve your batch production records. Your response is inadequate because you did not provide supportive documentation, did not consider a retrospective evaluation of potential impact to your products currently on the market, and your interim production plans are unclear.
+
+Complete and accurate batch production and control records are necessary to ensure that manufacturing processes are consistently followed and reproducible. Incomplete manufacturing records deprive you of the ability to ensure the batches are formulated to provide not less than 100% of the labeled or established amount of active ingredient.
+
+In response to this letter, provide:
+• Your master production and control records for your drug products, to demonstrate that they fully document each significant and validated manufacturing step.
+• Procedures you have implemented to ensure production records are completed as
+required and reviewed by your quality unit (QU) before release of products for distribution.
+
+3. Your firm failed to test samples of each component for identity and conformity with all appropriate written specifications for purity, strength, and quality (21 CFR 211.84(d)(1) and 211.84(d)(2)).
+
+You failed to conduct an adequate identity test on each shipment of each lot of components (including the ethanol active ingredient), used in the production of your drug products. You also failed to determine whether each component conformed with all appropriate written specifications for purity, strength, and quality before use.
+
+In addition, your firm uses (b)(4) as a component in your drug products. Your firm has not shown that the (b)(4) that you use for component (b)(4) is suitable for (b)(4) dosage form drug product manufacturing and, at a minimum, meets the USP (b)(4) monograph and appropriate microbial limits.
+
+Your response includes actions that will be taken to improve your component controls. Your response is inadequate because you did not provide supportive documentation, did not consider a retrospective evaluation of potential impact to your products currently on the market, and your interim production plans are unclear.
+
+Without adequate testing, you do not have scientific evidence that the components conform to appropriate specifications prior to use in the manufacture of your drug products. As a manufacturer, you have a responsibility to sample, test, and examine drug components before use in production to assure adequate quality.
+
+In response to this letter, provide:
+
+• A comprehensive, independent review of your material system to determine whether all suppliers of components, containers, and closures, are each qualified and the materials are assigned appropriate expiration or retest dates. The review should also determine whether incoming material controls are adequate to prevent use of unsuitable components, containers, and closures.
+• The chemical and microbiological quality control specifications you use to test and release each incoming batch of components for use in manufacturing.
+• A description of how you will test each component lot for conformity with all appropriate specifications for identity, strength, quality, and purity. If you intend to accept any results from your suppliers’ certificates of analysis (COA) instead of testing each component lot for strength, quality, and purity, specify how you will robustly establish the reliability of your supplier’s results through initial validation as well as periodic re-validation. In addition, include a commitment to always conduct at least one specific identity test for each incoming component lot.
+• A summary of results obtained from testing all components to evaluate the reliability of the COA from each component manufacturer. Include your standard operating procedure that describes this COA validation program.
+• A summary of your program for qualifying and overseeing contract facilities that test the drug products you manufacture.
+• A description of how you will consistently produce or acquire (b)(4) adhering to (b)(4), USP monograph specifications and appropriate microbial limits.
+
+4. Your firm’s quality control unit failed to exercise its responsibility to ensure drug products manufactured are in compliance with CGMP, and meet established specifications for identity, strength, quality, and purity (21 CFR 211.22).
+
+Your QU did not provide adequate oversight for the manufacture of your drug products. For example, your QU failed to ensure the following:
+
+• Adequate chemical and microbial testing and appropriate specifications for your finished drug products (21 CFR 211.165(a) and 21 CFR 211.165(b)).
+• Establishment of an adequate stability program (21 CFR 211.137(a)).
+• Establishment of adequate procedures describing the QU’s responsibilities 21 CFR 211.22(d)).
+
+In your response, you state that you will revise your QU procedures. However, your response is inadequate because you did not provide any further detail or supportive documentation.
+
+Your firm’s quality systems are inadequate. See FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations for help in implementing quality systems and risk management approaches to meet the requirements of CGMP regulations 21 CFR parts 210 and 211, at https://www.fda.gov/media/71023/download.
+
+In response to this letter, provide a comprehensive assessment and remediation plan to ensure that your QU is given the authority and resources to effectively function. The assessment should also include, but not be limited to:
+
+• A determination of whether procedures used by your firm are robust and appropriate.
+• Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices.
+• A complete and final review of each batch and its related information before the QU disposition decision.
+• Oversight and approval of investigations and discharging of all other QU duties to ensure identity, strength, quality, and purity of all drug products.
+
+Unapproved New Drug and Misbranding Violations
+
+Based on its labeled intended uses, EREWHON HAND SANITIZER and EREWHON ANTIBACTERIAL SPRAY products are “drugs” as defined by section 201(g)(1)(B) of the FD&C Act, 21 U.S.C. 321(g)(1)(B), because they are intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease, and/or under section 201(g)(1)(C) of the FD&C Act, 21 U.S.C. 321(g)(1)(C), because they are intended to affect the structure or any function of the body. Specifically, EREWHON HAND SANITIZER and EREWHON ANTIBACTERIAL SPRAY products are intended for use as topical consumer antiseptic rubs.
+
+Examples of claims from the products’ label that provide evidence of the intended use (as defined by 21 CFR 201.128) of these products include, but may not be limited to, the following:
+
+EREWHON HAND SANITIZER
+    “Hand Sanitizer” ; “Antiseptic” ; “For hand cleansing to decrease bacteria on the skin.” [from product label]
+
+EREWHON ANTIBACTERIAL SPRAY
+    “Antibacterial Spray” ; “Antiseptic” ; “For hand cleansing to decrease bacteria on the skin.” [from product label]
+
+Unapproved New Drug Violations
+
+This topical antiseptic, EREWHON ANTIBACTERIAL SPRAY, is a new drug within the meaning of section 201(p) of the FD&C Act, 21 U.S.C. 321(p), because it is not generally recognized as safe and effective (GRASE) for use under the conditions prescribed, recommended, or suggested in its labeling. New drugs may not be introduced or delivered for introduction into interstate commerce without prior approval from FDA, as described in section 505(a) of the FD&C Act, 21 U.S.C. 355(a), unless they are lawfully marketed under section 505G of the FD&C Act (which is not the case for this product, as further described below) or other exceptions not applicate here. No FDA-approved application pursuant to section 505 of the FD&C Act, 21 U.S.C. 355, is in effect for this drug product, nor are we aware of any adequate and well-controlled clinical studies in the published literature that support a determination that your EREWHON ANTIBACTERIAL SPRAY drug product is GRASE for use under the conditions suggested, recommended, or prescribed in its labeling. Accordingly, this product is an unapproved new drug marketed in violation of sections 505(a) and 301(d) of the FD&C Act, 21 U.S.C 355(a) and 331(d).
+
+Over-the-counter (OTC) topical antiseptic products had been the subject of rulemakings under the Agency’s OTC Drug Review. In particular, such products were addressed in a tentative final monograph (TFM) entitled “Topical Antimicrobial Drug Products for Over-the-Counter Human Use; Tentative Final Monograph for Health-Care Antiseptic Drug Products,” Proposed Rule, 59 FR 31402 (June 17, 1994) (1994 TFM), as further amended by “Safety and Effectiveness of Consumer Antiseptics; Topical Antimicrobial Drug Products for Over-the-Counter Human Use; Proposed Amendment of the Tentative Final Monograph; Reopening of Administrative Record,” Proposed Rule, 81 FR 42912 (June 30, 2016)(Consumer Antiseptic Rubs Proposed Rule). Over the course of these rulemakings, three active ingredients (benzalkonium chloride, ethyl alcohol (ethanol), and isopropyl alcohol) were classified as Category III for use in consumer antiseptic rub products, meaning that additional safety and effectiveness data are needed to support a determination that a drug product containing one of these active ingredients would be GRASE for use as a consumer antiseptic rub.
+
+Section 505G(a)(3) of the FD&C Act governs nonprescription drugs marketed without an approved application. Under section 505G(a)(3) of the FD&C Act, drugs that were classified as Category III for safety or effectiveness in a TFM that is the most recently applicable proposal or determination for a drug issued under 21 CFR Part 330 – and that were not classified as Category II for safety or effectiveness – are not required to have an approved application under section 505 in order to be marketed, as long as they meet the relevant conditions outlined in the applicable TFM, including the active ingredient, and comply with all other applicable requirements.
+
+However, your EREWHON ANTIBACTERIAL SPRAY does not conform to the 1994 TFM, as amended by the 2016 Consumer Antiseptic Rubs Proposed Rule, nor any other TFM, proposed rule, or final rule, and does not meet the conditions under section 505G(a)(3) of the FD&C Act for marketing without an approved application under section 505.
+
+For example, your EREWHON ANTIBACTERIAL SPRAY states the use is “For hand cleansing to decrease bacteria on the skin.” However, it includes in the directions the statement, “Spray hands or body with product as many times as needed.” The monograph conditions of use for OTC antiseptic rub products as set forth in the rulemakings described above limit the use of the product to the hands and do not include application to the whole body, therefore, your product does not conform to the TFM or the applicable requirements and goes beyond describing the intended use of topical antiseptics as set forth in the 1994 TFM and amended by the 2016 Consumer Antiseptic Rubs Proposed Rule.2
+
+This intended use claim is inconsistent with the applicable TFMs or any other TFM or proposed rule, and accordingly does not meet the conditions under sections 505G(a)(1) or 505G(a)(3) of the FD&C Act for marketing without an approved application under section 505.
+
+Misbranding Drug Violations
+
+In addition, both your EREWHON HAND SANITIZER and EREWHON ANTIBACTERIAL SPRAY are misbranded under section 502(a) of the FD&C Act, 21 U.S.C. 352(a), because the labeling for these products is false and misleading. Under 21 CFR 201.10(c)(4), “[t]he labeling of a drug may be misleading by reason … [of] [t]he featuring in the labeling of inert or inactive ingredients in a manner that creates an impression of value greater than their true functional role in the formulation.” The labeling for EREWHON HAND SANITIZER prominently features eucalyptus oil on the principal display panel, and the labeling for EREWHON ANTIBACTERIAL SPRAY prominently features lemon oil, rosemary oil, eucalyptus oil, clove bud oil, and cinnamon oil on the principal display panel. Featuring these inactive ingredients prominently on the principal display panel creates an impression of value greater than their true functional role in the formulation and thus causes the products to be misbranded under 502(a) of the FD&C Act, 21 U.SC 352(a).
+
+Lastly, your EREWHON ANTIBACTERIAL SPRAY is misbranded under section 502(ee) of the FD&C Act, 21 U.S.C. 352(ee), because it is a nonprescription drug subject to section 505G of the FD&C Act, 21 U.S.C. 355h, but does not comply with the requirements for marketing under that section, and is not the subject of an application approved under section 505 of the FD&C Act, 21 U.S.C. 355.
+
+Introduction or delivery for introduction of misbranded drug products into interstate commerce violates section 301(a) of the FD&C Act, 21 U.S.C. 331(a).
+
+Additionally, we note that under 21 CFR 201.61(a), “[t]he principal display panel of an over-the-counter drug in package form shall bear as one of its principal features a statement of identity of the commodity.” The 1994 TFM states that the statement of identity for health-care antiseptic drug products, a category that includes consumer antiseptic rub drug products, contains “the established name of the drug, if any” (59 FR 31442). Currently, there is no established name for consumer antiseptic rub drug products that have the active ingredient ethyl alcohol and are formulated as a gel or spray. However, we recommend that you include the name “alcohol gel” and “alcohol spray” as part of the statement of identity that appears on the principal display panels of the labels for EREWHON HAND SANITIZER and EREWHON ANTIBACTERIAL SPRAY respectively. Additionally, the statement of identity in the principal display panel should include the pharmacological category of the product, which in this case is represented by “Hand Sanitizer.”
+
+The above general comments are not all-inclusive of the labeling issues that may be presented by your products. Should you have further questions concerning the labeling of drug products, we recommend that you retain a consultant with expertise in applicable requirements for non-prescription drug products.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, you should engage a consultant qualified as set forth in 21 CFR 211.34 to evaluate your operations and to assist your firm in meeting CGMP requirements. The qualified consultant should also perform a six-system audit of your entire operation for CGMP compliance and evaluate the completion and efficacy of your corrective actions and preventive actions before you pursue resolution of your firm’s compliance status with FDA.
+
+Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Products Contain Ethanol (Methanol Risk)
+
+You manufacture drugs that contain ethanol. The use of ethanol contaminated with methanol has resulted in various lethal poisoning incidents in humans worldwide. See FDA’s guidance document Policy for Testing of Alcohol (Ethanol) and Isopropyl Alcohol for Methanol at: https://www.fda.gov/media/173005/download.
+
+Products Contain (b)(4)
+
+You manufacture drugs that contain (b)(4). The use of (b)(4) contaminated with (b)(4) or (b)(4) has resulted in various lethal poisoning incidents in humans worldwide. (b)(4) to help you meet the CGMP requirements when manufacturing drugs containing ingredients at risk for (b)(4) or (b)(4) contamination (b)(4).
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+FDA placed your firm on Import Alert 66-40 on February 29, 2024.
+
+Correct any violations promptly. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to any violations.
+
+Failure to address any violations may also result in the FDA continuing to refuse admission of articles manufactured at Aromas Para El Alma S.A., at Oficentro Ultima Park 2, Bodega No. 74, Calle Mango, Guachipelín, San Rafael, Escazu San Jose 10203 into the United States under section 801(a)(3) of the FD&C Act, 21 U.S.C. 381(a)(3). Articles under this authority that appear to be adulterated may be detained or refused admission, in that the methods and controls used in their manufacture do not appear to conform to CGMP within the meaning of section 501(a)(2)(B) of the FD&C Act, 21 U.S.C. 351(a)(2)(B).
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov. Identify your response with FEI 3018061317 and ATTN: Rory Geyer.
+
+Sincerely,
+/S/
+Francis Godwin
+Director
+Office of Manufacturing Quality
+Office of Compliance
+Center for Drug Evaluation and Research
+
+Cc:
+
+U.S. Agent
+Ms. Melissa Sayers, M.S.
+Team Lead, Medical Device & Drugs Department
+Registrar Corp.
+144 Research Drive
+Hampton, VA 23666
+
+________________________
+
+1 https://www.cdc.gov/handwashing/hand-sanitizer-use.html
+
+2 The 1994 TFM covers health care antiseptics that are indicated for use to help reduce bacteria that potentially can cause disease and health care and consumer antiseptics that are indicated for use to decrease bacteria on the skin. 59 FR at 31443.

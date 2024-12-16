@@ -1,0 +1,310 @@
+Delivery Method: 
+        VIA Electronic Mail
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Christopher Heye
+          
+
+                                
+  
+    Recipient Title
+              Chief Executive Officer
+          
+
+          
+            Tender Corporation 
+
+          
+                      944 Industrial Park Road
+Littleton, NH 03561-3956
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Division of Pharmaceutical Quality Operations I
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+WARNING LETTER
+CMS # 599789
+
+
+July 23, 2020
+
+Dear Mr. Heye:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Tender Corporation, FEI 1250045, located at 944 Industrial Park Rd., Littleton, New Hampshire from November 12 to 25, 2019.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+Your firm manufactures and distributes the products “After Bite ADVANCED FORMULA,” “KIDS After Bite Cream,” “XTRA After Bite Gel,” “After Bite PLUS HISTAMINE BLOCKING gel,” “THE Itch Eraser CREAM,” “THE Itch Eraser GEL” and “THE Itch Eraser SPRAY.” Your “XTRA After Bite Gel,” “After Bite PLUS HISTAMINE BLOCKING gel,” “THE Itch Eraser GEL,” and “THE Itch Eraser SPRAY,” THE Itch Eraser CREAM,” and “KIDS After Bite Cream” are unapproved new drugs in violation of section 505(a) of the FD&C Act, 21 U.S.C. 355(a). Your “KIDS After Bite Cream” and “THE Itch Eraser CREAM” are also misbranded under section 502(c) of the FD&C Act, 21 U.S.C. 352(c) as is your “After Bite ADVANCED FORMULA.”
+
+Introduction or delivery for introduction of such products into interstate commerce is prohibited under sections 301(d) and (a) of the FD&C Act, 21 U.S.C. 331(d) and (a).
+
+We reviewed your December 17, 2019 response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence.
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to ensure that laboratory records included complete data derived from all tests necessary to ensure compliance with established specifications and standards (21 CFR 211.194(a)).
+
+You manufacture topical analgesic drug products, including “After Bite,” for the treatment of insect bite-related itching and burning in adults and children. Analytical records at your firm did not accurately represent the testing performed. For example, you injected samples on your high performance liquid chromatography (HPLC) system and did not include them in the laboratory records that were used by your Quality Unit (QU) for batch disposition decisions, including finished product release. Your laboratory management could not provide an adequate explanation for these unofficial injections to our investigator.
+
+In addition, you failed to have the proper controls in place to prevent the unauthorized manipulation of laboratory raw electronic data. For example, your Infrared Spectrophotometer (IR) system did not have adequate access controls and was vulnerable to alteration or deletion of data by analysts. Laboratory employees shared a common log-in and password to access the system.
+
+In your response, you state that multiple additional unofficial injections before official testing were identified as a part of your ongoing retrospective review. You determined that there was no impact to product quality and, also, revised your procedures, trained staff, and hired various consultants. However, your response is inadequate because your retrospective review was limited to your HPLC software upgrade in 2019 and did not include all drugs within expiry. This was also complicated by your firm’s failure to ensure test metadata could be retrieved from your previous HPLC software for review or investigations. Additionally, your response does not address how the QU will ensure that the records used for batch release and other quality review decisions are complete and accurate.
+
+Unofficial sample injections are not acceptable. All data must be complete, accurate, and retained to enable appropriate assessments and decisions by the QU regarding batch disposition and to demonstrate ongoing control. The lack of control over the integrity of your data raises questions about the authenticity and reliability of your analytical data and the quality of your drug products.
+
+In response to this letter, provide the following:
+
+
+	A comprehensive, independent assessment and corrective action and preventive action (CAPA) plan for computer system security and integrity. Include a report that identifies vulnerabilities in the design and controls. Also include appropriate remediations for each of your laboratory computer systems. This should include, but not be limited to:
+
+
+    o A list of all hardware including stand-alone and network equipment in your laboratory.
+    o Identification of vulnerabilities in hardware, software, and non-networked systems (e.g., programmable logic controller).
+    o A list of all software configurations (both equipment software and laboratory information system (LIMS)), details of all user privileges up to and including administrator rights, and oversight roles for each of your laboratory systems. Regarding user privileges, specify user roles and associated user privileges for all staff levels who have access to the laboratory computer systems and their organizational affiliation and title. Describe in detail how you will ensure that administrative privileges are fully segregated and completely independent of laboratory personnel.
+    o System security provisions including, but not limited to, whether unique user names and passwords are always used, and their confidentiality safeguarded.
+    o Detailed procedures for your review of audit trail data.
+    o Interim control measures and procedural changes for the control, review, and full retention of laboratory data.
+    o Technological improvements to increase the integration of data generated through electronic systems from stand-alone equipment (e.g., balances, pH meters, water content testing) into the LIMS network.
+    o A detailed summary of your procedural updates and associated training for user role assignment and controls.
+    o Your remediated program for ensuring strict ongoing control over data to ensure that all additions, deletions, or modifications of information in your electronic records are authorized, and all data is retained.
+    o Provisions for oversight from Quality Assurance (QA) managers, executives, and internal auditors with appropriate information technology (IT) expertise (e.g., understanding of infrastructure, configuration, network requirements, strict segregation of administrative rights).
+    o An enhanced standard operating procedure (SOP) that ensures that all quality control tests, regardless of whether captured in paper-based or electronic systems, are performed appropriately by an analyst and receive second-tier review from a separate responsible (e.g., manager) individual.
+
+2. Your firm failed to establish laboratory controls that include scientifically sound and appropriate specifications, standards, sampling plans, and test procedures designed to assure that components, drug product containers, closures, in-process materials, labeling, and drug products conform to appropriate standards of identity, strength, quality, and purity (21 CFR 211.160(b)).
+
+You did not ensure your test methods were appropriate for their intended use. You lacked scientifically sound procedures for the testing of the active ingredients in your “After Bite” topical analgesic drug products and failed to adequately demonstrate the suitability of the testing method under actual conditions of use. These test methods were used to determine strength and identity of the active ingredient, sodium bicarbonate. Your firm’s method resulted in abnormal peaks, missing integration, and required the use of blank injections between samples to prevent carryover.
+
+Furthermore, your firm attributed several system suitability failures (e.g., abnormal peaks and missed integrations) over a six-month period for the sodium bicarbonate assay testing to contamination, equipment malfunction, or incorrect HPLC process parameters. However, your firm failed to complete a comprehensive investigation into the source or sources of the deviations and include timely CAPA.
+
+Your response is inadequate because you did not demonstrate that your analytical methods can consistently produce accurate and reliable results. Further, your response does not include details about improvements made to your investigation process.
+
+Laboratories must establish and validate (or verify, where appropriate) analytical methods and procedures to ensure the robustness and consistency of testing. Likewise, laboratory discrepancies must be thoroughly investigated to make reliable root cause determinations and ensure effective CAPA.
+
+In response to this letter, provide the following:
+
+
+	A comprehensive, independent assessment of your laboratory practices, procedures, methods, equipment, documentation, and analyst competencies. The assessment must also be retrospective to ensure products currently on the market were adequately tested for their quality attributes. Based on this review, provide a detailed plan to remediate and evaluate the effectiveness of your laboratory system.
+	Your plan of action to complete validation (or verification, for compendial methods) for all laboratory methods used in association with raw material and drug product testing. In addition, include improved SOPs that require appropriate validation or verification to ensure adequate change management when methods are modified.
+	A comprehensive review and remediation plan for your out-of-specification (OOS) result investigation systems. The CAPA should include, but not be limited to, addressing the following:
+
+
+    o QU oversight of laboratory investigations
+    o Identification of adverse laboratory control trends
+    o Resolution of causes of laboratory variation
+    o Initiation of thorough investigations of potential manufacturing causes whenever a laboratory cause cannot be conclusively identified
+    o Adequate scoping of each investigation and its CAPA
+    o Revised OOS investigation procedures with these and other remediations
+
+
+	The methods used in the stability program to ensure products currently on the market meet their expiry. Provide an assessment of all marketed drug products within expiry and an action plan to remove the drug products from the market if they do not meet specification.
+
+
+3. Your firm failed to establish and follow adequate written procedures describing the handling of all written and oral complaints regarding a drug product, including provisions for review by the quality control unit of any complaint involving the possible failure of a drug product to meet any of its specifications and, for such drug products, a determination as to the need for an investigation in accordance with 21 CFR 211.192 (21 CFR 211.198(a)).
+
+You lacked adequate investigations into drug product complaints. You received multiple complaints that involved children with blisters, rashes, and pain after using your “After Bite” topical drug products. Your established complaint handling procedure requires thorough analysis, investigation, and implementation of CAPAs to address and respond to complaints. However, you closed multiple complaint investigations without determining a root cause or implementing effective CAPAs. For example, your firm closed Complaint CC16-187 based on the assertion that the complaint profile was low and batch testing met specification. Based on the investigation, your firm concluded the product was safe and effective.
+
+Your response is inadequate. You reiterated your earlier conclusion that the formulation was not a safety risk and did not address the need to expand investigations to evaluate whether other batches of the same or other drug products were affected.
+
+Effective investigations are essential to identify root cause and determine the scope of issues associated with complaints that may involve product quality. Whenever appropriate, these investigations should expand to other potentially affected batches of drug product(s).
+
+In response to this letter, provide the following:
+
+
+	A comprehensive, independent assessment of your overall system for investigating deviations, discrepancies, complaints, OOS results, and failures. Provide a detailed action plan to remediate this system. Your action plan should include, but not be limited to, significant improvements in investigation competencies, scope determination, root cause evaluation, CAPA effectiveness, QU oversight, and written procedures. Address how your firm will ensure all phases of investigations are appropriately conducted.
+	A retrospective review into the investigations of “After Bite” complaints to ensure that all potential factors have been considered in determining a root cause before closing the investigation with an inconclusive root cause.
+
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements. Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Data Integrity Remediation
+
+Your quality system does not adequately ensure the accuracy and integrity of data to support the safety, effectiveness, and quality of the drugs you manufacture. See FDA’s guidance document Data Integrity and Compliance with Drug CGMP for guidance on establishing and following CGMP compliant data integrity practices at https://www.fda.gov/media/97005/download.
+
+Repeat Observations at Facility
+
+In previous inspections, dated April to May 2016, and May to June 2018, FDA cited similar CGMP observations. You proposed specific remediation for these observations in your response. Repeated failures demonstrate that executive management oversight and control over the manufacture of drugs is inadequate.
+
+Unapproved New Drug and Misbranding Violations
+
+“KIDS After Bite Cream” and “THE Itch Eraser CREAM”
+
+“KIDS After Bite Cream” and “THE Itch Eraser CREAM” are drugs as defined by section 201(g)(1)(B) of the FD&C Act, 21 U.S.C. 321(g)(1)(B), because they are intended for the diagnosis, cure, mitigation, treatment, or prevention of disease and/or under section 201(g)(1)(C) of the FD&C Act, 21 U.S.C. 321(g)(1)(C), because they are intended to affect the structure or any function of the body. Specifically, these products are intended as skin protectants.
+
+Examples of claims observed on the product labels and labeling, which include the product websites (www.afterbite.com and www.theitcheraser.com) imprinted on the product labels, that establish their intended uses (as defined in 21 CFR 201.128) include, but may not be limited to, the following:
+
+“KIDS After Bite Cream”
+
+Statements that appear on the product labeling:
+“PHARMACIST preferred for INSTANT ITCH RELIEF! . . . BE READY for . . . Mosquitoes . . . Biting Flies . . . Bees & Wasps . . . Other Insects” . . . “After Bite Kid’s gentle, non-stinging cream provides immediate, soothing relief from the pain, itching, and swelling of insect bites and stings. This sensitive formula contains baking soda, aloe, and tea tree oil to help soothe and moisturize the skin.”
+
+Statements that appear on the website labeling:
+“This soothing anti-itch cream provides immediate itch relief from insect bites and stings, including mosquito bites, bee stings, black fly bites, and more. Baking soda acts fast to stop the itching and stinging, while ingredients like eucalyptus oil, aloe vera, tea tree oil, and vitamin E moisturize your skin and promote healing.”
+
+“THE Itch Eraser CREAM”
+
+Statements that appear on the product label:
+“REDUCES REDNESS & INFLAMMATION . . . STOPS THE ITCH & HEALS THE SKIN FROM: . . . Poison Ivy, Oak & Sumac . . . Rashes & Redness”
+
+Statements that appear on the website labeling:
+“The Itch Eraser® Sensitive is a gentle, non-stinging sensitive anti-itch and skin care cream that provides immediate soothing relief from pain, itching and swelling of outdoor itches including, insect bites and stings, and poison ivy, oak and sumac. The Itch Eraser® Sensitive contains baking soda, aloe, vitamin E and tea tree oil to help soothe and moisturize the skin.”
+
+OTC drug products intended for use as skin protectants are subject to the Skin Protectant Drug Products for Over-the-Counter Human Use final rule (skin protectant final rule), see 21 CFR Part 347.
+
+The Coronavirus Aid, Relief, and Economic Security Act (CARES Act), enacted on March 27, 2020, added section 505G to the FD&C Act. Under section 505G(a) of the FD&C Act, an over-the-counter (OTC) drug marketed in conformance with a final monograph and other applicable requirements is determined to be generally recognized as safe and effective (GRASE) and not a new drug under section 201(p) of the FD&C Act. However, “KIDS After Bite Cream” and “THE Itch Eraser CREAM” are not labeled in accordance with the skin protectant final rule for reasons explained below.
+
+According to 21 CFR 201.66(b)(2), an active ingredient means any component that is intended to furnish pharmacological activity or other direct effect in the diagnosis, cure, mitigation, treatment, or prevention of disease, or to affect the structure or any function of the body of humans. The product labeling for “KIDS After Bite Cream” identifies baking soda, eucalyptus oil, aloe vera, tea tree oil and vitamin E as active ingredients with the following claim, “Baking soda acts fast to stop the itching and stinging, while ingredients like eucalyptus oil, aloe vera, tea tree oil, and vitamin E moisturize your skin and promote healing.” Although your firm does not specifically list eucalyptus oil, aloe vera, tea tree oil and vitamin E as active ingredients in your product “KIDS After Bite Cream,” the claims on your website pertaining to these specific ingredients demonstrate that they are active ingredients as defined in 201.66(b)(2) because the ingredients are intended to furnish pharmacological activity. Eucalyptus oil, aloe vera, tea tree oil and vitamin E are not included as active ingredients in the skin protectant final rule. In addition, intended uses such as “promote healing,” which appears in the labeling for “KIDS After Bite Cream,” and “HEALS THE SKIN,” which appears in the labeling for “THE Itch Eraser CREAM,” are not permitted indications included in the skin protectant final rule.
+
+Thus, as formulated and labeled, “KIDS After Bite Cream” and “THE Itch Eraser CREAM” do not comply with the final rule described above. Furthermore, we are not aware of sufficient evidence to show “KIDS After Bite Cream” and “THE Itch Eraser CREAM,” as formulated and labeled, are generally recognized as safe and effective. Therefore, these products are new drugs within the meaning of section 201(p) of the FD&C Act, 21 U.S.C. 321(p). As new drugs, “KIDS After Bite Cream” and “THE Itch Eraser CREAM” may not be legally marketed in the United States absent approval of an application filed in accordance with section 505(a) of the FD&C Act, 21 U.S.C. 355(a). “KIDS After Bite Cream” and “THE Itch Eraser CREAM” are not the subjects of FDA approved applications, and therefore, the current marketing of these products violates section 505(a) of the FD&C Act, 21 U.S.C. 355(a). Introduction or delivery for introduction of such products into interstate commerce is prohibited under section 301(d) of the FD&C Act, 21 U.S.C. 331(d).
+
+“KIDS After Bite Cream” and “THE Itch Eraser Cream” are also misbranded within the meaning of section 502(c) of the FD&C Act, 21 U.S.C. 352(c), because their labels fail to bear a complete statement of identity as required under 21 CFR 201.61 and 21 CFR 347.50(a)(1) and (4). Specifically, the labels fail to include “Skin Protectant” and “Poison ivy, oak, sumac protectant” on the product’s principal display panel as part of the statement of identity. The principal display panel of an OTC skin protectant drug product must contain the established name of the drug, if any, and identifies the product as a “Skin Protectant”. The principal display panel may also include dosage form (e.g., cream, gel, lotion, or ointment). Additionally, because these products contain sodium bicarbonate as an active ingredient, the principal display panel must also identify the product as a “Poison Ivy, oak, sumac protectant.” The labels for these products fail to include the general pharmacological categories or principal intended actions of the products.
+
+The introduction or delivery for introduction of misbranded drugs into interstate commerce is prohibited under section 301(a) of the FD&C Act, 21 U.S.C. 331(a). Therefore, the marketing of “KIDS After Bite Cream” and “THE Itch Eraser Cream” violate this provision of the FD&C Act.
+
+“XTRA After Bite Gel,” “After Bite PLUS HISTAMINE BLOCKING gel,” “THE Itch Eraser GEL,” and “THE Itch Eraser SPRAY”
+
+“XTRA After Bite Gel,” “After Bite PLUS HISTAMINE BLOCKING gel,” “THE Itch Eraser GEL,” and “THE Itch Eraser SPRAY” are drugs as defined by section 201(g)(1)(B) of the FD&C Act, 21 U.S.C. 321(g)(1)(B), because they are intended for the diagnosis, cure, mitigation, treatment, or prevention of disease and/or under section 201(g)(1)(C) of the FD&C Act, 21 U.S.C. 321(g)(1)(C), because they are intended to affect the structure or any function of the body. Specifically, these products are intended as external analgesics according to the ingredient and purpose information in their Drug Facts panels.
+
+Examples of claims observed on the product labels and labeling, which includes the product websites afterbite.com and www.theitcheraser.com imprinted on the labels, that establish their intended uses (as defined in 21 CFR 201.128) include, but may not be limited to, the following:
+
+“XTRA After Bite Gel”
+
+Statements that appear on the product labeling:
+INSTANT ITCH RELIEF! . . . BE READY for . . . Bees & Wasps . . . Fire Ants . . . Jelly Fish . . . Mosquitoes . . . Biting Flies . . . Other insects . . . After Bite Xtra is a powerful gel that provides instant relief from the pain, swelling, and itching caused by insect bites, stings, and other minor skin irritations. This extra strength itch-erasing formula contains antihistamine and tea tree oil to help soothe the skin and stop the discomfort.”
+
+Statements that appear on the website labeling:
+“After Bite® Xtra features a powerful, histamine-blocking gel formula with an antihistamine that acts fast to provide long-lasting relief from the pain, itching, and discomfort caused by fire ant bites, bee stings, mosquito bites, wasp stings, and other bug bites, as well as minor skin irritations. This long-lasting insect bite treatment also contains aloe vera, tea tree oil, vitamin E, and an oat complex to soothe and heal the skin.”
+
+“After Bite PLUS HISTAMINE BLOCKING gel”
+
+Statements that appear on the product labeling:
+“INSTANTLY STOPS ITCHING and DISCOMFORT . . . BE READY for . . . Mosquitoes . . . Biting Flies . . . Bees & Wasps . . . Other Insects . . . Uses . . . For the temporary relief of pain and itching associated with insect bites minor burns sunburn minor skin irritations minor cuts rashes due to poison ivy, poison oak, and poison sumac.”
+
+Statements that appear on the website labeling:
+“From mosquitoes to black flies to bees, the outdoors is full of insects that deliver painful stings and bites that may swell or irritate the skin. After Bite® Plus features a histamine-blocking formula with an antihistamine to provide immediate relief to anyone who suffers from these pronounced reactions to insect bites and stings. This antihistamine gel acts fast to stop the pain, itching, and discomfort caused by mosquito bites, fire ant bites, bee stings, wasp stings, and other bug bites, as well as minor skin irritations. A long-lasting insect bite treatment, After Bite Plus also contains aloe vera, tea tree oil, vitamin E, and an oat complex to soothe and heal your skin.”
+
+“THE Itch Eraser GEL” and “THE Itch Eraser SPRAY”
+
+Statements that appear on the product label:
+“REDUCES REDNESS & INFLAMMATION . . . STOPS THE ITCH & HEALS THE SKIN FROM: . . . Poison Ivy, Oak & Sumac . . . Rashes & Redness”
+
+Statements that appear on the website labeling:
+“The Itch Eraser® Gel featuring antihistamine is a steroid free anti-itch and skin care cream for instant itch relief. This extra strength gel formula stops the itch and heals the skin with ultra healing ingredients such as aloe, vitamin E, tea tree oil, oat complex, and baking soda. It is perfect to treat allergic reactions; poison ivy, oak and sumac; hives; rashes and redness; insect bites; sunburns; and minor cuts and scrapes.”
+
+“The Itch Eraser® Spray featuring antihistamine and zinc acetate is a steroid free anti-itch and skin care spray for instant itch relief. This extra strength spray formula stops the itch and heals the skin with ultra healing ingredients such vitamin E, tea tree oil, oat complex, and baking soda. It is perfect to treat allergic reactions; poison ivy, oak and sumac; hives; rashes and redness; insect bites; sunburns; and minor cuts and scrapes.
+
+OTC drug products such as “XTRA After Bite Gel,” “After Bite PLUS HISTAMINE BLOCKING gel,” “THE Itch Eraser GEL,” and “THE Itch Eraser SPRAY” that are intended for external analgesic indications such as the temporary relief of pain have been the subject of ongoing rulemaking under the Agency’s OTC Drug Review. In particular, such products were addressed in the Tentative Final Monograph (TFM) for External Analgesic Drug Products for Over-the-Counter Human Use (external analgesic TFM; 48 FR 5852, February 8, 1983).
+
+Under section 505G(a)(1) of the FD&C Act, as added by the CARES Act, drug ingredients that were classified as Category I in a TFM, such as lidocaine and diphenhydramine hydrochloride, are generally recognized as safe and effective (GRASE) and are not required to have approved applications under section 505 in order to be marketed, as long as they are in conformity with the relevant conditions of use outlined in the applicable TFM, including the labeling conditions, and comply with all other applicable requirements for nonprescription drugs. However, “XTRA After Bite Gel,” “After Bite PLUS HISTAMINE BLOCKING gel,” “THE Itch Eraser GEL,” and “THE Itch Eraser SPRAY” are not labeled or formulated in conformance with the external analgesic TFM for the reasons explained below.
+
+“XTRA After Bite Gel,” “After Bite PLUS HISTAMINE BLOCKING gel,” “THE Itch Eraser GEL,” and “THE Itch Eraser SPRAY” are not labeled or formulated in conformance with the external analgesic TFM. According to 21 CFR 201.66(b)(2), an “active ingredient” means any component that is intended to furnish pharmacological activity or other direct effect in the diagnosis, cure, mitigation, treatment, or prevention of disease, or to affect the structure or any function of the body of humans. The product labeling for “XTRA After Bite Gel” identifies aloe vera, tea tree oil, vitamin E and an oat complex as active ingredients with the following claim, “This long-lasting insect bite treatment also contains aloe vera, tea tree oil, vitamin E, and an oat complex to soothe and heal the skin.” The product labeling for “After Bite PLUS HISTAMINE BLOCKING gel” identifies aloe vera, tea tree oil, vitamin E and an oat complex as active ingredients with the following claim, “A long-lasting insect bite treatment, After Bite Plus also contains aloe vera, tea tree oil, vitamin E, and an oat complex to soothe and heal your skin.” The product labeling for “THE Itch Eraser GEL” and “THE Itch Eraser SPRAY” identifies aloe, vitamin E, tea tree oil, oat complex and baking soda as active ingredients with the following claim, “This extra strength gel formula stops the itch and heals the skin with ultra healing ingredients such as aloe, vitamin E, tea tree oil, oat complex, and baking soda.” Although your firm does not specifically list baking soda, tea tree oil, aloe vera, vitamin E and oat complex as active ingredients, your product labeling claims for these specific ingredients described above demonstrate that these are active ingredients as defined in 21 CFR 201.66(b)(2) because the ingredients are intended to furnish pharmacological activity. Baking soda, tea tree oil, aloe vera, vitamin E and oat complex are not recognized as active ingredients under this rulemaking. Further, the external analgesics TFM does not include any claims related to healing the skin, an indication which is included in the labeling for “After Bite PLUS HISTAMINE BLOCKING gel.”
+
+Thus, as formulated and labeled, “XTRA After Bite Gel,” “After Bite PLUS HISTAMINE BLOCKING gel,” “THE Itch Eraser GEL” and “THE Itch Eraser SPRAY” do not comply with the external analgesic TFM. Furthermore, we are not aware of sufficient evidence to show “XTRA After Bite Gel,” “After Bite PLUS HISTAMINE BLOCKING gel,” “THE Itch Eraser GEL” and “THE Itch Eraser SPRAY” as formulated and labeled, are generally recognized as safe and effective for their labeled indications. Therefore, “XTRA After Bite Gel,” “After Bite PLUS HISTAMINE BLOCKING gel,” “THE Itch Eraser GEL” and “THE Itch Eraser SPRAY” are new drugs within the meaning of section 201(p) of the FD&C Act, 21 U.S.C. 321(p). As new drugs, these products may not be legally marketed in the United States absent approval of an application filed in accordance with section 505(a) of the FD&C Act, 21 U.S.C. 355(a). “XTRA After Bite Gel,” “After Bite PLUS HISTAMINE BLOCKING gel,” “THE Itch Eraser GEL” and “THE Itch Eraser SPRAY” are not the subjects of FDA-approved new drug applications, and therefore, the current marketing of these products violates section 505(a) of the FD&C Act, 21 U.S.C 355(a). Introduction or delivery for introduction of such products into interstate commerce is prohibited under section 301(d) of the FD&C Act, 21 U.S.C. 331(d).
+
+“After Bite ADVANCED FORMULA”
+
+“After Bite ADVANCED FORMULA” is a “drug” as defined by section 201(g)(1)(B) of the FD&C Act, 21 U.S.C. 321(g)(1)(B), because it is intended for the diagnosis, cure, mitigation, treatment, or prevention of disease and/or under section 201(g)(1)(C) of the FD&C Act, 21 U.S.C. 321(g)(1)(C), because it is intended to affect the structure or any function of the body. Specifically, this product is intended as a skin protectant.
+
+Examples of claims observed on the product labeling which includes the product website, afterbite.com, which is imprinted on the label, that establish the intended uses (as defined in 21 CFR 201.128) of the product include, but may not be limited to, the following:
+
+Statements that appear on the product labeling:
+“PHARMACIST preferred for INSTANT ITCH RELIEF! . . . BE READY for . . . Mosquitoes . . . Biting Flies . . . Bees & Wasps . . . Other Insects” . . . Temporarily protects and helps relieve minor skin irritation and itching due to … Insect bites … “Poison ivy, oak, or sumac”
+
+Statements that appear on the website labeling:
+“The long-lasting formula with baking soda works fast to stop the itch caused by biting insects like mosquitoes, black flies, bees, and more.”
+
+The labeling for such drugs, like all OTC drugs, must comply with all of the requirements of the requirements of section 502 of the FD&C Act and all pertinent regulations found in Title 21 of the Code of Federal Regulations (21 CFR). However, your product does not meet these requirements for the reasons described below.
+
+“After Bite ADVANCED FORMULA” is misbranded within the meaning of section 502(c) of the FD&C Act, 21 U.S.C. 352(c), because its label fails to bear a complete statement of identity as required under 21 CFR 201.61 and 21 CFR 347.50(a)(1) and (4). Specifically, the labels fail to include “Skin Protectant” and “Poison ivy, oak, sumac protectant” on the product’s principal display panel as part of the statement of identity. The principal display panel of an OTC skin protectant drug product must contain the established name of the drug, if any, and identifies the product as a “Skin Protectant”. The principal display panel may also include dosage form (e.g., cream, gel, lotion, or ointment). Additionally, because this product contains sodium bicarbonate as an active ingredient, the principal display panel must also identify the product as a “Poison Ivy, oak, sumac protectant.” The label for “After Bite ADVANCED FORMULA” fails to include the general pharmacological categories or principal intended actions of the product.
+
+The introduction or delivery for introduction of misbranded drugs into interstate commerce is prohibited under section 301(a) of the FD&C Act, 21 U.S.C. 331(a). Therefore, the marketing of “After Bite ADVANCED FORMULA” violates this provision of the FD&C Act.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of these violations and for preventing their recurrence or the occurrence of other violations.
+
+Correct the violations cited in this letter promptly. Failure to promptly correct these violations may result in legal action without further notice including, without limitation, seizure and injunction. Unresolved violations in this warning letter may also prevent other Federal agencies from awarding contracts.
+
+FDA may also withhold approval of requests for export certificates and approval of pending new drug applications or supplements listing your facility as a supplier or manufacturer until the above violations are corrected. We may re-inspect to verify that you have completed your corrective actions.
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Please send your electronic response to orapharm1_responses@fda.hhs.gov. Please identify your response with FEI #1250045 and refer to Warning Letter #599789.
+
+If you have any questions, please contact Compliance Officer, Juan Jimenez, at juan.jimenez@fda.hhs.gov or call 1-518-453-2314 ext.1014.
+
+ 
+
+/S/
+Diana Amador-Toro
+Program Division Director/District Director
+U.S. Food and Drug Administration
+OPQO Division I / New Jersey District

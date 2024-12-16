@@ -1,0 +1,233 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+              Reference #: 
+        320-24-58
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Dr. Sharvil Patel
+          
+
+                                
+  
+    Recipient Title
+              Managing Director
+          
+
+          
+            Zydus Lifesciences Limited
+
+          
+                      Zydus Corporate Park, S.G. Highway
+Nr. Vashnodevi Circle
+Ahmedabad 382482
+India
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research (CDER)
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter 320-24-58
+
+August 29, 2024
+
+Dear Dr. Patel:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Zydus Lifesciences Limited, FEI 3013712903, at Survey No. 434/6/B & 434/1/K, Vadodara – Halol Highway Village - Jarod, Taluka - Waghodia, Gujarat, from April 15 to 23, 2024.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your May 14, 2024 response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence.
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to thoroughly investigate any unexplained discrepancy or failure of a batch or any of its components to meet any of its specifications, whether or not the batch has already been distributed (21 CFR 211.192).
+
+You failed to adequately investigate contamination identified in your drug products.
+
+Cross-contamination
+
+Over approximately 3 months, you experienced multiple cross-contamination events. Your firm identified cross-contamination from (b)(4) drug product in at least (b)(4) subsequent other drug product batches manufactured with shared equipment due to inadequate cleaning. Your investigation failed to consider all impacted batches, all manufacturing equipment involved, and the adequacy of your testing methods used to release contaminated drug products.
+
+Notably, your initial cleaning study failed to assess whether your cleaning methods were adequate to clean (b)(4) drug product, which you later found to be “stickier” on product contact surfaces. Your subsequent cleaning studies also did not assess all product contact surfaces. Your firm attempted to implement improved cleaning as a corrective action and preventive action (CAPA) but continued to manufacture and identify cross-contamination.
+
+Furthermore, you released some batches of drug products with results of “not detected” for (b)(4) contamination despite identifying contamination that was out of trend (OOT) in other related batches. You provided no rationale for how the samples tested were representative of the potential for overall batch contamination.
+
+In your response, you state that you decided to use dedicated equipment for (b)(4) and committed to monitor batches made on shared equipment through their shelf life for related substances because you continued to observe cross-contamination.
+
+Your response is inadequate because this type of contamination is generally nonuniformly distributed and testing alone is insufficient to determine the scope of the cross-contamination issue and mitigate associated risks.
+
+On July 2, 2024, you conducted a voluntary recall for Verapamil Hydrochloride Injection, USP 5 mg / 2mL, batches L300255, L300262, L300263; Verapamil Hydrochloride Injection, USP 10 mg/4 mL, batch L300269 for cross-contamination with other products as noted on the following FDA website: https://www.accessdata.fda.gov/scripts/ires/?Event=94912.
+
+Glass Particulate Contamination
+
+Your firm failed to adequately investigate and determine the root cause of glass particulate contamination in multiple batches of Cyanocobalamin Injection USP 1000mcg/mL, 1mL found out of limits (OOL) or above alert limits. Without identifying a root cause, you conducted successive visual inspections of batches until glass particulates were within specification and then released batches of Cyanocobalamin Injection USP 1000mcg/mL, 1mL, even though there was potential for glass contamination.
+
+In addition, your operators performing manual visual inspections were not adequately qualified for their ability to identify these defects. For example, your visual inspection qualification kit for Cyanocobalamin Injection USP 1000mcg/mL, 1mL, qualified the operators’ ability to identify glass particles as low as (b)(4) micrometers in unlabeled (b)(4) vials. However, the visual inspection of commercial drug product lots of Cyanocobalamin Injection USP 1000mcg/mL, 1mL investigated for glass particle contamination was conducted in labeled (b)(4) vials that found glass particulates as small as 150 micrometers.
+
+In your response, you state that you discontinued the manufacturing of Cyanocobalamin Injection 1000mcg/mL, 1mL in August 2022, and that so far you have not received complaints for glass found in the product. You also state that your visual inspection qualification kits now include appropriately sized particles based on probability of detection and that you will inspect control samples monthly through expiry for particles.
+
+You response is inadequate. The lack of current customer complaints alone is neither a verification of a robust quality system nor indication that you have appropriate process controls in place to conclude that glass fragments may not be present in your products.
+
+On June 27, 2024, you conducted a voluntary recall for Cyanocobalamin Injection USP 1000mcg/mL, 1mL, Batches L200253, L200281, and L200301, for the presence of glass particulate matter as noted on the following FDA website: https://www.accessdata.fda.gov/scripts/ires/?Event=94914.
+
+In response to this letter, provide a comprehensive, independent assessment of your overall system for investigating deviations, discrepancies, complaints, OOS results, and failures. Provide a detailed action plan to remediate this system. Your action plan should include, but not be limited to, significant improvements in investigation competencies, scope determination, root cause evaluation, CAPA effectiveness, quality unit (QU) oversight, and written procedures. Address how your firm will ensure all phases of investigations are appropriately conducted.
+
+2. Your firm failed to establish and follow appropriate written procedures that are designed to prevent microbiological contamination of drug products purporting to be sterile, and that include validation of all aseptic and sterilization processes (21 CFR 211.113(b)).
+
+You failed to ensure adequate aseptic behavior and adequate airflow simulations to prevent potential contamination.
+
+Poor Aseptic Behavior
+
+Our investigators observed multiple instances of poor aseptic techniques during the start-up and filling of (b)(4) for injection, batch (b)(4). For example, operators disrupted first-air in your ISO-5 areas by reaching over sterile (b)(4) vials, (b)(4) stoppers, and the stopper (b)(4) during interventions without removing the affected vials or stoppers. Additionally, your operators touched (b)(4) stoppers with the (b)(4) restricted access barrier system ((b)(4)-RABS) (b)(4) while aligning the stopper (b)(4) during setup.
+
+Inadequate Airflow Simulations
+
+You produced and distributed drug product purporting to be sterile without first conducting adequate process simulations. Specifically, your airflow simulations (smoke studies) for filling line (b)(4) did not adequately demonstrate unidirectional airflow during (b)(4) interventions within the (b)(4)-RABS ISO 5 area. For example, airflow was observed flowing outward and upward during (b)(4) interventions. However, the simulation did not adequately depict airflow (the smoke was not visible) to determine whether HEPA filtered air was reaching the critical (b)(4).
+
+Additionally, the design of the stopper conveyer track exiting the stopper (b)(4) appears to block first-air for the (b)(4) stoppers moving along the track.
+
+In your response, you state that the lack of visible smoke was due to the location and limited number of smoke sticks during the (b)(4) condition. You also state that you have conducted new smoke studies. Further, you state that your operators followed procedures, that these “interventions are evaluated during airflow studies,” and that you observed no discrepancies. Lastly, you indicate that there were no media fill or sterility failures for the past 2 years.
+
+Your response is inadequate because your response does not adequately address the poor aseptic technique that was observed. You also did not address how you will ensure adequate review and approval of qualification and validation studies where deficiencies may exist. In addition, you do not commit to perform a comprehensive review of similar qualification and validation studies to ensure their adequacy.
+
+Any intervention or stoppage during an aseptic process can increase the risk of contamination. The risk to finished product sterility assurance increases with operator interventions in an aseptic processing operation. Your aseptic manufacturing processes should be designed, and operations executed, to prevent contamination hazards to your sterile product. Flaws in the design of cleanrooms and aseptic processing lines, or improper execution of aseptic operations, can promote influx of contamination into the (b)(4) (ISO 5) processing area.
+
+For additional guidance on aseptic processing see FDA’s guidance document Sterile Drug Products Produced by Aseptic Processing—Current Good Manufacturing Practice to help you meet the CGMP requirements when manufacturing sterile drugs using aseptic processing at https://www.fda.gov/media/71026/download.
+
+In response to this letter, provide:
+
+• A comprehensive risk assessment of all contamination hazards with respect to your aseptic processes, equipment, and facilities, including an independent assessment that includes, but is not limited to:
+  o All human interactions within the ISO 5 area
+  o Equipment placement and ergonomics
+  o Air quality in the ISO 5 area and surrounding room
+  o Facility layout
+  o Personnel Flows and Material Flows (throughout all rooms used to conduct and support sterile operations)
+
+• A detailed remediation plan with timelines to address the findings of the contamination hazards risk assessment. Describe specific tangible improvements to be made to aseptic processing operation design and control.
+
+• Your plan to ensure appropriate aseptic practices and cleanroom behavior during production. Include steps to ensure routine and effective supervisory oversight for all production batches. Also describe the frequency of QU oversight (e.g., audit) during aseptic processing and its support operations.
+
+• A thorough retrospective review and risk assessment that evaluates how poor aseptic technique and cleanroom behavior may have affected the quality and sterility of your drugs.
+
+• An evaluation of the design of the stopper conveyer track to assess the adequacy of unidirectional airflow interacting with your equipment.
+
+3. Your firm failed to establish adequate written procedures for production and process control designed to assure that drug products you manufacture have the identity, strength, quality, and purity they purport or are represented to possess, and to follow all of your written production and process control procedures (21 CFR 211.100 (a) and 211.100 (b).
+
+Your process performance qualifications (PPQ) lack adequate supporting data to assess variability in your manufacturing processes. Specifically, statistical sampling plans were not adequately established and followed to evaluate intra- and inter-batch variation in your PPQs. For example, your PPQ study for (b)(4) Injection USP (b)(4)mg/vial failed to establish acceptance criteria for intra- and inter-batch variation. Instead, (b)(4) sampling was conducted, reporting singular results for critical quality attributes (CQAs), including assay, impurities, and pH. Sampling and testing between your (b)(4) used for the PPQ batches also failed to include acceptance criteria for intra- and inter-batch variability for (b)(4) content.
+
+You also failed to collect (b)(4) data during your PPQ studies for your (b)(4) drug products to assess whether stoppering of the vials within your (b)(4) adequately prevented unintended ingress of air and maintained specified (b)(4).
+
+In your response, you state that adequate sampling was conducted and that your products are in a state of control, and specifically, that your PPQ intra- and inter-batch variability was observed below (b)(4)% standard deviation for the CQAs and critical process parameters (CPPs). You commit to revising your procedures to include acceptance criteria for intra- and inter-batch evaluations for variability for your drug products, conduct retrospective reviews, and additional PPQ studies. You also state that you now conduct 100% leak tests for your sterile injectable drug products.
+
+Your response is inadequate because your evaluation of variability does not appear to be the result of enhanced sampling, but from analytical testing results already provided in your PPQ summary reports which consisted of composite samples and results.
+
+Process validation evaluates the soundness of design and state of control of a process throughout its lifecycle. Each significant stage of a manufacturing process must be designed appropriately and assure the quality of raw material inputs, in-process materials, and finished drugs. Process qualification studies include intensive monitoring and testing throughout each significant process stage to characterize intra-batch variation and evaluate batches to determine whether an initial state of control has been established.
+
+Successful process qualification studies are necessary before commercial distribution. Thereafter, ongoing vigilant oversight of process performance and product quality is necessary to ensure you maintain a stable manufacturing operation throughout the product lifecycle.
+
+See FDA’s guidance document Process Validation: General Principles and Practices for general principles and approaches that the FDA considers appropriate elements of process validation, at https://www.fda.gov/media/71021/download.
+
+In response to this letter, provide:
+
+• An assessment of each drug product process to ensure that there is a data-driven and scientifically sound program that identifies and controls all sources of variability, such that your production processes, and will consistently meet appropriate specifications and manufacturing standards. This includes, but is not limited to, evaluating suitability of equipment for its intended use, sufficiency of detectability in your monitoring and testing systems, quality of input materials, and reliability of each manufacturing process step and control.
+
+• Timelines for completing further PPQ studies for marketed drug products for which a state of control has not been adequately/fully established.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, you should engage a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements.
+
+Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+If you are considering an action that is likely to lead to a disruption in the supply of drugs produced at your facility, FDA requests that you contact CDER’s Drug Shortages Staff immediately, at drugshortages@fda.hhs.gov, so that FDA can work with you on the most effective way to bring your operations into compliance with the law. Contacting the Drug Shortages Staff also allows you to meet any obligations you may have to report discontinuances or interruptions in your drug manufacture under 21 U.S.C. 356C(b). This also allows FDA to consider, as soon as possible, what actions, if any, may be needed to avoid shortages and protect the health of patients who depend on your products.
+
+Correct any violations promptly. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to any violations.
+
+Failure to address any violations may also result in the FDA refusing admission of articles manufactured at Zydus Lifesciences Limited, Survey No. 434/6/B & 434/1/K, Vadodara – Halol Highway Village - Jarod, Taluka - Waghodia, Gujarat into the United States under section 801(a)(3) of the FD&C Act, 21 U.S.C. 381(a)(3). Articles under this authority that appear to be adulterated may be detained or refused admission, in that the methods and controls used in their manufacture do not appear to conform to CGMP within the meaning of section 501(a)(2)(B) of the FD&C Act, 21 U.S.C. 351(a)(2)(B).
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days1. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov. Identify your response with FEI 3013712903 and ATTN: Michael Klapal.
+
+Sincerely,
+/S/
+
+Francis Godwin
+Director
+Office of Manufacturing Quality
+Office of Compliance
+Center for Drug Evaluation and Research
+
+__________________
+
+1 Under program enhancements for the Generic Drug User Fee Amendments (GDUFA) reauthorization for fiscal years (FYs) 2023-2027, also known as the GDUFA III Commitment Letter, your facility may be eligible for a Post-Warning Letter Meeting to obtain preliminary feedback from FDA on the adequacy and completeness of your corrective action plans.
