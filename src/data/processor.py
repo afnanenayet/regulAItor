@@ -7,12 +7,12 @@ import re
 from config import ProcessorConfig, AgentConfig
 from rate_limiter import RateLimiter
 
+
 class FDALetterProcessor:
     def __init__(self, config: ProcessorConfig):
         self.config = config
         self.agent_config = AgentConfig()
         self.rate_limiter = RateLimiter(config.rate_limit_per_minute)
-
 
         self.extractor_agent = ConversableAgent(
             name="Extractor",
@@ -42,14 +42,14 @@ class FDALetterProcessor:
             """,
             llm_config=self.agent_config.llm_config,
             human_input_mode="NEVER",
-            max_consecutive_auto_reply=2,
+            max_consecutive_auto_reply=3,
         )
 
         # Initialize the Validator agent with improved termination logic
         def validator_is_termination_msg(message):
-            if isinstance(message, dict) and 'content' in message:
+            if isinstance(message, dict) and "content" in message:
                 content = message["content"].lower()
-                return "approved" in content or "rejected" in content
+                return "approved" in content
             return False
 
         self.validator_agent = ConversableAgent(
@@ -96,7 +96,7 @@ class FDALetterProcessor:
             llm_config=self.agent_config.llm_config,
             human_input_mode="NEVER",
             is_termination_msg=validator_is_termination_msg,
-            max_consecutive_auto_reply=2,
+            max_consecutive_auto_reply=3,
         )
 
     async def process_letter(self, letter_name: str, content: str) -> Optional[Dict]:
@@ -107,14 +107,14 @@ class FDALetterProcessor:
             # Initial message to the Extractor agent
             initial_message = {
                 "content": content,
-                "role": "user"  # Assuming the role is 'user' when initiating the conversation
+                "role": "user",  # Assuming the role is 'user' when initiating the conversation
             }
 
             # Start the conversation between Extractor and Validator
             chat_result = await self.extractor_agent.a_initiate_chat(
                 self.validator_agent,
                 message=initial_message,
-                max_turns=self.config.max_turns
+                max_turns=self.config.max_turns,
             )
 
             # Retrieve the final response from the Extractor
@@ -122,9 +122,12 @@ class FDALetterProcessor:
             for message in reversed(chat_result.chat_history):
                 # Debug: Print message to inspect its structure
                 print(f"Message: {message}")
-                
+
                 # Use 'name' instead of 'sender'
-                if message.get("name") == "Extractor" and message.get("role") == "assistant":
+                if (
+                    message.get("name") == "Extractor"
+                    and message.get("role") == "assistant"
+                ):
                     extraction_response = message["content"]
                     break
             else:
@@ -137,9 +140,7 @@ class FDALetterProcessor:
 
             # Parse the extraction response
             extraction_result = self.parse_json_response(
-                extraction_response,
-                letter_name,
-                "extraction"
+                extraction_response, letter_name, "extraction"
             )
             if not extraction_result:
                 logging.error("Failed to parse extraction response.")
@@ -165,8 +166,8 @@ class FDALetterProcessor:
         try:
             content = response_content.strip()
             # Remove any code block markers
-            content = re.sub(r'^```json', '', content)
-            content = re.sub(r'```$', '', content)
+            content = re.sub(r"^```json", "", content)
+            content = re.sub(r"```$", "", content)
             return json.loads(content)
         except json.JSONDecodeError as e:
             logging.error(f"JSON decode error during {stage} for {letter_name}: {e}")
