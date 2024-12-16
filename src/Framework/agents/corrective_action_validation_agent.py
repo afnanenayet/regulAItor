@@ -21,23 +21,25 @@ You validate corrective action plans for compliance, accuracy, and completeness.
         )
         self.client = OpenAI(api_key=self.llm_config["api_key"])
         self.register_reply(
-                trigger=self._always_true_trigger, # Add a specific trigger string
-                reply_func=self.handle_message,
-                position=0
-            )
+            trigger=self._always_true_trigger,  # Add a specific trigger string
+            reply_func=self.handle_message,
+            position=0,
+        )
+
     def _always_true_trigger(self, sender):
         # This trigger function always returns True
         return True
-    
+
     def handle_message(self, *args, **kwargs):
         corrective_action_plan = self.context.get("corrective_action_plan", "")
-        summary = self.context.get('summary', {})
-        violated_terms = summary.get('violated_terms', [])
+        summary = self.context.get("summary", {})
+        violated_terms = summary.get("violated_terms", [])
         template = self.context.get("template", "")
-        
-        messages = [{
-            "role": "user",
-            "content": f"""
+
+        messages = [
+            {
+                "role": "user",
+                "content": f"""
             Validate the following corrective action plan for compliance, accuracy, and completeness.
 
             Corrective Action Plan:
@@ -61,9 +63,10 @@ You validate corrective action plans for compliance, accuracy, and completeness.
             "status": "REJECTED",
             "feedback": "Detailed feedback on required changes."
             }}
-            """
-        }]
-        
+            """,
+            }
+        ]
+
         max_retries = 5
         retries = 0
         while retries < max_retries:
@@ -72,24 +75,11 @@ You validate corrective action plans for compliance, accuracy, and completeness.
                     model=self.llm_config["model"],
                     messages=messages,
                     temperature=0.3,
-                    max_tokens=1000
+                    max_tokens=1000,
                 )
                 response_content = response.choices[0].message.content.strip()
-                
-                # Debug print to see what we're trying to parse
-                print(f"Response content before cleaning: {response_content}")
-                
-                # Remove markdown code block markers if they exist
-                response_content = response_content.replace('```json', '').replace('```', '').strip()
-                
-                print(f"Response content after cleaning: {response_content}")
-                
-                # Check if response_content is empty
-                if not response_content:
-                    raise ValueError("Empty response received from OpenAI")
-                    
-                result = json.loads(response_content)
-                self.context["corrective_action_validation"] = result
+
+                self.context["feedback"] = response_content
                 return True, {"role": "assistant", "content": response_content}
             except json.JSONDecodeError as e:
                 # Handle JSON parsing errors
@@ -104,10 +94,12 @@ You validate corrective action plans for compliance, accuracy, and completeness.
                 # Handle any other unexpected errors
                 retries += 1
                 print(f"Unexpected error: {str(e)}")
-                    
+
         # If all retries are exhausted, return a properly formatted JSON error response
-        error_response = json.dumps({
-            "status": "REJECTED",
-            "feedback": "Failed to validate corrective action plan after maximum retries."
-        })
+        error_response = json.dumps(
+            {
+                "status": "REJECTED",
+                "feedback": "Failed to validate corrective action plan after maximum retries.",
+            }
+        )
         return True, {"role": "assistant", "content": error_response}

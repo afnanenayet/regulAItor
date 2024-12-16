@@ -1,12 +1,13 @@
 import streamlit as st
-import os
-import asyncio
 import logging
-import sys
-from io import StringIO
 from agents.agent_manager import group_chat
 from agents.conversation_workflow import conversation_workflow
-from autogen import runtime_logging
+import asyncio
+import sys
+from io import StringIO
+
+# Initialize logging
+logging.basicConfig(level=logging.INFO)
 
 
 # Function to check allowed file extensions
@@ -20,7 +21,8 @@ def read_file_contents(file):
     filename = file.name.lower()
     try:
         if filename.endswith(".txt"):
-            return file.read().decode("utf-8")
+            content = file.read()
+            return content.decode("utf-8") if isinstance(content, bytes) else content
         elif filename.endswith(".pdf"):
             return extract_text_from_pdf(file)
         elif filename.endswith(".docx"):
@@ -32,6 +34,7 @@ def read_file_contents(file):
         return None
 
 
+# Function to extract text from PDF files
 def extract_text_from_pdf(file):
     import PyPDF2
 
@@ -46,6 +49,7 @@ def extract_text_from_pdf(file):
         return None
 
 
+# Function to extract text from DOCX files
 def extract_text_from_docx(file):
     from docx import Document
     from io import BytesIO
@@ -60,170 +64,102 @@ def extract_text_from_docx(file):
         return None
 
 
-async def run_workflow(group_chat, output_placeholder, progress_bar):
-    # Redirect stdout to capture the logs
-    old_stdout = sys.stdout
-    sys.stdout = mystdout = StringIO()
+# Function to run the workflow
+async def run_workflow(group_chat):
+    try:
+        result = await conversation_workflow(group_chat)
 
-    # Run the conversation workflow asynchronously
-    logging_session_id = runtime_logging.start(
-        logger_type="file", config={"filename": "runtime.log"}
-    )
+        if result.get("user_input_required"):
+            # Create a text input in the Streamlit UI for user input
+            user_input = st.text_input("Please provide a valid FDA warning letter:")
 
-    loop = asyncio.get_event_loop()
+            if st.button("Submit"):
+                if user_input:
+                    # Update the warning letter in the context
+                    group_chat.context["warning_letter"] = user_input
+                    # Run the workflow again with the new input
+                    result = await conversation_workflow(group_chat)
+                    return result
+                else:
+                    st.warning("Please enter a warning letter.")
+                    return None
 
-    # Start the conversation workflow
-    task = loop.create_task(conversation_workflow(group_chat))
+        return result
 
-    # Run the event loop and update the output in real-time
-    while not task.done():
-        # Get the current output and display it
-        output = mystdout.getvalue()
-        output_placeholder.write(output)
-
-        # Sleep briefly to avoid locking up the interface
-        await asyncio.sleep(0.1)
-
-    result = task.result()
-
-    runtime_logging.stop()
-
-    # Reset stdout
-    sys.stdout = old_stdout
-
-    # Display final output
-    output = mystdout.getvalue()
-    output_placeholder.write(output)
-    progress_bar.progress(100)
-
-    return result
+    except Exception as e:
+        st.error(f"An error occurred during processing: {e}")
+        logging.error(f"Error during workflow: {e}")
+        return None
 
 
 def main():
     st.title("Warning Letter Processor")
     st.write("Please upload the warning letter and the template files.")
 
-    # Initialize session state for controlling the workflow
+    # Initialize session state variables
     if "stage" not in st.session_state:
         st.session_state.stage = "upload"
-    if "result" not in st.session_state:
-        st.session_state.result = None
+    if "warning_letter_content" not in st.session_state:
+        st.session_state.warning_letter_content = None
+    if "template_content" not in st.session_state:
+        st.session_state.template_content = None
+    if "processing_complete" not in st.session_state:
+        st.session_state.processing_complete = False
 
+    # Stage: Upload
     if st.session_state.stage == "upload":
         warning_letter_file = st.file_uploader(
-            "Warning Letter", type=["txt", "pdf", "docx"]
+            "Upload Warning Letter", type=["txt", "pdf", "docx"], key="warning_letter"
         )
-        template_file = st.file_uploader("Template", type=["txt", "pdf", "docx"])
+        template_file = st.file_uploader(
+            "Upload Template", type=["txt", "pdf", "docx"], key="template"
+        )
 
         if warning_letter_file and template_file:
-            # Validate file types
-            if not allowed_file(warning_letter_file.name) or not allowed_file(
-                template_file.name
-            ):
+            # Validate and read files
+            if not allowed_file(warning_letter_file.name):
                 st.error(
-                    "Invalid file type. Only TXT, PDF, and DOCX files are allowed."
+                    "Invalid warning letter file type. Only TXT, PDF, and DOCX files are allowed."
+                )
+                return
+            if not allowed_file(template_file.name):
+                st.error(
+                    "Invalid template file type. Only TXT, PDF, and DOCX files are allowed."
                 )
                 return
 
-            warning_letter_content = read_file_contents(warning_letter_file)
-            template_content = read_file_contents(template_file)
+            st.session_state.warning_letter_content = read_file_contents(
+                warning_letter_file
+            )
+            st.session_state.template_content = read_file_contents(template_file)
 
-            if warning_letter_content and template_content:
-                # Store contents in session state
-                st.session_state.warning_letter_content = warning_letter_content
-                st.session_state.template_content = template_content
-
-                # Enable 'Start Processing' button
+            if (
+                st.session_state.warning_letter_content
+                and st.session_state.template_content
+            ):
                 if st.button("Start Processing"):
-                    st.session_state.stage = "processing"
+                    # Set context for the group chat
+                    group_chat.context = {
+                        "warning_letter": st.session_state.warning_letter_content,
+                        "template": st.session_state.template_content,
+                    }
+
+                    # Run the workflow asynchronously
+                    with st.spinner("Processing..."):
+                        result = asyncio.run(run_workflow(group_chat))
+
+                    if result:
+                        if "corrective_action_plan" in result:
+                            st.success("Processing completed!")
+                            st.write("Corrective Action Plan:")
+                            st.write(result["corrective_action_plan"])
+                            st.session_state.processing_complete = True
+                    else:
+                        st.error("Processing failed or was interrupted.")
             else:
                 st.error("Could not read the uploaded files.")
         else:
-            st.info("Awaiting file uploads...")
-    elif st.session_state.stage == "processing":
-        # Set context for the group chat
-        group_chat.context = {
-            "warning_letter": st.session_state.warning_letter_content,
-            "template": st.session_state.template_content,
-        }
-
-        # Prepare placeholders for real-time output
-        output_placeholder = st.empty()
-        progress_bar = st.progress(0)
-
-        # Run the conversation workflow up to input validation
-        async def run_to_validation():
-            # Redirect stdout to capture the logs
-            old_stdout = sys.stdout
-            sys.stdout = mystdout = StringIO()
-
-            # Run the conversation workflow asynchronously
-            logging_session_id = runtime_logging.start(
-                logger_type="file", config={"filename": "runtime.log"}
-            )
-
-            loop = asyncio.get_event_loop()
-
-            # Start the conversation workflow
-            task = loop.create_task(conversation_workflow(group_chat))
-
-            # Run until input validation is done
-            while not task.done():
-                # Check if input validation agent has finished
-                if group_chat.context.get("input_validation_result") is not None:
-                    break
-
-                # Get the current output and display it
-                output = mystdout.getvalue()
-                output_placeholder.write(output)
-
-                # Sleep briefly
-                await asyncio.sleep(0.1)
-
-            # Capture the output up to this point
-            output = mystdout.getvalue()
-            output_placeholder.write(output)
-            progress_bar.progress(50)
-
-            runtime_logging.stop()
-
-            # Reset stdout
-            sys.stdout = old_stdout
-
-            # Check validation result
-            if group_chat.context.get("input_validation_result"):
-                st.success("Input validation successful.")
-            else:
-                st.error(
-                    "Validation failed. Please provide a valid FDA warning letter."
-                )
-                st.session_state.stage = "upload"
-                return
-
-            # Ask for confirmation to continue
-            confirmation_button = st.button("Confirm to Continue Processing")
-            if confirmation_button:
-                st.session_state.stage = "continue_processing"
-
-        asyncio.run(run_to_validation())
-
-    elif st.session_state.stage == "continue_processing":
-        # Continue processing
-        group_chat.context["user_confirmed"] = True
-
-        # Prepare placeholders for real-time output
-        output_placeholder = st.empty()
-        progress_bar = st.progress(50)
-
-        # Run the rest of the conversation workflow
-        asyncio.run(run_workflow(group_chat, output_placeholder, progress_bar))
-
-        st.session_state.stage = "completed"
-    elif st.session_state.stage == "completed":
-        # Display the final results
-        corrective_action_plan = group_chat.context.get("corrective_action_plan", "")
-        st.success("Corrective Action Plan:")
-        st.write(corrective_action_plan)
+            st.info("Please upload both the warning letter and the template files.")
 
 
 if __name__ == "__main__":
