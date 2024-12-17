@@ -28,7 +28,7 @@ Set up the virtual environment by running `uv venv`.
 Run `direnv allow` in your shell so that the virtual environment is loaded whenever
 you navigate to the directory.
 
-# Running locally
+# Running FDA summarizer locally
 
 You can run the streamlit dashboard for extracting FDA warning letter summaries locally.
 Simply run:
@@ -38,3 +38,7 @@ Simply run:
 ```
 
 This script will run streamlit for you.
+
+# Run full app locally
+
+See the [Agent readme](/src/Framework/README.md).
