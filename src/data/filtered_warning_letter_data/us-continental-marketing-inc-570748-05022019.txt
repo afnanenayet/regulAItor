@@ -1,0 +1,165 @@
+Delivery Method: 
+        VIA SIGNATURE CONFIRMED DELIVE
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+                    
+            U.S. Continental Marketing, Inc. 
+
+          
+                      310 Reed Circle
+Corona, CA 92879
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Division of Pharmaceutical Quality Operations IV
+        
+         
+          19701 Fairchild
+Irvine, CA 92612-2506
+United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+WARNING LETTER
+
+VIA SIGNATURE CONFIRMED DELIVERY
+
+CMS 570748
+
+May 2, 2019
+
+Mr. David L. Williams
+Owner
+U.S. Continental Marketing, Inc.
+310 Reed Circle
+Corona, CA 92879
+
+Dear Mr. Williams:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, U.S. Continental Marketing, Inc., FEI 3005519645, at 310 Reed Circle, Corona, from October 25 to 30, 2018.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See 21 CFR, parts 210 and 211.
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your November 7, 2018, response in detail.
+
+During our inspection, our investigator observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to establish an adequate quality control unit with the responsibility and authority to approve or reject all components, drug product containers, closures, in-process materials, packaging materials, labeling, and drug products (21 CFR 211.22(a)).
+
+Your Quality Unit (QU) was responsible for releasing ophthalmic drug product manufactured under contract but failed to assure its sterility.
+
+You contract with (b)(4) to manufacture a multi-dose, preservative-free, homeopathic ophthalmic drug product for your customer, (b)(4). According to your quality agreement with (b)(4), you bore responsibility for approving or rejecting the product or results of its manufacturing operations among other CGMP responsibilities.
+
+However, you sent your contract manufacturer ophthalmic dropper bottles, tips, and caps to use in the manufacture of the ophthalmic drug product without ensuring that your contract manufacturer was capable of sterilizing containers and closures before use in manufacturing.
+Furthermore, you did not ensure that your contract manufacturer had adequate facilities and controls to manufacture sterile drugs. Without adherence to CGMP requirements, you risk that your drugs may not meet requirements of strength, quality, purity, and safety. For example, microbiological contamination of an ophthalmic drug poses an unacceptable risk to patients including infection and potential for vision loss.
+
+In addition, it is essential that multi-dose ophthalmic drug products contain one or more suitable substances that will preserve a product and minimize the hazard of injury resulting from incidental contamination during use. Without an adequate QU, you are unable to ensure that
+drug products meet required specifications and manufacturing standards for identity, strength, quality, and purity.
+
+See FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations for help implementing quality systems and risk management approaches to meet the requirements of CGMP regulations 21 CFR, parts 210 and 211 at https://www.fda.gov/media/71023/download.
+
+FDA Sample Results & Drug Recall
+
+FDA laboratory analysis of multiple lots of collected ophthalmic drug product confirmed they were contaminated with Bacillus spp., high levels of particulate matter, or both.
+
+Your customer, (b)(4) recalled all lots of (b)(4) after being contacted by the FDA regarding the contaminated ophthalmic drug product.
+
+Cessation of Drug Manufacturing
+
+In your November 7, 2018, response, you said “[f]rom this point forward, we have decided not to participate in any part of the process relating to drug products. Moreover, we will not be seeking an FDA registration at this point, unless our plans change in the future.” You did not propose any specific corrective actions or preventative actions for the CGMP violations observed at your facility and your contractor’s facility.
+
+If you decide to pursue the manufacture of sterile drugs, notify the FDA of your plans in writing. A meeting can then be scheduled between you and the FDA to discuss the CGMP requirements for the manufacture of sterile drugs.
+
+Responsibilities as a Contractor
+
+Drugs must be manufactured in conformance with CGMP. FDA is aware that many drug manufacturers use independent contractors such as production facilities, testing laboratories, packagers, and labelers. FDA regards contractors as extensions of the manufacturer.
+
+You and your customer (b)(4) have a quality agreement regarding the manufacture of drug products. You are responsible for the quality of drugs you produce as a contract facility regardless of agreements in place with product owners. You are required to ensure that drugs are made in accordance with section 501(a)(2)(B) of the FD&C Act for safety, identity, strength, quality, and purity. See FDA’s guidance document Contract Manufacturing Arrangements for Drugs: Quality Agreements at https://www.fda.gov/media/86193/download.
+
+Conclusion
+
+Violations cited in this letter are not intended as an all-inclusive list. You are responsible for investigating these violations, for determining the causes, for preventing their recurrence, and for preventing other violations.
+
+Correct the violations cited in this letter promptly. Failure to promptly correct these violations may result in legal action without further notice including, without limitation, seizure and injunction. Unresolved violations in this warning letter may also prevent other Federal agencies from awarding contracts.
+
+Until these violations are corrected, we may withhold approval of pending drug applications listing your facility. We may re-inspect to verify that you have completed your corrective actions. We may also refuse your requests for export certificates.
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Your written response should refer to the Warning Letter number above (CMS 570748). Please address your reply to:
+
+CDR Steven E. Porter, Jr.
+Director, Division of Pharmaceutical Quality Operations IV
+United States Food and Drug Administration
+19701 Fairchild
+Irvine, CA 92612
+
+If you have any questions about the content of this letter, please contact Jessica Mu, Compliance Officer, at 949-608-4477 and reference unique identifier CMS 570748 on all correspondence.
+
+Sincerely,
+/S/
+
+CDR Steven E. Porter, Jr.
+Director, Division of Pharmaceutical Quality Operations IV
+
+CC: (b)(4)

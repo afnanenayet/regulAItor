@@ -1,0 +1,192 @@
+Delivery Method: 
+        VIA Parcel Courier
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Pankaj S. Chudgar
+          
+
+                                
+  
+    Recipient Title
+              President and COO
+          
+
+          
+            LNK International, Inc.
+
+          
+                      22 Arkay Drive
+Hauppauge, NY 11788
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Division of Pharmaceutical Quality Operations I
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+WARNING LETTER
+CMS # 582253
+
+
+September 26, 2019
+
+Dear Mr. Chudgar:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, LNK International, Inc., at 55 Arkay Drive, Hauppauge, New York, from January 23 to February 8, 2019.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See 21 CFR, parts 210 and 211.
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your March 4, 2019, response in detail and acknowledge receipt of your subsequent correspondence.
+
+During our inspection, our investigator observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to thoroughly investigate any unexplained discrepancy or failure of a batch or any of its components to meet any of its specifications, whether or not the batch has already been distributed (21 CFR 211.192).
+
+You released four lots of Diphenhydramine 50 mg Berry Syrup, 12 Fluid Oz. with out-of-specification (OOS) total aerobic microbial count (TAMC) results ranging from 240 CFU/mL to 1970 CFU/mL (specification: not more than (b)(4) CFU/mL) and/or total combined yeast and mold count (TCYMC) results ranging from 75 CFU/mL to 1450 CFU/mL (specification: not more than (b)(4) CFU/mL). Your investigation confirmed the initial OOS results upon retest. However, your firm released these lots based on passing results from additional samples.
+
+Your response stated that the potential root cause of these specification failures was microbial contamination during production setup when “(b)(4).” However, you failed to promptly and adequately address the contaminated lots on the market or the hazards in your operation.
+
+You also did not provide adequate justification that the potential cause of the microbial contamination only affected the four lots that failed testing. Satisfactory microbial testing for other lots cannot be relied upon as sole justification to support quality, safety, or suitability for release. Microbial contamination is not uniformly distributed in a system. A limited quality control sample may not be representative of the type or level of contamination that may exist in other, untested units of a lot. Due to this low detectability, it is vital to place special emphasis on building quality into your manufacturing processes to prevent contamination.
+
+We acknowledge your decision in July to recall four lots due to microbial contamination.
+
+In response to this letter, provide:
+
+• A retrospective, independent review of all invalidated OOS (including in-process, release, and stability testing) results within expiry as of the date of this letter. Summarize the findings of the analysis, including the following for each OOS:
+     o Determine whether the scientific justification and evidence relating to the invalidated OOS result demonstrates causative laboratory error conclusively or inconclusively.
+     o For investigations that conclusively establish laboratory root cause, provide rationale and ensure that all other laboratory methods vulnerable to the same or similar root cause are identified for remediation.
+     o For all OOS results found by the retrospective review to have an inconclusive or no root cause identified in the laboratory, include a thorough review of production (e.g., batch manufacturing records, adequacy of the manufacturing steps, suitability of equipment/facilities, variability of raw materials, process capability, deviation history, complaint history, batch failure history). Summarize potential manufacturing root causes for each investigation, and any manufacturing operation improvements.
+
+• A comprehensive, independent assessment of the design and control of your firm’s manufacturing operations, with a detailed and thorough review of all potential microbiological hazards.
+
+• A detailed risk assessment addressing the hazard posed by distributing drug product lots with potentially objectionable microbial contamination that is difficult to detect due to its non-uniform nature. Specify actions you will take in response to the risk assessment, such as further customer notifications and product recalls.
+
+• Complete investigations into all lots with data that indicates the potential for objectionable microbial contamination, whether or not the test result was later invalidated. The investigations should detail your findings regarding the possible root causes of the contamination.
+
+• A comprehensive review and remediation plan for your OOS result investigation systems. The corrective action and preventive action (CAPA) plan should include but not be limited to addressing the following:
+     o Revised instructions for the conduct of retests and resampling activities
+     o Quality unit oversight of laboratory investigations
+     o Identification of adverse laboratory control trends
+     o Resolution of causes of laboratory variation
+     o Initiation of thorough investigations of potential manufacturing causes whenever a laboratory cause cannot be conclusively identified
+     o Adequately scoping of each investigation and its CAPA
+     o Revised OOS investigation procedures with these and other remediations
+
+• A comprehensive, independent assessment of your overall system for investigating deviations, discrepancies, complaints, OOS results, and failures. Provide a detailed action plan to remediate this system. Your action plan should include, but not be limited to, significant improvements in investigation competencies, scope determination, root cause evaluation, CAPA effectiveness, quality assurance oversight, and written procedures. Address how your firm will ensure all phases of investigations are appropriately conducted.
+
+2. Your firm failed to establish laboratory controls that include scientifically sound and appropriate specifications, standards, sampling plans, and test procedures designed to assure that components, drug product containers, closures, in-process materials, labeling, and drug products conform to appropriate standards of identity, strength, quality, and purity (21 CFR 211.160(b)).
+
+You failed to establish sufficient specifications and analytical testing procedures for critical quality attributes for the drugs you manufacture. You often lacked specifications or analytical testing procedures for dissolution, and also failed to test for the impurity 4-Aminophenol in acetaminophen-containing drug products.
+
+For example, at least four acetaminophen and diphenhydramine combination solid oral dosage form drug products and three acetaminophen and phenylephrine HCl combination solid oral dosage form drug products lacked specifications or analytical testing procedures for dissolution and 4-Aminophenol content.
+
+In your response, you committed to validating analytical methods to detect and quantify 4-Aminophenol tests. You manufacture more than (b)(4) additional solid oral dosage forms that contain acetaminophen as an active ingredient, but it is unclear if you assessed all acetaminophen-containing finished drug products for 4-Aminophenol testing criteria. You also committed to (b)(4) for a number of solid oral dosage forms including those that contain acetaminophen and diphenhydramine HCl as well as acetaminophen and phenylephrine HCl.
+
+In response to this letter, provide:
+
+• A list of chemical and microbial test methods and specifications used to analyze each lot of your drug products before a lot disposition decision, including but not limited to 4-Aminophenol content for all acetaminophen-containing drug products.
+
+• An assessment to ensure complete and appropriate specifications are established for lot release for all products manufactured by your firm. Provide the date by which a CAPA will be implemented.
+
+• Your detailed plan for retrospective testing all drug product lots that were insufficiently tested and remain within expiry. Provide status of all testing that has been done to date and detailed testing data. Specify any in-date lots that have not yet been tested. Determine whether each lot conforms to all appropriate specifications, including but not limited to dissolution and impurities. Provide specific timelines for expeditiously completing this testing and a commitment to take prompt action, including customer notifications and recalls, in the event of any failing tests.
+
+• A comprehensive assessment and remediation plan to ensure your quality unit (QU) is given the authority and resources to effectively function. The assessment should also include, but not be limited to:
+     o A determination of whether procedures used by your firm are robust and appropriate
+     o Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices
+     o Oversight and approval of investigations and discharging of all other QU duties to ensure identity, strength, quality, and purity of all products
+
+Quality Unit Authority
+
+Your inspectional history indicates that your quality unit is not fully exercising its authority and/or responsibilities. Your firm must provide the quality unit with the appropriate authority and sufficient resources to carry out its responsibilities and consistently ensure drug quality.
+
+Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm and because you failed to correct repeat violations, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements.
+
+Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+Violations cited in this letter are not intended as an all-inclusive list. You are responsible for investigating these violations, for determining the causes, for preventing their recurrence, and for preventing other violations.
+
+Correct the violations cited in this letter promptly. Failure to promptly correct these violations may result in legal action without further notice including, without limitation, seizure and injunction. Unresolved violations in this warning letter may also prevent other Federal agencies from awarding contracts.
+
+Until these violations are corrected, we may withhold approval of pending drug applications listing your facility. We may re-inspect to verify that you have completed your corrective actions. We may also refuse your requests for export certificates.
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic response to orapharm1_responses@fda.hhs.gov. Please identify your response with FEI #2432212 and refer to Warning Letter CMS#582253.
+
+If you have any questions, please contact Compliance Officer Juan Jimenez at juan.jimenez@fda.hhs.gov or call 1-518-453-2314 x-1014.
+
+Sincerely,
+/S/
+Diana Amador-Toro
+Program Division Director
+U.S. Food and Drug Administration
+OPQO Division I / New Jersey District

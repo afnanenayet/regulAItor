@@ -1,0 +1,181 @@
+Delivery Method: 
+        UPS Next Day
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Andrew H. Krause
+          
+
+                                
+  
+    Recipient Title
+              President and CEO
+          
+
+          
+            LXR Biotech, LLC
+
+          
+                      2983 Waterview Dr.
+Rochester Hills, MI 48309-4600
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+           Division of Pharmaceutical Quality Operations III 
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+July 17, 2023
+
+WARNING LETTER
+WL #652756
+
+Dear Mr. Krause:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, LXR Biotech, LLC, FEI 3010744574, at 2983 Waterview Dr., Rochester Hills from January 9 to 20, 2023.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug product is adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your February 3, 2023, response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence. Your response is inadequate because, while you indicate that you no longer manufacture drugs, you did not provide any specific corrective actions and preventive actions (CAPA) for the violations, including addressing whether the drug products will be removed from the market.
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to test samples of each component for identity and conformity with all appropriate written specifications for purity, strength, and quality. Your firm also failed to validate and establish the reliability of your component supplier’s test analyses at appropriate intervals (21 CFR 211.84(d)(1) and 211.84(d)(2)).
+
+Your firm contract manufactured an over-the-counter (OTC) (b)(4) drug product (e.g., (b)(4)). You failed to conduct adequate testing on components used to manufacture this drug product. Additionally, your firm accepted components from suppliers without establishing the reliability of suppliers’ test analyses. You also did not routinely obtain or review the suppliers’ certificate of analysis (COA) for components (e.g., the active ingredient (b)(4)). For instance, you provided only a certificate of conformance for your (b)(4) component.
+
+Without adequate testing, you do not have appropriate assurance that the components conform to appropriate specifications prior to use in the drug products you manufacture.
+
+2. Your firm failed to have, for each batch of drug product, appropriate laboratory determination of satisfactory conformance to final specifications for the drug product, including the identity and strength of each active ingredient, prior to release (21 CFR 211.165(a)).
+
+Your firm failed to conduct adequate release testing of (b)(4) drug product. You only conducted heavy metals and microbiological testing prior to batch release.
+
+Full release testing, which includes strength and identity testing of the active ingredient (e.g., (b)(4)), must be performed before drug product batch release and distribution. Without adequate testing, you do not have adequate scientific evidence to assure that drug product batches conform to appropriate specifications before release.
+
+3. Your firm failed to establish adequate written procedures for production and process control designed to assure that the drug products you manufacture have the identity, strength, quality, and purity they purport or are represented to possess (21 CFR 211.100(a)).
+
+Your firm failed to adequately qualify the equipment and validate the processes used to manufacture (b)(4) drug product. You have not performed process performance qualification (PPQ) studies, nor do you have a meaningful ongoing program for monitoring process control, to ensure stable manufacturing operations and consistent drug quality.
+
+Process validation evaluates the soundness of design and state of control of a process throughout its lifecycle. Each significant stage of a manufacturing process must be designed appropriately to ensure the quality of raw material inputs, in-process materials, and finished drugs. Process qualification studies determine whether an initial state of control has been established. Successful process qualification studies are necessary before commercial distribution. Thereafter, ongoing vigilant oversight of process performance and product quality are necessary to ensure that you maintain a stable manufacturing operation throughout the product lifecycle.
+
+See FDA’s guidance document Process Validation: General Principles and Practices for general principles and approaches that FDA considers appropriate elements of process validation, at www.fda.gov/media/71021/download.
+
+4. Your firm’s quality control unit failed to exercise its responsibility to ensure drug products manufactured are in compliance with CGMP, and meet established specifications for identity, strength, quality, and purity (21 CFR 211.22).
+
+Your firm failed to establish an adequate quality unit (QU) with the responsibilities and authority to oversee the manufacture of drug products. For example, you failed to ensure:
+
+
+	An adequate complaint handling process (21 CFR 211.198).
+	Adherence to an adequate stability program (21 CFR 211.166(a)).
+	Consistent and complete batch records (21 CFR 211.188).
+	Adequate investigations into non-conformances (21 CFR 211.192).
+	Appropriate examination of labeling and packaging materials for correctness, including but not limited to sufficiently accounting for all ingredients used in manufacturing, prior to packaging operations (21 CFR 211.130(d)).
+
+
+There was a fundamental failure of production management to effectively oversee the procedures, practices, and suitability of the manufacturing operations. In addition, even when a QU consists of one or only a few, those persons are still accountable for overseeing ongoing effectiveness of all systems and procedures, and review of the results of manufacture to ensure state of control and adherence to all quality standards.
+
+Drug Production
+
+We acknowledge your commitment to cease production of drugs at this facility. Please verify you no longer manufacture drugs and provide us with a detailed list of the name and NDC numbers for those products. Additionally, respond to this letter by informing FDA if you are currently the manufacturer of any (b)(4) or (b)(4) products for (b)(4).
+
+If you plan to resume any operations regulated under the FD&C Act, notify this office prior to resuming your drug manufacturing operations. If you resume CGMP activities at this or another facility, you are responsible for resolving all deficiencies and systemic flaws to ensure your firm is capable of ongoing CGMP compliance. In your notification to the agency, provide a summary of your remediations to demonstrate that you have appropriately completed all CAPAs.
+
+If you resume CGMP activities, you should engage a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements. The qualified consultant should also perform a comprehensive six-system1 audit of your entire operation for CGMP compliance and evaluate the completion and efficacy of all CAPAs before you pursue resolution of your firm’s compliance status with FDA.
+
+Responsibilities as a Contractor
+
+Drugs must be manufactured in conformance with CGMP. FDA is aware that many drug manufacturers use independent contractors such as production facilities, testing laboratories, packagers, and labelers. FDA regards contractors as extensions of the manufacturer. You are responsible for the quality of drugs you produce as a contract facility regardless of agreements in place with product owners. You are required to ensure that drugs are made in accordance with section 501(a)(2)(B) of the FD&C Act for safety, identity, strength, quality, and purity. See FDA’s guidance document Contract Manufacturing Arrangements for Drugs: Quality Agreements at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/contract-manufacturing-arrangements-drugs-quality-agreements-guidance-industry.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+Correct any violations promptly. Failure to promptly and adequately address this matter may result in regulatory or legal action without further notice including, without limitation, seizure, and injunction. Unresolved violations may also prevent other Federal agencies from awarding contracts.
+
+Failure to address violations may also cause FDA to withhold issuance of Export Certificates. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to address any violations.
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Please address your reply via email to: ORAPHARMA3_RESPONSES@fda.hhs.gov
+
+Attention: Sneha Patel
+Compliance Officer
+U.S. Food and Drug Administration
+Division of Pharmaceutical Quality Operations III
+
+Your written notification should refer to the Warning Letter Case Number above (#652756). If you have questions regarding the contents of the letter, please contact Ms. Patel at (313) 393-8254.
+
+Sincerely,
+/S/
+
+CDR Jeffrey D. Meng
+Program Division Director
+Division of Pharmaceutical Quality Operations III
+
+______________________
+
+1 i.e., Quality System, Facilities & Equipment System, Materials System, Production System, Packaging & Labeling System, and Laboratory Control System per FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations.

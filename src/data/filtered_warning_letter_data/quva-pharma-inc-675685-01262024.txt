@@ -1,0 +1,199 @@
+Delivery Method: 
+        Via Electronic Mail - Delivery and Read Receipt Requested
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Stuart Hinchen
+          
+
+                                
+  
+    Recipient Title
+              CEO
+          
+
+          
+            QuVa Pharma, Inc.
+
+          
+                      3 Sugar Creek Center Blvd, Suite 250
+Sugar Land, TX 77478
+United States
+          
+          
+            
+            
+
+     stuart.hinchen@quvapharma.com
+
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+           Division of Pharmaceutical Quality Operations I 
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+  
+    Secondary Issuing Offices
+          
+                  
+    
+     
+        United States
+    
+    
+    
+    
+
+              
+      
+
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+WARNING LETTER
+WL # 675685
+
+January 26, 2024
+
+Dear Mr. Hinchen:
+
+You registered your facility with the U.S. Food and Drug Administration (FDA) as an outsourcing facility under section 503B of the Federal Food, Drug, and Cosmetic Act (FDCA) [21 U.S.C. § 353b]1 on September 15, 2017, and most recently on December 14, 2023. From August 16, 2022, to October 14, 2022, FDA investigators inspected your facility, QuVa Pharma, Inc., located at 519 State Route 173, Bloomsbury, NJ 08804. During the inspection, the investigators noted serious deficiencies in your practices for producing drug products intended or expected to be sterile, which put patients at risk.
+
+FDA issued a Form FDA 483 to your facility on October 14, 2022. FDA acknowledges receipt of your facility’s response, dated November 4, 2022, as well as your subsequent correspondence. FDA also acknowledges that, on September 20, 2022, your facility initiated a voluntary recall of oxytocin 30 Units/500 mL (0.06 Units/mL) added to 0.9% Sodium Chloride, Injection for IV Use, Lot # 30027403, due to incorrect product formulation. Based on this inspection, it appears you produced drugs that violate the FDCA.
+
+A. Compounded Drug Products under the FDCA
+
+Under section 503B(b) of the FDCA, a compounder can register as an outsourcing facility with FDA. Drug products compounded by or under the direct supervision of a licensed pharmacist in an outsourcing facility qualify for exemptions from the drug approval requirements in section 505 of the FDCA [21 U.S.C. § 355(a)], the requirement in section 502(f)(1) of the FDCA [21 U.S.C. § 352(f)(1)] that labeling bear adequate directions for use and the Drug Supply Chain Security Act requirements in section 582 of the FDCA [21 U.S.C. § 360eee-1] if the conditions in section 503B of the FDCA are met.2
+
+An outsourcing facility, which is defined in section 503B(d)(4) of the FDCA [21 U.S.C. § 353b(d)(4)], is a facility at one geographic location or address that — (i) is engaged in the compounding of sterile drugs; (ii) has elected to register as an outsourcing facility; and (iii) complies with all of the requirements of this section. Outsourcing facilities must comply with other applicable provisions of the FDCA, including section 501(a)(2)(B) [21 U.S.C. § 351(a)(2)(B)], regarding current good manufacturing practice (CGMP), and section 501(a)(2)(A) [21 U.S.C. § 351(a)(2)(A)], regarding insanitary conditions. Generally, CGMP requirements for the preparation of drug products are established in Title 21 of the Code of Federal Regulations (CFR) parts 210 and 211.
+
+B. Violations of the FDCA
+
+Adulterated Drug Products
+
+FDA investigators noted that drug products intended or expected to be sterile were prepared, packed, or held under insanitary conditions, whereby they may have become contaminated with filth or rendered injurious to health, causing your drug products to be adulterated under section 501(a)(2)(A) of the FDCA. For example, the investigators observed:
+
+
+	You did not perform adequate product evaluation and take appropriate corrective actions after mold was recovered on operator glove finger plate samples taken after aseptic operations within the ISO 5 area.
+	 An operator placing their upper left side of their body into the ISO 5 hood within the syringe filler. In addition, another operator was observed placing their sleeves, chest, and forehead under the ISO 5 hood.
+
+
+FDA investigators also noted CGMP violations at your facility, that caused your drug product(s) to be adulterated within the meaning of section 501(a)(2)(B) of the FDCA. The violations include, for example:
+
+
+	Your firm failed to follow appropriate written procedures that are designed to prevent microbiological contamination of drug products purporting to be sterile, and that include validation of all aseptic and sterilization processes (21 CFR 211.113(b)).
+	Your firm failed to establish an adequate system for monitoring environmental conditions in aseptic processing areas (21 CFR 211.42(c)(10)(iv)).
+	Your firm failed to thoroughly investigate any unexplained discrepancy or failure of a batch or any of its components to meet any of its specifications, whether or not the batch has already been distributed (21 CFR 211.192).
+	Your firm failed to establish adequate written procedures for production and process control designed to assure that the drug products you manufacture have the identity, strength, quality, and purity they are purport or are represented to possess (21 CFR 211.100(a)).
+	Your firm failed to exercise appropriate controls over computer or related systems to assure that only authorized personnel institute changes in master production and control records, or other records (21 CFR 211.68(b)).
+
+
+Outsourcing facilities must comply with CGMP requirements under section 501(a)(2)(B) of the FDCA. FDA’s regulations regarding CGMP requirements for the preparation of drug products have been established in 21 CFR parts 210 and 211. FDA intends to promulgate more specific CGMP regulations for outsourcing facilities. FDA has issued a revised draft guidance, Current Good Manufacturing Practice — Guidance for Human Drug Compounding Outsourcing Facilities under Section 503B of the FD&C Act. This draft guidance, when finalized, will describe FDA’s expectations regarding outsourcing facilities and the CGMP requirements in 21 CFR parts 210 and 211 until more specific CGMP regulations for outsourcing facilities are promulgated.
+
+Under section 301(a) of the FDCA [21 U.S.C. § 331(a)], the introduction or delivery for introduction into interstate commerce of any drug that is adulterated is a prohibited act. Further, it is a prohibited act under section 301(k) of the FDCA [21 U.S.C. § 331(k)] to do any act with respect to a drug, if such act is done while the drug is held for sale after shipment in interstate commerce and results in the drug being adulterated.
+
+C. Corrective Actions
+
+We have reviewed your facility’s responses to the Form FDA 483. We acknowledge your recall of oxytocin 30 Units/500 mL (0.06 Units/mL) added to 0.9% Sodium Chloride, Injection for IV Use, Lot # 30027403, due to incorrect product formulation, on September 20, 2022.
+
+We have reviewed your facility’s responses to the Form FDA 483. Some of your corrective actions appear adequate; however, we are unable to fully evaluate some of your corrective actions due to lack of adequate supporting documentation:
+
+
+	Regarding observation 5B(i), you note personnel monitoring (PM) sampling of the forearm added in NJ-SOP-SA-0010 “Environmental Monitoring (b)(4) Filler”, section 5.2.5.1.1 states “(b)(4) samples to be taken representing (b)(4) locations and conditions at the conclusion of filling operations. Selected sample locations include...samples of the (b)(4).” Your firm has not provided documentation of environmental monitoring (EM) results in these locations to demonstrate current controls are adequate.
+	In your response to observation 3, your firm performed a document change request CR-15631 to update NJ-SOP-QA-0011, “Performing Acceptable Quality Limit Inspections”, to remove the reference to ‘excessive liquid in the ribs’ as a minor defect. Your firm’s response lacks justification and supporting documentation for the rationale to remove “Excessive Liquid Between Plunger Ribs (Over (b)(4) of the rib)” as a minor defect. Also, your response failed to provide an example of a master batch record to show where operators are to identify and record defects related to leaking syringes. In addition, your firm did not provide sufficient information regarding the training provided to your employees, instead your firm provided a signed sheet.
+	In your response to observation 4A, you provided updated procedures that require user login with (b)(4). However, you failed to provide the attachments with these updated procedures, trained personnel, batch records, and associated test slip as documentation that individual logins are now implemented. Also, in your response to observation 4B, you failed to provide the change control record, including the current active user list for the shared file, and employee training records.
+
+
+Some of your corrective actions appear deficient:
+
+1. Specifically, in your firm’s response to observation 1A, the action level for microbial recovery in ISO 5 on the surface or glove remains (b)(4) CFU for surface and personnel fingertip samples, per updated SOP COR-POL-SA-0001, “Environmental/Personnel Monitoring Master Plan”, Table 3. In addition, 5.1.7.6.3 states, “Recoveries for ISO 5 Surface and/or Personnel Monitoring samples wherein recovery of (b)(4) CFU/plate is observed and an action limit (b)(4) will require the completion of an ISO 5 Low Level Recovery Report. The report will document (b)(4).”
+
+Any microbial contamination in the ISO 5 area is considered an insanitary condition and is a serious concern. Upon recovery, your firm should immediately assess the impact on drug products produced. This assessment should include a thorough evaluation of how contamination could have entered this critical area, and over what period of time the contamination could have existed, as well as drug products that remain on the market that could be affected. Your response failed to ensure a thorough investigation will be performed for any microbial recovery in the ISO 5 environment (e.g., air, surface, and glove) regardless of organism type.
+
+2. In your response to observation 1D, your firm created an SOP to ensure an incident report is initiated in response to work orders when appropriate. However, your firm’s documentation supporting your retrospective investigations was lacking or unclear. Specifically, regarding IR-08345 for WO-005406, it is unclear if the ISO 5 hood pressure gauge is checked prior to starting the batch. However, your investigation report notes the batch record states to make sure the hood is “on” and “working”. Your procedure, NJ-SOP-SA-0008, was not provided to show the requirement to “report any atypical findings such as loss of pressure or damage to PEC,” prior to starting the batch, therefore it was unclear whether the product impact assessment covered an adequate timeframe. It is also not clear whether smoke studies were performed as part of your hood recertification when the impeller was replaced, as no documentation was provided of such. In addition, regarding IR-08346/DEV-01847 for suspected drug splash in the ISO 5 hood, WO-005828 noted on July 23, 2022, that personnel took off the screen to inspect the HEPA filter, and found a 1 inch by half inch light brown stain in the center section. WO-005828 further notes that the stainless grate was cleaned, and a sign was put on the hood to say out of service. WO-005828 does not appear to align with your firm’s IR-08346/DEV-01847 investigation which states when the filter was examined in September 2022, no residue was observed, and no further action was required. From the information provided, it is unclear whether your firm performed adequate investigations.
+
+In addition to the issues discussed above, you should note that CGMP requires the implementation of quality oversight and controls over the manufacture of drugs, including the safety of raw materials, materials used in drug manufacturing, and finished drug products. See section 501 of the FDCA. If you choose to contract with a laboratory to perform some functions required by CGMP, it is essential that you select a qualified contractor and that you maintain sufficient oversight of the contractor’s operations to ensure that it is fully CGMP compliant. Regardless of whether you rely on a contract facility, you are responsible for assuring that drugs you produce are neither adulterated nor misbranded. See 21 CFR 210.1(b), 21 CFR 200.10(b).
+
+FDA strongly recommends that your management undertake a comprehensive assessment of operations, including facility design, procedures, personnel, processes, maintenance, materials, and systems. In particular, this review should assess your aseptic processing operations. A third-party consultant with relevant sterile drug manufacturing expertise should assist you in conducting this comprehensive evaluation.
+
+D. Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive statement of violations at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations. It is your responsibility to ensure that your firm complies with all requirements of federal law, including FDA regulations.
+
+You should take prompt action to address any violations. Failure to adequately address any violations may result in legal action without further notice, including, without limitation, seizure and injunction.
+
+Within fifteen (15) working days of receipt of this letter, please notify this office in writing of the specific steps that you have taken to address any violations. Please include an explanation of each step being taken to prevent the recurrence of violations, as well as copies of related documentation. This letter notifies you of our concerns and provides you an opportunity to address them. If you believe your products are not in violation of the FDCA, include your reasoning and any supporting information for our consideration. If you cannot completely address this matter within fifteen (15) working days, state the reason for the delay and the time within which you will do so.
+
+Send your electronic reply to ORAPHARM1_RESPONSES@fda.hhs.gov. Your written notification should refer to Warning Letter #675685 and include FEI #3013931875.
+
+If you have questions regarding the contents of this letter, please contact CAPT Liatte Closs, Compliance Officer, at Liatte.Closs@fda.hhs.gov and courtesy copy ORAPHARM1_Responses@fda.hhs.gov.
+
+Sincerely,
+/S/
+
+Lisa Harlan
+Program Division Director
+Division of Pharmaceutical Quality Operations
+
+__________________________
+
+1 See Pub. L. No. 113-54, § 102(a), 127 Stat. 587, 587-588 (2013).
+
+2 We remind you that there are conditions, other than those discussed in this letter, that must be satisfied to qualify for the exemptions in section 503B of the FDCA.

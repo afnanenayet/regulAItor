@@ -1,0 +1,279 @@
+Delivery Method: 
+        Return Receipt Requested
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Alok Kumar Jain
+          
+
+                                
+  
+    Recipient Title
+              President Director
+          
+
+          
+            PT. MegaSurya Mas
+
+          
+                      J1 Tambak Sawah 32
+Sidoarjo
+Jawa Timur 61256
+Indonesia
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research | CDER
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter 320-20-45
+
+August 24, 2020
+
+Dear Mr. Jain:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, PT. MegaSurya Mas, FEI 3007801999, at J1 Tambak Sawah 32, Sidoarjo, Jawa Timur, from November 11 to 15, 2019.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug product is adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your December 7, 2019, response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence.
+
+During our inspection, our investigator observed specific violations including, but not limited to, the following.
+
+1. You firm failed to have, for each batch of drug product, appropriate laboratory determination of satisfactory conformance to final specifications for the drug product, including the identity and strength of each active ingredient, prior to release and your firm failed to establish the accuracy, sensitivity, specificity, and reproducibility of its test methods (21 CFR 211.165(a) and (e)).
+
+Inadequate testing before release
+
+Your firm released and distributed the over-the-counter (OTC) drug product, (b)(4), to the U.S. on (b)(4), without adequate final product testing. Your batch (b)(4) release document, dated August 14, 2019, recorded an assay result of (b)(4)% (specification (b)(4) – (b)(4)%) of (b)(4). You acknowledged during the inspection that this test was performed in November 2019, after the date of the release document and after the release of the drug product. This discrepancy on batch release documents demonstrates a concern regarding the validity in your CGMP records.
+
+Inadequate Method Validation
+
+Your firm lacked appropriate validation (or verification, for United States Pharmacopeia (USP) compendial methods) of your analytical test methods used to determine acceptability of your drug product before release for distribution.
+
+During the inspection, your firm acknowledged that the assay testing for the active ingredient in your finished product is not an USP method, nor has the method been validated for testing by high-performance liquid chromatography (HPLC).
+
+Analytical methods must be validated to show they are suitable for their intended use, and equivalent or better than applicable USP compendial methods. Verifying the accuracy, sensitivity, specificity, and reproducibility of your test methods is essential to determine if the drug products you manufacture meet established specification for chemical and microbial attributes.
+
+In your response, you stated that you will purchase a reference standard for the active ingredient, (b)(4), and you will perform validation for specified methods. You also stated that you will perform testing for remaining stock of the (b)(4) by April 30, 2020.
+
+Your response is inadequate because you did not address your failure to perform adequate release testing on your finished drug products. You also did not provide sufficient information regarding the validation or verification of your test methods for identity and strength of (b)(4). Additionally, your firm lacked a comprehensive assessment and retrospective review of all data generated from all computerized laboratory systems used in CGMP operations.
+
+In response to this letter, provide the following:
+
+• A comprehensive independent assessment of your laboratory practices, procedures, methods, equipment, documentation, and analyst competencies. Based on this review, provide a detailed plan to remediate and evaluate the effectiveness of your laboratory system.
+
+• A list of chemical and microbial specifications, including test methods, used to analyze each batch of your drug products before batch disposition decisions.
+    o An action plan and timelines for conducting full chemical and microbiological testing of retain samples to determine the quality of all batches of drug product distributed to the United States within expiry.
+    o A summary of all results obtained from testing retain samples from each batch. If such testing reveals substandard quality drug products, take rapid corrective actions, such as notifying customers and product recalls.
+
+• The actions you will take to determine the overall quality of your U.S. drug product batches within expiry which were previously released without adequate testing, including identity and strength of active ingredients.
+
+• Validation summary of all analytical methods you will use to test each batch of U.S. drug product for identity, strength, quality, and purity.
+
+2. Your firm failed to conduct at least one test to verify the identity of each component of a drug product. Your firm also failed to validate and establish the reliability of your component supplier's test analyses at appropriate intervals (21 CFR 211.84(d)(1) and (2)).
+
+You failed to test the incoming active pharmaceutical ingredient (API), (b)(4), you use in manufacturing your drug product to determine conformance to identity, purity, strength, and other appropriate specifications. Instead, you released API for use in drug production based solely on certificates of analysis (COA) from your supplier without establishing the reliability of the supplier’s analysis through appropriate validation and ensuring that at least one specific identity test is conducted for each lot.
+
+In your response, you stated that you will purchase a (b)(4) reference standard, and you will perform identity testing for the existing stock of API.
+
+Your response is inadequate because you failed to commit to test all new incoming lots of raw material before you use it in the manufacture of your drug products. In addition, you did not specify how you will establish the reliability of your suppliers’ analyses. Also, you did not take any action for drug products already in the market.
+
+In response to this letter, provide the following:
+
+• A comprehensive, independent review of your material system to determine whether all suppliers of components, containers, and closures are each qualified and the materials are assigned appropriate expiration or retest dates. The review should also determine whether incoming material controls are adequate to prevent use of unsuitable components, containers, and closures.
+
+• The chemical and microbiological quality control specifications you use to test and release each incoming lot of component for use in manufacturing.
+
+• A description of how you will test each component lot for conformity with all appropriate specifications for identity, strength, quality, and purity. If you intend to accept any results from your supplier's COA instead of testing each component lot for strength, quality, and purity, specify how you will robustly establish the reliability of your supplier's results through initial validation as well as periodic re-validation. In addition, include a commitment to always conduct at least one specific identity test for each incoming component lot.
+
+• A summary of results obtained from testing all components to evaluate the reliability of the COA from each component manufacturer. Include your SOP that describes this COA validation program.
+
+• A summary of your program for qualifying and overseeing contract facilities that test the drug products you manufacture.
+
+3. Your firm failed to follow written procedures for production and process control designed to assure that the drug products you manufacture have the identity, strength, quality, and purity they purport or are represented to possess (21 CFR 211.100(b)).
+
+Your firm failed to execute your process validation procedure for your drug product, (b)(4). Additionally, your firm failed to validate your (b)(4) system and cleaning program.
+
+Process validation evaluates the soundness of design and state of control of a process throughout its lifecycle. Each significant stage of a manufacturing process must be designed appropriately and assure the quality of raw material inputs, in-process materials, and finished drugs. Process qualification studies determine whether an initial state of control has been established.
+
+Successful process qualification studies are necessary before commercial distribution. Thereafter, ongoing vigilant oversight of process performance and product quality is necessary to ensure you maintain a stable manufacturing operation throughout the product lifecycle. See FDA’s guidance document, Process Validation: General Principles and Practices, for general principles and approaches that FDA considers appropriate elements of process validation at https://www.fda.gov/media/71021/download.
+
+In your response, you stated that you will perform process validation. In addition, you indicated that you have a plan to redesign your (b)(4) system and have a proposed qualification protocol in place.Also, you indicated that you have established a cleaning validation protocol and will conduct studies.
+
+Your response is inadequate because it lacked sufficient information on your planned validation activities, including timelines for completion. Furthermore, you did not address the effects of your lack of process validation on the products in the market within expiry.
+
+In response to this letter, provide the following:
+
+• A detailed summary of your validation program for ensuring a state of control throughout the product lifecycle, along with associated procedures. Describe your program for process performance qualification, and ongoing monitoring of both intra-batch and inter-batch variation to ensure a continuing state of control.
+
+• A timeline for performing appropriate process performance qualification (PPQ) for each of your marketed drug products.
+
+• Your process performance protocol(s), and written procedures for qualification of equipment and facilities.
+
+• A detailed program for designing, validating, maintaining, controlling and monitoring each of your manufacturing processes that includes vigilant monitoring of intra-batch and inter-batch variation to ensure an ongoing state of control. Also, include your program for qualification of your equipment and facility.
+
+• A comprehensive remediation plan for the design, control, and maintenance of the (b)(4) system. Include a validation report for the (b)(4) system obtained after an appropriately designed system has been installed. Include the system validation protocol, the complete test results, and the final validation report.
+
+• Your total microbial count limits to monitor whether this system is producing (b)(4) suitable for the intended uses for each of your products.
+
+• A detailed risk assessment addressing the potential effects of the observed (b)(4) system failures on the quality of all drug product lots currently in U.S. distribution or within expiry. Specify actions that you will take in response to the risk assessment, such as customer notifications and product recalls.
+
+• A procedure for your (b)(4) system monitoring that specifies routine microbial testing of (b)(4) to ensure its acceptability for use in each batch of drug products produced by your firm.
+
+• A summary of updated SOPs that ensure an appropriate program is in place for verification and validation of cleaning procedures for products, processes, and equipment.
+
+• A corrective and preventive action (CAPA) plan, based on the retrospective assessment, that includes appropriate remediations to your cleaning processes and practices, and timelines for completion. Provide a detailed summary of vulnerabilities in your process for lifecycle management of equipment cleaning. Describe improvements to your cleaning program, including enhancements to cleaning effectiveness; improved ongoing verification of proper cleaning.
+
+4. Your firm’s quality control unit failed to exercise its responsibility to ensure drug products manufactured are in compliance with CGMP, and meet established specifications for identity, strength, quality, and purity (21 CFR 211.22).
+
+Your firm lacked an adequate quality unit (QU). For example, your quality unit failed to establish procedures describing QU roles, responsibilities, and authorities. Furthermore, your QU’s oversight of your drug manufacturing operations were inadequate. For example, your QU failed to perform the following:
+
+• Establish Master Batch records.
+
+• Control and issue batch records.
+
+• Oversee laboratory controls for computerized systems.
+
+• Evaluate discrepancies and out-of-specification results.
+
+In your response, you stated that you wrote a procedure for QU responsibilities, performed training, and installed a security system.
+
+Your response is inadequate because it lacked a commitment to test batches currently in the market to ensure the product meets the quality attributes throughout its expiry.
+
+In response to this letter, provide a comprehensive assessment and remediation plan to ensure your QU is given the authority and resources to effectively function. The assessment should also include, but not be limited to:
+
+• A determination of whether procedures used by your firm are robust and appropriate.
+
+• Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices.
+
+• A complete and final review of each batch and its related information before the QU disposition decision.
+
+• Oversight and approval of investigations and discharging of all other QU duties to ensure identity, strength, quality, and purity of all products.
+
+Also, describe how top management supports quality assurance and reliable operations, including but not limited to timely provision of resources to proactively address emerging manufacturing/ quality issues and to assure a continuing state of control.
+
+5. Your firm failed to establish and follow an adequate written testing program designed to assess the stability characteristics of drug products and to use results of stability testing to determine appropriate storage conditions and expiration dates (21 CFR 211.166(a)).
+
+You have an inadequate stability program for your drug product.During the inspection, it was noted that there were no procedures or protocols for performing accelerated or long-term stability testing on drug products.
+
+In your response, you stated that you have revised the stability procedure to include accelerated and long-term stability testing. You indicated that you will conduct testing for the active ingredient and other specifications to support the (b)(4) expiration date.
+
+Your response is inadequate because it lacked a thorough assessment of your stability program. You did not provide all the test specifications for stability and you did not commit to test reserve samples to support the expiry date of the distributed products.
+
+In response to this letter, provide the following:
+
+• A comprehensive, independent assessment and CAPA plan to ensure the adequacy of your stability program. Your remediated program should include, but not be limited to:
+    o Stability indicating methods
+    o Stability studies for each drug product in its marketed container-closure system before distribution is permitted
+    o An ongoing program in which representative batches of each product are added each year to the program to determine if the shelf-life claim remains valid
+    o Detailed definition of the specific attributes to be tested at each station (timepoint)
+
+• All procedures that describe these and other elements of your remediated stability program.
+
+Data Integrity Remediation
+
+Your quality system does not adequately ensure the accuracy and integrity of data to support the safety, effectiveness, and quality of the drugs you manufacture. See FDA’s guidance document Data Integrity and Compliance With Drug CGMP for guidance on establishing and following CGMP compliant data integrity practices at https://www.fda.gov/media/119267/download.
+
+We strongly recommend that you retain a qualified consultant to assist in your remediation.
+
+In response to this letter, provide the following:
+
+• A comprehensive investigation into the extent of the inaccuracies in data records and reporting including results of the data review for drugs distributed to the United States. Include a detailed description of the scope and root causes of your data integrity lapses.
+
+• A current risk assessment of the potential effects of the observed failures on the quality of your drugs. Your assessment should include analyses of the risks to patients caused by the release of drugs affected by a lapse of data integrity and analyses of the risks posed by ongoing operations.
+
+• A management strategy for your firm that includes the details of your global corrective action and preventive action plan. The detailed corrective action plan should describe how you intend to ensure the reliability and completeness of all data generated by your firm including microbiological and analytical data, manufacturing records, and all data submitted to FDA.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting drug CGMP requirements.
+
+Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility in connection with your product. You are responsible for investigating and determining the causes of these violations and for preventing their recurrence or the occurrence of other violations.
+
+FDA placed your firm on Import Alert 66-40 on June 18, 2020.
+
+Until you correct all violations completely and we confirm your compliance with CGMP, FDA may withhold approval of any new drug applications or supplements listing your firm as a drug manufacturer.
+
+Failure to correct these violations may also result in the FDA refusing admission of articles manufactured at PT. MegaSurya Mas, J1 Tambak Sawah 32, Sidoarjo into the United States under section 801(a)(3) of the FD&C Act, 21 U.S.C. 381(a)(3). Articles under this authority may be subject to refusal of admission, in that the methods and controls used in their manufacture do not appear to conform to CGMP within the meaning of section 501(a)(2)(B) of the FD&C Act, 21 U.S.C. 351(a)(2)(B).
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov.
+
+Please identify your response with FEI 3007801999 and ATTN: Chhaya Shetty.
+
+Sincerely,
+/S/
+Francis Godwin
+Director
+Office of Manufacturing Quality
+Office of Compliance
+Center for Drug Evaluation and Research

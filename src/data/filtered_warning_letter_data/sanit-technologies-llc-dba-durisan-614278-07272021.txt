@@ -1,0 +1,197 @@
+Delivery Method: 
+        VIA Electronic Mail
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Michael Wetzer/Dr. Joseph Antoun
+          
+
+                                
+  
+    Recipient Title
+              Chief Executive Officer/Chief Scientific Officer
+          
+
+          
+            Sanit Technologies, LLC dba Durisan
+
+          
+                      7810 25th Court East Unit 106
+Sarasota, FL 34243-2841
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Office of Pharmaceutical Quality Operations, Division II
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+July 27, 2021
+
+Case: 614278
+
+WARNING LETTER
+
+
+Mr. Wetzer and Dr. Antoun:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Sanit Technologies LLC., dba Durisan, FEI 3014538924, at 7810 25th Court East Unit 6, Sarasota, Florida, from March 1 to 5, 2021.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your response to our Form FDA 483 in detail.
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+Your firm’s quality control unit failed to exercise its responsibility to ensure drug products manufactured are in compliance with CGMP, and meet established specifications for identity, strength, quality, and purity (21 CFR 211.22).
+
+Lack of quality control over batch release
+
+You manufactured and distributed over the counter (OTC) drug products labeled as Durisan Hand Sanitizer, Alcohol-Free. Your quality unit (QU) approved and released Durisan Hand Sanitizer, Alcohol-Free into the market that failed its finished product
+
+specifications for total aerobic microbial count for bacteria (TAMC) and yeast/molds (Y/M) from at least March through December 2020. Furthermore, your firm identified Burkholderia cepacia, an opportunistic pathogen, in the drug product Hand Sanitizer Kidney lot# DHS030920A1-S, Hand Sanitizer lot # DHS030920A2-S and Sanitizer Wipes lot# DHS031020A4-S. You released these lots for distribution in April, July, and December of 2020.
+
+In the affidavit dated March 5, 2021, and signed by you, the Chief Executive Officer, you stated that products manufactured from March 1 to June 30, 2020 were shipped in “contaminated form.”
+
+These topical products could be applied to broken skin or used by vulnerable populations. Objectionable microbiological contamination of these products can pose a serious hazard to consumers. Moreover, you stated to our investigator that one of your top three customers is a school system that includes infant, toddler, and pre-k programs.
+
+Related to the release of drug products with microbiological contamination, your QU failed to execute its duties and oversight related to the following:
+
+
+	Opening and thoroughly investigating out-of-specification results (OOS) for your finished drug products when they failed their finished product specifications for microorganisms. You also failed to open deviations and thoroughly investigate failures in your (b)(4) water system, which produces a component of your drugs, including findings of too numerous to count (TNTC) for microorganisms in water samples. (21 CFR 211.192)
+	Ensuring your water system, used to manufacture your OTC drug products was suitable for use. The water system produced water contaminated with microorganisms recorded at a level of TNTC on March 23, 2020. Despite these findings, your QU did not exercise its authority to reject drug components made from this system and instead your firm continued to manufacture and release OTC drug products with objectionable microbiological contamination. (21 CFR 211.63)
+
+
+Deficiencies related to your water system are not new. FDA conducted a regulatory meeting with your firm on October 29, 2019 and discussed the status of your firm’s water system. You stated during the regulatory meeting that you were planning to (b)(4). FDA further discussed the inadequate monitoring of the water system and you stated your reasoning for not adequately monitoring was because of limited manufacturing. FDA provided information regarding the number of recalls initiated because of microbiological contamination incidents in the industry that are associated with non-sterile drug products and objectionable organisms. You stated that if you received an OOS result for the water, you would quarantine product, open an investigation, and determine if a recall was necessary. However, your QU failed to follow through with your commitments made during the regulatory meeting and knowingly released contaminated water for use in manufacturing and distributed drug product contaminated with dangerous levels of microorganisms recorded as TNTC.
+
+Lack of Procedures and Responsibility for Finished Product Specifications and the Stability Program
+
+Your QU failed to exercise its duties and oversight related to the following:
+
+
+	Establish finished product drug specifications for your active pharmaceutical ingredient benzalkonium chloride. You changed your specifications numerous times for your finished product assay and stated that you were still in the process of “optimizing” and performing a justification for the specification. (21 CFR 211.160(b))
+	Establish a stability program that ensures that the drug product retains its quality attributes throughout its expiry. (21 CFR 211.166(a))
+
+
+In your response you stated that because of “high demand from consumers; the decision was taken by prior leadership to fill and ship product on the premise that it was acceptable. Subsequent finished goods testing, which at times was shown to be positive for bacteria, was largely disregarded and deemed unreliable as results were inconsistent with no obvious correlation to why they were positive.” Although you stated that the previous management made these release decisions, your current management released and distributed at least 23 shipments of contaminated drug product containing high levels of microorganisms.
+
+Your response is inadequate. You did not provide details for how you will ensure your quality unit provides the necessary oversight for your drug manufacturing processes to ensure a safe and effective drug product is released to the market. For example, your response inadequately details how your quality unit will determine the suitability of all batches of drug product, which is an essential element of your quality unit responsibility. Additionally, your firm cannot solely rely on microbiological testing for justification to release drug product batches. Contamination is not typically uniformly distributed, especially in a deficient system, and thus samples may not be representative of the type or level of contamination that may exist in other individual units of a batch.
+
+In response to this letter, provide the following:
+
+
+	Acknowledge your responsibility in writing, for all products that remain in the market and are within expiry.
+	Indicate how you will maintain quality assessments, including ongoing review of adverse events and customer complaints for drugs remaining in distribution.
+	A full reconciliation for all drug products that you have not recalled remaining in the market and within expiry.
+	A full reconciliation for all drug products that you have received because of your recall and any drug product that remained in inventory.
+	For any drug products that you disposed of, provide documentation that clearly indicates how you inventoried, reconciled, and disposed of the product.
+	Provide a detailed plan for the dissolution of your business which includes contact information, documentation demonstrating dissolution and that you have de-registered your firm as a drug manufacturer with FDA. Indicate in this plan how you have dispositioned the equipment and property.
+
+
+Objectionable Organisms
+
+Burkholderia cepacia complex poses a risk of contamination in non-sterile, water- based drug products. For Further information regarding the significance of Burkholderia cepacia complex contamination in drug products, see FDA’s July 7, 2021, advisory, at FDA advises drug manufacturers that Burkholderia cepacia complex poses a contamination risk in non-sterile, water-based drug products | FDA
+
+Cessation of Manufacturing at the Facility
+
+We acknowledge your decision to cease all production and distribution of drug products from the site as of June 30, 2021.
+
+Note that remediating these CGMP violations will be necessary if you, a successor, or an acquirer resumes drug manufacturing operations at this site for the U.S. market. If you plan to resume drug manufacturing operations, at this, or at another location, contact the agency before resuming your operations and include written confirmation of full remediation, including detailed supporting documents, of the related CGMP violations cited.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of these violations and for preventing their recurrence or the occurrence of other violations.
+
+Correct the violations cited in this letter promptly. Failure to promptly correct these violations may result in legal action without further notice including, without limitation, seizure, and injunction. Unresolved violations in this warning letter may also prevent other Federal agencies from awarding contracts.
+
+Failure to address violations may also cause FDA to withhold issuance of Export Certificates. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to address any violations.
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Please identify your response with FEI 3014538924. Send your electronic reply to Dr. Shawn Larson – Compliance Officer at Shawn.Larson@fda.hhs.gov and ORAPHARM2_Responses@fda.hhs.gov.
+
+If you have questions regarding the contents of this letter, please contact Dr. Larson at 214-253-5216.
+
+Sincerely,
+/S/
+
+CDR John W. Diehl, M.S.
+Acting Program Division Director
+Office of Pharmaceutical Quality Operations, Division II
+
+ 
+
+CC: Osman Lambiro
+Quality Manager
+Sanit Technologies LLC., dba Durisan
+7810 25th Court East Unit 106
+Sarasota, FL 34243-2841
+
+CC: Guy Gabriel
+Operations Manager
+Sanit Technologies LLC., dba Durisan
+7810 25th Court East Unit 106
+Sarasota, FL 34243-2841

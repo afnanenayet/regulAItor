@@ -1,0 +1,271 @@
+Delivery Method: 
+        VIA SIGNATURE CONFIRMED DELIVE
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Richard N. Blume
+          
+
+                                
+  
+    Recipient Title
+              President
+          
+
+          
+            MSM Nutraceuticals, LLC dba MSM Health Solutions
+
+          
+                      2103 West Parkside Lane, Suite 107
+Phoenix, AZ 85027
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Division of Pharmaceutical Quality Operations IV
+        
+         
+          19701 Fairchild
+Irvine, CA 92612-2506
+United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+
+WARNING LETTER
+
+
+October 24, 2019
+
+Dear Mr. Blume:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, MSM Nutraceuticals, LLC dba MSM Health Solutions, FEI 3009117524, at 2103 West Parkside Lane, Suite 107, Phoenix, from April 30 to May 8, 2019.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See 21 CFR, parts 210 and 211.
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+Your firm manufactures the over-the-counter (OTC) drug products “MSM PAIN GEL” and “MSM NASAL SPRAY.” These products are unapproved new drugs in violation of section 505(a) of the FD&C Act, 21 U.S.C. 355(a). Introduction or delivery for introduction of such
+products into interstate commerce is prohibited under section 301(d) of the FD&C Act, 21 U.S.C. 331(d). These violations are described in more detail below.
+
+We acknowledge receipt of your responses to our Form FDA 483.
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to perform, for each batch of drug product, appropriate laboratory determination of satisfactory conformance to final specifications for the drug product, including the identity and strength of each active ingredient, prior to release, and conduct appropriate laboratory testing for each batch of drug product required to be free of objectionable microorganisms (21 CFR 211.165(a) and (b)).
+
+You released finished OTC drug products without adequate testing for identity and strength of the active ingredient (e.g., methylsulfonylmethane). You also failed to test these drug products to ensure they are free of objectionable microorganisms and meet appropriate microbial limits.
+
+Without adequate testing, you do not have scientific evidence that your drug product batches conform to appropriate specifications prior to release.
+
+FDA tested samples of “MSM NASAL SPRAY” and found the active ingredient methylsulfonylmethane to be subpotent. Therefore, this drug product is also adulterated under section 501(c) of the FD&C Act, 21 U.S.C. 351(c), in that its strength differs from, or its purity or quality falls below, that which it purports or is represented to possess.
+
+In response to this letter, provide the following:
+
+? A summary of your test requirements and specifications that align with USP <5> for your nasal products.
+? A comprehensive, independent assessment of your laboratory practices, procedures, methods, equipment, and analyst competencies. Based on this review, provide a detailed corrective action and preventive action (CAPA) plan to remediate. Include provisions for evaluating CAPA effectiveness. If a contract facility will be performing any laboratory functions on your behalf, conduct the same comprehensive assessment, implement an appropriate supplier CAPA, and provide a summary of your activities.
+? A list of chemical and microbial specifications, including test methods, used to analyze each lot of your drug products before a lot disposition decision.
+     o An action plan and timelines for conducting full chemical and microbiological testing of retain samples to determine the quality of all batches of drug product distributed to the United States that are within expiry as of the date of this letter.
+     o A summary of all results obtained from testing retain samples from each batch. If such testing reveals substandard quality drug products, take rapid corrective actions, such as notifying customers and product recalls.
+? An independent retrospective review of all MSM Nutraceuticals nasal, ophthalmic, and topical (i.e., otics, dermals) drug products and the steps you are taking to address the marketing status of each drug, as well as any product quality or patient safety risks posed by these products, including actions such as customer notifications and recalls.
+
+2. Your firm failed to establish adequate written procedures for production and process control designed to assure that the drug products you manufacture have the identity, strength, quality, and purity they purport or are represented to possess (21 CFR 211.100(a)).
+
+You failed to validate the processes used to manufacture your drug products.
+
+Inadequate Control of Manufacturing Processes
+
+You have not performed process qualification studies, nor do you have a rigorous ongoing program for monitoring process control to ensure stable manufacturing operations and consistent drug quality. For example, your procedures for compounding and filling your “MSM PAIN GEL” products do not define or identify critical process parameters such as mixing times, order of production steps, blending speeds, or process times. In addition, you lack sufficient batch instructions to ensure reproducibility. You made changes to your manufacturing production records without documenting, justifying, or assessing the impact to your product.
+
+Establishing well defined process parameters and ensuring raw material attributes are particularly important factors in the manufacture of topical creams and ointments to ensure uniformity. Process validation evaluates the soundness of design and state of control of a process throughout its lifecycle. Each significant stage of a manufacturing process must be designed appropriately and assure the quality of raw material inputs, in-process materials, and finished drugs. Process qualification studies determine whether an initial state of control has been established. Successful process qualification studies are necessary before commercial distribution. Thereafter, ongoing vigilant oversight of process performance and product quality is necessary to ensure you maintain a stable manufacturing operation throughout the product lifecycle.
+
+See FDA’s guidance document, Process Validation: General Principles and Practices, for general principles and approaches that FDA considers appropriate elements of process validation at http://www.fda.gov/media/71021/download.
+
+Inadequate Control of Water System
+
+Purified water is used as a component in the manufacture of your drug products. You lack validation studies for your purified water system. Your firm has not demonstrated that you can effectively design, control, maintain, and monitor the system so it consistently produces pharmaceutical grade water that, at a minimum, meets the USP monograph for purified water and appropriate microbial limits.
+
+In addition, you discarded two batches of “MSM PAIN GEL” that had consistency and color issues. Although you lacked a documented investigation that established root cause, you indicated that these quality defects were due to substandard water quality. Your firm made changes to the system without an assessment or evidence to assure batch uniformity and consistent drug quality. Effective change management is necessary to prevent unintended consequences to your drug products.
+
+Your firm’s quality systems are inadequate. See FDA’s guidance document, Quality Systems Approach to Pharmaceutical CGMP Regulations, for help implementing quality systems and risk management approaches to meet the requirements of CGMP regulations 21 CFR, parts 210 and 211 at http://www.fda.gov/media/71023/download.
+
+In response to this letter, provide the following:
+
+? A comprehensive, independent assessment of your change management system. This assessment should include, but not be limited to, your procedure(s) to ensure changes are sufficiently justified, reviewed, and approved by your quality unit. Your change management program should also include provisions for determining change effectiveness.
+? A remediation plan that better assures ongoing management oversight throughout the manufacturing lifecycle of all drug products. Provide a more data-driven and scientifically sound program that identifies sources of process variability, and assures that manufacturing, including both production and packaging operations, meet appropriate parameters and quality standards. This includes, but is not limited to, evaluating suitability of equipment for its intended use, ensuring quality of input materials, determining the capability and reliability of each manufacturing process step and its controls, and vigilant ongoing monitoring of process performance and product quality.
+? A detailed summary of your validation program for ensuring a state of control throughout the product lifecycle, along with associated procedures. Describe your program for process performance qualification (PPQ), and ongoing monitoring of both intra-batch and inter-batch variation to ensure a continuing state of control.
+? A timeline for performing appropriate PPQ for each of your marketed drug products.
+? Include your process performance protocol(s), and written procedures for qualification of equipment and facilities.
+? A comprehensive, independent remediation plan for the design, control, and maintenance of the water system.
+? A validation report for the water system performed after all identified design issues have been fully corrected and any maintenance repairs have been completed. Include the system validation protocol, the complete test results, and the final validation report.
+? A procedure governing your program for ongoing control, maintenance, and monitoring that ensures the remediated system consistently produces water that meets the Purified Water, USP monograph specifications and appropriate microbial limits.
+
+3. Your firm failed to assure that the drug product bore an expiration date that was supported by appropriate stability testing (21 CFR 211.137(a)).
+
+You lack stability data to support the expiration dates for your drug products. Your firm could not provide data demonstrating that the chemical and microbial attributes of your drug products remain acceptable throughout their assigned shelf life. Your labels bore a (b)(4) year expiration date for your liquid “MSM NASAL SPRAY” and a (b)(4)-year expiration date for your “MSM PAIN GEL.”
+
+Without an adequate stability program, you cannot confirm that your drug products continue to meet established specifications and all pre-determined quality criteria throughout their shelf life.
+
+In your response to this letter, provide the following:
+
+? A comprehensive, independent assessment and CAPA to ensure the adequacy of your stability program. Your remediated program should include, but not be limited to:
+     o Stability-indicating methods.
+     o Stability studies for each drug product in its marketed container-closure system before distribution is permitted.
+     o An ongoing program in which representative batches of each product are added each year to the program to determine if the shelf-life claim remains valid.
+     o Detailed definition of the specific attributes to be tested at each station (timepoint).
+? All procedures that describe these and other elements of your remediated stability program.
+
+4. Your firm failed to conduct at least one test to verify the identity of each component of a drug product. Your firm also failed to validate and establish the reliability of your component supplier's test analyses at appropriate intervals (21 CFR 211.84(d)(1) and (2)).
+
+You failed to test your incoming components, including methylsulfonylmethane, for identity, purity, strength, and other appropriate quality attributes. Instead, your firm relied on certificates of analysis (COA) from unqualified suppliers. FDA requires identity testing for each component lot used in drug product manufacturing, and you can only rely on COA for other component attributes by appropriately validating the supplier's test results at appropriate intervals.
+
+In addition, you manufacture drug products containing glycerin such as “MSM PAIN GEL.” It is unclear if you have addressed whether all incoming glycerin lots are evaluated in accord with the USP monograph to determine if diethylene (DEG) and ethylene glycol (EG) contamination is present.
+
+DEG contamination in pharmaceuticals has caused lethal poisoning incidents in humans worldwide. See FDA's guidance document, Testing of Glycerin for Diethylene Glycol, to help you meet the CGMP requirements when manufacturing drugs containing glycerin, at https://www.fda.gov/media/71029/download.
+
+In response to this letter, provide the following:
+
+? A comprehensive, independent review of your material system to determine whether all suppliers of components, containers, and closures, are each qualified and the materials are assigned appropriate expiration or retest dates. The review should also determine whether incoming material controls are adequate to prevent use of unsuitable components, containers, and closures.
+? The chemical and microbiological quality control specifications you use to test and determine disposition of each incoming lot of components to evaluate whether they are suitable for use in manufacturing.
+? A description of how you will test each component lot for conformity with all appropriate specifications for identity, strength, quality, and purity. If you intend to accept any testing results from your supplier’s COA instead of testing each component lot for strength, quality, and purity, specify how you will robustly establish the reliability of your supplier’s results through initial validation as well as periodic re-validation. In addition, include a commitment to always conduct at least one specific identity test for each incoming component lot.
+? A summary of results obtained from testing all components to evaluate the reliability of the COA from each component manufacturer. Include your SOP that describes this COA validation program, including provisions for both initial and periodic evaluations.
+? A summary of your program for qualifying and overseeing contract facilities that test the drug products you manufacture.
+? Results of tests for DEG and EG in retain samples of all glycerin lots used to manufacture your drug products.
+? A full risk assessment for drug products that contain glycerin and are within expiry in the U.S. market. Take prompt corrective action and preventive action, and detail your future actions to ensure appropriate selection of your suppliers, ongoing scrutiny of their supply chain, and appropriate incoming lot controls.
+
+Drug Production Ceased and Product Recalled
+
+We acknowledge your commitment to cease production of drugs at this facility. Additionally, you initiated a recall of all MSM eye drop batches on March 19, 2019, after our inspection found that you lacked suitable processes designed to render this ophthalmic product sterile.
+
+In response to this letter, clarify whether you intend to resume manufacturing any drugs at this facility in the future. Provide the response on company letterhead signed by the top official at your firm. If you plan to resume manufacturing drugs, notify this office in writing to arrange for a meeting to discuss required remediation prior to resuming operations.
+
+Any drug marketed by your firm must conform with all applicable requirements of the FD&C Act, including those outlined in the Unapproved New Drug Charges section below.
+
+Use of Contract Manufacturers
+
+Your response indicates that you may begin to use a contract manufacturer to produce your drugs. FDA is aware that many drug manufacturers use independent contractors such as production facilities, testing laboratories, packagers, and labelers. FDA regards contractors as extensions of the manufacturer.
+
+You are responsible for the quality of your drugs regardless of agreements in place with your contract facilities. You are required to ensure that drugs are made in accordance with section 501(a)(2)(B) of the FD&C Act to ensure safety, identity, strength, quality, and purity. See FDA’s guidance document Contract Manufacturing Arrangements for Drugs: Quality Agreements at https://www.fda.gov/media/86193/download.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements. Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Unapproved New Drug Charges
+
+“MSM PAIN GEL”
+“MSM PAIN GEL” is a drug as defined by section 201(g)(1)(B) of the FD&C Act, 21 U.S.C. 321(g)(1)(B), because it is intended for the diagnosis, cure, mitigation, treatment, or prevention of disease, and/or under section 201(g)(1)(C) of the FD&C Act, 21 U.S.C. 321(g)(1)(C), because it is intended to affect the structure or any function of the body. Specifically, this product is intended for use as an external analgesic.
+
+Examples of claims observed on the product label and labeling, which includes the product website www.msmhealthsolutions.com that is printed on the label, that establish the intended uses (as defined by 21 CFR 201.128) of the product includes, but may not be limited to, the following:
+
+“MSM PAIN GEL” Label
+“Apply as needed to any part of the body. . . If needed, you can apply subsequent layers, one minute after the other. Each layer penetrates deeper and deeper for joint, muscle & soft tissue support.”
+
+“MSM PAIN GEL” Website Labeling
+“MSM (methylsulfonylmethane), also known as dimethyl sulfone (DMSO2) and methyl sulfone, is an organic sulfur-containing compound that is essential for optimal health. Without sufficient MSM sulfur, your body cannot maintain an appropriate level of homeostasis . . . MSM Gel allows your body to heal faster. All pain is inflammation of soft tissue!”
+
+OTC drug products such as “MSM PAIN GEL” that are intended for use as external analgesics are being evaluated as part of the OTC Drug Review. They have been proposed to be classified as generally recognized as safe and effective and not misbranded under the Tentative Final Monograph (TFM) for External Analgesic Drug Products for Over-the-Counter Human Use (external analgesic TFM) (48 FR 5852, February 8, 1983) if they meet each condition in the TFM and each general condition in 21 CFR 330.1. Pending the promulgation of a final rule, the agency generally does not intend to pursue regulatory action against products marketed in accordance with the conditions proposed in the TFM and each general condition in 21 CFR 330.1 unless a particular product poses a public health concern. Such marketing, however, is subject to the possibility that a final rule may require reformulation and/or relabeling or FDA approval through the “new drug” procedures of the FD&C Act (section 505). However, “MSM PAIN GEL” does not meet these conditions for the reasons explained below.
+
+The formulation and labeling for “MSM PAIN GEL” are not consistent with the conditions proposed in the external analgesic TFM (48 FR 5852, February 8, 1983). Specifically, your product website claims, “MSM (methylsulfonylmethane), also known as dimethyl sulfone (DMSO2) and methyl sulfone, is an organic sulfur-containing compound that is essential for optimal health. Without sufficient MSM sulfur, your body cannot maintain an appropriate level of homeostasis.” According to 21 CFR 201.66(b)(2), an “active ingredient” means any component that is intended to furnish pharmacological activity or other direct effect in the diagnosis, cure, mitigation, treatment, or prevention of disease, or to affect the structure or any function of the body of humans. Although your firm does not specifically list MSM as an active ingredient, your above-noted website claims demonstrates that it is an “active ingredient” as defined in 21 CFR 201.66(b)(2) because the ingredient is intended to furnish pharmacological activity.
+
+Additionally, the label for “MSM PAIN GEL” does not distinguish active ingredients from inactive ingredients. Therefore, all of the product’s labeled ingredients, Pure (methylsulfonylmethane), ‘OptiMSM,’ Witch Hazel Distillate, Optiphen, Aloe Vera, Vegetable Glycerine, Carbomer 940, and TEA are deemed to be represented as active ingredients. See 21 CFR 201.66(b)(2). However, none of these labeled ingredients are proposed active ingredients in the external analgesic TFM (48 FR 5852, February 8, 1983). Furthermore, the product labeling includes indications such as, “MSM Gel allows your body to heal faster” that are not proposed under the above referenced TFM or any rulemaking being considered under the OTC Drug Review.
+
+We are not aware of any adequate and well controlled clinical trials in the published literature that support a determination that “MSM PAIN GEL” is generally recognized as safe and effective for its labeled indications. Additionally, we are not aware of similar OTC products as formulated and labeled that were available in the United States market on or before the inception of the OTC Drug Review.
+
+“MSM PAIN GEL,” as formulated and labeled, is therefore a new drug within the meaning of section 201(p) of the FD&C Act because it is not generally recognized among scientific experts as safe and effective for the drug uses described in its labeling. A new drug may not be introduced or delivered for introduction into interstate commerce unless an application approved by FDA under section 505 of the FD&C Act is in effect for the drug. “MSM PAIN GEL” is not the subject of an approved new drug application; therefore, marketing and distributing this product in the United States is prohibited under section 301(d) of the FD&C Act, 21 U.S.C. 331(d) and violates section 505 of the FD&C Act.
+
+“MSM NASAL SPRAY”
+“MSM NASAL SPRAY” is a drug as defined by section 201(g)(1)(B) of the FD&C Act, 21 U.S.C. 321(g)(1)(B), because it is intended for the diagnosis, cure, mitigation, treatment, or prevention of disease, and/or under section 201(g)(1)(C) of the FD&C Act, 21 U.S.C. 321(g)(1)(C), because it is intended to affect the structure or any function of the body. Specifically, this product is intended to treat snoring, sinusitis, and inflammation of the sinus cavities.
+
+Examples of claims observed on the product label that establish the intended uses (as defined by 21 CFR 201.128) of the product includes, but may not be limited to, the following:
+
+     “Spray 1 to 2 sprays in each nostril as needed several times per day for snoring & sinus troubles such as Sinusitis and inflammation of the sinus cavity.”
+
+OTC drug products intended to treat snoring, sinusitis, and inflammation of the sinus cavities such as “MSM NASAL SPRAY” are not covered by any rulemaking being considered under the OTC Drug Review. We are not aware of any adequate and well controlled clinical trials in the published literature that support a determination that “MSM NASAL SPRAY” is generally recognized as safe and effective for its labeled indications.
+
+“MSM NASAL SPRAY,” as formulated and labeled, is therefore a new drug within the meaning of section 201(p) of the FD&C Act because it is not generally recognized among scientific experts as safe and effective for the drug uses described in its labeling. A new drug may not be introduced or delivered for introduction into interstate commerce unless an application approved by FDA under section 505 of the FD&C Act is in effect for the drug. “MSM NASAL SPRAY” is not the subject of an approved new drug application; therefore, marketing and distributing this product in the United States is prohibited under section 301(d) of the FD&C Act, 21 U.S.C. 331(d) and violates section 505 of the FD&C Act.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of these violations and for preventing their recurrence or the occurrence of other violations.
+
+Correct the violations cited in this letter promptly. Failure to promptly correct these violations may result in legal action without further notice including, without limitation, seizure and injunction. Unresolved violations in this warning letter may also prevent other Federal agencies from awarding contracts.
+
+FDA may also withhold approval of requests for export certificates and approval of pending new drug applications or supplements listing your facility as a supplier or manufacturer until the above violations are corrected. We may re-inspect to verify that you have completed your corrective actions.
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to ORAPHARM4_Responses@fda.hhs.gov or mail your reply to:
+
+CDR Steven E. Porter, Jr.
+Director, Division of Pharmaceutical Quality Operations IV
+19701 Fairchild Road
+Irvine, CA 92612
+
+Please identify your response with unique identifier 584018.
+
+If you have questions regarding any issues in this letter, please contact CAPT Matthew R. Dionne, Compliance Officer, at (303)-236-3064, or Matthew.Dionne@fda.hhs.gov.
+
+Sincerely,
+/S/
+
+CDR Steven E. Porter, Jr.
+Director, Division of Pharmaceutical Quality Operations IV

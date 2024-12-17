@@ -1,0 +1,199 @@
+Delivery Method: 
+        Via Email
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Stephen T. Fischbach
+          
+
+                                
+  
+    Recipient Title
+              President and Chief Executive Officer
+          
+
+          
+            Safecor Health, LLC
+
+          
+                      4060 Business Park Drive
+Columbus, OH 43204
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+           Division of Pharmaceutical Quality Operations I 
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter CMS # 657886
+
+September 5, 2023
+
+Dear Mr. Fischbach:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Safecor Health LLC, FEI # 1218914 at 317 New Boston St., Woburn, Massachusetts, from March 7 to 16, 2023.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your April 4, 2023, response to our Form FDA-483 in detail and acknowledge receipt of your subsequent correspondence.
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+1. Your firm does not adequately inspect the packaging and labeling facilities immediately before use to assure that all drug products have been removed from the previous operations (21 CFR 211.130(e)).
+
+Your firm operates as a drug manufacturer and repackager. You failed to implement adequate controls to prevent mix-ups, and to assure that all materials not suitable for subsequent operations have been removed. During the inspection, our investigators observed a variety of different capsules and tablets on and under the Commercial Blister Packing Machine “(b)(4)” while packaging a lot of 81 mg chewable aspirin tablets. The tablets observed on and around the blister packaging machine did not belong to the current run, despite your batch records indicating that line clearance was performed. The presence of tablets and capsules of various drugs on and under the packaging machinery indicates that line clearance was not adequately performed. Inadequate line clearance increases the risk for potentially dangerous drug product mix-ups.
+
+Notably, your firm has a history of complaints for product mix-ups and has conducted internal recalls upon customer complaints. For example, a drug product, tacrolimus, you repackaged intended to prevent organ transplant rejection contained a vitamin. In another instance, you labeled enoxaparin 80 mg, a drug product intended to prevent blood clots, as 30 mg strength. We note that you later recalled the tacrolimus drug product, and that your customer returned the mislabeled enoxaparin syringe.
+
+In your response, you state that your operators have been re-trained on line clearance and you have added an additional verification step to your repackaging operations. However, your batch records lack sufficient detail for performing line clearance.
+
+In response to this letter, provide a comprehensive evaluation of packaging and labeling operations, with emphasis on failure modes, capability, and design sufficiency. Provide an analysis including, but not limited to, all human interactions with equipment before, during, and after (e.g., clearance) operations to identify all points with potential human error.
+
+2. Your firm failed to establish and follow adequate written procedures for cleaning and maintenance of equipment (21 CFR 211.67(b)).
+
+Your firm lacks adequate cleaning and maintenance procedures for your equipment used to manufacture your drug products. During the inspection, our investigators observed unidentified white powder residue on non-dedicated product contact surfaces of (b)(4) used for packaging tablets that were held to be in “clean status.” Furthermore, your 2019 cleaning requalification summary report utilized a “random selection” of drug products without adequate scientific rationale. Inadequate removal of drug residues from manufacturing equipment during cleaning can lead to cross-contamination of drug products subsequently repackaged on the same pieces of equipment.
+
+In your response, you describe your plan to store the “cleaned” (b)(4) in an enclosed cabinet to prevent “dust-like material” from accumulating on the (b)(4). You also state that you are revising your cleaning standard operating procedure (SOP) to include a mandatory cleaning step prior to use. Your response is inadequate because you did not determine the identity of the white powder residue observed on the “clean” (b)(4). You also did not address the adequacy of your cleaning procedures.
+
+In your response to this letter, provide the following:
+
+• Appropriate improvements to your cleaning validation program, with special emphasis on incorporating conditions identified as worst case in your drug manufacturing operation. This should include, but not be limited to, identification and evaluation of all worst-case:
+o Drugs with higher toxicities
+o Drugs with higher potencies
+o Drugs of lower solubility in their cleaning solvents
+o Drugs with characteristics that make them difficult to clean
+o Swabbing locations for areas that are most difficult to clean
+o Maximum hold times before cleaning
+
+In addition, describe the steps that must be taken in your change management system before introduction of new manufacturing equipment or a new product.
+
+• A summary of updated SOPs that ensure an appropriate program is in place for verification and validation of cleaning procedures for products, processes, and equipment.
+
+3. Your firm failed to test samples of each component for conformity with all appropriate written specifications for purity, strength, and quality (21 CFR 211.84(d)(2)).
+
+You use water as a component in your drug products. Your firm failed to test incoming components including (b)(4) water USP and (b)(4) water used to manufacture prescription drug products to determine their identity, purity, strength, and other appropriate quality attributes. During the inspection, you informed investigators that you purchase (b)(4) water USP for use in the manufacture of Lugol’s Solution and only perform a visual inspection of the water, no other tests are performed. Pharmaceutical water must be suitable for its intended use, and routinely and adequately tested to ensure ongoing conformance with appropriate chemical and microbiological attributes.
+
+In your response you state that you plan to use a contract laboratory to test your component water. Your response is inadequate because you fail to address the full scope and impact of the CGMP deficiencies as well as the associated risks to drug product quality, including batches already in distribution. Your response also lacked adequate information on how you will evaluate the suitability of the contract laboratory to perform testing of your (b)(4) water.
+
+Without adequate testing, you have no assurance that your purchased water meets minimum microbiological and chemical standards suitable for the manufacture of your drug products.
+
+In response to this letter, provide:
+
+• Your microbiological test results for all lots of Lugol’s Solution shipped over the past 2 years including during stability studies.
+• Your microbiological test results of water samples that you used to qualify your water suppliers.
+• The chemical and microbiological quality control specifications you use to test and release each incoming lot of components for use in manufacturing to ensure USP monograph specifications and appropriate microbial limits.
+• A description of how you will test each component lot for conformity with all appropriate specifications for identity, strength, quality, and purity. If you intend to accept any results from your supplier’s COA instead of testing each component lot for strength, quality, and purity, specify how you will robustly establish the reliability of your supplier’s results through initial validation as well as periodic re-validation. In addition, include a commitment to always conduct at least one specific identity test for each incoming component lot.
+
+4. Your firm’s quality control unit failed to exercise its responsibility to ensure drug products manufactured are in compliance with CGMP, and meet established specifications for identity, strength, quality, and purity (21 CFR 211.22).
+
+Your quality unit (QU) failed to ensure adequate document control over paper records. For example, our investigators observed partially completed and torn-up manufacturing records for a lot of children’s acetaminophen and stacks of loose printed forms on a desk next to the repackaging area. Manufacturing records are not adequately controlled as they can be accessed and printed by employees with access to your firm’s (b)(4) site. The use of correction fluid was also observed to make corrections on the daily cleaning log for solid oral dose packaging equipment. Your documentation practices raise concerns about the integrity, authenticity, and reliability of all your data, and quality of your drug products. Document control is essential to maintaining an adequate quality system.
+
+Your response is inadequate because while you indicate that training was provided to employees on good documentation practices, you did not conduct a comprehensive review to determine the extent of data integrity issues at your facility.
+
+In response to this letter, provide:
+
+• A comprehensive assessment and remediation plan to ensure your QU is given the authority and resources to effectively function. The assessment should also include, but not be limited to:
+o A determination of whether procedures used by your firm are robust and appropriate.
+o Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices.
+o A complete and final review of each batch and its related information before the QU disposition decision.
+o Oversight and approval of investigations and discharging of all other QU duties to ensure identity, strength, quality, and purity of all products.
+• A complete assessment of documentation systems used throughout your manufacturing and laboratory operations to determine where documentation practices are insufficient. Include a detailed corrective action and preventive action (CAPA) plan that comprehensively remediates your firm’s documentation practices to ensure you retain attributable, legible, complete, original, accurate, and contemporaneous records throughout your operation.
+• A comprehensive assessment and CAPA plan for computer system security and integrity. Include a report that identifies vulnerabilities in design and controls, and appropriate remediations for each of your computer systems
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, you should engage a consultant qualified as set forth in 21 CFR 211.34 to evaluate your operations and to assist your firm in meeting CGMP requirements. The qualified consultant should also perform a comprehensive six-system audit1 of your entire operation for CGMP compliance and evaluate the completion and efficacy of your CAPA before you pursue resolution of your firm’s compliance status with FDA.
+
+Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+If you are considering an action that is likely to lead to a disruption in the supply of drugs produced at your facility, FDA requests that you contact CDER’s Drug Shortages Staff immediately, at drugshortages@fda.hhs.gov, so that FDA can work with you on the most effective way to bring your operations into compliance with the law. Contacting the Drug Shortages Staff also allows you to meet any obligations you may have to report discontinuances or interruptions in your drug manufacture under 21 U.S.C. 356C(b). This also allows FDA to consider, as soon as possible, what actions, if any, may be needed to avoid shortages and protect the health of patients who depend on your products.
+
+Correct any violations promptly. Failure to promptly and adequately address this matter may result in regulatory or legal action without further notice including, without limitation, seizure, and injunction. Unresolved violations may also prevent other Federal agencies from awarding contracts.
+
+Failure to address violations may also cause FDA to withhold issuance of Export Certificates. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to address any violations.
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Please confirm your receipt of this letter. Send your receipt confirmation and your response, via email, with the supporting documentation to the ORAPHARM1_RESPONSES@FDA.HHS.Gov email box and copy Compliance Officer Lisa Orr at Lisa.Orr@FDA.HHS.Gov by September 26, 2023. For any information not available by that time, provide an estimated timeline of when it will be provided. All of your correspondence in this matter should refer to the Warning Letter Number above (CMS # 657886) and your FEI # 1218914.
+
+If you have any questions, contact Compliance Officer Lisa Orr at lisa.orr@fda.hhs.gov.
+
+Sincerely,
+/S/
+
+Lisa Harlan
+Program Division Director/District Director
+Office of Pharmaceutical Quality Operations
+Division I/New Jersey District
+
+_____________________________
+
+1 i.e., Quality System, Facilities & Equipment System, Materials System, Production System, Packaging & Labeling System, and Laboratory Control System per FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations.

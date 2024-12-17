@@ -1,0 +1,250 @@
+Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Robert A. Seik
+          
+
+                                
+  
+    Recipient Title
+              CEO & Owner
+          
+
+          
+            One Way Drug LLC dba Partell Specialty Pharmacy
+
+          
+                      5835 S. Eastern Avenue, Suite 101
+Las Vegas, NV 89119
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Division of Pharmaceutical Quality Operations IV
+        
+         
+          19701 Fairchild
+Irvine, CA 92612-2506
+United States
+        
+         
+           (949) 608-2900
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+WARNING LETTER
+
+ 
+
+VIA UNITED PARCEL SERVICE
+
+SIGNATURE REQUIRED
+
+ 
+
+February 4, 2019
+
+ 
+
+Robert A. Seik
+
+CEO & Owner
+
+One Way Drug LLC dba Partell Specialty Pharmacy
+
+5835 S. Eastern Avenue, Suite 101
+
+Las Vegas, NV 89119
+
+ 
+
+Dear Mr. Seik:
+
+From July 17, 2017, to July 19, 2017, U.S. Food and Drug Administration (FDA) investigators inspected your facility, One Way Drug LLC, dba Partell Specialty Pharmacy (“West”), located at 8751 W. Charleston Blvd, Suite 120, Las Vegas, NV 89117. Additionally, from February 26, 2018, to March 8, 2018, U.S. FDA investigators inspected your facility, One Way Drug LLC, dba Partell Specialty Pharmacy (“East”), located at 5835 S. Eastern Ave, Suite 101, Las Vegas, NV 89119. During the inspections, the investigators noted that drug products you produced failed to meet the conditions of section 503A of the Federal Food, Drug, and Cosmetic Act (FDCA) [21 U.S.C. § 353a] for exemption from certain provisions of the FDCA.  The investigators noted serious deficiencies in your practices for producing drug products, which put patients at risk.  
+
+FDA issued a Form FDA 483 to your West facility on July 19, 2017, and to your East facility on March 8, 2018.  FDA acknowledges receipt of your responses, dated August 8, 2017, November 7, 2017, March 8, 2018, and March 29, 2018. We acknowledge your statements in your March 29, 2018, letter that, “Partell Specialty Pharmacy ceased all sterile compounding activities…and is no longer filling any prescriptions for sterile compounded medications” and that, “Partell Specialty Pharmacy has initiated a voluntary recall of all its sterile compounded prescriptions.” Based on these inspections, it appears that you produced drug products that violate the FDCA.
+
+A.   Compounded Drug Products Under the FDCA 
+
+Section 503A of the FDCA describes the conditions under which human drug products compounded by a licensed pharmacist in a State licensed pharmacy or a Federal facility, or a licensed physician, qualify for exemptions from three sections of the FDCA: compliance with current good manufacturing practice (CGMP) (section 501(a)(2)(B)); labeling with adequate directions for use (section 502(f)(1)); and FDA approval prior to marketing (section 505) [21 U.S.C. §§ 351(a)(2)(B), 352(f)(1) and 355(a)].[1]  Receipt of valid prescriptions for individually-identified patients is one of the conditions for the exemptions under section 503A. 
+
+In addition, for a compounded drug product to qualify for the exemptions under section 503A,  bulk drug substances used to compound it must: (I) comply with the standards of an applicable United States Pharmacopeia (USP) or National Formulary (NF) monograph, if a monograph exists, and the USP chapter on pharmacy compounding; (II) if such a monograph does not exist, be components of drugs approved by the Secretary; or (III) if such a monograph does not exist and the drug substance is not a component of a drug approved by the Secretary, appear on a list developed by the Secretary through regulation (“503A bulks list”) (section 503A(b)(1)(A)(i) of the FDCA).
+
+B.   Failure to Meet the Conditions of Section 503A
+
+During the inspection, the FDA investigators noted that drug products produced by your firm failed to meet the conditions of section 503A.  For example, the investigators noted: 
+
+
+	At your West facility, your firm did not receive valid prescriptions for individually-identified patients for a portion of the drug products you produced.
+
+
+
+	At your West facility, your firm compounded drug products using calendula, comfrey, dimethylaminoethanol bitartrate, saw palmetto, and turmeric. At your East facility, your firm compounded drug products using hydroxytryptophan, indole-3-carbinol, L-carnosine, pimobendan, saw palmetto, and theanine. Drug products compounded using calendula, comfrey, dimethylaminoethanol bitartrate, hydroxytryptophan, indole-3-carbinol, L-carnosine, pimobendane, saw palmetto, theanine, and turmeric are not eligible for the exemptions provided by section 503A(a), because they are not the subjects of applicable USP or NF monographs, are not components of an FDA-approved human drug, and do not appear on the 503A bulks list.[2]
+
+
+Therefore, you compounded drug products that do not meet the conditions of section 503A and are not eligible for the exemptions in that section from the FDA approval requirement of section 505 of the FDCA, the requirement under section 502(f)(1) of the FDCA that labeling bear adequate directions for use, and the requirement of compliance with CGMP under section 501(a)(2)(B) of the FDCA.  In the remainder of this letter, we refer to your drug products that do not qualify for exemptions under section 503A as the “ineligible drug products.”
+
+Specific violations are described below.       
+
+C.   Violations of the FDCA
+
+Adulterated Drug Products 
+
+FDA investigators noted that drug products at your East and West facilities were prepared, packed, or held under insanitary conditions, whereby they may have become contaminated with filth or rendered injurious to health, causing your drug products to be adulterated under section 501(a)(2)(A) of the FDCA. For example, at your West facility, the investigators observed a vacuum cleaner being used to clean a powder press used in non-sterile drug production. In addition, at your East facility, the investigators observed that:
+
+
+	Your firm used a non-pharmaceutical grade filter to sterilize drug products.  Specifically, labeling for the “(b)(4)” states, “Do not use these systems in direct patient care applications.”
+
+
+
+	Your firm had no assurance that post-use filter integrity testing of filters, used to sterilize drug products, was performed according to the specifications of the filter manufacturer. 
+
+
+
+	Your firm’s production of implantable pellets intended to be sterile was inadequate. Specifically, pellets were processed in an unclassified area and then (b)(4) in a sealed container using an (b)(4) which lacks assurance of adequate heat penetration into the container closure and pellets themselves. Furthermore, biological indicators used to verify the adequacy of the (b)(4) were not properly incubated to ensure reliable results.
+
+
+
+	Your firm used a non-sterile cleaning agent as well as non-sterile cleaning wipes as part of your disinfection program for the aseptic processing areas. In addition, your firm did not ensure a sufficient contact time for the sporicidal agent used to disinfect the aseptic processing areas.
+
+
+
+	Your firm did not adequately clean or depyrogenate glassware and utensils used to produce drug products intended to be sterile.  Additionally, non-dedicated glassware and utensils were used to weigh and mix hazardous and non-hazardous drug components in preparation for aseptic filling operations.  Furthermore, your firm used non-depyrogenated stoppers and vials in the production of drug products intended to be sterile.
+
+
+
+	Your firm performed environmental sampling immediately after cleaning, which could potentially bias the results.
+
+
+
+	Your firm failed to perform adequate smoke studies under dynamic conditions to demonstrate unidirectional airflow within the ISO 5 area. Therefore, your products intended to be sterile were produced in an environment that may not provide adequate protection against the risk of contamination.
+
+
+
+	Your firm failed to maintain adequate pressure differentials between areas of higher quality air and lower quality air.
+
+
+
+	Your media fills were not performed under the most challenging or stressful conditions. Therefore, there is a lack of assurance that your firm can aseptically produce drug products within your facility.
+
+
+Furthermore, the manufacture of the ineligible drug products is subject to FDA’s CGMP regulations, Title 21, Code of Federal Regulations (CFR), parts 210 and 211. The FDA investigators observed significant CGMP violations at your West facility, causing the ineligible drug products to be adulterated within the meaning of section 501(a)(2)(B) of the FDCA.  The violations included, for example:
+
+
+	Your firm failed to have, for each batch of drug product, appropriate laboratory determination of satisfactory conformance to final specifications for the drug product, including the identity and strength of each active ingredient, prior to release (21 CFR 211.165(a)).
+	Your firm failed to clean, maintain, and, as appropriate for the nature of the drug, sanitize and/or sterilize equipment and utensils at appropriate intervals to prevent malfunctions or contamination that would alter the safety, identity, strength, quality, or purity of the drug product beyond the official or other established requirements (21 CFR 211.67(a)).
+
+
+It is a prohibited act under section 301(k) of the FDCA [21 U.S.C. § 331(k)] to do any act with respect to a drug, if such act is done while the drug is held for sale after shipment in interstate commerce and results in the drug being adulterated.
+
+Misbranded Drug Products 
+
+The ineligible drug products you compounded are intended for conditions not amenable to self-diagnosis and treatment by individuals who are not medical practitioners; therefore, adequate directions for use cannot be written so that a layman can use these products safely for their intended uses. Consequently, their labeling fails to bear adequate directions for their intended uses.[3]  Accordingly, these ineligible drug products are misbranded under section 502(f)(1) of the FDCA.  It is a prohibited act under section 301(k) of the FDCA to do any act with respect to a drug, if such act is done while the drug is held for sale after shipment in interstate commerce and results in the drug being misbranded.
+
+D.   Corrective Actions
+
+We have reviewed your responses to the Form FDA 483s issued at both of your facilities. Regarding your West facility, FDA is aware that this site in no longer operational. Regarding your East facility, we acknowledge your statements in your March 29, 2018, letter that, “Partell Specialty Pharmacy ceased all sterile compounding activities…and is no longer filling any prescriptions for sterile compounded medications” and that, “Partell Specialty Pharmacy has initiated a voluntary recall of all its sterile compounded prescriptions.” 
+
+Please be aware that section 501(a)(2)(A) of the FDCA concerning insanitary conditions applies regardless of whether drug products you compound meet the conditions of section 503A, including the condition on receipt of a prescription for an identified individual patient prior to compounding and distributing drug products.
+
+Regarding observations related to the conditions of section 503A of the FDCA, some of your corrective actions appear to be adequate.  Specifically, in your letter dated March 8, 2018, you agree to “cease to use for compounded prescription products the following items until a USP monograph is available for each one:” indole-3-carbinol, L-carnosine, pimobendan, and saw palmetto. However, you have not addressed the compounding of drug products using calendula, comfrey, dimethylaminoethanol bitartrate, hydroxytryptophan, and theanine. As explained above, drug products compounded using these bulk drug substances are not eligible for the exemptions provided by section 503A(a), because they are not the subjects of an applicable USP or NF monograph, are not components of FDA-approved human drugs, and do not appear on the 503A bulks list. 
+
+Should you continue to compound and distribute drug products that do not meet the conditions of section 503A, the compounding and distribution of such drugs would be subject to the new drug approval requirement, the requirement to label drug products with adequate directions for use, and the drug CGMP regulations.  Before doing so, you must comply with the requirements of section 505 and 502(f)(1) and fully implement corrections that meet the minimum requirements of the CGMP regulations.[4] 
+
+In addition to the issues discussed above, you should note that CGMP requires the implementation of quality oversight and controls over the manufacture of drugs, including the safety of raw materials, materials used in drug manufacturing, and finished drug products.  See section 501 of the FDCA.  If you choose to contract with a laboratory to perform some functions required by CGMP, it is essential that you select a qualified contractor and that you maintain sufficient oversight of the contractor’s operations to ensure that it is fully CGMP compliant.  Regardless of whether you rely on a contract facility, you are responsible for assuring that drugs you produce are neither adulterated nor misbranded.  [See 21 CFR 210.1(b), 21 CFR 200.10(b)].
+
+FDA strongly recommends that if you decide to resume production of sterile drugs, your management first undertake a comprehensive assessment of operations, including facility design, procedures, personnel, processes, maintenance, materials, and systems.  In particular, this review should assess your aseptic processing operations.  A third party consultant with relevant sterile drug manufacturing expertise should assist you in conducting this comprehensive evaluation.
+
+E.    Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive statement of violations at your facility. You are responsible for investigating and determining the causes of the violations identified above and for preventing their recurrence or the occurrence of other violations. It is your responsibility to ensure that your firm complies with all requirements of federal law, including FDA regulations.
+
+If you decide to resume sterile operations, you should take prompt action to correct the violations cited in this letter. Failure to promptly correct these violations may result in legal action without further notice, including, without limitation, seizure and injunction. 
+
+Within fifteen (15) working days of receipt of this letter, please notify this office in writing if you have taken any specific steps to correct the violations cited in this letter. If you intend to resume production of sterile drugs in the future, please include an explanation of each step being taken to prevent the recurrence of violations, as well as copies of related documentation. If you do not believe that the products discussed above violated the FDCA, include your reasoning and any supporting information for our consideration.  In addition to taking appropriate corrective actions, you should notify this office 15 days prior to resuming production of any sterile drugs in the future. 
+
+Your written notification should refer to unique identifier CMS 573455 and sent to:
+
+CDR Steven E. Porter, Jr.
+
+Director, Division of Pharmaceutical Quality Operations IV
+
+19701 Fairchild Road
+
+Irvine, CA 92612
+
+If you have questions regarding the contents of this letter, please contact William V. Millar, Compliance Officer at (510) 337-6896, or by email at william.millar@fda.hhs.gov.
+
+ 
+
+Sincerely,
+
+/S/           
+
+CDR Steven E. Porter, Jr.
+
+Director, Division of Pharmaceutical Quality Operations IV
+
+ 
+
+[1] We remind you that there are conditions other than those discussed in this letter that must be satisfied to qualify for the exemptions in section 503A of the FDCA.
+
+[2] On June 9, 2016, FDA issued a final guidance titled, Interim Policy on Compounding Using Bulk Drug Substances Under Section 503A of the Federal Food, Drug, and Cosmetic Act. This guidance describes FDA’s interim regulatory policy for State-licensed pharmacies, Federal facilities, and licensed physicians that compound human drug products using bulk drug substances that do not otherwise meet the conditions of section 503A(b)(1)(A)(i) while the 503A bulks list is being developed. Specifically, the guidance sets out the conditions under which FDA does not intend to take action against a State-licensed pharmacy, Federal facility, or licensed physician for compounding a drug product using a bulk drug substance that is not the subject of an applicable USP or NF monograph or a component of an FDA-approved drug, until the substance is identified in a final rule as included or not included on the 503A bulks list. These conditions include that the substance may be eligible for inclusion on the 503A bulks list, was nominated with adequate support for FDA to evaluate it, and has not been identified by FDA as a substance that appears to present significant safety risks pending further evaluation. Dimethylaminoethanol bitartrate, indole-3-carbinol, L-carnosine, pimobendan, and saw palmetto were nominated for inclusion on the 503A bulks list; however, they were not nominated with adequate support for FDA to evaluate the substances. Calendula, comfrey, hydroxytryptophan, theanine, and turmeric were not nominated for the 503A bulks list. For additional information, see the guidance at http://www.fda.gov/downloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/UCM469120.pdf. 
+
+[3] Your ineligible drug products are not exempted from the requirements of section 502(f)(1) of the FDCA by regulations issued by the FDA (see, e.g., 21 CFR 201.115).
+
+[4] In this letter we do not address whether your proposed corrective actions would resolve the CGMP violations noted above.

@@ -1,0 +1,212 @@
+Delivery Method: 
+        Via Email Delivery Confirmation
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Dr. Peter A. Kaemmerer
+          
+
+                                
+  
+    Recipient Title
+              Chief Executive Officer
+          
+
+          
+            Sagent Pharmaceuticals, Inc.
+
+                      SterRx, LLC
+          
+                      1901 N. Roselle Road
+Suite 450
+Schaumburg, IL 60195
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Division Pharmaceutical Quality Operations I
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Dear Dr. Kaemmerer:
+
+You registered your facility with the U.S. Food and Drug Administration (FDA) as an outsourcing facility under section 503B of the Federal Food, Drug, and Cosmetic Act (FDCA) [21 U.S.C. § 353b]1
+ on May 29, 2015, and reregistered most recently on November 29, 2021.  From September 21, 2021 to November 4, 2021, FDA investigators inspected your facility that was acquired by Sagent Pharmaceuticals, Inc., SterRx, LLC, located at 141 Idaho Avenue, Plattsburgh, NY 12903. During the inspection, the investigators noted serious deficiencies in your practices for producing drug products intended or expected to be sterile, which put patients at risk.   
+
+FDA issued a Form FDA 483 to your facility on November 4, 2021, and an amended Form FDA 483 on December 1, 2021. FDA acknowledges receipt of your facility’s responses, including correspondence dated November 23, 2021, January 31, 2022, March 31, 2022, and June 30, 2022. FDA also acknowledges that your firm voluntarily ceased “production and distribution of all aseptically processed products” as of October 5, 2021. In addition, we acknowledge that on November 12, 2021, your firm initiated a voluntary recall of approximately (b)(4) lots of certain drug products intended to be sterile that were within expiry due to a lack of sterility assurance. Furthermore, FDA acknowledges your firm’s February 4, 2022 "45-day Notification of Intent to Resume Distribution" of sterile products on or after (b)(4) and your firm’s commitment to destroy (b)(4) in-process lots pursuant to a teleconference held on March 21, 2022. Based on this inspection, it appears you produced drugs that violate the FDCA.
+
+A. Compounded Drug Products under the FDCA
+
+Under section 503B(b) of the FDCA, a compounder can register as an outsourcing facility with FDA. Drug products compounded by or under the direct supervision of a licensed pharmacist in an outsourcing facility qualify for exemptions from the drug approval requirements in section 505 of the FDCA [21 U.S.C. § 355(a)], the requirement in section 502(f)(1) of the FDCA [21 U.S.C. § 352(f)(1)] that labeling bear adequate directions for use and the Drug Supply Chain Security Act requirements in section 582 of the FDCA [21 U.S.C. § 360eee-1] if the conditions in section 503B of the FDCA are met.2
+
+
+An outsourcing facility, which is defined in section 503B(d)(4) of the FDCA [21 U.S.C. § 353b(d)(4)], is a facility at one geographic location or address that — (i) is engaged in the compounding of sterile drugs; (ii) has elected to register as an outsourcing facility; and (iii) complies with all of the requirements of this section. Outsourcing facilities must comply with other applicable provisions of the FDCA, including section 501(a)(2)(B) [21 U.S.C. § 351(a)(2)(B)], regarding current good manufacturing practice (CGMP), and section 501(a)(2)(A) [21 U.S.C. § 351(a)(2)(A)], regarding insanitary conditions. Generally, CGMP requirements for the preparation of drug products are established in Title 21 of the Code of Federal Regulations (CFR) parts 210 and 211.
+
+C.  Violations of the FDCA
+
+Adulterated Drug Products
+
+FDA investigators noted that drug products intended or expected to be sterile were prepared, packed, or held under insanitary conditions, whereby they may have become contaminated with filth or rendered injurious to health, causing your drug products to be adulterated under section 501(a)(2)(A) of the FDCA. For example, the investigators observed that: 
+
+1. Your facility is designed and operated in a way that first air is either not provided or blocked within ISO 5 areas where critical in-process operations are performed.  For example:
+a. Lack of first pass air over unwrapped, open IV bags prior to filling.
+b. Blocked first pass air for exposed sterile closures (ports and syringe plungers) during introduction and conveyance on IV bag filling lines.
+
+2. Your smoke studies demonstrated that the air in an ISO 5 classified zone was turbulent and non-laminar near areas where IV bag filling and sealing are performed. 
+
+3. You did not perform adequate product evaluation and take appropriate corrective action after microbial contamination was recovered within the ISO 5 aseptic processing area.
+
+4. Your firm does not maintain the sterility of inter seals and outer closures for IV bags during production. (b)(4) IV bags and caps with ports are exposed to worse than ISO 5 quality air prior to and during assembly/capping. 
+
+5. The ISO-classified areas had visibly dirty equipment and difficult to clean surfaces. Specifically, chipped and missing paint, apparent rust, adhesive tape, and a build-up of residues were observed on and around (b)(4) equipment in an area where parisons are cut and conveyed to the point of aseptic filling.
+
+6. Sterilized equipment and utensils wrapped (b)(4) and (b)(4) were stored in your “transition area,” an unclassified area, without an established hold time to ensure that these items remain sterile.
+
+FDA investigators also noted CGMP violations at your facility, that caused your drug product(s) to be adulterated within the meaning of section 501(a)(2)(B) of the FDCA. The violations include, for example:
+
+1. Your firm failed to establish an adequate air supply (b)(4) particulate air filters under positive pressure in the aseptic processing areas (21 CFR 211.42(c)(10)(iii)).
+
+2. Your firm failed to establish an adequate system for monitoring environmental conditions in aseptic processing areas (21 CFR 211.42(c)(10)(iv)).
+
+3. Your firm failed to ensure container closure systems provide protection against foreseeable external factors in storage and use that can cause deterioration or contamination of the drug product (21 CFR 211.94(b)).
+
+4. Your firm failed to use equipment in the manufacture, processing, packing, or holding of drug products that is of appropriate design, adequate size, and suitably located to facilitate operations for its intended use and for its cleaning and maintenance (21 CFR 211.63).
+
+5. Your firm failed to ensure that substances required for equipment operations, such as lubricants and coolants, do not come in contact with components, drug product containers, closures, in-process materials, or drug products so as to alter the safety, identity, strength, quality or purity of the drug product beyond the official or other established requirements (211.65(b)).
+
+6. Your firm failed to thoroughly investigate any unexplained discrepancy or failure of a batch or any of its components to meet any of its specifications, whether or not the batch has already been distributed (21 CFR 211.192).
+
+7. Your firm failed to clean, maintain, and, as appropriate for the nature of the drug, sanitize and/or sterilize equipment and utensils at appropriate intervals to prevent malfunctions or contamination that would alter the safety, identity, strength, quality, or purity of the drug product beyond the official or other established requirements (21 CFR 211.67(a)).
+
+8. Your firm failed to establish and follow appropriate written procedures that are designed to prevent microbiological contamination of drug products purporting to be sterile, and that include validation of all aseptic and sterilization processes (21 CFR 211.113(b)).
+
+Outsourcing facilities must comply with CGMP requirements under section 501(a)(2)(B) of the FDCA. FDA’s regulations regarding CGMP requirements for the preparation of drug products have been established in 21 CFR parts 210 and 211. FDA intends to promulgate more specific CGMP regulations for outsourcing facilities. FDA has issued a revised draft guidance, Current Good Manufacturing Practice — Guidance for Human Drug Compounding Outsourcing Facilities under Section 503B of the FD&C Act. This draft guidance, when finalized, will describe FDA’s expectations regarding outsourcing facilities and the CGMP requirements in 21 CFR parts 210 and 211 until more specific CGMP regulations for outsourcing facilities are promulgated.  
+
+Under section 301(a) of the FDCA [21 U.S.C. § 331(a)], the introduction or delivery for introduction into interstate commerce of any drug that is adulterated is a prohibited act. Further, it is a prohibited act under section 301(k) of the FDCA [21 U.S.C. § 331(k)] to do any act with respect to a drug, if such act is done while the drug is held for sale after shipment in interstate commerce and results in the drug being adulterated.
+
+D. Corrective Actions 
+
+We have reviewed your facility’s responses to the Form FDA 483. FDA acknowledges that your firm voluntarily ceased “production and distribution of all aseptically processed products” as of October 5, 2021, and that your firm intended to resume distribution of sterile products on or after (b)(4). We also acknowledge that on November 12, 2021, your firm initiated a voluntary recall of certain lots of drug products intended to be sterile that were within expiry due to a lack of sterility assurance. In addition, we acknowledge that your firm voluntarily destroyed (b)(4) in-process lots in March 2022 and (b)(4) in-process lot on May 2, 2022. Furthermore, FDA acknowledges your “intent to continue [the voluntary destruction] process with the remaining (b)(4) lots within inventory…”
+
+We are unable to fully evaluate some of your corrective actions due to lack of adequate supporting documentation.  For example:
+
+1. In response to Observation 1 of the Form FDA 483, you stated in part: new smoke studies will be performed; environmental monitoring for particles will be revised; (b)(4) machinery and surrounding barriers will be assessed; integrity testing (leak check test) will be performed, equipment that remains in use will be relocated to ensure first pass air is not blocked; and employee training will be provided to include operator prevention of obstructing first pass air. However, you did not provide:
+
+a. CMTs 2021-424, 2021-426, 2021-427, 2021-428, 2021-429, 2021-430, and 2021-431 referenced in your response pertaining to (b)(4) smoke studies, changes to particle monitoring, equipment and barrier assessment, leak check testing, and operator training.
+b. Change controls 2021-109 and 2021-110 referenced in your response pertaining to decommissioning of filling lines, installation of (b)(4) particle monitoring equipment, and environmental monitoring revisions.
+
+2. In response to Observation 2 of the Form FDA 483, you provided a written risk assessment for capping of (b)(4) IV bags and a study evaluating the sterility of caps. However, you did not provide any supporting documentation, such as air certification reports, to demonstrate that the caps and bags are not exposed to worse than ISO 5 quality air during loading, conveying, and capping. 
+
+3. In response to Observation 3 of the Form FDA 483, you stated in part: limits for the ISO 5 zones will be changed to (b)(4); environmental monitoring limits will be standardized (b)(4); and the entire environmental monitoring program will be evaluated.  Additionally, your response stated (b)(4) and (b)(4). However, you did not provide:
+
+a. CMTs 2021-435 and 2021-436 referenced in your response pertaining to your environmental monitoring evaluation, revised procedures for ISO 5 zones, and changes to particle monitoring.
+b. Completed document change controls DCC-002749 and DCC-003733 referenced in your response pertaining to revised viable action limits.
+
+4. In response to Observation 4 of the Form FDA 483, you stated in part: the bag filling line would be decommissioned and a new corporate policy, PQL-QA-0025 will be implemented to ensure equipment is adequate for GMP processes. However, you did not provide a copy of PQL-QA-0025 or CMT 2021-444 referenced in your response for policy implementation and employee training.
+
+5. In response to Observation 5 of the Form FDA 483, you stated in part: the bag filling line would be decommissioned; an assessment would be performed for all product contact lubricants; and SOP-VAL-0103, Equipment/Utility and Software Validation/Qualification, would be revised to include (b)(4). However, you did not provide a copy of the revised SOP-VAL-0103 or CMTs 2021-438 and 2021-439 referenced in your response for SOP revisions and employee training.
+
+6. In response to Observation 6 of the Form FDA 483, you stated in part: the site will transition to compliance software for non-conformances and CAPAs; enhanced training for aseptic techniques and investigations will be developed; and SOP-QA-0157, Manufacturing Investigation Procedure, will be revised. However, you did not provide:
+
+a. CMT 2021-414 referenced in your response pertaining to your changes to investigations, CAPAs, and related training.
+b. A copy of SOP-QA-0157.
+
+7. In response to Observation 7 of the Form FDA 483, you stated in part: SOP-VAL-0103, Equipment/Utility and Software Validation/Qualification, will be revised and employee training will be conducted. However, you did not provide a copy of SOP-VAL-0103 or CMT 2021-439 referenced in your response for SOP revisions and employee training.
+
+8. In response to Observation 8 of the Form FDA 483, you stated in part: revisions will be made to SOP-P-0435, Operation and Maintenance of the (b)(4). However, you did not provide a copy of SOP-P-0435 or CMT 2021-411 referenced in your response. Additionally, you did not provide supporting documentation referenced in the attachment identified as (b)(4) including but not limited to third-party studies for the lethality of the (b)(4).
+
+In addition to the issues discussed above, you should note that CGMP requires the implementation of quality oversight and controls over the manufacture of drugs, including the safety of raw materials, materials used in drug manufacturing, and finished drug products. See section 501 of the FDCA. If you choose to contract with a laboratory to perform some functions required by CGMP, it is essential that you select a qualified contractor and that you maintain sufficient oversight of the contractor’s operations to ensure that it is fully CGMP compliant.  Regardless of whether you rely on a contract facility, you are responsible for assuring that drugs you produce are neither adulterated nor misbranded. [See 21 CFR 210.1(b), 21 CFR 200.10(b).]
+
+FDA strongly recommends that your management undertake a comprehensive assessment of operations, including facility design, procedures, personnel, processes, maintenance, materials, and systems. In particular, this review should assess your aseptic processing operations. We also recommend a third-party consultant with relevant sterile drug manufacturing expertise to assist you in conducting this comprehensive evaluation.
+
+E. Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive statement of violations at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations. It is your responsibility to ensure that your firm complies with all requirements of federal law, including FDA regulations.
+
+You should take prompt action to address any violations. Failure to adequately address any violations may result in legal action without further notice, including, without limitation, seizure and injunction.  
+
+Within fifteen (15) working days of receipt of this letter, please notify this office in writing of the specific steps you have taken to address any violations, or you may inform us that you do not intend to resume production of drugs intended or expected to be sterile. This letter notifies you of our concerns and provides you an opportunity to address them. If you believe your products are not in violation of the FDCA, include your reasoning and any supporting information for our consideration. If you cannot completely address this matter within fifteen (15) working days, state the reason for the delay and the time within which you will do so.
+
+Send your electronic reply to ORAPHARM1_RESPONSES@fda.hhs.gov. Your written notification should refer to Warning Letter #636636 and include FEI: 3010840309.  
+
+If you have questions regarding the contents of this letter, please contact Nancy Espinal, Compliance Officer, at Nancy.Espinal@fda.hhs.gov.
+
+
+Sincerely,
+/S/    
+Nerizza Guerin
+Acting Program Division Director/District Director
+Office of Pharmaceutical Quality Operations Division I/New Jersey District
+
+
+Cc: SterRx, LLC 
+Attention: Sarah J. McCoy, 
+Director, Plant Operations
+141 Idaho Avenue 
+Plattsburgh, NY 12903
+
+
+
+                  1See Pub. L. No. 113-54, § 102(a), 127 Stat. 587, 587-588 (2013).
+                      2We remind you that there are conditions, other than those discussed in this letter, that must be satisfied to qualify for the exemptions in section 503B of the FDCA.

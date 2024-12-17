@@ -1,0 +1,209 @@
+Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Steven D. Smith
+          
+
+                                
+  
+    Recipient Title
+              President
+          
+
+          
+            Tec Laboratories Inc 
+
+          
+                      7100 Tec Labs Way SW
+Albany, OR 97321-5968
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Division of Pharmaceutical Quality Operations IV
+        
+         
+          19701 Fairchild
+Irvine, CA 92612-2506
+United States
+        
+         
+           (949) 608-2900
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Certified Mail                                                                          Warning Letter
+
+Return Receipt Requested
+
+ 
+
+March 20, 2019          
+
+ 
+
+Mr. Steven D. Smith
+
+President
+
+Tec Laboratories, Inc.
+
+7100 Tec Labs Way SW
+
+Albany, OR 97321-5968
+
+Dear Mr. Smith:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Tec Laboratories, Inc. at 7100 Tec Labs Way SW, Albany, Oregon, from July 9 to 13, 2018.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See 21 CFR, parts 210 and 211.
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. § 351(a)(2)(B).
+
+As formulated and labeled, your product “CALAGEL” is an unapproved new drug. Introduction of an unapproved new drug into interstate commerce is in violation of section 505(a) of the FD&C Act, 21 U.S.C. § 355(a) and is prohibited under section 301(d) of the FD&C Act, 21 U.S.C. § 331(d). These violations are described in more detail below.
+
+We reviewed your August 2, 2018, response in detail and acknowledge receipt of your subsequent correspondence of September 28, 2018. Your response is inadequate because it did not provide sufficient evidence of corrective actions to bring your operation into compliance with CGMP.  
+
+During our inspection, our investigator observed specific violations including, but not limited to, the following.
+
+1.      Your firm failed to conduct appropriate laboratory testing, as necessary, of each batch of drug product required to be free of objectionable microorganisms (21 CFR 211.165(b)). 
+
+You manufacture topical over the counter (OTC) and homeopathic drug products, labelled for use on children and marketed for indications that would lead them to be applied to broken skin. Your homeopathic LiceFreee Spray! Head Lice Treatment is labeled “For the treatment of…head lice…pubic (crab) lice…body lice”. Your Calagel First Aid Antiseptic, Skin Protectant, & Topical Analgesic drug product is labeled “for temporary relief of pain and itching associated with: minor burns…minor cuts…scrapes…insect bites”. You released multiple batches of these drug products without conducting tests to ensure they were free from objectionable microorganisms.
+
+It is essential that your drug products are produced in a manner that is suitable for their intended uses and that each batch is tested for conformance to appropriate microbial quality specifications.
+
+In your response, you provided examples of recently tested batches utilizing the USP method for microbial enumeration testing. Your response is inadequate because you did not provide your verification studies including data to show the suitability of the compendial method being used. Your response also failed to provide data to show that all previously released products, that remain on the U.S. market, were tested and found to meet your newly implemented USP microbial release specifications.
+
+In response to this letter, provide:
+
+
+	An action plan for promptly testing retained samples of all batches released to the U.S. market that are still within expiry to determine that they are free of objectionable microorganisms.
+
+
+o   Provide the results of these tests to the FDA within 60 days of receipt of this letter. Include complete analytical records for each of these tests and full information on the name and location of the testing laboratory performing the analyses. If testing for any previously released batch yields an out-of-specification result, indicate the corrective actions you will take including notifying customers and initiating recalls.
+
+
+	Verification studies for each microbiological testing method (e.g., microbial enumeration) used for your drug products. 
+
+
+2.      Your firm failed to thoroughly investigate any unexplained discrepancy or failure of a batch or any of its components to meet any of its specifications, whether or not the batch has already been distributed (21 CFR 211.192).
+
+Your firm failed to properly investigate and take appropriate corrective actions when an out-of-limit (OOL) result for the purified water system was reported from your testing laboratory on February 5, 2018. Specifically, (b)(4) were obtained for sample point (b)(4) collected on January 31, 2018, and your action limit was (b)(4). Your investigation determined the reverse osmosis membrane replacement on December 27, 2017, as a root cause. However, you failed to evaluate the impact of this result on any drug products manufactured between December 27, 2017 and February 5, 2018, when the water system was sanitized and passing results were reported for the sample collected that day. Your topical drug products labelled for indications that would include use on potentially broken skin, including LiceFreee Spray! and Calagel, are aqueous based, therefore the quality of water used as a component of these drugs is critical to ensuring these products are safe.
+
+In your responses, you focused on the lack of proper documentation of the sanitization of your water system and indicated that subsequent testing showed the system was producing acceptable water. However, your response failed to adequately address potential risks to your drug products posed by objectionable microbiological contamination in your water system.
+
+In response to this letter, provide:
+
+
+	A list of batches that were made while your purified water system was not operating within limits, as well as a risk assessment for each batch. The risk assessment should evaluate the impact on product quality from using unacceptable water during the manufacture of drug products, as well as the post-use cleaning of equipment.
+
+
+Unapproved New Drug
+
+“CALAGEL”
+
+“CALAGEL” is a “drug” as defined by section 201(g)(1)(B) of the FD&C Act, 21 U.S.C. 321(g)(1)(B), because it is intended for the diagnosis, cure, mitigation, treatment, or prevention of disease, and/or under section 201(g)(1)(C) of the FD&C Act, 21 U.S.C. 321(g)(1)(C), because it is intended to affect the structure or any function of the body. Specifically, this product is intended for use as a first aid antiseptic, external analgesic, and skin protectant. Labels collected during the inspection of your firm identify the active ingredients in “CALAGEL” as benzethonium chloride 0.15%, diphenhydramine HCL 2%, and zinc acetate .215%.
+
+Examples of claims observed on your product label and on your product website, https://www.teclabsinc.com/, for “CALAGEL” that establish the intended uses of the product as defined in 21 CFR 201.128 include, but may not be limited to, the following:
+
+Label Claims
+
+“First Aid Antiseptic, Skin Protectant & Topical Analgesic … Relieves itch and Pain … Maximum Strength Anti-Itch Poison Oak & Poison Ivy Insect Bites Sunburns and more! … for temporary relief of pain and itching associated with: minor burns, sunburn, minor cuts, scrapes, insect bites, minor skin irritations, poison oak, poison ivy, poison sumac.”
+
+Website Claims
+
+“Calagel® Medicated Anti-itch Gel is clear, skin-protecting shield that not only provides cooling itch relief … Calagel® can be used for many itchy & painful issues including: insect bites, sunburn, minor burns, poison ivy & oak rash, and other minor rashes and skin irritations … Analgesic - Pain relieving agent for those tender, painful rashes … Antipruritic - Long lasting, maximum strength itch relief … Antihistamine - Reduces swelling with an antihistamine for allergy relief … Astringent - Dries oozing, an occasional symptom of poison ivy, oak, & sumac rashes.”
+
+OTC drug products intended for use as skin protectants are subject to the Skin Protectant Drug Products for Over-the-Counter Use final rule, see 21 CFR part 347. This product is not labeled or formulated in accordance with this final rule because the skin protectant active ingredient, zinc acetate, is not one of the skin protectant active ingredients that is generally recognized as safe and effective for use in combination with either a first aid antiseptic (21 CFR 347.20(d)) or a topical analgesic (21 CFR 347.20(c)).
+
+Therefore, this product is a new drug within the meaning of section 201(p) of the FD&C Act, 21 U.S.C. § 321(p). As a new drug, “CALAGEL” may not be legally marketed in the United States absent approval of an application filed in accordance with section 505(a) of the FD&C Act, 21 U.S.C. § 355(a). “CALAGEL” is not the subject of an approved new drug application, and therefore, the current marketing of this product violates section 505(a) of the FD&C Act, 21 U.S.C. § 355(a). Introduction of such product into interstate commerce is prohibited under section 301(d) of the FD&C Act, 21 U.S.C. § 331(d).
+
+We also note that “CALAGEL” is a three-way combination product because it is labeled for use as a skin protectant, external analgesic, and first-aid antiseptic. While the skin protectant final rule referenced above specifies both (1) permissible combinations of skin protectant and external analgesic active ingredients, and (2) permissible combinations of skin protectant and first aid antiseptic active ingredients, it does not contemplate a three-way combination product such as “CALAGEL.”
+
+Conclusion
+
+Violations cited in this letter are not intended as an all-inclusive list. You are responsible for investigating these violations, for determining the causes, for preventing their recurrence, and for preventing other violations.
+
+Correct the violations cited in this letter promptly. Failure to promptly correct these violations may result in legal action without further notice including, without limitation, seizure and injunction. Unresolved violations in this warning letter may also prevent other Federal agencies from awarding contracts.
+
+Until these violations are corrected, we may withhold approval of pending drug applications listing your facility. We may re-inspect to verify that you have completed your corrective actions. We may also refuse your requests for export certificates.
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Your written response should reference unique identifier CMS 568666 and be sent to the following address:
+
+CDR Steven E. Porter, Jr.
+
+Director, Division of Pharmaceutical Quality Operations IV
+
+United States Food and Drug Administration
+
+19701 Fairchild
+
+Irvine, California 92612
+
+If you have any questions about the content of this letter, please contact William V. Millar, Compliance Officer, at 510-337-6896 or by email at william.millar@fda.hhs.gov.
+
+ 
+
+Sincerely,
+
+/S/ 
+
+CDR Steven E. Porter, Jr.
+
+Director, Division of Pharmaceutical Quality Operations IV

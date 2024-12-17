@@ -1,0 +1,179 @@
+Delivery Method: 
+        VIA UNITED PARCEL SERVICE
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Biologics                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Abel R. Bullock
+          
+
+                                
+  
+    Recipient Title
+              Chief Executive Officer & Owner
+          
+
+          
+            Surgenex LLC
+
+          
+                      15444 N 76th Street Suite 110
+Scottsdale, AZ 85260
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Office of Biological Products Operations – Division 2
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+WARNING LETTER
+
+
+November 15, 2021
+
+Warning Letter #OBPO 21-615254
+
+Mark A. Schallenberger
+Chief Operations Officer
+
+Dear Messrs. Bullock and Schallenberger:
+
+During an inspection of your firm, Surgenex LLC (Surgenex), located at 15444 N 76th Street, Suite 110, Scottsdale, AZ 85260, conducted between April 5, 2021, and April 16, 2021, the United States Food and Drug Administration (FDA) documented your manufacture of cellular products for allogeneic use, including: a human umbilical cord derived cellular product, SurCord®, and human amniotic membrane derived products, SurForce® and SurFactor® (collectively, “your products”). You have distributed your products to third-party distributors, some under private label, and directly to health care professionals and medical facilities. These products are intended for injection and are purported to be sterile.
+
+Information and records gathered at the time of and following the inspection, including information regarding your products available online at https://surgenexcatalog.com/images/brochure/surcordbrochure.pdf, https://surgenexcatalog.com/images/brochure/surcordflyer.pdf, https://www.surgenex.com/images/brochure/Patient-Brochure.pdf, https://surgenexcatalog.com/images/brochure/surforceflyer.pdf, and https://surgenexcatalog.com/images/brochure/surfactorflyer.pdf, reflect that your products are intended for use to treat diseases or conditions, including a variety of orthopedic diseases or conditions. Therefore, your products are drugs as defined in section 201(g) of the Federal Food, Drug, and Cosmetic Act (FD&C Act) [21 U.S.C. 321(g)] and biological products as defined in section 351(i) of the Public Health Service Act (PHS Act) [42 U.S.C. 262(i)].
+
+Your products are also human cells, tissues, or cellular or tissue-based products (HCT/Ps) as defined in 21 CFR 1271.3(d) and are subject to regulation under 21 CFR Part 1271, issued under the authority of section 361 of the PHS Act [42 U.S.C. 264]. HCT/Ps that do not meet all the criteria in 21 CFR 1271.10(a), and when no exception in 21 CFR 1271.15 applies, are not regulated solely under section 361 of the PHS Act [42 U.S.C. 264] and the regulations in 21 CFR Part 1271. Such products are regulated as drugs, devices, and/or biological products under the FD&C Act and/or the PHS Act, and are subject to additional regulation, including appropriate premarket review.
+
+Surgenex does not qualify for any exception in 21 CFR 1271.15, and your HCT/Ps derived from umbilical cord or amniotic membrane fail to meet all the criteria in 21 CFR 1271.10(a). Therefore, these HCT/Ps are not regulated solely under section 361 of the PHS Act [42 U.S.C. 264] and the regulations in 21 CFR Part 1271.
+
+Specifically, your products fail to meet the criterion in 21 CFR 1271.10(a)(2) that the HCT/Ps be “intended for homologous use only, as reflected by the labeling, advertising, or other indications of the manufacturer’s objective intent.” Your products are not intended to perform the same basic function or functions of umbilical cord or amniotic membrane in the recipient as in the donor, such as serving as a conduit (for umbilical cord); or serving as a selective barrier for the movement of nutrients between the external and in utero environment, protecting the fetus from the surrounding maternal environment, and serving as a covering to enclose the fetus and retain fluid in utero (for amniotic membrane). Rather, using your products to treat orthopedic conditions, for example, is not homologous use as defined in 21 CFR 1271.3(c).
+
+In addition, your products fail to meet other criteria set forth in 21 CFR 1271.10(a). The umbilical cord derived product, SurCord®, and amniotic membrane derived products, SurForce® and SurFactor®, fail to meet the minimal manipulation criterion set forth in 21 CFR 1271.10(a)(1) and defined for structural tissue in 21 CFR 1271.3(f)(1), because your processing alters the original relevant characteristics of the umbilical cord or amniotic membrane related to their utility for reconstruction, repair, or replacement.
+
+Please be advised that to lawfully market a drug that is a biological product, a valid biologics license must be in effect [42 U.S.C. 262(a)]. Such licenses are issued only after showing that the product is safe, pure, and potent. While in the development stage, such products may be distributed for clinical use in humans only if the sponsor has an investigational new drug application (IND) in effect as specified by FDA regulations [21 U.S.C. 355(i); 42 U.S.C. 262(a)(3); 21 CFR Part 312]. None of your products are the subject of an approved biologics license application (BLA), nor is there an IND in effect for any of them. Based on this information, your actions have violated the FD&C Act and the PHS Act.
+
+Additionally, during the inspection, FDA investigators documented evidence of significant deviations from current good manufacturing practice (CGMP) requirements, including deviations from section 501(a)(2)(B) of the FD&C Act and 21 CFR Parts 210 and 211.
+
+At the close of the inspection, the FDA investigators issued a Form FDA 483 to you listing inspectional observations, which described significant CGMP deviations applicable to your products. FDA identified additional significant deviations upon further review of the information collected during the April 2021 inspection, as discussed below. The CGMP deviations identified indicate that use of your products raises potential significant safety concerns by, for example, posing a significant risk that the products may be contaminated with microorganisms or have other serious product quality defects. The CGMP deviations, involving (b)(4) of vials of products manufactured between June 2017 and April 2021, include, but are not limited to, the following:
+
+1. Failure to establish and follow appropriate written procedures designed to prevent microbiological contamination of drug products purporting to be sterile, including procedures for validation of all aseptic and sterilization processes [21 CFR 211.113(b)]. For example:
+
+a. The aseptic processes used to manufacture (b)(4) of vials of SurCord® and SurForce® have not been validated (e.g., by performing media fill simulations) since your firm’s manufacturing operations began in June 2017. These products purport to be sterile and are expected to be sterile.
+
+b. Your SurFactor® (b)(4) sterilization validation, entitled “(b)(4) Sterilization Validation Report,” Report 2.13.2, Rev 2 is inadequate. Specifically, you did not assess the impact of the (b)(4) sterilization on the integrity of the product’s container-closure system to assure that sterility is maintained. Since 2018, (b)(4) vials of SurFactor have been distributed.
+
+c. Your Standard Operating Procedure (SOP) 8.3, Rev 8, entitled “SurFactor® Manufacturing Protocol,” does not require (b)(4) SurFactor® (b)(4).
+
+d. During the inspection, FDA investigators observed personnel practices that do not adequately protect against microbiological contamination of your products, including:
+
+  i. Operators performing aseptic processing wearing non-sterile gowns and other personal protective equipment (PPE).
+
+  ii. An operator was observed exiting and re-entering the clean room during aseptic processing multiple times without sanitizing their hands.
+
+  iii. An operator was observed moving an open container of bulk, in-process SurCord® to the edge of the biological safety cabinet (BSC) so a second operator could collect a sample from under the sash of the BSC, which can significantly increase the potential for contamination.
+
+2. Failure to have an adequate system for monitoring environmental conditions in an aseptic processing area [21 CFR 211.42(c)(10)(iv)]. Specifically, your firm has not established an adequate system for environmental monitoring in the aseptic processing area where your products, SurCord® and SurForce®, are manufactured. You required environmental monitoring for the presence of microorganisms to be conducted on (b)(4), which is insufficient to demonstrate control of the critical area during manufacturing.
+
+3. Failure to establish written procedures for production and process control designed to assure that the drug products have the identity, strength, quality, and purity they purport or are represented to possess [21 CFR 211.100(a)]. Specifically, you have not validated the manufacturing processes for SurCord® and SurFactor® with respect to identity, strength, quality, and purity.1
+
+4. Failure to thoroughly investigate any unexplained discrepancy, or the failure of a batch or any of its components to meet any of its specifications, whether or not the batch has been already distributed. [21 CFR 211.192]. Specifically, your firm has failed to thoroughly investigate sterility failures. Between April 2017 and April 2021, you had eight sterility failures for which you identified the contaminating organism(s). You discarded the batches associated with sterility failures without conducting an investigation to determine the root cause of the failures. Examples of contaminating organisms identified include Propionibacterium species, Cutibacterium acnes, and Staphylococcus capitis.
+
+5. Failure to establish and follow a written testing program designed to assess the stability characteristics of drug products and to use the results of such stability testing to determine appropriate storage conditions and expiration dates [21 CFR 211.166(a)]. Specifically, your firm has assigned (b)(4) expiration date to your products without supporting data.
+
+We have reviewed your written responses, dated May 7, 2021, May 27, 2021, June 24, 2021, and July 30, 2021, to the inspectional observations on the Form FDA 483 issued at the conclusion of the inspection. Because FDA identified additional significant deviations upon further review of the information collected during the April 2021 inspection, your responses did not address certain of the above-noted deficiencies.
+
+Most notably, however, your May 7, 2021, response represented to FDA:
+
+. . . [B]ased on the feedback we received during the inspection, and the recently reaffirmed timeline in which the FDA intends to exercise enforcement discretion, Surgenex has ceased manufacturing of these three product lines [SurCord®, SurForce®, and SurFactor®] effective April 16, 2021 and, will cease distribution in a responsible manner to our health care providers and the patients they treat. In any case, no SurForce, SurFactor, or SurCord allografts will be distributed past May 31, 2021; until such time that Surgenex receives approval from FDA to distribute under an approved IND and, manufacturing controls have been implemented to be fully compliant with manufacturing requirements for a drug.
+
+In subsequent updates to your May 7, 2021, response, you stated that Surgenex had “ceased distribution of the SurForce, SurCord, and SurFactor product lines and placed all remaining inventory in quarantine with effect from May 28th 2021.” We acknowledge these commitments, which FDA will need to verify, along with the adequacy of your other represented corrective actions, during a reinspection of your firm.
+
+However, your responses, including the excerpt of your May 7, 2021, response quoted above, are inadequate for a number of reasons. For example, although your May 7, 2021, response recognizes that “Surgenex had not been following standards for drug manufacturing,” your responses indicate that you continued to distribute CGMP-deficient products to customers without valid biologics licenses in effect for those products until May 28, 2021. You appear to point to the FDA Guidance, Regulatory Considerations for Human Cells, Tissues, and Cellular and Tissue-Based Products: Minimal Manipulation and Homologous Use,2 as your reason for continuing distribution of these products and for “not … following standards for drug manufacturing” with respect to their manufacture. This guidance communicates that FDA generally intended to exercise enforcement discretion through May 31, 2021, with respect to IND and premarket approval requirements for HCT/Ps that do not meet one or more of the criteria in 21 CFR 1271.10(a), where use of those HCT/Ps does not raise reported safety concerns or potential significant safety concerns. As noted above, the CGMP deviations revealed by the inspection raise potential significant safety concerns regarding the use of your products. Therefore, your products did not fall within the Agency’s policy not to take action against firms with respect to “IND and premarket approval requirements” for certain HCT/Ps. Further, that policy did not apply to the requirements in section 501(a)(2)(B) of the FD&C Act or 21 CFR Parts 210 and 211.
+
+As noted above, to lawfully market a drug that is a biological product, a valid biologics license must be in effect [42 U.S.C. 262(a)]. Such licenses are issued only after showing that the product is safe, pure, and potent. While in the development stage, such a product may be distributed for clinical use in humans only if the sponsor has an IND in effect for that particular product, as specified by FDA regulations, that covers such clinical use [21 U.S.C. 355(i); 42 U.S.C. 262(a)(3); 21 CFR Part 312]. Surgenex would not “receive[] approval from the FDA to distribute under an approved IND” to customers, as suggested in your May 7, 2021, response.
+
+Your responses also do not address the quantity of quarantined inventory you may still have at your facility and your plans for the disposition of this product inventory. In addition, although your responses represent that you believe there is “minimal risk to patients” for previously distributed SurCord, SurForce, and SurFactor, they do not describe actions you have taken or plan to take to address the impact of all above-noted CGMP deficiencies on your products distributed as recently as May 28, 2021, that carry a (b)(4) shelf life and were manufactured under the above-described conditions.
+
+Neither this letter nor the observations noted on the Form FDA 483, which were discussed with you at the conclusion of the inspection, are intended to be an all-inclusive list of deficiencies associated with your products. It is your responsibility to ensure full compliance with the FD&C Act, PHS Act, and all applicable regulations.
+
+This letter notifies you of our findings and provides you an opportunity to address them. Failure to adequately address these matters may lead to regulatory action without further notice. Such actions include seizure and/or injunction.
+
+For further information about IND requirements, please contact the Center for Biologics Evaluation and Research (CBER), Division of Regulatory Project Management, Office of Tissues and Advanced Therapies, at (240) 402-8190, or OTATRPMS@fda.hhs.gov. Please include a copy of this letter with your initial submission to CBER.
+
+We request that you respond in writing within fifteen (15) working days from your receipt of this letter, outlining the specific steps you have taken or plan to take to correct the noted violations and prevent their recurrence. Include any documentation necessary to show that correction has been achieved. If you do not believe your products are in violation of the FD&C Act, PHS Act, or applicable regulations, include your reasoning and any supporting information for our consideration. If you cannot complete all corrections within fifteen (15) working days, please explain the reason for your delay and the time frame for completion.
+
+Your response should be sent to the following address: Amy Graf, Compliance Officer, U.S. Food and Drug Administration, Office of Biological Products Operations – Division 2, 300 River Place Dr. – Suite 5900, Detroit, MI 48207 or emailed to Amy.Graf@fda.hhs.gov. If you have any questions, please contact Ms. Graf at (313) 393-2034 or via e-mail.
+
+Sincerely,
+/S/
+
+Karlton T. Watson
+Program Division Director
+Office of Biological Products Operations – Division 2
+
+___________________________
+
+1 As part of your responses to the Form FDA 483 (described below), you submitted a validation report for SurForce®, entitled “Validation Report – Qualification of SurForce manufacturing procedure for IND submission,” Report 2.8.9, Rev 2. This letter does not address the adequacy of that report. Rather, FDA would evaluate the adequacy of your validation of the manufacturing process for SurForce® as part of any future IND submission.
+
+2 This guidance was published in November 2017 and subsequently updated in December 2017 and July 2020.

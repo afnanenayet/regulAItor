@@ -1,0 +1,222 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Dr. Rajesh Jain
+          
+
+                                
+  
+    Recipient Title
+              Managing Director
+          
+
+          
+            Panacea Biotec Limited
+
+          
+                      B-1 Extn/A-27, Mohan Co-operative Industrial Estate
+Mathura Road
+New Delhi 110044
+Delhi
+India
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research | CDER
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter 320-20-48
+
+
+September 24, 2020
+
+Dear Dr. Jain:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Panacea Biotec Limited, FEI 3007187282, at Tehsil Nalagarh, Village Malpur, Baddi, District Solan, Himachal Pradesh, from February 10 to 20, 2020.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your March 13, 2020, response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence.
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to establish laboratory controls that include scientifically sound and appropriate specifications, standards, sampling plans, and test procedures designed to assure that components, drug product containers, closures, in-process materials, labeling, and drug products conform to appropriate standards of identity, strength, quality, and purity (21 CFR 211.160(b)).
+
+Your firm lacked data on microorganism identification from your aseptic processing operation.
+
+Your microbiology laboratory is responsible for identifying microorganisms recovered from your firm’s environmental monitoring (EM) program. Your procedure, Isolation and Identification of Microbial Isolates SOP BFI-QC-060 Rev No. 02, requires identification of isolates to the genus (and “preferably” species) level when they are considered to be morphologically different from previously identified isolates.
+
+However, you rarely identified microbes recovered from your aseptic processing operation and lacked meaningful data on microbes in your aseptic processing room. Notably, in 2019, your firm identified only one organism of the 6360 microorganisms isolated from the ISO 7 area.
+
+Furthermore, you attempted to visually “identify” recovered microorganisms using an incomplete and crude photographic library consisting of only (b)(4) microbes.
+
+In addition to lacking microbial identification data from aseptic processing operations, your laboratory also failed to maintain basic microbial differentiation information. For example, you often failed to record bacterial gram stain data, determine whether microbes were sporeformers, or provide other critical differentiating data.
+
+Routine characterization of recovered isolates provides vital data to promptly detect potential routes of contamination in aseptic operations and take action to prevent sterile drug contamination. Because your firm lacks microbial identification data from environmental monitoring, you lack basic information needed to evaluate the ongoing state of control of your aseptic manufacturing operations.
+
+Your response stated that you would differentiate and attempt to presumptively identify environmental isolates based on colony morphology. In addition, you stated you would perform a gram stain on isolates recovered from your ISO 5 and 7 areas. Your response is inadequate. You did not commit to identifying all isolates recovered throughout your aseptic processing rooms to at least the genus level (and species, whenever possible).
+
+Also, you did not commit to implement a sufficient microbial identification program for ancillary cleanrooms. For ancillary cleanrooms, identification of isolates should occur at an adequate frequency to provide a current database of microflora, and other isolates from these areas should be differentiated with higher specificity than your procedures currently prescribe.
+
+Endotoxin Analysis
+
+During the inspection, we observed the analysis of water samples and (b)(4) samples for endotoxin using the gel clot method. We observed that the analyst failed to perform the critical steps for vortexing samples. Additionally, the analyst failed to use a calibrated timer for timing the steps in the method and instead used a wall clock that had not been calibrated. Vortexing and timing are critical steps for this method to ensure that testing does not yield false negative results. Your gel clot method also failed to include sufficient instructions.
+
+Your response acknowledged that your method was inadequate and that you would revise your procedure to include vortexing steps, as well as use a calibrated external thermometer and a calibrated external timer. You also stated that, as a part of your investigation to assess impact on the product, you analyzed reserve samples of all commercial batches of (b)(4) injection (b)(4)mg/vial and all batches complied with the acceptance criteria.
+
+Your response is inadequate. You failed to perform a retrospective review of your laboratory practices including but not limited to the adequacy of your test methods. You also did not provide an evaluation of analyst competencies and training sufficiency.
+
+In response to this letter provide the following:
+
+• A comprehensive, independent assessment of your laboratory practices, procedures, methods, equipment, documentation, and analyst competencies. Based on this review, provide a detailed plan to remediate and evaluate the effectiveness of your laboratory system. Areas of special emphasis in your retrospective assessment and corrective action and preventive action (CAPA) plan should include, but not be limited to:
+o Review all laboratory test methods to ensure they are well-defined in order to enable reproducibility, and remediate any gaps in specificity that are identified
+o Ensure adequate calibration frequencies for lab equipment (e.g., heating block thermometer). Include your SOP with remediated frequencies
+
+2. Your firm failed to establish an adequate system for monitoring environmental conditions in aseptic processing areas (21 CFR 211.42(c)(10)(iv)).
+
+Your firm manufactures (b)(4) injection (b)(4)mg/vial for the U.S. market. Our inspection revealed deficient ongoing monitoring and control of your aseptic processing facility.
+
+Pressure Differentials
+
+You lacked an effective system to ensure adequate control of differential pressures in your aseptic processing facility. You manually recorded differential pressures between cleanrooms approximately (b)(4) during a (b)(4).
+
+You also allowed excursions up to (b)(4), including pressure reversals. Notably, for excursions beyond (b)(4), a deviation/incident “may” be proposed.
+
+You also lacked an adequate, integrated system for frequently recording room differential pressure during a (b)(4), scrutinizing ongoing HVAC control, initiating deviations, and taking appropriate actions when pressure excursions occur.
+
+Because of your inadequate pressure differential systems, and insufficient standards for initiating investigations of pressure control issues, you lack evidence that ongoing control was maintained for the HVAC systems used in your aseptic processing operations.
+
+A suitable facility monitoring system is critical to maintain appropriate air quality throughout all of your cleanrooms. All alarms and deviations from established limits should be appropriately investigated to rapidly detect atypical changes that can compromise the facility’s environment. Prompt detection of an emerging low-pressure problem is essential to preventing ingress of lower quality air into a higher criticality room.
+
+Your response stated you are implementing a new system that focuses on monitoring online differential pressures for the (b)(4) (filling line). However, you did not commit to a comprehensive review of your facility monitoring and HVAC systems to improve environmental control in all cleanrooms of the aseptic processing facility.
+
+Non-Viable Particulate Monitoring
+
+You lacked an adequate system for handling non-viable particulates (NVP) above your action level of (b)(4) NVP ≥ 0.5 μm/ftᶾ during aseptic processing operations.
+
+This limit was exceeded for seven out of (b)(4) batches of (b)(4) injection (b)(4)mg/vial manufactured since May 2019. You lacked investigations in response to the high particulate levels observed in the ISO 5 aseptic processing operation. Per your NVP monitoring procedure, an investigation was not required unless an excursion lasted longer than (b)(4).
+
+Excessive particulates in the ISO 5 environment can lead to nonviable or biological contamination of sterile drug products.
+
+In your response, you stated that you are in the process of evaluating the feasibility of implementing an integrated non-viable particulate counter within the (b)(4) which will enable the filling machine to stop when an excursion occurs.
+
+Although you have committed to improvements in your non-viable particulate monitoring program, you lacked sufficient information on the parameters that trigger investigations.
+
+In response to this letter, provide the following:
+
+• A thorough, independent assessment, and CAPA for your pressure differential system. Include a comprehensive evaluation of monitoring, recording, alarm documentation, deviation investigation, data retention and overall system control in your assessment. Provide a CAPA that includes but is not limited to:
+o The state of control of air balance between clean areas and adequacy of integration of each of the HVAC systems
+o Documentation for all alarms, irrespective of the length or location of the event and retention of this data
+o Remediated procedures for investigating deviations from established limits, and specific provisions for handling instances in which a pressure reversal occurs
+o Remediated facility monitoring systems that will rapidly detect atypical changes of pressure in one or more cleanrooms simultaneously
+o A detailed description of how you will ensure uninterrupted power supply (UPS) for all HVAC systems supporting each cleanroom in your facility
+
+• Comprehensive risk assessment of all contamination hazards with respect to your aseptic processes, equipment, and facilities. Provide an independent assessment that includes, but is not limited to:
+o All human interactions within the ISO 5 area
+o Equipment placement and ergonomics
+o Air quality in the ISO 5 area and surrounding room
+o Facility layout
+o Personnel Flows and Material Flows (throughout all rooms used to conduct and support sterile operations)
+o Aseptic practices and cleanroom behavior during production
+o Identification of your intrinsic and extrinsic particulate risks to your aseptic processing operations. Also assess the adequacy of current ISO 5 area particulate monitoring procedures (including but not limited to evaluating the maximum time that may elapse before a particulate excursion alarm occurs)
+
+• A detailed remediation plan with timelines to address the findings of the contamination hazards risk assessment. Describe specific tangible improvements to be made to aseptic processing operation design and control.
+
+See FDA’s guidance document, Sterile Drug Products Produces by Aseptic Processing – Current Good Manufacturing Practice, to help you meet the CGMP requirements when manufacturing sterile drugs using aseptic processing, at https://www.fda.gov/media/71026/download.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements.
+
+Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of these violations and for preventing their recurrence or the occurrence of other violations.
+
+If you are considering an action that is likely to lead to a disruption in the supply of drugs produced at your facility, FDA requests that you contact CDER’s Drug Shortages Staff immediately, at drugshortages@fda.hhs.gov, so that FDA can work with you on the most effective way to bring your operations into compliance with the law. Contacting the Drug Shortages Staff also allows you to meet any obligations you may have to report discontinuances or interruptions in your drug manufacture under 21 U.S.C. 356C(b). This also allows FDA to consider, as soon as possible, what actions, if any, may be needed to avoid shortages and protect the health of patients who depend on your products.
+
+Until you correct all violations completely and we confirm your compliance with CGMP, FDA may withhold approval of any new drug applications or supplements listing your firm as a drug manufacturer.
+
+Failure to correct these violations may also result in the FDA refusing admission of articles manufactured at Tehsil Nalagarh, Malpur Baddi, District Solan, Himachal Pradesh, into the United States under section 801(a)(3) of the FD&C Act, 21 U.S.C. 381(a)(3). Articles under this authority may be subject to refusal of admission, in that the methods and controls used in their manufacture do not appear to conform to CGMP within the meaning of section 501(a)(2)(B) of the FD&C Act, 21 U.S.C. 351(a)(2)(B).
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+If you believe that your products are not in violation of the FD&C Act (or you have complied with FDA regulations), include your reasoning and any supporting information for our consideration.
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov. Please identify your response with FEI 3007187282 and ATTN: Carla Norris.
+
+Sincerely,
+/S/
+
+Francis Godwin
+Director
+Office of Manufacturing Quality
+Office of Compliance
+Center for Drug Evaluation and Research

@@ -1,0 +1,321 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Tony Siracusa
+          
+
+                                
+  
+    Recipient Title
+              Chief Executive Officer
+          
+
+          
+            Tismor Health and Wellness Pty Limited 
+
+          
+                      19a Garema Cct
+Kingsgrove NSW 2208
+Australia
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research | CDER
+        
+         
+          10903 New Hampshire Avenue
+Silver Spring, MD 20993
+United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter  320-20-10
+
+December 5, 2019
+
+ 
+
+Dear Mr. Siracusa:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Tismor Health and Wellness Pty Limited, FEI 3008932054, at 19a Garema Cct, Kingsgrove, from May 20 to 24, 2019.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See 21 CFR, parts 210 and 211.
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B). 
+
+Your firm manufactures “Thursday Plantation Tea Tree Antiseptic Cream." This product is an unapproved new drug in violation of section 505(a) of the FD&C Act, 21 U.S.C. 355(a). Introduction or delivery for introduction of such products into interstate commerce is prohibited under section 301(d) of the FD&C Act, 21 U.S.C. 331(d). These violations are described in more detail below. 
+
+We reviewed your June 14, 2019, response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence. 
+
+During our inspection, our investigator observed specific violations including, but not limited to, the following.
+
+CGMP Violations
+
+1.   Your firm failed to exercise appropriate controls over computer or related systems to assure that only authorized personnel institute changes in master production and control records, or other records. (21 CFR 211.68(b).
+
+Your firm contract manufactures over-the-counter (OTC) topical drug products (b)(4). Your firm lacked sufficient controls over your gas chromatography (GC) instrument used to test the drug product prior to release. Specifically, your firm assigned administrative privileges to analysts conducting routine assay tests using your Empower chromatography software data system. 
+
+During the review of your Empower chromatography audit trail for your drug product, our investigator observed that you deleted more than 100 test results since October 2017. You also aborted more than 100 sample set results during this same period, although you lacked investigations. 
+
+Your quality system does not adequately ensure the accuracy and integrity of the data to support the safety, effectiveness and quality of the drugs you manufacture. Without complete and accurate records, you cannot assure appropriate decisions regarding batch release, product stability, and other matters that are fundamental to ongoing assurance of quality. 
+
+Your response acknowledged that analysts did not understand the implications of deleting data and attributed the problem to the lack of data integrity training at your firm. You also stated there was no requirement in your standard operating procedures (SOPs) to regularly review audit trails.
+
+You stated that procedural updates will include guidance on management of users, assignment of administrative privileges, and the circumstances when administrative privileges can be used. However, your updated procedures still allow analysts to perform “trial work,” which your firm intended to maintain in a separate folder from routine analysis. This is an unacceptable practice. It is essential that all data from the analysis of drug samples be retained and reviewed. 
+
+You committed to investigate previously deleted data and aborted sample sets. Your firm also indicated it will take further actions depending on the outcome of this investigation. Your response is inadequate. You did not assess GC data related to all batches of products distributed to the U.S. to ensure there was no impact to quality or commit to a larger review of all data generated in your laboratory. Your response lacks an independent review including, but not limited to, an evaluation of the origin of behaviors and decisions that led to deletion of quality control data. Your response did not provide adequate detail of your full scope of improvements and management oversight to prevent future data integrity issues.
+
+In response to this letter, provide the following:
+
+
+	A comprehensive, independent assessment of your laboratory practices, procedures, methods, equipment, documentation, and analyst competencies. Based on this review, provide a detailed plan to remediate and evaluate the effectiveness of your laboratory system.
+	A comprehensive assessment and remediation plan to ensure your quality unit (QU) is given the authority and resources to effectively function. The assessment should also include, but not be limited to:
+
+
+ 
+
+
+	A determination of whether procedures used by your firm are robust and appropriate
+	Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices
+	A complete and final review of each batch and its related information before the QU disposition decision
+	Oversight and approval of investigations and discharging of all other QU duties to ensure identity, strength, quality, and purity of all products
+	Also describe how top management supports quality assurance and reliable operations, including but not limited to timely provision of resources to proactively address emerging manufacturing/quality issues and to assure a continuing state of control.
+
+
+ 
+
+
+	A comprehensive, independent assessment of computer system performance and security. Provide a report that identifies vulnerabilities in the design and controls, and a thorough corrective action and preventive action (CAPA) plan for each of your laboratory computer systems, which addresses the following elements. 
+
+	
+		A list of all hardware (both standalone and networked) and software used by your laboratory. 
+		Identify and evaluate vulnerabilities in performance and security of all of these computer systems, including but not limited to their configurations, administrative rights, password controls, audit trails capabilities and state of implementation for each system, qualification/validation status, deviation history, backup capabilities, network requirements, completeness of data records, suitability of current hardware/software for its intended use(s), change management, and management oversight. 
+		Detail the associated user privileges for each system.
+		
+			Specify user roles and associated user privileges for all staff levels who have access to the laboratory computer system, and provide organizational affiliations, responsibilities, and titles. Clearly specify all staff who have administrator privileges.
+			Fully describe how you will ensure segregation of firm personnel involved with laboratory testing from those with administrator rights. For all staff roles that are permitted to have administrative rights, specify the scope and type of privileges.
+		
+		
+		Assess each system to determine if unique user names and passwords are used.
+		Evaluate policies and procedures regarding computers and data governance, with special emphasis on audit trails, prohibiting data deletion, and appropriate modifications of results. Specify how your firm prevents data deletion and undocumented/inappropriate modifications of data. Also describe how you ensure original data and information is always preserved. Provide your procedures for audit trail review.
+		Provide requirements for data retention and backup for all laboratory systems.
+		Describe how you ensure that all quality control tests are performed by an analyst and receive second-tier review from a separate qualified individual (e.g., lab manager). Provide related procedure(s).
+		Summarize your interim controls to assure reliable performance and security while your CAPA plan is being implemented.
+	
+	
+
+
+2.   Your firm failed to establish written procedures for production and process control designed to assure that the drug products you manufacture have the identity, strength, quality, and purity they purport or are represented to possess (21 CFR 211.100(a)).
+
+Your firm has not qualified the equipment, such as (b)(4), used to manufacture your drug product. In addition, you did not record the (b)(4) of the (b)(4) used at various steps during production in the batch record. 
+
+The batch record for the drug product required (b)(4) of components at (b)(4) for (b)(4), but your (b)(4) did not have graduated (b)(4) values, nor does it assure a known (b)(4). Instead, the (b)(4) range from (b)(4), with (b)(4) corresponding to a claimed maximum (b)(4) of (b)(4). 
+
+In your response, you stated that you will qualify the (b)(4) tank and (b)(4) to demonstrate that the equipment is suitable for its intended use. Specifically, you plan to qualify the (b)(4) to ensure that the operators can set the (b)(4) for the (b)(4) tanks accurately. You qualified the (b)(4) value by using previous process validation work, in which the (b)(4) was set at (b)(4) and was expected to represent a (b)(4) of approximately (b)(4).
+
+In your response you stated you have determined speeds at different dial settings and will perform qualification studies to ensure the equipment is suitable for its intended use. Your response is inadequate. Your firm did not assess the potential impact on quality (e.g., (b)(4)) if the (b)(4) does not function at the (b)(4) defined during process validation. There is no assurance that previously distributed batches were manufactured with qualified equipment suitable for its intended use.
+
+In response to this letter, provide the following: 
+
+
+	A data driven, scientifically sound qualification program that identifies and controls variability, such that your production and packaging processes meet appropriate manufacturing standards and parameters. This includes, but is not limited to, evaluating suitability of equipment for its intended use, ensuring quality of input materials, and determining the capability and reliability of each manufacturing process step and control.
+	An assessment of distributed batches of your drug product. Provide your plans for addressing any product quality risks identified for any drug products still in distribution, including notifications or market actions.
+
+
+3.   Your firm failed to establish laboratory controls that include scientifically sound and appropriate specifications, standards, sampling plans and test procedures designed to assure that components, drug products conform to appropriate standards of identity, strength, quality, and purity (21 CFR 211.160(b)).
+
+Your firm failed to validate the Excel spreadsheet used to perform the assay calculation for your “(b)(4).” Your procedures lacked guidance on how to check and manually verify the calculation sheets. During the inspection, our investigator identified a calculation error within the spreadsheet. The incorrect formula for averaging the Internal Standard peak area was used. 
+
+There is no assurance that the associated assay results recorded are reliable and accurate.
+
+In your response, you stated that you have retrospectively tested products in the market using correct procedures and will update the validation master plan to ensure that spreadsheets are included within the scope of validation efforts. You created a new procedure which details the approach for validating spreadsheets as well as protecting the file from accidental changes. You also stated all Excel spreadsheet calculations for your (b)(4) batches have been retrospectively reviewed. 
+
+During the review, you identified another error within your Excel spreadsheets. The assay test result for (b)(4) batch (b)(4) was incorrect due to a transcription entry error for active peak area. Your firm used a new spreadsheet and entered the correct active peak area. The result was recalculated, and the final result was reported. The product had already been released with test results using the incorrect calculation, although the recalculated test result was still within specification. You have committed to manually check calculations until the spreadsheet has been validated.
+
+Your firm relied on Excel spreadsheets to calculate assay and determine the reportable result for final batch release. Your computerized systems must perform their functions satisfactorily and that your firm establish a written program to ensure ongoing proper system performance.
+
+Your response is inadequate. You have not fully assessed the potential impact of using data from unvalidated, unsecured spreadsheets for critical CGMP functions. 
+
+In response to this letter, provide the following:
+
+
+	A comprehensive review of your laboratory practices, procedures, methods, equipment, and analyst competencies. Based on this review, provide a detailed CAPA plan to remedy your laboratory system. Your plan should include the process you will use to evaluate the effectiveness of the implemented CAPA plan.
+	A complete assessment of documentation systems used throughout your manufacturing and laboratory operations to determine where documentation practices are insufficient. Include a detailed CAPA plan that comprehensively remediates your firm’s documentation practices to ensure you retain attributable, legible, complete, original, accurate, contemporaneous records throughout your operation.
+
+
+Responsibilities as a Contractor
+
+Drugs must be manufactured in conformance with CGMP. FDA is aware that many drug manufacturers use independent contractors such as production facilities, testing laboratories, packagers, and labelers. FDA regards contractors as extensions of the manufacturer. 
+
+You are responsible for the quality of drugs you produce as a contract facility regardless of agreements in place with product owners. You are required to ensure that drugs are made in accordance with section 501(a)(2)(B) of the FD&C Act for safety, identity, strength, quality, and purity. See FDA’s guidance document Contract Manufacturing Arrangements for Drugs: Quality Agreements at https://www.fda.gov/media/86193/download.
+
+Data Integrity Remediation
+
+Your quality system does not adequately ensure the accuracy and integrity of data to support the safety, effectiveness, and quality of the drugs you manufacture. See FDA’s guidance document Data Integrity and Compliance With Drug CGMP for guidance on establishing and following CGMP compliant data integrity practices at https://www.fda.gov/downloads/DRUGS/GuidanceComplianceRegulatoryInformation/Guidances/UCM495891.pdf. 
+
+We acknowledge that you are using a consultant to audit your operation and assist in meeting FDA requirements. In response to this letter, provide the following:
+
+
+	A comprehensive investigation into the extent of the inaccuracies in data records and reporting including results of the data review for drugs distributed to the United States. Include a detailed description of the scope and root causes of your data integrity lapses.
+
+
+ 
+
+
+	A current risk assessment of the potential effects of the observed failures on the quality of your drugs. Your assessment should include analyses of the risks to patients caused by the release of drugs affected by a lapse of data integrity and analyses of the risks posed by ongoing operations.
+
+
+ 
+
+
+	A management strategy for your firm that includes the details of your global corrective action and preventive action plan. The detailed corrective action plan should describe how you intend to ensure the reliability and completeness of all data generated by your firm including microbiological and analytical data, manufacturing records, and all data submitted to FDA.
+
+
+Products Containing Glycerin
+
+Your (b)(4) drug product contains glycerin. The use of glycerin contaminated with diethylene glycol (DEG) has resulted in various lethal poisoning incidents in humans worldwide.
+
+See FDA’s guidance document Testing of Glycerin for Diethylene Glycol to help you meet the CGMP requirements when manufacturing drugs containing glycerin at https://www.fda.gov/media/71029/download.
+
+In response to this letter, provide the following:
+
+
+	Results of tests for DEG and EG in retain samples of all glycerin batches used to manufacture your drug products.
+	A full risk assessment for drug products that contain glycerin and are within expiry in the U.S. market. Take prompt corrective actions and preventive actions and detail your future actions to ensure appropriate selection of your suppliers, ongoing scrutiny of their supply chain, and appropriate incoming batch controls.
+
+
+Any drug marketed by your firm must conform with all applicable requirements of the FD&C Act, including those outlined in the Unapproved New Charges section below.
+
+Unapproved New Drug Violation
+
+“Thursday Plantation Tea Tree Antiseptic Cream" 
+
+ “Thursday Plantation Tea Tree Antiseptic Cream" is a drug as defined by section 201(g)(1)(B) of the FD&C Act, 21 U.S.C. 321(g)(1)(B), because it is intended for the diagnosis, cure, mitigation, treatment, or prevention of disease and/or under section 201(g)(1)(C) of the FD&C Act, 21 U.S.C. 321(g)(1)(C), because it is intended to affect the structure or any function of the body. Specifically, “Thursday Plantation Tea Tree Antiseptic Cream" is intended for use as a combination first aid antiseptic and external analgesic OTC drug product. 
+
+Examples of claims observed on your product label and labeling which includes the website (https://thursdayplantationretail.comExternal Link Disclaimer) that establish the intended use (as defined in 21 CFR 201.128) of the product include, but may not be limited to, the following:
+
+Label Claims
+
+    “Gently soothes and relieves minor skin irritations…First aid to help protect against infection in minor cuts, scrapes and burns.”
+
+Website Claims
+
+    “Captures the antibacterial power of Tea Tree Oil to treat dry or inflamed skin condition…
+
+• May assist in the management of minor wounds, cuts, scratches and abrasions • Contains 100% Pure Australian Tea Tree Oil, Australia’s natural antiseptic”
+
+OTC drug products such as “Thursday Plantation Tea Tree Antiseptic Cream" that are intended for use as first aid antiseptics are being evaluated as part of the OTC Drug Review. They have been proposed to be classified as generally recognized as safe and effective and not misbranded under the OTC Topical Antimicrobial Products Tentative Final Monograph (TFM) (See 43 FR 1210, January 6, 1978, as amended at 56 FR 33644, July 22, 1991) if they meet each condition in the TFM and each general condition in 21 CFR 330.1. In addition, OTC drug products intended for use as external analgesics, because they soothe and relieve minor skin irritations, have been proposed to be classified as generally recognized as safe and effective and not misbranded under the TFM for OTC External Analgesic Drug Products (48 FR 5852, February 8, 1983) if they meet each condition in the TFM and each general condition in 21 CFR 330.1. 
+
+Pending the promulgation of a final rule, the agency generally does not intend to pursue regulatory action against products marketed in accordance with the conditions proposed in the TFM and each general condition in 21 CFR 330.1, unless a particular product poses a public health concern. Such marketing, however, is subject to the risk that a final rule may require reformulation and/or relabeling or FDA approval through the “new drug” procedures of the FD&C Act (section 505). However, “Thursday Plantation Tea Tree Antiseptic Cream" does not meet these conditions for the reasons explained below.
+
+The formulation and labeling for “Thursday Plantation Tea Tree Antiseptic Cream" are not consistent with the conditions proposed in the OTC Topical Antimicrobial Products TFM (See 43 FR 1210, January 6, 1978, as amended at 56 FR 33644, July 22, 1991) nor with the TFM for OTC External Analgesic Drug Products (48 FR 5852, February 8, 1983). Specifically, “Thursday Plantation Tea Tree Antiseptic Cream" active ingredient, Melaleuca Alternifolia (Tea Tree) Leaf Oil 5%, is not a proposed active ingredient in either TFM. 
+
+We are not aware of any adequate and well controlled clinical trials in the published literature that support a determination that “Thursday Plantation Tea Tree Antiseptic Cream" is generally recognized as safe and effective for its labeled indications. Additionally, we are not aware of a similar OTC product as formulated and labeled that was available in the United States market on or before the inception of the OTC Drug Review.
+
+“Thursday Plantation Tea Tree Antiseptic Cream," as formulated and labeled, is therefore a new drug within the meaning of section 201(p) of the FD&C Act because it is not generally recognized among scientific experts as safe and effective for the drug uses described in its labeling. “New drugs” may not be introduced or delivered for introduction into interstate commerce unless an application approved by FDA under section 505 of the FD&C Act is in effect for the drug. “Thursday Plantation Tea Tree Antiseptic Cream" is not the subject of an approved new drug application; therefore, the introduction or delivery for introduction of this product into interstate commerce is prohibited under section 301(d) of the FD&C Act, 21 U.S.C. 331(d) and violates section 505 of the FD&C Act.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of these violations and for preventing their recurrence or the occurrence of other violations. 
+
+Until you correct all violations completely and we confirm your compliance with CGMP, FDA may withhold approval of any new drug applications or supplements listing your firm as a drug manufacturer. 
+
+Failure to correct these violations may also result in the FDA refusing admission of articles manufactured at Tismor Health and Wellness Pty Limited at 19a Garema Cct, Kingsgrove, into the United States under section 801(a)(3) of the FD&C Act, 21 U.S.C. 381(a)(3). Articles under this authority may be subject to refusal of admission, in that the methods and controls used in their manufacture do not appear to conform to CGMP within the meaning of section 501(a)(2)(B) of the FD&C Act, 21 U.S.C. 351(a)(2)(B). 
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion. 
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov or mail your reply to:
+
+ 
+
+            W. DeVore Irick
+
+Compliance Officer
+
+            U.S. Food and Drug Administration
+
+            White Oak Building 51, Room 4235
+
+10903 New Hampshire Avenue
+
+            Silver Spring, MD 20993
+
+            USA
+
+Please identify your response with FEI 3008932054.
+
+ 
+
+Sincerely,
+
+/S/
+
+Francis Godwin
+
+Director
+
+Office of Manufacturing Quality
+
+Office of Compliance
+
+Center for Drug Evaluation and Research

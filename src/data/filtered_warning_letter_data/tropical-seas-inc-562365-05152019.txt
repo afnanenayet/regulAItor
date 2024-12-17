@@ -1,0 +1,262 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Daniel W. Knorr
+          
+
+                                
+  
+    Recipient Title
+              President
+          
+
+          
+            Tropical Seas, Inc. 
+
+          
+                      346 Flomich St
+Holly Hill, FL 32117
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Division of Pharmaceutical Quality Operations II
+        
+         
+          4040 North Central Expressway, Suite 300
+Dallas, TX 75204-3128
+United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+May 15, 2019
+
+ 
+
+Case # 562365
+
+ 
+
+WARNING LETTER
+
+ 
+
+VIA UPS EXPRESS
+
+Daniel W. Knorr, President 
+
+Tropical Seas, Inc.
+346 Flomich St
+
+Holly Hill, Florida 32117
+
+ 
+
+Mr. Knorr:
+
+The U.S. Food ad Drug Administration (FDA) inspected your drug manufacturing facility, Tropical Seas, Inc. (FEI:1035794) at 346 Flomich St, Holly Hill, Florida, from May 21, 2018 to May 30, 2018.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See 21 CFR, parts 210 and 211. 
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B). 
+
+Your firm manufactures Reef Safe BURN COOLER Soothing After Sun Lotion, Reef Safe BURN COOLER Rehydrating Spray, Reef Safe BURN COOLER Rehydrating Gel, Reef Safe Sting Cooler Jellyfish Sting Relief Spray, and Reef Safe Sting Cooler Jellyfish Sting Relief Gel that are unapproved new drugs in violation of section 505(a) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 355(a) and are misbranded under section 502(c) of the FD&C Act, 21 U.S.C. 352(c). Introduction of such products into interstate commerce is prohibited under sections 301(a) and (d) of the FD&C Act, 21 U.S.C. 331(a) and (d). 
+
+We reviewed your June 19, 2018 response in detail and acknowledge receipt of subsequent correspondence. 
+
+CGMP Violations 
+
+During our inspection, our investigator observed specific violations including, but not limited to, the following.
+
+1.  Your firm failed to establish laboratory controls that include scientifically sound and appropriate specifications, standards, sampling plans, and test procedures designed to assure that components, drug product containers, closures, in-process materials, labeling, and drug products conform to appropriate standards of identity, strength, quality, and purity (21 CFR 211.160(b)).
+
+You lack scientific data to demonstrate that your growth promotion procedures and practices are suitable and reliable for the microbiological testing of your topical over-the-counter (OTC) SPF sunscreen drug products marketed for children. 
+
+Specifically, you do not consistently perform growth promotion testing on the in-house media used for microbial testing to ensure the media supports growth and acceptable recovery. When you do perform the testing, you told our investigator that, “(b)(4).” You also stated that “this practice that is not documented.” Your test methods do not follow United States Pharmacopeia (USP) test methods; you do not have data to show that your method is equivalent or better; nor have your methods been qualified for their intended use. As such, each batch of media you utilize for microbial testing has not been adequately verified for growth promotion. You cannot ensure that upon release your topical OTC drug products meet acceptable microbiological specifications.   
+
+In your response, you stated that you are in the process of identifying a microbiology consultant to assist you in a review of your test methods. 
+
+Your response could not be fully evaluated because you did not provide sufficient information. You failed to stop using sub-standard microbial testing methods. Furthermore, you did not conduct a detailed review of your microbiological testing practices to determine whether the testing you perform is scientifically sound and designed to ensure that your drug products meet release specifications. Additionally, your response lacks specifics as to how your consultant will perform their evaluation and what their assessment will involve. 
+
+In response to this letter, provide:
+
+
+	A comprehensive, independent review of your laboratory practices, procedures, methods, equipment, and analyst competencies. Based on this review, provide a detailed corrective action and preventive action (CAPA) plan to remedy your laboratory system. Your plan should include the process you will use to evaluate the effectiveness of the implemented CAPA plan.
+	Appropriate microbiological batch release specifications (i.e., total counts, identification of bioburden to detect objectionable microbes) for each of your drug products. 
+	Microbiological testing methods that conform to USP <61> and <62>, which are capable of recovering product bioburden and to determine whether any microorganisms are objectionable relative to the product’s intended use, route of administration, and patient (i.e. consumer) population. 
+
+
+
+	A summary of all test results obtained from testing retain samples of all drug products within expiry. You should test all appropriate quality attributes. If your testing for any previously released batch yields any out-of-specification results, indicate the corrective actions you will take, including notifying customers and initiating recalls. 
+	A commitment to test each batch using qualified methods to ensure conformance to finished product specifications before final disposition decision. 
+	A comprehensive assessment of your firm’s manufacturing operations with emphasis on microbiological controls and contamination prevention. 
+
+
+2.  Your firm failed to thoroughly investigate any unexplained discrepancy or failure of a batch or any of its components to meet any of its specifications, whether the batch has already been distributed (21 CFR 211.192).
+
+You failed to thoroughly investigate a customer complaint for batch 1482 of your Reef Babies SPF 50 sunscreen product that you received in 2016. In the complaint, it states “child, 6 (age) broke out in white bumps following red rash from application.”  Your investigation concluded that, “per mother child allergic to sulfur which is not in our product” without evaluating all potential assignable root causes. In addition, your firm did not extend the investigation to other potentially affected batches or similar products. Instead, you instructed the complainant to test a “small patch” of the product on the child and to communicate back to you “how it did,” despite the awareness of the potential health risk. Your failure to fully investigate complaints may impact the identity, purity, quality or strength of the drug products you manufacture due to the ineffectiveness of your investigational process to adequately take appropriate actions. 
+
+This is a repeat observation from FDA’s 2015 inspection at your facility.
+
+You state your investigation process will now include the inspection and documentation of all retains by the Quality Unit for future customer complaints. Your response is inadequate. Your response failed to conduct a retrospective review of previous complaints and related investigations to determine a scientifically sound root cause. Nor did your response include any corrective actions to prevent recurrence and an assessment as to whether any associated batches were affected. You also did not state that you will evaluate and assess your complaint handling process.
+
+In response to this letter, provide: 
+
+
+	A retrospective investigation into the customer complaint for Reef Babies SPF 50 sunscreen product, batch1482. Provide sufficient details and evidence that you have performed a thorough investigation to determine the root cause, evaluated all potentially impacted batches and implement the appropriate corrective actions to prevent recurrence. 
+
+
+
+	An independent, comprehensive assessment of your overall system for investigating complaints, deviations, atypical events, out-of-specification (OOS) results, and failures. Your corrective action and preventive action (CAPA) should include, but not limited to, improvement in investigations, root cause analysis, a retrospective review of previous complaints, written procedures, and Quality Unit oversight. Also, include your process for evaluating CAPA plan effectiveness.  
+
+
+Glycerin-containing drug products
+
+You manufacture drug products containing glycerin such as Reef Babies and Reef Safe. It is unclear if you have addressed whether diethylene (DEG) or ethylene glycol (EG) is within appropriate limits according to USP standards for glycerin lots used to manufacture your OTC drug products. DEG contamination in pharmaceuticals has caused lethal poisoning incidents in humans worldwide. 
+
+ 
+
+See FDA's guidance document, Testing of Glycerin for Diethylene Glycol, to help you meet the
+
+CGMP requirements when manufacturing drugs containing glycerin, at http://academy.gmp compliance.org/guidemgr/files/DIETHYLENE_GLYCOL_TESTING_FDA.PDFExternal Link Disclaimer
+
+Ultra Violet (UV) Test Method Validation Concern 
+
+In a previous inspection between November 9-19, 2015, FDA noted a CGMP deficiency concerning your failure to validate the UV spectrophotometer test method used for finished product release testing of your OTC SPF sunscreen drug products. 
+
+The FDA responded in a letter to your firm in May 2017 with various concerns regarding your UV spectrophotometer test method. In the same letter, FDA also stated that the corrective actions included in your response to the Form FDA 483 issued to your firm after the November 2015 inspection would be verified during the next inspection. Upon our review of your most recent corrective actions, you still have not satisfactorily demonstrated that your UV spectrophotometer test methods are validated. You also have not provided data to show that your methods are at least equivalent to USP methods. 
+
+CGMP Consultant Recommended
+
+Because you failed to correct repeat violations, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34, to assist your firm in meeting CGMP requirements. The consultant should also have relevant expertise in microbiology and analytical method development. Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for fully resolving all deficiencies and ensuring ongoing CGMP compliance. You should immediately and comprehensively assess your company’s manufacturing operations to ensure that systems, processes, and the products manufactured conform to FDA requirements. 
+
+Unapproved New Drug and Misbranding Charges
+
+Reef Safe BURN COOLER Soothing After Sun Lotion, Reef Safe BURN COOLER Rehydrating Spray, Reef Safe BURN COOLER Rehydrating Gel, Reef Safe Sting Cooler Jellyfish Sting Relief Spray, and Reef Safe Sting Cooler Jellyfish Sting Relief Gel are “drugs” as defined by section 201(g)(1)(B) of the FD&C Act, 21 U.S.C. 321(g)(1)(B), because they are intended for the diagnosis, cure, mitigation, treatment, or prevention of disease and/or under section 201(g)(1)(C) of the FD&C Act, 21 U.S.C. 321(g)(1)(C), because they are intended to affect the structure or any function of the body.  Specifically, these products are intended as external analgesics and to accelerate the skin’s healing process.  
+
+Examples of claims observed on your product labels and on your labeling, which includes your product website, https://www.tropicalseas.comExternal Link Disclaimer (redirects consumer to www.reefsafesun.comExternal Link Disclaimer),  for Reef Safe BURN COOLER Soothing After Sun Lotion, Reef Safe BURN COOLER Rehydrating Spray, Reef Safe BURN COOLER Rehydrating Gel, Reef Safe Sting Cooler Jellyfish Sting Relief Spray and Reef Safe Sting Cooler Jellyfish Sting Relief Gel that establish the intended uses of the product as defined in 21 CFR 201.128 include, but may not be limited to, the following:
+
+Label Claims for Reef Safe BURN COOLER Soothing After Sun Lotion: 
+
+“Helps relieve the discomfort associated with sun burns, minor burns, windburns, and chapped skin.”
+
+Label Claims for Reef Safe BURN COOLER Rehydrating Spray and Reef Safe BURN COOLER Rehydrating Gel:
+
+“For discomfort from Sunburn & Jellyfish Stings . . . Provides maximum relief from the discomfort associated with sunburn, jellyfish stings, minor burns, scrapes and insect bites . . . Helps cool and soothe pain for instant relief, while rehydrating your skin’s natural nutrients lost by exposure to sunlight, wind, inclement weather, salt or chlorinated water, thus helping accelerate the skin’s healing process.”
+
+Label Claims for Reef Safe Sting Cooler Jellyfish Sting Relief Spray and Reef Safe Sting Cooler Jellyfish Sting Relief Gel:
+
+“For discomfort from Jellyfish Stings . . . Provides maximum relief from the discomfort associated with stings from jellyfish, man-o-wars, sand fleas, sea lice, fire coral, and many other stinging marine creatures . . . Rehydrates your skin’s natural nutrients lost, helping to accelerate the skin’s healing process.”
+
+Website Claims for Reef Safe BURN COOLER Soothing After Sun Lotion, Reef Safe BURN COOLER Rehydrating Spray, and Reef Safe BURN COOLER Rehydrating Gel:
+
+“Provides maximum relief from the discomfort associated with sunburns, jellyfish stings, minor burns, scrapes and insect bites. Helps cool and soothe pain for instant relief, while rehydrating your skin’s natural nutrients lost by exposure to sunlight, wind, inclement weather, salt or chlorinated water; thus, helping accelerate the skin’s healing process.”
+
+Website Claims for Reef Safe Sting Cooler Jellyfish Sting Relief Spray and Reef Safe Sting Cooler Jellyfish Sting Relief Gel:
+
+“Provides maximum relief from the discomfort associated with stings from jellyfish, man-o-wars, sand fleas, sea lice, fire coral, and many other stinging marine creatures.  Helps cool and soothe the painful stinging and burning sensations caused on contact for instant relief. Rehydrates your skin’s natural nutrients lost, helping to accelerate the skin’s healing process.”
+
+Drug products intended for external analgesic indications such as the relief of pain are being evaluated under the developing rule for Over-the-Counter (OTC) External Analgesic Drug Products for OTC Human Use, 48 FR 5852, February 8, 1983.  Pending the promulgation of a final rule, the agency generally does not intend to object to the marketing of products that meet both the proposed formulation and labeling conditions outlined in the Tentative Final Monograph (TFM) and each general condition in 21 CFR 330.1 unless a product poses a public health concern.  Such marketing, however, is subject to the risk that a final rule may require reformulation and/or relabeling or FDA approval through the “new drug” procedures of the FD&C Act (section 505). 
+
+The product labeling for Reef Safe BURN COOLER Soothing After Sun Lotion, Reef Safe BURN COOLER Rehydrating Spray, Reef Safe BURN COOLER Rehydrating Gel, Reef Safe Sting Cooler Jellyfish Sting Relief Spray and Reef Safe Sting Cooler Jellyfish Sting Relief Gel include indications such as the relief from the discomfort associated with jellyfish stings and accelerating the skin’s healing process, which are not proposed under this rulemaking or any rulemaking being considered under the OTC Drug Review.  The labeling for Reef Safe Sting Cooler Jellyfish Sting Relief Spray and Reef Safe Sting Cooler Jellyfish Sting Relief Gel also include indications such as the relief of stings from man-o-wars, sand fleas, sea lice, fire coral, and many other stinging marine creatures, which are not proposed under this rulemaking or any rulemaking being considered under the OTC Drug Review. 
+
+In addition, while lidocaine is proposed as generally recognized as safe and effective in concentrations up to (b)(4) in the External Analgesic TFM (48 FR 5852; 5867), the other labeled ingredients in the before-named five products are not included as active ingredients for use in an OTC external analgesic drug product.  Given that the labels for Reef Safe BURN COOLER Soothing After Sun Lotion, Reef Safe BURN COOLER Rehydrating Spray, Reef Safe BURN COOLER Rehydrating Gel, Reef Safe Sting Cooler Jellyfish Sting Relief Spray and Reef Safe Sting Cooler Jellyfish Sting Relief Gel do not distinguish active ingredients from inactive ingredients, all of the labeled ingredients are deemed to be represented as active ingredients (see 21 CFR 201.66(b)(2). As such, Reef Safe BURN COOLER Soothing After Sun Lotion, Reef Safe BURN COOLER Rehydrating Spray, Reef Safe BURN COOLER Rehydrating Gel, Reef Safe Sting Cooler Jellyfish Sting Relief Spray, and Reef Safe Sting Cooler Jellyfish Sting Relief Gel are not formulated and labeled consistent with the conditions proposed in the above TFM.
+
+Furthermore, we are not aware of any adequate and well controlled clinical trials in the published literature that support a determination that Reef Safe BURN COOLER Soothing After Sun Lotion, Reef Safe BURN COOLER Rehydrating Spray, Reef Safe BURN COOLER Rehydrating Gel, Reef Safe Sting Cooler Jellyfish Sting Relief Spray, and Reef Safe Sting Cooler Jellyfish Sting Relief Gel are generally recognized as safe and effective for their labeled indications.
+
+For these reasons, Reef Safe BURN COOLER Soothing After Sun Lotion, Reef Safe BURN COOLER Rehydrating Spray, Reef Safe BURN COOLER Rehydrating Gel, Reef Safe Sting Cooler Jellyfish Sting Relief Spray and Reef Safe Sting Cooler Jellyfish Sting Relief Gel, as labeled and formulated, are “new drugs” within the meaning of section 201(p) of the FD&C Act because they are not generally recognized among scientific experts as safe and effective for the drug uses described in their labeling. New drugs may not be introduced or delivered for introduction into interstate commerce unless an application approved by FDA under section 505 of the FD&C Act is in effect for the drug. Reef Safe BURN COOLER Soothing After Sun Lotion, Reef Safe BURN COOLER Rehydrating Spray, Reef Safe BURN COOLER Rehydrating Gel, Reef Safe Sting Cooler Jellyfish Sting Relief Spray, and Reef Safe Sting Cooler Jellyfish Sting Relief Gel are not the subjects of approved new drug applications. Therefore, the marketing of these products in the United States is prohibited under section 301(d) of the FD&C Act, 21 U.S.C. 331(d) and violates section 505 of the FD&C Act, 21 U.S.C. 355.
+
+Reef Safe BURN COOLER Soothing After Sun Lotion, Reef Safe BURN COOLER Rehydrating Spray, Reef Safe BURN COOLER Rehydrating Gel, Reef Safe Sting Cooler Jellyfish Sting Relief Spray and Reef Safe Sting Cooler Jellyfish Sting Relief Gel are also misbranded under section 502(c) of the FD&C Act, 21 U.S.C. 352(c), because the information that is required to appear on the labeling is not prominently placed thereon with such conspicuousness and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use.
+
+Specifically, these products are not labeled in accordance with the “Drug Facts” labeling requirements described in 21 CFR 201.66 because the products label fails to include a Drug Facts panel. 
+
+The introduction or delivery for introduction of a misbranded drug into interstate commerce is prohibited under section 301(a) of the FD&C Act, 21 U.S.C. 331(a).  Therefore, the marketing of Reef Safe BURN COOLER Soothing After Sun Lotion, Reef Safe BURN COOLER Rehydrating Spray, Reef Safe BURN COOLER Rehydrating Gel, Reef Safe Sting Cooler Jellyfish Sting Relief Spray, and Reef Safe Sting Cooler Jellyfish Sting Relief Gel violate this provision of the FD&C Act.
+
+Conclusion
+
+Violations cited in this letter are not intended as an all-inclusive list. You are responsible for investigating these violations, for determining the causes, for preventing their recurrence, and for preventing other violations.
+
+Correct the violations cited in this letter promptly. Failure to promptly correct these violations may result in legal action without further notice including, without limitation, seizure and injunction. Unresolved violations in this warning letter may also prevent other Federal agencies from awarding contracts. 
+
+Until these violations are corrected, we may withhold approval of pending drug applications listing your facility. We may re-inspect to verify that you have completed your corrective actions. We may also refuse your requests for export certificates. 
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion. 
+
+Electronically submit your written response to Shawn Larson, Compliance Officer, at ORAPHARM2_RESPONSES@fda.hhs.gov and CDR John Diehl, Director, Compliance Branch, at John.Diehl@fda.hhs.gov. Please identify your response with FEI 1035794 and CMS Case # 562365.
+
+If you have questions regarding any issues in this letter, please contact Shawn Larson, Compliance Officer, at (214) 253-5216.
+
+ 
+
+ 
+
+Sincerely,
+
+/S/
+
+Monica R. Maxwell
+
+Program Division Director
+
+Office of Pharmaceutical Quality Operations, 
+
+Division 2
+
+ 
+
+ 
+
+CC:
+
+Renee Alsobrook, Chief, Compliance and Enforcement
+
+Division of Drugs, Devices and Cosmetics
+
+Department of Business and Professional Regulation
+
+2601 Blair Stone Road
+
+Tallahassee, Florida 32399-1047
