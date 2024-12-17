@@ -1,0 +1,233 @@
+Delivery Method: 
+        Via Email
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Christophe Weber
+          
+
+                                
+  
+    Recipient Title
+              President and CEO
+          
+
+          
+            Takeda Pharmaceutical Company Limited 
+
+          
+                      Tokyo Head Office
+2-1-1 Nihonbashi-Honcho
+Chuo-ku, Tokyo
+103-8668
+Japan
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research | CDER
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+June 9, 2020
+
+Warning Letter 320-20-37
+
+Dear Mr. Weber,
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Takeda Pharmaceutical Company Limited, FEI 3004664162, at Takeda 4720, Mitsui, Hikari, Yamaguchi, from November 18 to 26, 2019.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your December 18, 2019, response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence. Your response is inadequate because it did not provide sufficient detail or evidence of corrective actions to bring your operations into compliance with CGMP.
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to establish adequate written responsibilities and procedures applicable to the quality control unit and to follow such written procedures (21 CFR 211.22(d)).
+
+Our inspection found that your Quality Unit (QU) did not take appropriate steps prior to resumption of aseptic manufacturing after a shutdown that included multiple significant activities that compromised cleanroom control. Your QU allowed manufacturing operations to resume for (b)(4) filling operations without performing an aseptic process simulation (i.e., media fill) as indicated by your procedure. Your firm manufactured and shipped several batches of (b)(4) to the U.S. market after this deviation.
+
+In your response, you committed to perform an aseptic process simulation for the (b)(4) manufacturing line and stated that you will strengthen your systems to ensure post-shutdown process simulations are performed. You stated your belief that there was no adverse impact to product because your procedure for restarting production requires that environmental monitoring data and utility results are available before product release.
+
+Your response is inadequate because you failed to adequately assess the impact on sterility assurance of the products manufactured in a facility after a shutdown in which cleanroom control was compromised. Environmental monitoring and utility data alone are not sufficient to support that appropriate cleanroom control has been restored to ensure drug sterility.
+
+In response to this letter, provide:
+
+• A comprehensive assessment and remediation plan to ensure your QU is given the authority and resources to effectively function. The assessment should also include, but not be limited to:
+  o A determination of whether procedures used by your firm are robust and appropriate.
+  o Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices.
+  o A complete and final review of each batch and its related information before the QU disposition decision.
+  o Oversight and approval of investigations and discharging of all other QU duties to ensure identity, strength, quality, and purity of all products.
+
+• A description of how top management supports quality assurance and reliable operations, including but not limited to timely provision of resources to proactively address emerging manufacturing/quality issues and to assure a continuing state of control.
+
+• Your risk assessment of distributed products processed under conditions which did not provide adequate assurance of appropriate aseptic processing conditions.
+
+2. Your firm failed to establish and follow appropriate written procedures that are designed to prevent microbiological contamination of drug products purporting to be sterile, and that include validation of all aseptic and sterilization processes (21 CFR 211.113(b)).
+
+You have not established adequate practices for your process simulations.
+
+Inadequate Aseptic Processing Simulations (Media Fills)
+
+Your media fill program lacked assurance that aseptic processing operations are adequately performed to prevent microbial contamination.
+
+Your firm removed integral units (i.e., units with intact container-closure systems) from media fills. For example, during media fill lot (b)(4), conducted in (b)(4), you removed (b)(4) intact vials and did not incubate them. You lacked adequate justification for removing these integral vials. While you indicated that the units were removed for a routine analytical test, this test could have been done after incubation.
+
+In addition, your media fills did not sufficiently incorporate the contamination risks of commercial production, including the significant hazard posed by the (b)(4) operation. This operation includes manually intensive aseptic material transfers from a (b)(4).
+
+Our review of media fill records also found that multiple personnel had not, at least (b)(4), performed interventions that adequately simulate the functions they are responsible for in production operations. For example, all aseptic processing personnel who perform the manually intensive (b)(4) step were not required to simulate this operation each (b)(4).
+
+In your response, you confirmed that withholding integral vials from incubation was in violation of your process simulation SOP. You indicated that the media fill batch remained valid because no critical interventions occurred before you filled these particular vials. Your response is inadequate because omission of these vials undermines the sensitivity of the process simulation to detect contamination hazards in your operation.
+
+Your response also stated an assessment will be performed for the (b)(4) operation to determine the worst-case (b)(4) of containers to more accurately reflect the production process. We acknowledge that you revised your process simulation procedure and are performing new process simulations. However, your response is deficient because you did not assess the risk to product sterility for products manufactured when process simulations were insufficient.
+
+Poor Aseptic Behavior
+
+Critical aseptic processing operations are not appropriately controlled. Our investigator observed that operators who performed ISO 5 manipulations exhibited poor aseptic practices during production of (b)(4) Lot (b)(4). For example, operators:
+
+• failed to sanitize gloved hands after touching surfaces such as curtains and computer touchscreens.
+• conducted manipulations using rapid movements, rather than slow and deliberate aseptic technique.
+
+We acknowledge from your response that you have retrained your operators in aseptic behavior, but you did not extend this training to supervisory staff. You also did not address how you would verify the effectiveness of the training.
+
+Inadequate controls over materials used in aseptic processing area
+
+There was a lack of traceability over the (b)(4) wipes, which are used in the aseptic processing cleanroom with disinfectant to wipe equipment surfaces. The (b)(4) certificate you provided to our investigator did not reconcile with the material identification numbers for the wipes in use. Your Quality Unit also did not adequately maintain records for the receipt and approval of wipes.
+
+We acknowledge that you performed a risk assessment to determine the impact of potentially introducing (b)(4) wipes into your aseptic processing cleanroom, and you concluded it to have low risk for product sterility. However, your assessment is inadequate because you relied upon disinfectant use, environmental monitoring, and a sterilization qualitative indicator in lieu of adequate controls over material receipt and evaluation before transfer into the cleanroom. Furthermore, your response acknowledged the lack of traceability of lot numbers to an irradiation certificate.
+
+See FDA’s guidance document Sterile Drug Products Produced by Aseptic Processing—Current Good Manufacturing Practice to help you meet CGMP requirements for manufacturing sterile drugs using aseptic processing at https://www.fda.gov/media/71026/download
+
+In response to this letter, provide:
+
+• A risk assessment of all contamination hazards with respect to your aseptic processes, equipment, and facilities, including an independent assessment that includes, but is not limited to:
+o All human interactions within the (b)(4) area
+o Equipment placement and ergonomics
+o Personnel flows and material flows (throughout all rooms used to conduct and support sterile operations)
+o Sourcing consumable materials that are appropriate for use in cleanrooms (e.g., ready-to-use sterile wipes)
+o Receipt, evaluation, and aseptic handling of all consumable items in ISO 5 areas
+
+• A comprehensive, independent retrospective review of all batches that remain within expiry in the U.S. market, which incorporates the knowledge of hazards gained from your risk assessment. Include any additional actions you intend to initiate because of the retrospective review.
+
+• Environmental monitoring data for the past two years, details of total counts and microbial identifications when excursions were observed, and a summary of investigations performed.
+
+• Your plan to ensure appropriate aseptic practices and cleanroom behavior during production. Include steps to ensure routine and effective supervisory oversight for all production batches. Also describe the frequency of quality unit oversight (e.g., audit) during aseptic processing and its support operations.
+
+3. Your firm failed to thoroughly investigate any unexplained discrepancy or failure of a batch or any of its components to meet any of its specifications, whether the batch has already been distributed (21 CFR 211.192).
+
+You lacked adequate investigations into equipment malfunctions. Several investigations were concluded without sufficiently addressing root causes or ensuring adequate scope, allowing manufacturing risks to persist for extended periods.
+
+Occurrence of black particles
+
+Your investigations into the occurrence of black particles in more than (b)(4) batches of (b)(4) vials were deficient. These investigations identified the particles as (b)(4).
+
+For example, deviation report TW67805, initiated on August 23, 2019, did not include a thorough investigation of these recurring incidents. Although the investigation lacked a CAPA plan, you concluded that there was no product impact because the particles were easily detected since they settled at the bottom of the vials.
+
+Your response stated there is no product impact from black particle contamination because all vials for lots manufactured during this timeframe were rejected during finished product inspection, and all lots passed AQL inspection. Your response is inadequate because you did not explain how you could confidently rely only upon visual inspection to detect metal particles embedded in lyophilized cake. You also allowed manufacturing operations to continue without performing a risk assessment for products already released to the U.S. market.
+
+(b)(4) malfunction
+
+You failed to assure that your (b)(4) was properly maintained and functioning as intended. Maintenance issues were identified as contributing to the increase in the (b)(4) between May 2018 through May 2019. As a result, several in-process batches were rejected. Although multiple investigations were conducted, the correct root cause of the problem was not promptly identified and remediated. Subsequently, during the (b)(4) requalification of this (b)(4) all (b)(4) bioindicators tested positive.
+
+In your response you stated that the root cause of the (b)(4) problem was a (b)(4). However, you failed to adequately explain why the malfunctioning (b)(4) was used for a protracted period to sterilize components of your injectable product. You also lacked a sufficiently comprehensive commitment to improve management oversight over maintenance and investigations.
+
+In response to this letter, provide:
+
+• A comprehensive, retrospective, independent review of all (b)(4) batches manufactured since May 2018, for the impact of (b)(4) particles undetected in (b)(4) product.
+
+• A comprehensive, retrospective, independent review of all batch components sterilized using (b)(4) ID (b)(4) that were distributed in the U.S. market and remain within expiry.
+
+• An assessment of the suitability of (b)(4) equipment and cycles, including but not limited to:
+o Review of your (b)(4) parameters, including time, (b)(4), and (b)(4) settings to ensure a sterility assurance level of (b)(4) or more.
+o Evaluation of the adequacy of maintenance and engineering controls associated with (b)(4) used for sterilization processes.
+
+• A comprehensive and independent assessment of your system for investigating deviations and failures. Provide a detailed action plan to remediate this system. Your action plan should include, but not be limited to, significant improvements in investigation competencies, scope determination, root cause evaluation, CAPA effectiveness, quality unit oversight, and written procedures. Address how your firm will ensure all phases of investigations are appropriately conducted.
+
+• Your CAPA plan to implement routine, vigilant operations management oversight of facilities and equipment. This plan should ensure, among other things, prompt detection of equipment/facilities performance issues, effective execution of repairs, adherence to appropriate preventive maintenance schedules, timely technological upgrades to the equipment/facility infrastructure, and improved systems for ongoing management review.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of these violations and for preventing their recurrence or the occurrence of other violations.
+
+If you are considering an action that is likely to lead to a disruption in the supply of drugs produced at your facility, FDA requests that you contact CDER’s Drug Shortages Staff immediately, at drugshortages@fda.hhs.gov, so that FDA can work with you on the most effective way to bring your operations into compliance with the law. Contacting the Drug Shortages Staff also allows you to meet any obligations you may have to report discontinuances or interruptions in your drug manufacture under 21 U.S.C. 356C(b). This also allows FDA to consider, as soon as possible, what actions, if any, may be needed to avoid shortages and protect the health of patients who depend on your products.
+
+Until you correct all violations completely and we confirm your compliance with CGMP, FDA may withhold approval of any new drug applications or supplements listing your firm as a drug manufacturer.
+
+Failure to correct these violations may also result in the FDA refusing admission of articles manufactured at Takeda Pharmaceutical Company Limited, at Takeda 4720, Mitsui, Hikari, into the United States under section 801(a)(3) of the FD&C Act, 21 U.S.C. 381(a)(3). Articles under this authority may be subject to refusal of admission, in that the methods and controls used in their manufacture do not appear to conform to CGMP within the meaning of section 501(a)(2)(B) of the FD&C Act, 21 U.S.C. 351(a)(2)(B).
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov.
+
+Please identify your response with FEI 3004664162.
+
+Sincerely,
+/S/
+
+Francis Godwin
+Director
+Office of Manufacturing Quality
+Office of Compliance
+Center for Drug Evaluation and Research

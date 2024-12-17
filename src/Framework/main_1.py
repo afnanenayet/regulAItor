@@ -5,9 +5,6 @@ from agents.conversation_workflow import conversation_workflow
 from agents.agent_manager import group_chat
 
 
-import logging
-
-
 async def main():
     # Manually provide the warning letter and template
     warning_letter = """\
@@ -301,16 +298,11 @@ We consider this item to be closed.
 
 
 """
-    group_chat.context = {
-        "warning_letter": warning_letter,
-        "template": template
-    }
+    group_chat.context = {"warning_letter": warning_letter, "template": template}
 
     # Run the conversation workflow
     result = await conversation_workflow(group_chat)
 
-    # Print the result
-    print(result)
 
 if __name__ == "__main__":
     asyncio.run(main())

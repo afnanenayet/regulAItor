@@ -1,0 +1,167 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Vinai Veerapuchong
+          
+
+                                
+  
+    Recipient Title
+              President
+          
+
+          
+            Thai Nakorn Patana Co., Ltd.
+
+          
+                      14 Thanon Ngamwongwan Soi 8
+Mueang
+Nonthaburi 11000
+Thailand
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research | CDER
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+  
+    Secondary Issuing Offices
+          
+                  
+    
+     
+        United States
+    
+    
+    
+    
+
+              
+      
+
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter 320-24-24
+
+February 27, 2024
+
+Dear Mr. Veerapuchong:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Thai Nakorn Patana Co., Ltd., FEI 3003067499, at 14 Thanon Ngamowongwan Soi 8, Muenang Nonthaburi, Nonthaburi, from July 31 to August 4, 2023.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your August 16, 2023 response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence.
+
+During our inspection, our investigator observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to have, for each batch of drug product, appropriate laboratory determination of satisfactory conformance to final specifications for the drug product, including the identity and strength of each active ingredient, prior to release (21 CFR 211.165(a)).
+
+Your firm manufactures over-the-counter (OTC) (b)(4) drug products, such as, (b)(4). Your firm failed to adequately test your (b)(4) drug product for identity and strength of active ingredients prior to release and distribution.
+
+In your response, you state that you will perform an assay test of your (b)(4) for (b)(4) with a validated analytical method. Your response is inadequate. You failed to provide sufficient details such as your testing procedures or a risk assessment of products released without appropriate assay testing.
+
+Because you lacked adequate testing of each batch of your drug product, you do not know whether they conform to all appropriate finished product specifications and are suitable for release and distribution.
+
+2. Your firm’s quality control unit failed to exercise its responsibility to ensure drug products manufactured are in compliance with CGMP, and meet established specifications for identity, strength, quality, and purity (21 CFR 211.22).
+
+Your quality unit (QU) did not provide adequate oversight for the manufacture of your drug products. For example, your QU failed to ensure the following:
+
+
+	Appropriate production and process controls, including an adequate process validation program designed to assure drug products manufactured have the identity, strength, quality, and purity purported or represented to possess (21 CFR 211.100(a)).
+	Scientifically sound and appropriate test methods and standards used for testing your drug products (21 CFR 211.160(b)).
+	Complete data derived from standard preparation, sample preparation, and assay testing of your drug products was properly documented and retained (21 CFR 211.194(a)).
+	Adequate investigations and deviations (21 CFR 211.192).
+	Adequate cleaning and maintenance procedures, including an appropriate cleaning validation program for your non-dedicated manufacturing equipment (21 CFR 211.67(a)).
+
+
+Drug Production Ceased
+
+We acknowledge your commitment to cease all Neotica Crème drugs for the U.S. market. In response to this letter, clarify whether you intend to resume manufacturing drugs for the U.S. market in the future. If you plan to resume any manufacturing operations regulated under the FD&C Act, notify this office before resuming your drug manufacturing operations.
+
+You are responsible for resolving all deficiencies and systemic flaws to ensure your firm is capable of ongoing CGMP compliance. Based upon the nature of the violations we identified at your firm, you should engage a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements before resuming drug manufacturing operations. The qualified consultant should also perform a comprehensive six-system audit of your entire operation for CGMP compliance and evaluate the completion and efficacy of all corrective action and preventive action (CAPA) before you pursue resolution of your firm’s compliance status per FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations at https://www.fda.gov/media/71023/download.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+Correct any violations promptly. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to any violations.
+
+Failure to address any violations may also result in the FDA refusing admission of articles manufactured at Thai Nakorn Patana Co., Ltd., at 14 Thanon Ngamowongwan Soi 8, Muenang Nonthaburi, Nonthaburi, Thailand into the United States under section 801(a)(3) of the FD&C Act, 21 U.S.C. 381(a)(3). Articles under this authority that appear to be adulterated may be detained or refused admission, in that the methods and controls used in their manufacture do not appear to conform to CGMP within the meaning of section 501(a)(2)(B) of the FD&C Act, 21 U.S.C. 351(a)(2)(B).
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov. Identify your response with FEI 3003067499 and ATTN: Daniel W. Brisker.
+
+Sincerely,
+/S/
+
+Francis Godwin
+Director
+Office of Manufacturing Quality
+Office of Compliance
+Center for Drug Evaluation and Research

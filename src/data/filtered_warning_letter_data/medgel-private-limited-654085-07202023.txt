@@ -1,0 +1,223 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Alok K. Garg
+          
+
+                                
+  
+    Recipient Title
+              Managing Director
+          
+
+          
+            Medgel Private Limited
+
+          
+                      Plot No.: 19-20, Special Economic Zone, Phase-II, Sector-III
+Pithampur 454775
+Madhya Pradesh
+India
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research | CDER
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter 320-23-17
+
+July 20, 2023
+
+Dear Mr. Garg:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Medgel Private Limited, FEI 3010165392, at Plot No.: 19-20, Special Economic Zone, Phase-II, Sector-III, Pithampur, Dist. Dhar (M.P.), India, from January 23 to 27, 2023.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your February 17, 2023, response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence.
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to thoroughly investigate any unexplained discrepancy or failure of a batch or any of its components to meet any of its specifications, whether or not the batch has already been distributed (21 CFR 211.192).
+
+Invalidated out-of-specification results lacked adequate scientific justification
+
+Your firm manufactures numerous over-the-counter (OTC) drug products in (b)(4) capsule form. Your investigations into bulk drug product assay out-of-specification (OOS) test results for batches (b)(4) were inadequate, as they lacked adequate hypothesis testing and evidence to support the root cause. Specifically, you hypothesized that the probable root cause was an error in sample preparation, but you did not have an adequate scientific basis. You subsequently retested and released the batch in question after obtaining passing results.
+
+Additionally, in several assay OOS investigations from 2019, to 2022, you attributed the root cause to sample preparation error without identifying the appropriate corrective action and preventive action (CAPA) from these investigations to prevent recurrence of such events.
+
+In your response, you acknowledge that you lack adequate scientific justification for the OOS invalidations and proposed CAPA that narrowly addresses the OOS events noted by FDA investigators and your unique hypotheses. However, your CAPAs were inadequate because they were specific to your inadequate investigations and lacked a comprehensive scope.
+
+Inadequate investigation of humidity excursions
+
+You did not adequately investigate several humidity excursions beyond your specification limits during the production of your drug products as well as in your stability chambers. Furthermore, our investigators could not review portions of humidity data between December 2022, and January 2023, because the raw data is not backed up and deleted every month. High levels of humidity can impact the properties of (b)(4) capsules and make them vulnerable to undesirable microbiological contamination.
+
+In your response, you attribute the humidity excursions to a defective dehumidifier but do not provide information on the steps taken to ensure that your dehumidifier and the overall conditions at your facility are maintained optimally. You also state that you reviewed your humidity monitoring data from January to December 2022, and concluded that there was no impact to the product because the (b)(4) and assay results for the affected batches were within specifications. Your response was inadequate because (b)(4) and does not measure (b)(4) content.
+
+In response to this letter, provide:
+
+
+	Microbiological and (b)(4) test results for drug products currently in the U.S. market and within expiry as of the date of this letter.
+	A retrospective, independent review of all invalidated OOS (including in-process and release/stability testing) results for drug products currently in the U.S. market and within expiry as of the date of this letter and a report summarizing the findings of the analysis, including the following for each OOS:
+
+
+    o Determine whether the scientific justification and evidence relating to the invalidated OOS result conclusively or inconclusively demonstrates causative laboratory error.
+    o For investigations that conclusively establish laboratory root cause, provide rationale, and ensure that all other laboratory methods vulnerable to the same or similar root cause are identified for remediation.
+    o For all OOS results found by the retrospective review to have an inconclusive or no root cause identified in the laboratory, include a thorough review of production (e.g., batch manufacturing records, adequacy of the manufacturing steps, suitability of equipment/facilities, variability of raw materials, process capability, deviation history, complaint history, batch failure history). Provide a summary of potential manufacturing root causes for each investigation, and any manufacturing operation improvements.
+
+
+	A comprehensive review and remediation plan for your OOS result investigation systems. The CAPA should include, but not be limited to, addressing the following:
+
+
+    o Quality unit (QU) oversight of laboratory investigations
+    o Identification of adverse laboratory control trends
+    o Resolution of causes of laboratory variation
+    o Initiation of thorough investigations of potential manufacturing causes whenever a laboratory cause cannot be conclusively identified
+    o Adequately scoping of each investigation and its CAPA
+    o Revised OOS investigation procedures with these and other remediations
+
+2. Your firm’s quality control unit failed to exercise its responsibility to ensure drug products manufactured are in compliance with CGMP, and meet established specifications for identity, strength, quality, and purity (21 CFR 211.22).
+
+Your QU did not provide adequate oversight and control over your drug manufacturing operations. For example, your QU failed to ensure the following:
+
+
+	Controlled access to master batch records and issuance of batch records.
+	Controlled correction and disposal of CGMP documentation.
+	Contemporaneous documentation of laboratory data that would support batch release (e.g., you had destroyed microbiological plates before recording the data).
+	Appropriate data integrity controls (e.g., your QU failed to adequately restrict access to analytical instruments; you used shared usernames and passwords).
+	Procedures for review of raw data and audit trails.
+
+
+In your response, you state that you revised your procedures with additional instructions for issuing and disposing CGMP documents. You attribute the root cause of the non-contemporaneous documentation to human error and instituted a second person check for microbiological testing and data recording. You also commit to reviewing audit trails and retraining your analysts.
+
+Your response was inadequate because it lacked details on how your QU would oversee the implementation of the CAPAs and check their effectiveness. Furthermore, the CAPAs were specific to the examples FDA noted during the inspection and did not extend to a comprehensive review of your CGMP documentation systems, laboratory systems, and data integrity systems. This was a repeat observation from FDA’s 2019 inspection where you also attributed the root cause of non-contemporaneous documentation of microbiological plates to human error and implemented CAPAs including CGMP documentation training, which were ultimately ineffective.
+
+Data Integrity Remediation
+
+Your quality system does not adequately ensure the accuracy and integrity of data to support the safety, effectiveness, and quality of the drugs you manufacture. See FDA’s guidance document Data Integrity and Compliance With Drug CGMP for guidance on establishing and following CGMP compliant data integrity practices at https://www.fda.gov/media/119267/download.
+
+In response to this letter, provide:
+
+
+	A comprehensive investigation into the extent of the inaccuracies in data records and reporting including results of the data review for drugs distributed to the United States. Include a detailed description of the scope and root causes of your data integrity lapses.
+	A current risk assessment of the potential effects of the observed failures on the quality of your drugs. Your assessment should include analyses of the risks to patients caused by the release of drugs affected by a lapse of data integrity and analyses of the risks posed by ongoing operations.
+	A management strategy for your firm that includes the details of your global CAPA plan. The detailed corrective action plan should describe how you intend to ensure the reliability and completeness of all data generated by your firm including microbiological and analytical data, manufacturing records, and all data submitted to FDA.
+
+
+3. Your firm failed to test samples of each component for identity and conformity with all appropriate written specifications for purity, strength, and quality. Your firm also failed to validate and establish the reliability of your component supplier’s test analyses at appropriate intervals (21 CFR 211.84(d)(1) and 211.84(d)(2)).
+
+You failed to conduct adequate testing on each component lot used to manufacture your drug products. For example, your component identity testing did not include a limit test for diethylene glycol (DEG) and ethylene glycol (EG) on all lots of glycerin, propylene glycol, (b)(4), and sorbitol solution before use in the manufacture or preparation of your drug products. Similarly, your component impurity testing for polyethylene glycol did not include a limit test for diethylene glycol (DEG) and ethylene glycol (EG). In addition, except for (b)(4), you accepted the impurities listed on your API suppliers’ certificate of analyses (COAs), without performing impurity testing on your active pharmaceutical ingredients (APIs).
+
+Without adequate testing, you do not have scientific evidence that your incoming components conform to appropriate specifications before use in the manufacture of drug products.
+
+In your response to our request for additional information, you stated that you analyzed DEG/EG results on your suppliers’ COAs from 2018 and 2019 and all were either not detected or within specifications. You stated that you sent all existing raw material retains from 2020 to 2022 for third-party testing and revised procedures to test for DEG/EG in your incoming component going forward. You committed to test for DEG/EG in all lots of finished drug products within expiry that were intended for the U.S. market. You stated that you revised your vendor qualification procedure to specify the requirement of impurity testing according to the monograph. You also stated that you would perform impurity testing for three recent batches of API for existing vendors and subsequently perform periodic impurity testing of each API for all vendors and that you would qualify your vendors by June 2023 to accept their impurity specifications.
+
+Your response is inadequate because you did not provide a risk assessment for finished products on the market and within expiry manufactured with glycerin, polyethylene glycol, propylene glycol, (b)(4), and sorbitol solution. Additionally, your response lacked details regarding your plans in the interim regarding products already on the market and within expiry.
+
+In response to this letter, provide:
+
+
+	A comprehensive, independent review of your material system to determine whether all suppliers of components, containers, and closures, are each qualified and the materials are assigned appropriate expiration or retest dates. The review should also determine whether incoming material controls are adequate to prevent use of unsuitable components, containers, and closures.
+	A summary of test results for reserve samples of all finished product lots manufactured with glycerin, polyethylene glycol, propylene glycol, (b)(4), and sorbitol solution.
+	The chemical and microbiological quality control specifications you use to test and release each incoming lot of component for use in manufacturing.
+	A description of how you will test each component lot for conformity with all appropriate specifications for identity, strength, quality, and purity. If you intend to accept any results from your supplier’s COAs instead of testing each component lot for strength, quality, and purity, specify how you will robustly establish the reliability of your supplier’s results through initial validation as well as periodic re-validation. In addition, include a commitment to always conduct at least one specific identity test for each incoming component lot.
+	A summary of results obtained from testing all components to evaluate the reliability of the COA from each component manufacturer. Include your procedures that describe this COA validation program.
+	A summary of your program for qualifying and overseeing contract testing facilities
+
+
+The use of ingredients contaminated with DEG or EG has resulted in various lethal poisoning incidents in humans worldwide. See FDA’s guidance document Testing of Glycerin, Propylene Glycol, Maltitol Solution, Hydrogenated Starch Hydrolysate, Sorbitol Solution, and Other High-Risk Drug Components for Diethylene Glycol and Ethylene Glycol to help you meet the CGMP requirements when manufacturing drugs containing ingredients at risk for DEG or EG contamination, at https://www.fda.gov/media/167974/download.
+
+Quality Systems
+
+Your firm’s quality systems are inadequate. For guidance on establishing and maintaining CGMP-compliant quality systems, see FDA’s guidances: Q8(R2) Pharmaceutical Development at https://www.fda.gov/media/71535/download, Q9 Quality Risk Management at https://www.fda.gov/media/71543/download, and Q10 Pharmaceutical Quality System at https://www.fda.gov/media/71553/download.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements. Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+Correct any violations promptly. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to any violations.
+
+Failure to address any violations may also result in the FDA refusing admission of articles manufactured at Medgel Private Limited, Plot No.: 19-20, Special Economic Zone, Phase-II, Sector-III, Pithampur, Dist. Dhar (M.P.), India, into the United States under section 801(a)(3) of the FD&C Act, 21 U.S.C. 381(a)(3). Articles under this authority that appear to be adulterated may be detained or refused admission, in that the methods and controls used in their manufacture do not appear to conform to CGMP within the meaning of section 501(a)(2)(B) of the FD&C Act, 21 U.S.C. 351(a)(2)(B).
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov. Identify your response with FEI 3010165392 and ATTN: William Yang.
+
+Sincerely,
+/S/
+
+Francis Godwin
+Director
+Office of Manufacturing Quality
+Office of Compliance
+Center for Drug Evaluation and Research

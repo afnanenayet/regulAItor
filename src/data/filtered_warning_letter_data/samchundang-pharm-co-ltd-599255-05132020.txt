@@ -1,0 +1,217 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. In-Seok Chun
+          
+
+                                
+  
+    Recipient Title
+              CEO
+          
+
+          
+            Samchundang Pharm Co., Ltd.
+
+          
+                      351, Hyoryeong-ro
+Seocho-gu
+Seoul
+06643
+South Korea
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research | CDER
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter 320-20-35
+
+
+May 13, 2020
+
+Dear Mr. Chun:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Samchundang Pharm Co., Ltd., FEI 3008425092, at Hyangnam Pharmaceutical Industries Complex, 71 Jeyakgongdan 2-Gil, Hyangnam-Eup, Hwaseong, si Gyeonggi, from October 17 to 25, 2019.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug product is adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your November 14, 2019, response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence. We note that you have discontinued production of over-the-counter (OTC) (b)(4) drug products intended for distribution to the United States (U.S.); however, you failed to have adequate interim measures in place for products currently on the market within expiry.
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to establish and document the accuracy, sensitivity, specificity, and reproducibility of its test methods (21 CFR 211.165(e)).
+
+Your firm manufactures and aseptically fills (b)(4) drug products for distribution to the U.S. You did not establish the suitability of the sterility test method used for final release testing of (b)(4) of your finished drug products. In addition, you did not determine the suitability of the in-process bioburden test performed for each of your drug products.
+
+Suitability testing must be performed for each drug product to ensure the sterility test method is valid. Suitability testing establishes that contamination, if present, will be detected. When inhibition is encountered during suitability testing, test method modifications allow for optimized recovery.
+
+Your response stated that method validation had not been performed “due to lack of specific requirements” in your contract agreements. We remind you that you are responsible for the quality of drugs you produce and test as a contract facility, regardless of agreements in place with product owners. You are required to ensure that drugs are made in accordance with section 501(a)(2)(B) of the FD&C Act for safety, identity, strength, quality, and purity. See FDA’s guidance document Contract Manufacturing Arrangements for Drugs: Quality Agreements at https://www.fda.gov/media/86193/download.
+
+Your response further stated that you would prepare and execute a “sterility method validation protocol” for each OTC product manufactured for the U.S. market by March 30, 2020. You proposed to have all marketed lots retested using the suitable method by May 30, 2020.
+
+Your response is inadequate. You failed to address the interim risk posed to product released and distributed in the U.S. prior to establishing the suitability of your sterility testing methods. Similarly, you also failed to address the potential impact from your failure to ensure the suitability of the in-process bioburden test.
+
+In response to this letter, provide:
+
+• A comprehensive assessment of your laboratory practices, procedures, methods, equipment, documentation, and analyst competencies. Based on this review, provide a detailed plan to remediate and evaluate the effectiveness of your laboratory system.
+
+• Your updated methods and a summary of any changes made to the previously established methods based on the results of your validation studies (including suitability testing).
+
+• Results of the retrospective sterility testing of all reserve batches of U.S. marketed drug products within expiry as of the date of this letter. Include your protocol and timeline for testing the reserve batches, and a summary of all results. If testing yields an OOS result, indicate the corrective actions you will take, including notifying customers and initiating recalls.
+
+• A risk assessment of the U.S. marketed batches of drug product in distribution and within expiry as of the date of this letter.
+
+2. Your firm failed to establish an adequate system for monitoring environmental conditions in aseptic processing areas (21 CFR 211.42(c)(10)(iv)).
+
+You did not routinely identify isolates recovered during environmental monitoring of your aseptic processing areas where your sterile drug products are filled. Per your procedure, SOP for Microbial Identification Management (QS-508), recovered isolates are grouped according to visual morphology. From the grouping of isolates with similar morphology, only one isolate is routinely identified for species determination.
+
+In addition, your personnel monitoring program specifies alert and action limits of three CFU/plate and four CFU/plate, respectively, for personnel working in the aseptic processing operation, including (b)(4) samples. Manufacturing personnel who perform operations in aseptic processing spaces should normally maintain contamination-free (b)(4) throughout operations. It is important to set action limits accordingly.
+
+Inadequate environmental and personnel monitoring practices may obscure the type and level of microbiological contamination in your aseptic processing facility. Vigilant environmental and personnel monitoring provides ongoing information on the state of control of your facility. Growth observed on (b)(4) samples taken from personnel who can perform any activities within the ISO 5 areas should trigger an appropriate investigation.
+
+In response, you stated you would revise your procedure for microbial identification to require the the identification of all isolates from your “Grade A” and “Grade B” areas, and documentation of the morphology and microscopic inspection of all other isolates. You further proposed to refine isolate grouping based on “area, operational condition, area classification, different means of collection (settle plate, air sample, surface monitoring and personnel monitoring) and type of morphology.”
+
+Your response is inadequate because you did not comprehensively address the environmental and personnel monitoring deficiencies and the effect of such deficiencies on the quality of distributed drug products. You also failed to include requirements for frequent identification of microorganisms to the species (or, where appropriate, genus) level in the ancillary cleanrooms beyond your aseptic processing room to maintain a current and valid database.
+
+In response to this letter, provide a comprehensive, independent and retrospective review of personnel and environmental monitoring data since 2018. This review should include your assessment and corrective action and preventive action (CAPA) for your environmental monitoring program (including personnel monitoring) to ensure the CAPA supports robust environmental control of your aseptic processing facility. The assessment and CAPA, including any recommendations from the independent review, should include justification of sampling locations, frequency of sampling, alert and action limits, adequacy of sampling techniques, and the trending program.
+
+See FDA’s guidance document, Sterile Drug Products Produces by Aseptic Processing – Current Good Manufacturing Practice, to help you meet the CGMP requirements when manufacturing sterile drugs using aseptic processing, at https://www.fda.gov/media/71026/download.
+
+3. Your firm failed to ensure that each person engaged in the manufacture, processing, packing, or holding of a drug product has the education, training, and experience, or any combination thereof, to enable that person to perform his or her assigned functions (21 CFR 211.25(a)).
+
+Your firm failed to ensure that all personnel are trained as appropriate. Training deficiencies were noted for personnel operating in management, production, quality assurance, and quality control positions. For example, employees engaged in the manual visual inspection of (b)(4) drug products were not trained at the intervals specified in your SOP; analysts who perform foreign matter (visible particulate) testing were not certified as required by your SOP; and some personnel lacked training records.
+
+We also observed laboratory data deficiencies during the inspection, which you attributed to inadequate SOPs, software, and training.
+
+Training is essential to ensure proper performance of job functions by your firm’s employees, including those responsible for oversight and management of personnel.
+
+In your response, you stated that you had initiated an investigation into the failure to conduct training as specified, and that you would update the training matrices of all employees. You further stated that you would ensure all training is provided as required.
+
+Your response is inadequate. You did not address the reasons for the lapse in oversight of your training program, and you did not provide a detailed plan for assessing the effectiveness of your training.
+
+In response to this letter, provide:
+
+• A complete assessment of documentation systems used throughout your manufacturing and laboratory operations to determine where documentation practices are insufficient. Include a detailed CAPA plan that comprehensively remediates your firm’s documentation practices to ensure you retain attributable, legible, complete, original, accurate, and contemporaneous records throughout your operation.
+
+• A comprehensive assessment and CAPA for your training program, including practices, records, staff competencies, and effectiveness throughout your operations. Specific gaps should be identified for remediation after assessing the capability of your program to ensure:
+    o job functions and training needs are reviewed on an ongoing basis to monitor whether staff competencies are robust
+    o training is conducted with sufficient frequency to assure employees maintain understanding of all applicable CGMP requirements
+    o all staff who conduct or supervise CGMP functions are properly trained in CGMP, so that your operations are performed in a manner that assures drug safety, identity, strength, quality, and purity
+    o qualified individuals perform training
+    o provisions are implemented for evaluating staff comprehension, training effectiveness, and ensuring appropriate modifications where needed
+
+• A summary of your current training program.
+
+• Your plan to improve oversight of your training program.
+
+• An assessment of the impact of the lack of appropriate training on marketed drug products.
+
+Drug Production Ceased
+
+We acknowledge your commitment to cease production of drugs for the U.S. market. In response to this letter, clarify whether you intend to resume manufacturing drugs for the U.S. market at this facility in the future.
+
+If you plan to recommence manufacturing drugs for the U.S. market, notify this office before resuming your operations.
+
+CGMP consultant recommended
+
+If your firm intends to resume drug manufacturing for the U.S. market, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements.
+
+Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of these violations and for preventing their recurrence or the occurrence of other violations.
+
+Until you correct all violations completely and we confirm your compliance with CGMP, FDA may withhold approval of any new drug applications or supplements listing your firm as a drug manufacturer.
+
+Failure to correct these violations may also result in the FDA refusing admission of articles manufactured at Samchundang Pharm Co., Ltd., 71 Jeyakgongdan 2-Gil, Hyangnam-Eup, Hwaseong, si Gyeonggi, Republic of Korea, into the United States under section 801(a)(3) of the FD&C Act, 21 U.S.C. 381(a)(3). Articles under this authority may be subject to refusal of admission, in that the methods and controls used in their manufacture do not appear to conform to CGMP within the meaning of section 501(a)(2)(B) of the FD&C Act, 21 U.S.C. 351(a)(2)(B).
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov or mail your reply to:
+
+Rebecca Dombrowski
+Compliance Officer
+U.S. Food and Drug Administration
+White Oak Building 51, Room 4235
+10903 New Hampshire Avenue
+Silver Spring, MD 20993
+USA
+
+Please identify your response with FEI 3008425092.
+
+Sincerely,
+/S/
+
+Francis Godwin
+Director
+Office of Manufacturing Quality
+Office of Compliance
+Center for Drug Evaluation and Research

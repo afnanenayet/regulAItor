@@ -12,12 +12,13 @@ from .recommendation_agent import RecommendationAgent
 from .corrective_action_agent import CorrectiveActionAgent
 from .corrective_action_validation_agent import CorrectiveActionValidationAgent
 from .similar_case_agent import Similar_case_Recommendation
+from .Initiating_agent import InitiatingAgent
 import json
 
 
 import logging
 
-
+initiating_agent = InitiatingAgent()
 input_validation_agent = InputValidationAgent()
 violation_extraction_agent = ViolationExtractionAgent()
 validation_agent = ValidationAgent()
@@ -28,10 +29,6 @@ similar_agent = Similar_case_Recommendation()
 corrective_action_agent = CorrectiveActionAgent()
 corrective_action_validation_agent = CorrectiveActionValidationAgent()
 
-
-initiating_agent = autogen.UserProxyAgent(
-    name="Init",
-)
 
 agents = [
     initiating_agent,
@@ -52,26 +49,24 @@ def state_transition(last_speaker, groupchat):
     messages = groupchat.messages
 
     if len(messages) <= 1:
-        # Start the conversation with the initiating agent
         return initiating_agent
-
     if last_speaker is initiating_agent:
-        # After initiating, proceed to input validation
         return input_validation_agent
-
     elif last_speaker is input_validation_agent:
         # Check if input validation passed
         response = input_validation_agent.handle_message()
         print(f"Input validation response: {response}")
         validation_result = context.get("input_validation_result")  # True or False
+        valid_template = context.get("Valid_Template")
         logging.debug(f"Input validation result: {validation_result}")
         print(f"Input validation result: {validation_result}")
-        if validation_result:
+        print(f"Template validation result: {valid_template}")
+        if validation_result and valid_template:
             # Proceed to violation_extraction_agent
             return violation_extraction_agent
         else:
             context["user_input_required"] = True
-            return None  # Experiment, return back it to None later.
+            return None
 
     elif last_speaker is violation_extraction_agent:
         return validation_agent
@@ -159,7 +154,6 @@ def state_transition(last_speaker, groupchat):
         elif json_data.get("status") == "REJECTED":
             feedback = json_data.get("feedback")
             context["revision_feedback"] = feedback
-            print(f"Here is the revised feedback: {feedback}")
             return corrective_action_agent
 
     else:

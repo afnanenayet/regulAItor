@@ -1,0 +1,251 @@
+Delivery Method: 
+        Via Email
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              John A. Fantasia
+          
+
+                                
+  
+    Recipient Title
+              Vice President
+          
+
+          
+            New England Life Care, Inc. dba Advanced Compounding Solutions
+
+          
+                      4 Constitution Way, Suite L
+Woburn, MA 01801-1042
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+           Division of Pharmaceutical Quality Operations I 
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+WARNING LETTER (WL) # 430004
+
+May 16, 2023
+
+Dear Mr. Fantasia:
+
+You registered your facility with the U.S. Food and Drug Administration (FDA) as an outsourcing facility under section 503B of the Federal Food, Drug, and Cosmetic Act (FDCA) [21 U.S.C. § 353b]1 on March 2, 2017, and most recently on December 20, 2022. From March 21 to April 28, 2022, FDA investigators inspected your facility, New England Life Care, Inc. dba Advanced Compounding Solutions located at 4 Constitution Way, Suite L, Woburn, MA 01801. During the inspection, the investigators noted that drug products you produced failed to meet the conditions of section 503B of the FDCA necessary for drugs produced by an outsourcing facility to qualify for exemptions from certain provisions of the FDCA. In addition, the investigators noted serious deficiencies in your practices for producing drug products intended or expected to be sterile, which put patients at risk.
+
+FDA issued a Form FDA 483 to your facility on April 28, 2022. FDA acknowledges receipt of your facility’s responses, dated May 19, 2022, August 19, 2022, November 19, 2022, and February 17, 2023. Based on this inspection, it appears you produced drugs that violate the FDCA.
+
+A. Compounded Drug Products under the FDCA
+
+Under section 503B(b) of the FDCA, a compounder can register as an outsourcing facility with FDA. Drug products compounded by or under the direct supervision of a licensed pharmacist in an outsourcing facility qualify for exemptions from the drug approval requirements in section 505 of the FDCA [21 U.S.C. § 355(a)], the requirement in section 502(f)(1) of the FDCA [21 U.S.C. § 352(f)(1)] that labeling bear adequate directions for use and the Drug Supply Chain Security Act requirements in section 582 of the FDCA [21 U.S.C. § 360eee-1] if the conditions in section 503B of the FDCA are met.2
+
+An outsourcing facility, which is defined in section 503B(d)(4) of the FDCA [21 U.S.C. § 353b(d)(4)], is a facility at one geographic location or address that — (i) is engaged in the compounding of sterile drugs; (ii) has elected to register as an outsourcing facility; and (iii) complies with all of the requirements of this section. Outsourcing facilities must comply with other applicable provisions of the FDCA, including section 501(a)(2)(B) [21 U.S.C. § 351(a)(2)(B)], regarding current good manufacturing practice (CGMP), and section 501(a)(2)(A) [21 U.S.C. § 351(a)(2)(A)], regarding insanitary conditions. Generally, CGMP requirements for the preparation of drug products are established in Title 21 of the Code of Federal Regulations (CFR) parts 210 and 211.
+
+In addition, for a compounded drug product to qualify for the exemptions under section 503B, the labeling of the drug must include certain information (section 503B(a)(10) of the FDCA [21 U.S.C. §353b(a)(10)]).
+
+B. Failure to Meet the Conditions of Section 503B
+
+During the inspection, FDA investigators noted that drug products produced by your facility failed to meet the conditions of section 503B. For example, the investigators noted that some of your facility’s drug products, including Diltiazem HCl 125mg in 100mL bag, Norepinephrine Bitartrate 8mg Dextrose 5% 250mL bag, Vancomycin HCl 750mg in 0.9% Sodium Chloride 250mL bag, and Phenylephrine HCl 20mg in 250mL bag, did not include the dosage form on the product label.
+
+Because your compounded drug products have not met all of the conditions of section 503B, they are not eligible for the exemptions in that section from the FDA approval requirements of section 505, the requirement under section 502(f)(1) that labeling bear adequate directions for use, and the Drug Supply Chain Security Act requirements described in section 582 of the FDCA.
+
+Specific violations are described below.
+
+C. Violations of the FDCA
+
+Adulterated Drug Products
+
+FDA investigators noted that drug products intended or expected to be sterile were prepared, packed, or held under insanitary conditions, whereby they may have become contaminated with filth or rendered injurious to health, causing your drug products to be adulterated under section 501(a)(2)(A) of the FDCA. For example, the investigators observed:
+
+1. An operator rested their hands on the work surface of the hood during aseptic production.
+
+2. An operator placed components and equipment within the ISO 5 work area that had the potential to block the movement of first air to critical in-process operations.
+
+3. Your firm failed to perform adequate smoke studies under dynamic conditions to demonstrate unidirectional airflow within the ISO 5 area. Therefore, your products intended to be sterile are produced in an environment that may not provide adequate protection against the risk of contamination.
+
+4. Your aseptic processing areas included areas that were difficult to clean, including but not limited to, scratches on the work surfaces of all (b)(4) laminar flow hoods.
+
+5. Pools of unidentified liquid on the floors of classified rooms in clean status.
+
+6. Your facility is maintained in a way that may permit the influx of lesser quality air into a higher quality air area and fails to prevent pests from entering classified spaces. Your firm had at least five documented instances where pests were found in the “compounding suite” from June 2020 through September 2021.
+
+7. Multiple air returns in your ISO 7 “compounding room” were observed to be either fully or mostly blocked by your laminar flow hoods.
+
+FDA investigators also noted CGMP violations at your facility, that caused your drug products to be adulterated within the meaning of section 501(a)(2)(B) of the FDCA. The violations include, for example:
+
+1. Your firm failed to thoroughly investigate any unexplained discrepancy or failure of a batch or any of its components to meet any of its specifications, whether or not the batch has already been distributed (21 CFR 211.192).
+
+2. Your firm failed to establish and follow adequate written procedures describing the handling of all written and oral complaints regarding a drug product, including provisions for review by the quality control unit of any complaint involving the possible failure of a drug product to meet any of its specifications and, for such drug products, a determination as to the need for an investigation in accordance with 21 CFR 211.192 (21 CFR 211.198(a)).
+
+3. Your firm failed to establish and follow appropriate written procedures that are designed to prevent microbiological contamination of drug products purporting to be sterile, and that include validation of all aseptic and sterilization processes (21 CFR 211.113(b)).
+
+4. Your firm failed to establish an adequate system for cleaning and disinfecting the room and equipment to produce aseptic conditions (21 CFR 211.42(c)(10)(v)).
+
+5. Your firm failed to maintain buildings used in the manufacture, processing, packing, or holding of drug products in a good state of repair (21 CFR 211.58).
+
+6. Your firm failed to establish an adequate air supply filtered through high-efficiency particulate air filters under positive pressure in the aseptic processing areas (21 CFR 211.42(c)(10)(iii)).
+
+Outsourcing facilities must comply with CGMP requirements under section 501(a)(2)(B) of the FDCA. FDA’s regulations regarding CGMP requirements for the preparation of drug products have been established in 21 CFR parts 210 and 211. FDA intends to promulgate more specific CGMP regulations for outsourcing facilities. FDA has issued a revised draft guidance, Current Good Manufacturing Practice — Guidance for Human Drug Compounding Outsourcing Facilities under Section 503B of the FD&C Act. This draft guidance, when finalized, will describe FDA’s expectations regarding outsourcing facilities and the CGMP requirements in 21 CFR parts 210 and 211 until more specific CGMP regulations for outsourcing facilities are promulgated.
+
+Under section 301(a) of the FDCA [21 U.S.C. § 331(a)], the introduction or delivery for introduction into interstate commerce of any drug that is adulterated is a prohibited act. Further, it is also a prohibited act under section 301(k) of the FDCA [21 U.S.C. § 331(k)] to do any act with respect to a drug, if such act is done while the drug is held for sale after shipment in interstate commerce and results in the drug being adulterated.
+
+Unapproved New Drug Products
+
+You do not have any FDA-approved applications on file for drug products that you compound.3 Under sections 505(a) and 301(d) of the FDCA [21 U.S.C. §§ 331(d)] a new drug may not be introduced into or delivered for introduction into interstate commerce unless an application approved by FDA under section 505 of the FDCA is in effect for the drug. Marketing of these products, or other applicable products, without an approved application violates these provisions of the FDCA
+
+Misbranded Drug Products
+
+You compound drug products that are intended for conditions not amenable to self-diagnosis and treatment by individuals who are not medical practitioners; therefore, adequate directions for use cannot be written so that a layman can use these products safely for their intended uses. Consequently, their labeling fails to bear adequate directions for their intended uses causing them to be misbranded under section 502(f)(1) of the FDCA.4 The introduction or delivery for introduction into interstate commerce of these products therefore violates section 301(a) of the FDCA. Further, it is also a prohibited act under section 301(k) of the FDCA to do any act with respect to a drug, if such act is done while the drug is held for sale after shipment in interstate commerce and results in the drug being misbranded.
+
+D. Corrective Actions
+
+We have reviewed your facility’s responses to the Form FDA 483. Some of your corrective actions appear adequate; however, we are unable to fully evaluate some of your corrective actions due to lack of adequate supporting documentation:
+
+1. Your responses to Observation 2A state that the use of (b)(4) is no longer allowed. The responses included product information for a (b)(4) solution to be used in the (b)(4) and a (b)(4) that you stated should (b)(4) as well. There was no updated procedure provided to explain when and how the (b)(4) solution would be applied during gowning. Your May 19, 2022, response included draft SOP-PROD-017, Gowning and Hand Hygiene, which your response cover letter stated required the use of (b)(4) solution on the (b)(4). However, that language was not found in the included draft procedure. Your responses also stated that the relative humidity of the general “compounding rooms” was (b)(4), but no additional details were provided.
+
+2. Your responses to Observation 3B include an email from your cleaning contractor that included their suggestion on how to prevent standing cleaning fluid on the floors of the cleanroom suite (via a (b)(4)). Your responses focus on the use of the contractor and fail to discuss the cleaning contractor’s recommendations. No supporting documentation was provided to demonstrate that the proposed corrective actions were implemented.
+
+3. Your responses to Observation 3B state that your firm determined the scratches observed on the decks of the ISO 5 hoods to be normal wear and are not deep enough to significantly impact the work surface of the ISO 5 space. Your responses failed to provide your documented justification/risk evaluation for that determination.
+
+4. Your responses to Observation 3B also state that material sanitization was the primary topic during your (b)(4) CGMP training. No details related to the date, trainer, trainees, or content of training were included in the responses.
+
+5. DEV-22-024, submitted in support of your response to Observation 3B, states your firm will implement random auditing of (b)(4) that will be conducted at least (b)(4) by the Director of Quality or designee as an immediate corrective action. No supporting documentation was provided to determine how the audits will be conducted (in person vs. review of video recordings), the timeframe for their initiation, or how identified deficiencies will be handled.
+
+6. Your responses to Observation 4A state that you intend to change the classification of the ISO 8 finished product room to clean, not classified. Your responses do not include a product impact assessment or risk evaluation for this change or an anticipated timeframe.
+
+7. Your responses to Observation 4D outline a new process that includes a (b)(4) inspection of the cleanroom suite and associated equipment while your maintenance contractor is conducting their (b)(4) assessment outside the cleanroom suite and references a draft policy (SOP-FE-007, Operation & Maintenance of the Production Suite (Draft)). The updated requirements, as outlined in the responses, were not found in the provided draft policy. The draft policy states that the production suite should be inspected (b)(4) or not exceeding (b)(4), does not assign the inspection responsibility to the Quality Unit, and does not require that results be reviewed by production and quality management.
+
+8. Your responses to Observation 5B state you have remediated the blockage of the air returns by removing the laminar flow hood (LFH) located in the southwest corner of the “compounding room.” No updated diagram showing the updated layout and location of the LFHs in the “compounding room” was provided. The Form FDA 483 identifies the LFH located in the southwest corner as 34LFH-07. However, the maintenance record dated May 22, 2022, provided with your firm’s August 2022 response, states, “Removed LFH-05 from the general “compounding room.” LFH-05 is stored in the warehouse.” It is unclear from the information available whether LFH-05 in the maintenance record is the same hood as 34LFH-07 or if it is 32LFH-05. There is no explanation in the response how removal of hood 32LFH-05 would remediate the blockage of the air returns. The responses do not explain whether the remaining hoods were relocated or moved within the “compounding room.”
+
+Some of your corrective actions appear deficient:
+
+1. Your responses fail to address any of the individual investigations and complaints cited in Observation 1. Your responses do not indicate whether the cited investigations were conducted if absent or reopened if previously closed, if product impact and/or risk assessments were completed, or if there were resulting corrective and/or preventive actions (CAPAs).
+
+2. Your responses to Observation 1B appear to solely focuses on improvements to be made to the investigation process. Your responses fail to address any immediate actions that were taken to mitigate the deficiencies pending the implementation of the planned improvements.
+
+3. Your responses to Observation 1C indicate that your firm considers the current complaint process and procedure, as outlined in SOP-QA-006, adequate and do not intend on making changes. However, our investigators found the one complaint reviewed during the inspection, that was handled under the new procedure, to be inadequate. Specifically, Complaint Record PQC-21-001 was opened October 20, 2021, and was reviewed by our investigators during the inspection. Our investigators noted that the required elements from the new procedure were not included in that complaint. No investigation was conducted related to Complaint Record PQC-21-001 and no justification was provided in the record to support that decision.
+
+In addition, your responses to Observation 1C state that the Quality Unit plans to provide further training to customer service representatives but does not outline what that training will include. The responses do not provide details about the current training process/program for handling customer complaints. The responses do not include supporting documentation to demonstrate that training was conducted for all applicable personnel on the new complaint procedure that became effective August 19, 2021.
+
+4. In your responses to Observation 2B, you provided draft SOP-PROD-011, Filling of Bulk Drug Products, which includes photos to show where air samplers should be located. In (b)(4) (for (b)(4) and (b)(4)), the air samplers appear to be in the same location as observed during the inspection, in the back of the hood, up against the HEPA filters, which not only blocks first air to any objects placed in front of them, but also does not represent conditions at the critical processing area where manipulations are taking place.
+
+Your responses to Observation 2B also include a document change request (DCR) to draft a “GMP Aseptic Technique Training” and state that training and assessment will be performed (b)(4) and (b)(4) thereafter. Your responses fail to address how the new training program is improved from the current training program and how it will be more effective. The training procedure collected during the inspection also requires that all employees train on “Clean Room Etiquette & General Aseptic Technique” and (b)(4) performing operations. The DCR states that “aseptic technique assessment" will be based on: personnel media fill requalification (b)(4); gowning re-qualification (b)(4); (b)(4) training occurs and (b)(4) test. However, it was noted in the review of your media fills that personnel monitoring excursions during media fills are no longer considered when evaluating the aseptic technique/qualification of operators.
+
+5. Your responses to Observation 3A do not address the differences in your planned disinfectant efficacy study and the approved protocol/completed study from (b)(4). It is unclear if the remaining variables from VP31.01 will be included in later studies, or what the anticipated timeframe would be. The noted differences between the approved protocol/completed study from (b)(4) and your planned study under VP31.01 include, but are not limited to:
+
+• The intended study design was to include (b)(4) surfaces (materials of construction); (b)(4) study includes (b)(4) surfaces
+• The intended study design was to include all (b)(4) allowable cleaning/disinfecting agents; (b)(4) study includes (b)(4) disinfectants
+• The intended study design was to include (b)(4) inoculants, including (b)(4) commonly recovered organisms from the facility; (b)(4) study includes (b)(4) inoculants ((b)(4))
+
+Additionally, the disinfectant efficacy study from (b)(4) submitted with your February 2023 response does not include all disinfectants allowed by your revised cleaning and disinfection procedure, draft SOP-PROD-014. The revised draft procedure includes (b)(4) as an approved disinfectant for your classified areas (the only sporicidal agent included), however (b)(4) was not included in the (b)(4) study. The draft procedure also requires that dwell times be met for disinfectants but does not specify the required dwell times for the approved disinfectants.
+
+6. Your responses to Observation 3B include a Maintenance report from July 29, 2022 – July 31, 2022, where multiple repairs and updates to the cleanroom and LFHs were documented. The maintenance report email describes unplugging and disassembly of LFHs (removal of (b)(4) and removal of (b)(4) screens to facilitate cleaning of the screens and (b)(4) of the (b)(4) worksurface). Your responses fail to address what actions were taken prior to returning the LFHs to service (e.g., cleanings and requalification) for sterile operations.
+
+7. Your responses to Observation 4 (specifically 4A and 4C) do not address pest control, do not include an evaluation of the damaged rubber gaskets and floor sweeps as they relate to the pests identified in the compounding suite, and do not include any updated pest control plans pending repair of the doors. Your responses did not address what immediate corrective actions were taken, if any, to prevent the ingress of pests into the compounding suite in the over (b)(4) timeframe before the doors were repaired.
+
+8. Your responses to Observation 4C include an Incident Report related to the loose case around cables in the “compounding room”, which states that the root cause of the detached casing was being bumped by one of the hoods when the hood was moved back into place after cleaning. There was no discussion of changes to the cleaning process to prevent the hoods from needing to be moved during routine cleaning. There was no discussion of the potential effect on the hoods and unidirectional airflow from movement of the hoods during routine cleaning.
+
+9. Your smoke studies do not demonstrate adequate airflow throughout the entire production process, from introduction of materials into the hood through completion of compounding. Your smoke study videos include smoke that is directed only at the given port where an aseptic connection or manipulation is being performed. It does not provide assurance that other movements, activities, operations, or materials placement does not allow or promote the ingress of air from the surrounding ISO 7 cleanroom into the hood via turbulence, eddies, or other airflow disruptions, which could lead to potential contamination of the aseptic processing area. In addition, your validation protocol only requires dynamic smoke studies to be performed in (b)(4). Your firm requires that all hoods undergo static smoke studies, and your firm contends that the static conditions testing provides equivalency between the hoods. This approach is inadequate as the dynamic conditions of (b)(4) do not provide assurance of adequate unidirectional airflow of the other hoods.
+
+In addition to the issues discussed above, you should note that CGMP requires the implementation of quality oversight and controls over the manufacture of drugs, including the safety of raw materials, materials used in drug manufacturing, and finished drug products. See section 501 of the FDCA. If you choose to contract with a laboratory to perform some functions required by CGMP, it is essential that you select a qualified contractor and that you maintain sufficient oversight of the contractor’s operations to ensure that it is fully CGMP compliant. Regardless of whether you rely on a contract facility, you are responsible for assuring that drugs you produce are neither adulterated nor misbranded. [See 21 CFR 210.1(b), 21 CFR 200.10(b).]
+
+In addition, regarding observations related to the conditions of section 503B of the FDCA, your corrective actions appear adequate. Specifically, you state that, “ACS initiated a change control to update CSP labels to include the dosage forms on all drug product labels.”
+
+Should you continue to compound and distribute drug products that do not meet the conditions of section 503B, the compounding and distribution of your drugs would be subject to the new drug approval requirement, the requirement to label drug products with adequate directions for use, and the Drug Supply Chain Security Act requirements.
+
+FDA strongly recommends that your management undertake a comprehensive assessment of operations, including facility design, procedures, personnel, processes, maintenance, materials, and systems. In particular, this review should assess your aseptic processing operations. A third party consultant with relevant sterile drug manufacturing expertise should assist you in conducting this comprehensive evaluation.
+
+E. Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive statement of violations at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations. It is your responsibility to ensure that your firm complies with all requirements of federal law, including FDA regulations.
+
+You should take prompt action to address any violations. Failure to adequately address any violations may result in legal action without further notice, including, without limitation, seizure and injunction.
+
+Within fifteen (15) working days of receipt of this letter, please notify this office in writing of the specific steps that you have taken to address any violations. Please include an explanation of each step being taken to prevent the recurrence of violations, as well as copies of related documentation. This letter notifies you of our concerns and provides you an opportunity to address them. If you believe your products are not in violation of the FDCA, include your reasoning and any supporting information for our consideration. If you cannot complete corrective action within fifteen (15) working days, state the reason for the delay and the time within which you will do so.
+
+Send your electronic reply to ORAPHARM1_RESPONSES@fda.hhs.gov. Please identify your response with FEI #3010371376 and refer to WL# 430004. If you have questions regarding the content of this letter, please contact Compliance Officers Lisa Orr at Lisa.Orr@fda.hhs.gov and Nancy Espinal at Nancy.Espinal@fda.hhs.gov.
+
+Sincerely,
+/S/
+
+Lisa Harlan
+Program Division Director
+U.S. Food and Drug Administration
+OPQO Division I
+
+cc: Michael G. Souza, Chief Executive Officer
+New England Life Care, Inc.
+200 French Farm Road
+North Andover, MA 01845
+
+_________________________
+
+1 See Pub. L. No. 113-54, § 102(a), 127 Stat. 587, 587-588 (2013).
+
+2 We remind you that there are conditions, other than those discussed in this letter, that must be satisfied to qualify for the exemptions in section 503B of the FDCA.
+
+3 The specific products made by your firm are drugs within the meaning of section 201(g) of the Act, [21 U.S.C. § 321(g)] because they are intended for use in the diagnosis, cure, mitigation, treatment, or prevention of diseases and/or because they are intended to affect the structure or any function of the body. Further, they are “new drugs” within the meaning of section 201(p) of the FDCA [21 U.S.C. § 321(p)] because they are not generally recognized as safe and effective for their labeled uses.
+
+4 Your compounded drug products are not exempted from the requirements of section 502(f)(1) of the FDCA by regulations issued by the FDA (see, e.g., 21 CFR 201.115).

@@ -1,0 +1,175 @@
+Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Frank Sinton
+          
+
+                                
+  
+    Recipient Title
+              Co-Owner
+          
+
+          
+            New Era Naturals, LLC 
+
+          
+                      278 Sawyer Drive, Suite 4
+Durango, CO 81303
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Los Angeles District Office
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+WARNING LETTER
+
+VIA SIGNATURE CONFIRMED DELIVERY
+
+January 30, 2019
+
+Mr. Frank Sinton
+Co-Owner
+New Era Naturals, LLC
+278 Sawyer Drive, Suite 4
+Durango, CO 81303
+
+Dear Mr. Sinton:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, New Era Naturals, LLC at 278 Sawyer Drive, Durango, Colorado, from March 5 to April 13, 2018.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See 21 CFR, parts 210 and 211.
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act) (21 U.S.C. 351(a)(2)(B)). In addition, your drug products are not listed with FDA as required by section 510(j) of the FD&C Act. Failure to properly list a drug product is prohibited and will render a drug misbranded. See 21 U.S.C. 331(p), 352(o).
+
+We reviewed your April 27, 2018, response in detail and acknowledge receipt of your subsequent response.
+
+During our inspection, our investigator observed specific violations including, but not limited to, the following.
+
+CGMP Violations
+
+1. Your firm failed to have, for each batch of drug product, appropriate laboratory determination of satisfactory conformance to final specifications for the drug product, including the identity and strength of each active ingredient, prior to release (21 CFR 211.165(a)).
+
+Your firm released over-the-counter (OTC) drug products without performing any final drug product testing including, but not limited to, identity and strength of the active ingredient, zinc oxide. Without this testing, you cannot determine that the drug products you manufacture conform to specifications.
+
+In your response you said your drug products conform to your finished drug product specifications based on your drug master production records and subsequent quality control unit verification. Your response is inadequate because you did not commit to testing your finished drug products.
+
+In response to this letter, provide the following:
+
+
+	Finished drug product testing procedures.
+	Finished drug product specification documents.
+	A retrospective risk assessment of your distributed drug products within expiry, including full testing, including identity, strength, and microbiological attributes of retain samples.
+
+
+2. Your firm failed to test samples of each component for identity and conformity with all appropriate written specifications for purity, strength, and quality. Your firm also failed to validate and establish the reliability of your component supplier’s test analyses at appropriate intervals (21 CFR 211.84(d)(1) and (2)).
+
+Your firm failed to test incoming raw materials, including active ingredients, to determine their identity, purity, strength, and other appropriate quality attributes. Your firm released these raw materials for use to manufacture your drug products, without performing any testing.
+
+In your response you said that you now use the certificate of analysis (COA) that is provided by your supplier of zinc oxide to verify that the active ingredient conforms to appropriate standards. Your response is inadequate. It is unclear how you handle your other components used to manufacture your drug products. Additionally, you have not established the reliability of your suppliers’ analyses through appropriate validation, and you have not committed to conduct at least one specific identity test on each component lot prior to release for use in manufacturing. You can not rely on your suppliers’ COA to verify the identity of your components.
+
+3. Your firm failed to establish and follow written procedures for the preparation of master production and control records designed to assure uniformity from batch to batch. Your firm failed to prepare batch production and control records with complete information relating to the production and control of each batch of drug product produced (21 CFR 211.186(a) and 211.188).
+
+Your firm did not have any master production records or batch production records for your drug products when our investigator began the inspection of your facility on March 5, 2018. Without master production records, you cannot demonstrate your drug products were manufactured under adequate control and meet acceptable quality levels. During the inspection, you created master drug production records. The investigator collected these records, which were missing required details including, but not limited to the following:
+
+
+	Complete manufacturing and control instructions.
+	Weights and measures of components used in the course of processing.
+	Specific identification of each batch of component or in-process material used.
+	Any sampling performed.
+	In-process and laboratory control results.
+	Statements of actual and theoretical yields.
+	Description of the drug product containers, closures, and packaging materials, including a specimen or copy of each label.
+	Complete labeling control records.
+	Inspection of the packaging and labeling area before and after use.
+
+
+In response to this letter provide the following:
+
+
+	Updated drug master production records that contain complete information related to production and control of each batch.
+	Procedures you have implemented to ensure production records are completed as required and reviewed by your quality unit before release of products for distribution.
+	A retrospective risk assessment to determine drug product impact for batches distributed without master production records.
+
+
+4. Your firm failed to establish an adequate quality control unit with the responsibility and authority to approve or reject all components, drug product containers, closures, in-process materials, packaging materials, labeling, and drug products (21 CFR 211.22(a)).
+
+Your firm stated to our investigator that you have no established quality unit and no procedures defining the roles and responsibilities of a quality unit. However, your firm has been distributing your Zeb’s Organics Sunscreen SPF 20 and SPF 30 OTC drug products for distribution within the U.S. market even though you did not have an adequate quality unit to ensure that your OTC drug products met specifications and were manufactured under adequate controls.
+
+In your response you said that a co-owner, and firm President, no longer works at your firm. Your response indicated that one of the remaining owners would fulfill the quality function and develop the written documentation defining the quality “individual’s” roles and responsibilities. Your response is inadequate. It is unclear who will be responsible for creating, monitoring, and implementing a quality system.
+
+In your response, indicate who will be responsible for implementing a quality system and provide copies of your procedures describing in detail the roles and responsibilities of the quality unit.
+
+See FDA’s guidance document, Quality Systems Approach to Pharmaceutical CGMP Regulations, for help implementing quality systems and risk management approaches to meet the requirements of CGMP regulations (21CFR parts 210 and 211), at
+https://www.fda.gov/ucm/groups/fdagov-public/@fdagov-drugsgen/documents/document/ucm070337.pdf
+
+Registration and Listing Violations
+
+1. Your firm manufactures human over-the-counter drugs for U.S. commercial distribution but has failed to fulfill its drug listing obligations under section 510 of the Act, which is prohibited under Section 301(p), 21 U.S.C. 360 (j) and 331(p).
+
+Zeb’s Organics Sunscreen 8oz; Natural & Organic Sunscreen, SPF 20; Broad Spectrum UVA & UVB; Zeb’s Organics Sunscreen Natural & Organic SPF 20 - 3.4 oz; Zeb’s Organics Sunscreen Natural & Organic SPF 30 - 3.4 oz; and Zeb’s Organics SPF 30 - 8
+oz Natural Organic Sunscreen 80-minute water resistant, while available in the U.S. commercial distribution, are not listed with FDA. Under section 510 of the FD&C Act, as amended, and Part 207 of FDA's regulations, all drugs manufactured, prepared, propagated, compounded, or processed for U.S. commercial distribution must be listed by the registrant (21 U.S.C. 360(j)(1)). See also 21 CFR 207.17 and 207.41. Failure to properly list a drug product as required by section 510(j) of the Act is prohibited and will render a drug misbranded (21 U.S.C. 331(p), 352(o)).
+
+CGMP consultant recommended
+
+Based upon the nature of the violations we identified at your firm, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34, to assist your firm in meeting drug CGMP requirements. We also recommend that the qualified consultant perform a comprehensive audit of your entire operation for CGMP compliance, and evaluate the completion and effectiveness of any corrective actions and preventive actions you have implemented before you pursue resolution of your firm’s compliance status with FDA.
+
+Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for fully resolving all deficiencies and ensuring ongoing CGMP compliance.
+
+Conclusion
+
+Violations cited in this letter are not intended as an all-inclusive list. You are responsible for investigating these violations, for determining the causes, for preventing their recurrence, and for preventing other violations.
+
+Correct the violations cited in this letter promptly. Failure to promptly correct these violations may result in legal action without further notice including, without limitation, seizure and injunction. Unresolved violations in this warning letter may also prevent other Federal agencies from awarding contracts.
+
+Until these violations are corrected, we may withhold approval of pending drug applications listing your facility. We may re-inspect to verify that you have completed your corrective actions.
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Your written notification should refer to the Warning Letter Number above (566658). Please address your reply to:
+
+CDR Steven E. Porter, Jr.
+Director, Division of Pharmaceutical Quality Operations IV
+U.S. Food & Drug Administration
+19701 Fairchild Road
+Irvine, California 92612
+
+If you have questions regarding the contents of this letter, please contact Lance De Souza, Compliance Officer via email at lance.desouza@fda.hhs.gov or by phone at 510-337-6873 and reference unique identifier 566658.
+
+Sincerely,
+/S/
+
+CDR Steven E. Porter, Jr.
+Director, Division of Pharmaceutical Quality Operations IV

@@ -1,0 +1,370 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. David Ambrose
+          
+
+                                
+  
+    Recipient Title
+              CEO/Owner
+          
+
+          
+            TG United, Inc.
+
+          
+                      16275 Aviation Loop Drive
+Brooksville, FL 34604-6805
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Office of Pharmaceutical Quality Operations, Division II
+        
+         
+          4040 N. Central Expressway, Suite 300
+Dallas, TX 75204
+United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+August 1, 2019
+
+ 
+
+Case # 577583
+
+ 
+
+WARNING LETTER          
+
+ 
+
+VIA UPS EXPRESS
+
+ 
+
+David D. Ambrose
+
+CEO/Owner
+
+TG United, Inc.
+
+16275 Aviation Loop Drive
+
+Brooksville, Florida 34604-6805
+
+ 
+
+Dear Mr. Ambrose:
+
+ 
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, TG United, Inc., FEI: 3005350897, at 16275 Aviation Loop Drive, from December 17, 2018, to February 15, 2019.
+
+ 
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See 21 CFR, parts 210 and 211. 
+
+ 
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B). 
+
+ 
+
+Your firm manufactures HISTEX PD Drops, Triprolidine HCl, Diphenhydramine HCl, ED Chlorped Jr., Rynex PSE, Rynex PE, Ed Chlorped D, Poly-Hist PD Drops, Capron DM Liquid, and Rynex DM that are unapproved new drugs in violation of section 505(a) of the FD&C Act, 21 U.S.C. 355(a). Introduction or delivery for introduction of such products into interstate commerce is prohibited under section 301(d) of the FD&C Act, 21 U.S.C. 331(d).
+
+ 
+
+We reviewed your March 8, 2019, response in detail. 
+
+ 
+
+During our inspection, our investigator observed specific violations including, but not limited to, the following.
+
+ 
+
+1. Your firm failed to thoroughly investigate any unexplained discrepancy or failure of a batch or any of its components to meet any of its specifications, whether or not the batch has already been distributed (21 CFR 211.192).
+
+Your system to investigate out-of-specification (OOS) results and water system monitoring failures is inadequate. You failed to initiate investigations, sufficiently investigate, and/or finalize such investigations in a timely manner. 
+
+Failure to Conduct Investigations
+
+You lacked investigations into failures of your water system to meet chemical purity specifications, including a determination of root causes and corrective actions to prevent recurrence. 
+
+Inadequate Investigations
+
+In addition, you failed to finalize manufacturing process investigations, including incidents related to OOS results generated from stability, finished product, and raw material testing. For investigations opened between June 20, 2017, and September 25, 2018, 14 out of 39 investigations remained open at the time of the inspection. Your firm continued manufacturing while significant investigations remained open with no clear assessment of impact or identification of appropriate follow-up actions.
+
+In your response, you stated that your quality unit will complete the investigations within 30 days. Your response is inadequate because it does not sufficiently address the investigations that remained open, initiating an investigation in a timely manner, and improvements to your investigation program. 
+
+In response to this letter, provide:
+
+
+	A retrospective review of all invalidated OOS results (stability, commercial batch release) and invalidated water system monitoring failures associated with products distributed to the U.S. market and within expiry/retest date. Assess whether the scientific justification and evidence was conclusive. For investigations that conclusively establish laboratory root cause, determine adequacy of the corrective action and preventive action (CAPA) plan, and ensure that other laboratory methods potentially vulnerable to the same root cause are identified for remediation. 
+
+
+For any OOS result or water system monitoring failure with inconclusive or no root cause identified in the laboratory, include a thorough review of production (e.g., batch manufacturing records, adequacy of the manufacturing steps, raw materials, process capability, deviation history, batch failure history, and water systems). Summarize each CAPA plan, identifying the potential manufacturing root causes for each such investigation, and process improvements where appropriate. Your CAPA plan should also include, but not be limited to, improvements in investigation competencies, root cause analysis, written procedures, quality unit oversight, and a process for evaluating CAPA effectiveness.
+
+
+	For each product, tabulate the annual total number of OOS results, and the annual number of OOS results that were invalidated, for raw materials, in-process material, released finished product, and real-time product stability testing from 2017 to the present. Include all OOS results investigated per 21 CFR 211.192, even if invalidated due to laboratory error.
+
+
+Specify how you assign a date to an OOS result (e.g., the time the initial OOS result is identified; when the initial laboratory investigation is initiated or closed; or when the final investigation is closed). Include a copy of your procedure for this process.
+
+
+	A table listing all OOS results from 2017 to the present of products distributed to the U.S. market, including the following information: 
+
+	
+		date OOS result occurred 
+		identifying code
+		description of OOS result
+		description of root cause
+		whether the OOS result was accepted, or invalidated as a laboratory error
+		disposition of any impacted batch(es)
+		distribution date of any impacted batch(es) 
+	
+	
+
+
+2. Your firm failed to use equipment in the manufacture, processing, packing, or holding of drug products that is of appropriate design, adequate size, and suitably located to facilitate operations for its intended use and for its cleaning and maintenance (21 CFR 211.63).
+
+You have not established that your (b)(4) water systems are adequately designed, controlled, maintained, and monitored to ensure they consistently produce water that meets the USP monograph for (b)(4) water and appropriate microbial limits. Water from your systems is used as a component in your drug products and used for cleaning your manufacturing equipment and utensils. 
+
+In addition, you lacked adequate sampling and testing of the water produced by your water system used within your liquids facility. During the review of your water systems’ data from 2018, our investigator noted multiple water test results for total organic carbon (TOC) and one testing result for resistivity that did not meet established limits. Also, your firm did not perform studies to ensure the (b)(4) sanitization is effective against microorganisms. 
+
+Your response indicated that you updated the procedure governing the maintenance of the (b)(4) water system. Your response is inadequate because it lacked details on how you ensure that (b)(4) water system will consistently produce water that is suitable for its intended use. You also failed to address the impact on distributed and future drug products. 
+
+This is a repeat violation from your 2017 inspection. In response to this letter provide:
+
+
+	A comprehensive, independent assessment of your water system design and maintenance. 
+	A summary of the protocol(s) designed to evaluate whether your (b)(4) water system is adequate for its intended use.
+	A summary of the implementation of the protocol(s) referenced above.
+	 A summary of the improvements made to your system design and ongoing routine control and maintenance program.
+
+
+3. Your firm failed to clean, maintain, and, as appropriate for the nature of the drug, sanitize and/or sterilize equipment and utensils at appropriate intervals to prevent malfunctions or contamination that would alter the safety, identity, strength, quality, or purity of the drug product beyond the official or other established requirements (21 CFR 211.67(a).
+
+You failed to demonstrate that your cleaning practices are adequate to remove residue from shared equipment used to manufacture your OTC drug products. Your determination of the adequacy of your cleaning process is limited to TOC rinse sample testing of equipment. Your firm did not conduct any testing to demonstrate that your transfer hoses and your utensils used in the manufacture of multiple drug products were adequately cleaned.
+
+ 
+
+In your response, you provided an outline of your cleaning validation strategy and timeframes for completion. However, your response is inadequate because you provided no interim plans to ensure that your cleaning practices are adequate and reproducible in removing residue from shared equipment.
+
+ 
+
+This is a repeat violation from your 2012, 2014, and 2017 inspections. In response to this letter, provide the following:
+
+
+	A comprehensive plan to evaluate cleaning procedures and practices and any associated validation studies for each piece of manufacturing equipment used to manufacture more than one product.
+	A summary of updates to your cleaning procedures incorporating conditions identified as worst case. This should include, but not be limited to, the identification and evaluation of:
+
+
+ 
+
+
+	Drugs of the highest toxicity 
+	Drugs of the lowest solubility in their cleaning solvents
+	Drugs with characteristics that make them difficult to clean
+	Swabbing locations for areas that are most difficult to clean
+
+
+ 
+
+
+	A summary of improvements made to ensure an appropriate program is in place for validation and ongoing verification of cleaning procedures for products (including introduction of new products) and equipment. 
+
+
+4. Your firm failed to follow an adequate written testing program designed to assess the stability characteristics of drug products and to use results of stability testing to determine appropriate storage conditions and expiration dates (21 CFR 211.166(a)).
+
+Your stability program is not adequate to demonstrate the quality of your OTC drug products through expiry. Reliable stability data is critical for ensuring that products maintain their identity, strength, quality, purity, and safety throughout their shelf lives. For example, your firm has not completed test method validation for test methods to assess impurities, including degradants, for finished drug products manufactured at your facility through expiry. Specifically, our investigator requested to review validation of the test methods for impurities. Your management provided our investigator with a cart full of raw data that had not been reviewed and approved by your quality unit. 
+
+In your response, you stated that the test method validation protocols are in place, testing is ongoing, and an addendum report will be written. Your response is inadequate because you have not demonstrated that your test methods used to support the stability of currently marketed products are validated. 
+
+This is a repeat violation from your 2010, 2012, 2014, and 2017 inspections. In response to this letter, provide: 
+
+
+	A table listing all drug products distributed to the U.S. market since 2016, including the following information:
+
+	
+		The name of the drug product
+		The stability-indicating test method name and unique identifier
+		Whether the test method for each formulation of your drug is validated, and if so, when
+		The batch number(s) and time point(s) where product was analyzed for stability using the test
+		If any testing timepoints were missed per your firm’s stability program
+	
+	
+	A comprehensive, independent assessment and CAPA plan to ensure the adequacy of your stability program. Your CAPA plan should include, but not be limited to:
+	A remediated SOP describing your stability program
+	
+		Stability-indicating test methods for each formulation of your drug products
+		An ongoing stability program in which representative batches of each formulation of your OTC products are added each year to the program to determine if the shelf life claim remains valid
+		Specific attributes to be tested at each time interval, including impurities
+	
+	
+
+
+Repeat Violations at Facility
+
+FDA cited similar CGMP violations from 2010, 2012, 2014, and 2017 inspections. Such CGMP violations resulted in a July 2011 Untitled Letter to your firm followed by a December 2012 Regulatory Meeting. 
+
+ 
+
+In response to each of those inspections and compliance actions taken against your firm, you proposed specific remediations to fully address the violations. Failure to remediate such violations, among many others cited on the Form FDA 483, Inspectional Observations, demonstrate that executive management oversight and control over the manufacture of drugs is inadequate. This repeated failure to correct brings into question your firm’s ability to manufacture drugs according to CGMP.
+
+ 
+
+CGMP Consultant Recommended
+
+ 
+
+Based upon the nature of the violations, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements. Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. 
+
+ 
+
+Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+ 
+
+Unapproved New Drug Charges
+
+ 
+
+HISTEX PD Drops, Triprolidine HCl, Diphenhydramine HCl, ED Chlorped Jr., Rynex PSE, Rynex PE, Ed Chlorped D, Poly-Hist PD Drops, Capron DM Liquid, and Rynex DM are “drugs” as defined by section 201(g)(1)(B) of the FD&C Act, 21 U.S.C. 321(g)(1)(B), because they are intended for the diagnosis, cure, mitigation, treatment, or prevention of disease and/or as defined under section 201(g)(1)(C) of the FD&C Act, 21 U.S.C. 321(g)(1)(C), because they are intended to affect the structure or any function of the body. 
+
+ 
+
+The labeling for each of these products bears a Drug Facts panel and includes various intended uses. The specific intended uses for these products are as follows: HISTEX PD Drops, Triprolidine HCl, Diphenhydramine HCl, and ED Chlorped Jr. are intended as antihistamines; Rynex PSE, Rynex PE, and Ed Chlorped D are intended as a combination antihistamine and nasal decongestant; Poly-Hist PD Drops and Capron DM Liquid are intended as a combination antihistamine and antitussive; and Rynex DM is intended as a combination antihistamine, antitussive, and nasal decongestant.      
+
+   
+
+OTC drug products intended for the various uses described above are subject to the Final Rule for Cold, Cough, Allergy, Bronchodilator, and Antiasthmatic Drug Products for Over-the-Counter Human Use (cough/cold final rule) (21 CFR 341). However, these products are not labeled in accordance with this final rule for reasons explained below.
+
+According to the products’ labeling, HISTEX PD Drops, Triprolidine HCl, Diphenhydramine HCl, ED Chlorped Jr., Rynex PSE, Rynex PE, Ed Chlorped D, Poly-Hist PD Drops, Capron DM Liquid, and Rynex DM contain antihistamine active ingredients.[1] The labeling for each product also provides dosing directions for children under six years of age, which is not permitted under the cough/cold final rule. According to 21 CFR 341.72(d), the labeling directions for OTC drug products containing these antihistamine active ingredients must state, “Children under 6 years of age: consult a doctor.” 
+
+ 
+
+Thus, as labeled, HISTEX PD Drops, Triprolidine HCl, Diphenhydramine HCl, ED Chlorped Jr., Rynex PSE, Rynex PE, Ed Chlorped D, Poly-Hist PD Drops, Capron DM Liquid, and Rynex DM do not comply with the final rule described above. Furthermore, we are not aware of sufficient evidence to show that these products as labeled are generally recognized as safe and effective. Therefore, these products are new drugs within the meaning of section 201(p) of the FD&C Act, 21 U.S.C. 321(p). As a new drug, HISTEX PD Drops, Triprolidine HCl, Diphenhydramine HCl, ED Chlorped Jr., Rynex PSE, Rynex PE, Ed Chlorped D, Poly-Hist PD Drops, Capron DM Liquid, and Rynex DM may not be legally marketed in the United States absent approval of an application filed in accordance with section 505(a) of the FD&C Act, 21 U.S.C. 355(a). 
+
+ 
+
+HISTEX PD Drops, Triprolidine HCl, Diphenhydramine HCl, ED Chlorped Jr., Rynex PSE, Rynex PE, Ed Chlorped D, Poly-Hist PD Drops, Capron DM Liquid, and Rynex DM are not the subject of FDA-approved applications; therefore, the current marketing of these products violates section 505(a) of the FD&C Act, 21 U.S.C. 355(a). Introduction of such products into interstate commerce is prohibited under section 301(d) of the FD&C Act, 21 U.S.C. 331(d).
+
+ 
+
+We note that the professional labeling section of the cough/cold final rule provides dosage directions for children as young as two years of age for OTC drug products containing the antihistamine active ingredients brompheniramine maleate, diphenhydramine HCl, chlorpheniramine maleate, pyrilamine maleate, and thonzylamine HCl. Furthermore, we note that the professional labeling section of the cough/cold final rule provides dosage directions for children as young as four months of age for OTC drug products containing the antihistamine active ingredient triprolidine HCl. 
+
+ 
+
+However, 21 CFR 341.90 establishes that professional labeling is labeling provided solely to healthcare professionals and not to the general public. Therefore, inclusion of the professional labeling information on the OTC product label itself renders the product a non-compliant OTC drug product. Please note that limiting the sale of an OTC drug product solely to healthcare professionals does not exempt the OTC drug product from the labeling requirements of the applicable final rule. 
+
+ 
+
+Conclusion
+
+ 
+
+Violations cited in this letter are not intended as an all-inclusive list. You are responsible for investigating these violations, for determining the causes, for preventing their recurrence, and for preventing other violations.
+
+ 
+
+Correct the violations cited in this letter promptly. Failure to promptly correct these violations may result in legal action without further notice including, without limitation, seizure and injunction. Unresolved violations in this warning letter may also prevent other Federal agencies from awarding contracts. 
+
+ 
+
+Until these violations are corrected, we may withhold approval of pending drug applications listing your facility. We may re-inspect to verify that you have completed your corrective actions. We may also refuse your requests for export certificates
+
+ 
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion. 
+
+ 
+
+Your written notification should refer to Case # 577583. Please electronically submit your reply on company letterhead to Jose R. Lopez, Compliance Officer, at ORAPHARM2_RESPONSES@fda.hhs.gov. In addition, please submit a signed copy of your response to JoseR.Lopez@fda.hhs.gove and John.Diehl@fda.hhs.gov.
+
+ 
+
+If you have questions regarding the contents of this letter, you may contact Mr. Lopez via (787) 729-8603 or JoseR.Lopez@fda.hhs.gov.
+
+ 
+
+ 
+
+Sincerely,
+
+/S/          
+
+Monica R. Maxwell
+
+Program Division Director
+
+Office of Pharmaceutical Quality Operations, Division II
+
+ 
+
+ 
+
+
+[1] Rynex PSE, Rynex PE, and Rynex DM are labeled to contain brompheniramine maleate; HISTEX PD Drops and Triprolidine HCl are labeled to contain triprolidine; ED Chlorped Jr. and Ed Chlorped D are labeled to contain chlorpheniramine maleate; Capron DM Liquid is labeled to contain pyrilamine maleate; Diphenhydramine HCl is labeled to contain diphenhydramine HCl; and Poly Hist PD Drops is labeled to contain thonzylamine HCl.

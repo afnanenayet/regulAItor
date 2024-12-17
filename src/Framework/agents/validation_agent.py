@@ -5,6 +5,7 @@ import os
 import json
 import logging
 
+
 class ValidationAgent(ConversableAgent):
     def __init__(self):
         super().__init__(
@@ -51,7 +52,7 @@ class ValidationAgent(ConversableAgent):
             }
             """,
             llm_config={
-                "model": os.getenv("OPENAI_MODEL", "gpt-4"),
+                "model": os.getenv("OPENAI_MODEL", "gpt-4o"),
                 "api_key": os.getenv("OPENAI_API_KEY"),
             },
         )

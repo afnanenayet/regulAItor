@@ -14,24 +14,22 @@ class CorrectiveActionAgent(ConversableAgent):
 You are a compliance assistant tasked with drafting a full corrective action plan to address all violated terms.
 """,
             llm_config={
-                "model": os.getenv("OPENAI_MODEL", "gpt-4"),
+                "model": os.getenv("OPENAI_MODEL_Corrective_Action_Model", "gpt-4o"),
                 "api_key": os.getenv("OPENAI_API_KEY"),
             },
         )
         self.client = OpenAI(api_key=self.llm_config["api_key"])
 
         self.register_reply(
-            trigger=self._always_true_trigger,  # Add a specific trigger string
+            trigger=self._always_true_trigger,
             reply_func=self.handle_message,
             position=0,
         )
 
     def _always_true_trigger(self, sender):
-        # This trigger function always returns True
         return True
 
     def handle_message(self, *args, **kwargs):
-        # logging.debug(f"{self.name}: Received messages from {sender}: {messages}")
         warning_letter = self.context.get("warning_letter", "")
         summary = self.context.get("summary", {})
         violated_terms = summary.get("violated_terms", [])
@@ -39,13 +37,6 @@ You are a compliance assistant tasked with drafting a full corrective action pla
         regulation_texts = self.context.get("regulation_full_texts", {})
         template = self.context.get("template", "")
         validation_feedback = self.context.get("feedback", "")
-        print(f"HERE YOOU SEE warning_letter: {warning_letter}")
-        print(f"HERE YOOU SEE violated_terms: {violated_terms}")
-        print(f"HERE YOOU SEE recommendations: {recommendations}")
-        print(f"HERE YOOU SEE regulation_texts: {regulation_texts}")
-        print(f"HERE YOOU SEE validation_feedback: {validation_feedback}")
-
-        # Include validation feedback in prompt
         messages = [
             {
                 "role": "user",

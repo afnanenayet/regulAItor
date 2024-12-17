@@ -1,0 +1,231 @@
+Delivery Method: 
+        Via Email
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+              Reference #: 
+        320-24-62
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Nageswara Rao Gupta Manepalli
+          
+
+                                
+  
+    Recipient Title
+              Managing Director/CEO
+          
+
+          
+            MMC Healthcare Ltd.
+
+          
+                      34-B Sidco Industrial Estate
+Thirumazhisai, Chennai 600124
+Tamil Nadu
+India
+          
+          
+            
+            
+
+     ceo@mmchealthcareltd.com
+
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research (CDER)
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter 320-24-62
+
+September 24, 2024
+
+Dear Mr. Manepalli:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, MMC Healthcare Ltd., FEI 3014773352, at 34-B Sidco Industrial Estate, Thirumazhisai, Chennai, Tamil Nadu, from March 25 to 30, 2024.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your April 18, 2024 response to our Form FDA 483 in detail.
+
+During our inspection, our investigator observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to establish an adequate quality control unit with the responsibility and authority to approve or reject all components, drug product containers, closures, in-process materials, packaging materials, labeling, and drug products (21 CFR 211.22(a)).
+
+During the inspection of your facility our Investigator observed that your 2021 (b)(4) Tablets “PROCESS VALIDATION” report had data added, backdated signatures, and replaced pages. Your Quality Assurance Manager, Quality Control Manager, Formulation Research & Development Manager, and Production Manager admitted to participating in these practices.
+
+Review of the (b)(4) Capsules (b)(4) mg “PROCESS VALIDATION” report collected during the inspection also found a backdated approval stamp and signatures.
+
+In your response, you state that “due to pressure and tensions the concerned team mentioned the back date instead of current date unintentionally.” Additionally, you provide evidence of training conducted with your validation team to prevent such issues from recurring.
+
+Your response is inadequate because you fail to fully review the extent of your practice of backdating CGMP documents. You did not provide adequate evidence to demonstrate that you have conducted a comprehensive assessment of all systems and adequately remediated the deficiencies related to your documentation practices. There is also no indication that you have implemented appropriate and effective corrective actions and preventive actions (CAPAs) throughout your drug manufacturing operations to ensure your manufacturing operation is under control and that your quality unit (QU) is adequately exercising its responsibilities.
+
+Data integrity is critical throughout the CGMP data life cycle, including in the creation, modification, processing, maintenance, archival, retrieval, transmission, and disposition of date after the record’s retention period ends.
+
+In your response to this letter, provide:
+
+• A comprehensive assessment and remediation plan to ensure your QU is given the authority and resources to effectively function. The assessment should also include, but not be limited to:
+  o A determination of whether procedures used by your firm are robust and appropriate.
+  o Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices.
+  o A complete and final review of each batch and its related information before the QU disposition decision.
+  o Oversight and approval of investigations and discharging of all other QU duties to ensure identity, strength, quality, and purity of all products.
+
+Also describe the plan to ensure your senior and executive management supports quality assurance and reliable operations, including but not limited to, timely provision of resources to proactively address emerging manufacturing/quality issues and to assure a continuing state of control.
+• A comprehensive, independent assessment of your overall system for investigating deviations, discrepancies, complaints, out-of-specification (OOS) results, and failures. Provide a detailed action plan to remediate this system. Your action plan should include, but not be limited to, significant improvements in investigation competencies, scope determination, root cause evaluation, CAPA effectiveness, QU oversight, and written procedures. Address how your firm will ensure all phases of investigations are appropriately conducted.
+• A comprehensive, independent assessment of documentation systems used throughout your manufacturing and laboratory operations to determine where documentation practices are insufficient. Include a detailed CAPA plan that comprehensively remediates your firm’s documentation practices to ensure you retain attributable, legible, complete, original, accurate, contemporaneous records throughout your operation.
+
+2. Your firm failed to exercise appropriate controls over computer or related systems to assure that only authorized personnel institute changes in master production and control records, or other records (21 CFR 211.68(b)).
+
+Your ultraviolet-visible (UV-Vis) spectrophotometer computer system lacked appropriate controls to assure the integrity of electronic test data, such as an audit trail and defined user access levels. This UV-Vis system was used for release testing of drug product batches.
+
+In your response, you state that you “would like to update the UV/Vis [sic] software” to be compliant and provide a quote for new software.
+
+Your response is inadequate because it does not provide sufficient details describing:
+
+• Timeframe for your corrective action.
+• Security features of your updated UV-Vis computer system.
+• User access levels, access privileges, or authorized users to perform the analyses, collect data, review data, or perform other functions.
+• Integrity of data generated by your computerized systems in the interim and any other interim measures, prior to the full implementation of your corrective actions.
+• Extent of this practice and how you will fully secure other CGMP computer systems in your facility.
+
+It is essential that your firm keeps track of all changes made to your electronic data. The use of audit trails for computerized analytical instrumentation helps to ensure all additions, deletions, or modifications of information in your electronic records are authorized. It also allows you to verify the quality and integrity of the electronic data your laboratory generates.
+
+In response to this letter, provide:
+
+• A comprehensive, independent assessment and CAPA plan for computer system security and integrity. Include a report that identifies design and control vulnerabilities, and appropriate remediations for each of your laboratory and manufacturing computer systems. This should include, but not be limited to:
+  o An evaluation of the impact of this violation.
+  o A list of all hardware that includes all equipment, both standalone and network, in your laboratory and manufacturing.
+  o Identification of vulnerabilities in hardware and software, encompassing both networked and non-networked systems.
+  o A list of all software configurations (both equipment software and Laboratory Information Management System) and versions, details of all user privileges, and oversight responsibilities for your computerized systems. Regarding user privileges, specify user roles and associated user privileges (including the specific permissions allowed for anyone who has administrative rights) for all staff who have access to the laboratory and manufacturing computer systems, and their organizational affiliation and title. Also describe how you will ensure staff are not given administrative rights, or other permissions that compromise data retention or reliability.
+  o System security provisions, including but not limited to, whether unique usernames/passwords are always used, and their confidentiality safeguarded.
+  o Detailed procedures for robust use and review of audit trail data, and current status of audit trail implementation for each of your systems.
+  o Timeline for the implementation and qualification of your updated UV-Vis software.
+  o Interim control measures and procedural changes for the control, review, and full retention of laboratory data.
+  o Comprehensive and sustainable CAPA for retention of all CGMP data including interim data. This includes provisions that address not only the need to retain batch-related data for appropriate periods, but also the long-term retention of all source data from development studies that support design, qualification, validation, and application.
+  o A detailed summary of your procedural updates and associated training, including but not limited to, system security control to prevent unauthorized access, and ensure appropriate user role assignments, secondary review of all analyses, and other system controls.
+  o Your remediated program for ensuring strict ongoing control over electronic and paper-based data to ensure that all additions, deletions, or modifications of information in your records are authorized, and all data is retained. Provide your full CAPA plan and any improvements made to date.
+  o Provisions for oversight from Quality Assurance managers, executives, and internal auditors with appropriate IT expertise (e.g., understanding of infrastructure, configuration, network requirements, strict segregation of administrative rights).
+
+3. Your firm failed to establish the accuracy, sensitivity, specificity, and reproducibility of its test methods (21 CFR 211.165(e)).
+
+You did not use a United States Pharmacopeia (USP) method to test multiple drug products nor did you show equivalency or superiority for your alternate methods. For example, your E. coli test method for (b)(4) Solution and (b)(4) Tablets drug products only required sub-culturing if turbidity was observed. This differs from the USP method which proceeds with sub-culturing regardless of visual observation of turbidity. Additionally, you could not provide method validation data that established the adequacy of the test methods you use.
+
+Test methods must be validated to show they are suitable for their intended use, and equivalent or better than applicable USP compendial methods. The reproducibility of your test methods is essential to determine if your drug products meet established specifications for microbial attributes.
+
+In your response, you state that you revised your test method to align with the USP and retrained your microbiologists. You also state that you retested most batches of (b)(4) Solution within expiry using the revised method, all of which passed.
+
+Your response is inadequate. You do not commit to retest all products and batches within expiry with the revised method. In addition, there is no indication that your method is equivalent or superior to the USP. There is also no information to evaluate all your test methods to ensure they are aligned with the USP.
+
+In response to this letter, provide:
+
+• A comprehensive, independent assessment of your laboratory practices, procedures, methods, equipment, documentation, and analyst competencies. Based on this review, provide a detailed plan to remediate and evaluate the effectiveness of your laboratory system.
+• A summary of results from testing reserve samples of all drug product batches within expiry. You should test microbiological quality (total counts and identification of bioburden to detect any objectionable microbes) of each batch. If testing yields an OOS result, indicate the corrective actions you will take, including notifying customers and initiating recalls.
+
+Data Integrity Remediation
+
+Your quality system does not adequately ensure the accuracy and integrity of data to support the safety, effectiveness, and quality of the drugs you manufacture. See FDA’s guidance document Data Integrity and Compliance With Drug CGMP for guidance on establishing and following CGMP compliant data integrity practices at https://www.fda.gov/media/119267/download.
+
+We strongly recommend that you retain an independent third-party, qualified consultant to assist in your remediation. In response to this letter, provide:
+
+• A comprehensive investigation into the extent of the inaccuracies in data records and reporting. Your investigation should include:
+  o A detailed investigation protocol and methodology; a summary of all laboratories, manufacturing operations, and systems to be covered by the assessment; and a justification for any part of your operation that you propose to exclude.
+  o Interviews of current and former employees to identify the nature, scope, and root cause of data inaccuracies. We recommend that these interviews be conducted by a qualified third party.
+  o An assessment of the extent of data integrity deficiencies at your facility. Identify omissions, alterations, deletions, record destruction, non-contemporaneous record completion, and other deficiencies. Describe all parts of your facility’s operations in which you discovered data integrity lapses.
+  o A comprehensive retrospective evaluation of the nature of the testing and manufacturing data integrity deficiencies. We recommend that a qualified third party with specific expertise in the area where potential breaches were identified should evaluate all data integrity lapses.
+
+• A current risk assessment of the potential effects of the observed failures on the quality of your drugs. Your assessment should include analyses of the risks to patients caused by the release of drugs affected by a lapse of data integrity and analyses of the risks posed by ongoing operations.
+
+• A management strategy for your firm that includes the details of your global CAPA plan. Your strategy should include:
+  o A detailed corrective action plan that describes how you intend to ensure the reliability and completeness of all the data you generate including analytical data, manufacturing records, and all data submitted to FDA.
+  o A comprehensive description of the root causes of your data integrity lapses including evidence that the scope and depth of the current action plan is commensurate with the findings of the investigation and risk assessment. Indicate whether individuals responsible for data integrity lapses remain able to influence CGMP-related or drug application data at your firm.
+  o Interim measures describing the actions you have taken or will take to protect patients and to ensure the quality of your drugs, such as notifying your customers, recalling product, conducting additional testing, adding lots to your stability programs to assure stability, drug application actions, and enhanced complaint monitoring.
+  o Long-term measures describing any remediation efforts and enhancements to procedures, processes, methods, controls, systems, management oversight, and human resources (e.g., training, staffing improvements) designed to ensure the integrity of your company’s data.
+  o A commitment to have a qualified consultant conduct extensive annual audits, for at least 2 years, to assist in evaluating CAPA effectiveness after you have executed your data integrity remediation protocol.
+  o Inform FDA if you will be hiring a Chief Integrity Officer who is fully empowered to receive anonymous complaints from employees reporting data integrity concerns and with the authority to ensure any potential breach is promptly investigated (by independent quality assurance function, along with expertise from outside entities whenever needed).
+  o A status report for any of the above activities already underway or completed.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+FDA placed your firm on Import Alert 66-40 on September 6, 2024.
+
+Correct any violations promptly. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to any violations.
+
+Failure to address any violations may also result in the FDA continuing to refuse admission of articles manufactured at MMC Healthcare Ltd., 34-B Sidco Industrial Estate, Thirumazhisai, Chennai into the United States under section 801(a)(3) of the FD&C Act, 21 U.S.C. 381(a)(3).
+
+Articles under this authority that appear to be adulterated may be detained or refused admission, in that the methods and controls used in their manufacture do not appear to conform to CGMP within the meaning of section 501(a)(2)(B) of the FD&C Act, 21 U.S.C. 351(a)(2)(B).
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov. Identify your response with FEI 3014773352 and ATTN: Russell Riley.
+
+Sincerely,
+/S/
+
+Francis Godwin
+Director
+Office of Manufacturing Quality
+Office of Compliance
+Center for Drug Evaluation and Research

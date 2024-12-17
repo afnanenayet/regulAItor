@@ -1,0 +1,248 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+              Reference #: 
+        320-20-20
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Lianlong Xu
+          
+
+                                
+  
+    Recipient Title
+              General Manager
+          
+
+          
+            Sunstar Guangzhou Ltd.
+
+          
+                      Blk D, 5/F, 203 Conbo Avenue
+Free Trade Zone
+Guangzhou Shi
+Guangdong Sheng, 510730
+China
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research | CDER
+        
+         
+          10903 New Hampshire Avenue
+Silver Spring, MD 20993
+United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+January 22, 2020
+
+Warning Letter 320-20-20
+
+Dear Mr. Xu:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Sunstar Guangzhou Ltd., FEI 3009449945, at Blk D, 5/F, 203 Conbo Avenue, Free Trade Zone, Guangzhou, Guangdong, from June 24 to 28, 2019.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351 (a)(2)(B).
+
+We reviewed your July 15, 2019, response to our Form FDA 483 in detail. Your response is inadequate because it did not provide sufficient detail or evidence of corrective actions to bring your operations into compliance with CGMP.
+
+During the inspection, our investigator observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to perform, for each batch of drug product, appropriate laboratory determination of satisfactory conformance to final specifications for the drug product, including the identity and strength of each active ingredient, prior to release, and conduct appropriate laboratory testing for each batch of drug product required to be free of objectionable microorganisms (21 CFR 211.165(a)).
+
+Your firm manufactures over-the-counter (OTC) (b)(4) drug products, including those specifically marketed to children. You released certain drug products without conducting identity and strength testing. For example, you released your (b)(4) without testing for identity and strength of its labeled active ingredients: (b)(4).
+
+Complete testing of each batch before release is essential to determine if the drug products you manufacture meet appropriate specifications.
+
+In your response, you stated that all batches of finished products with (b)(4) " ... will be subjected to lab analysis prior to distribution." Specifically, you plan to perform assay testing for (b)(4). However, you also stated you will evaluate the "feasibility" of performing assay testing for (b)(4).
+
+Your response is inadequate. You failed to test all your reserve samples of drug products containing (b)(4) as active ingredients within expiry to determine whether they meet established specifications for identity and strength. You did not commit to perform the assay test for (b)(4) in your finished drug products.
+
+Your response is also inadequate because you did not include information about your testing procedures, methods, timeline for implementation, or a detailed description of the tests you will conduct (e.g., identity, strength, and purity).
+
+In your response to this letter, provide the following:
+
+• A list of chemical and microbial specifications, including test methods, used to analyze each lot of your drug products before a disposition decision. Also include method validation and/or method verification data and reports that evaluate these test methods.
+
+• An action plan and timelines for conducting full chemical and microbiological testing of retain samples to determine the quality of all batches of drug product distributed to the United States within expiry as of the date of this letter. Summarize all results obtained from
+testing retain samples from each batch. If such testing reveals substandard quality drug products, take rapid corrective actions, such as notifying customers and product recalls.
+
+• A comprehensive, independent assessment of your laboratory practices, procedures, methods, equipment, documentation, and analyst competencies. Based on this review, provide a detailed plan to remediate and evaluate the effectiveness of your laboratory system.
+
+• Your procedure to ensure that any test methods performed by a contract testing laboratory on your behalf are properly validated before use.
+
+2. Your firm failed to test samples of each component for identity and conformity with all appropriate written specifications for purity, strength, and quality (21 CFR 211.84(d)(1)).
+
+Your firm failed to test incoming components used to manufacture your drug products to determine their identity. For example, your firm did not ensure that at least (b)(4) specific identity test was conducted for (b)(4) lot of components, including active ingredient identity testing for (b)(4) received from another site in your network.
+
+It your responsibility to ensure that you perform at least (b)(4) test to verify the identity of all of the components used in drug product manufacturing, including your active ingredient (b)(4).
+
+In response to this letter, provide the following:
+
+• A comprehensive, independent review of your material system to determine whether all suppliers of components, containers, and closures are each qualified, and the materials are assigned appropriate expiration or retest dates. The review should also determine whether incoming material controls are adequate to prevent use of unsuitable components, containers, and closures.
+
+• The chemical and microbiological quality control specifications you use to test and determine disposition of each incoming lot of components to evaluate whether they are suitable for use in manufacturing.
+
+    o An action plan and timelines for conducting full chemical and microbiological testing of retain samples to determine the quality of all batches of active ingredients used in the manufacture of drug products distributed to the United States within expiry as of the date of this letter.
+    o A summary of all results obtained from testing retain samples from each batch. If such testing reveals substandard quality drug substances, take rapid corrective actions, such as notifying customers and product recalls.
+
+• A description of how you will test each component lot for conformity with all appropriate specifications for identity, strength, quality, and purity. If you intend to accept any results from your supplier's certificate of analysis instead of testing each component lot for strength, quality, and purity, specify how you will robustly establish the reliability of your supplier's results through initial validation as well as periodic re-validation. In addition, include a commitment to always conduct at least one specific identity test for each incoming component lot.
+
+3. Your firm failed to establish laboratory controls that include scientifically sound and appropriate specifications, standards, sampling plans, and test procedures designed to assure that all components, drug product containers, closures, in-process materials, labeling, and drug products conform to appropriate standards of identity, strength, quality, and purity (21 CFR 211.160(b)).
+
+You lack scientific data to demonstrate that your growth promotion procedures and practices are  suitable and reliable for microbiological testing of your drug products.
+
+Specifically, you do not consistently perform growth promotion testing on the in-house media used for microbiological testing of your finished drug products and for water testing to ensure the media supports growth and acceptable recovery. As such, each batch of media you use for microbiological testing has not been adequately verified for growth promotion. You cannot ensure that, upon release, your drug products meet acceptable microbiological specifications.
+
+In your response, you stated a new growth efficiency test will be performed on the (b)(4) plates. You also committed to purchase (b)(4) plates from third parties for water quality testing.
+
+Your response was inadequate. Your response could not be fully evaluated because you did not provide sufficient details describing how growth promotion testing will be performed, or your interim corrective actions until the testing is complete. Your finn also failed to give information on the (b)(4) to be used for water quality testing.
+
+In response to this letter, provide the following:
+
+• A comprehensive review of your laboratory practices, procedures, methods, equipment, and analyst competencies. Based on this review, provide a detailed corrective action and preventive action (CAPA) plan to remedy your laboratory system. Your plan should include the process you will use to evaluate the effectiveness of the implemented CAPA plan.
+
+• Microbiological testing methods that conform to USP <61> and <62>, which are capable of recovering product bioburden and determining whether any microorganisms are objectionable relative to the product's intended use, route of administration, and patient (i.e., consumer) population.
+
+• A commitment to test each batch using qualified methods to ensure conformance to finished product specifications before final disposition decision.
+
+4. Failure to establish an adequate quality control unit and the responsibilities and procedures applicable to the quality control unit are not in writing and fully followed. (21 CFR 211.22(a) and 211.22(d)).
+
+Your quality unit (QU) failed to ensure that you have adequate procedures and did not provide adequate oversight of your manufacturing activities. For example: ·
+
+• You lack adequate control over the issuance, use, and reconciliation of manufacturing batch records and equipment maintenance sheets. Uncontrolled copies of manufacturing batch records and in-process control forms were pre-printed and kept in a room with unrestricted access.
+
+• Several test reports of your drug product assay were reviewed and the raw data for the standard curve could not be located. It was noted that scrap pieces of paper were used to record data which was later entered to calculate the (b)(4) concentration for the assay test.
+
+• Your firm failed to establish and follow procedures for calculating production yields.
+
+In your response, you stated" ... starting July 2019, relevant personnel will be handed just enough blank forms on a (b)(4) basis and they must account for the whereabouts of all blank forms at the (b)(4)." You stated that all documents will be archived and procedures will be drafted and/or updated to meet CGMP requirements.
+
+Your response is inadequate. You did not adequately address the impact of the lack of QU oversight on your distributed drug products. You failed to describe procedures to issue and maintain controlled documents and whether your QU will have control of the pre-printed documents prior to distribution. Your response did not give sufficient details of the new documentation archival system and if it will be proceduralized. There was no explanation how analysts will be trained to use laboratory notebooks and adhere to good documentation practices.
+
+In response to this letter, provide a comprehensive assessment with your planned CAPA(s) to ensure yow· QU is given the authority and resources to independently and effectively function.
+The assessment should also include, but not be limited to:
+
+• A determination of whether procedures used by your firm are robust and appropriate.
+
+• Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices.
+
+• A complete and final review of each batch and its related information before the QU disposition decision.
+
+• Oversight and approval of investigations and discharging all other QU duties to ensure the identity, strength, quality, and purity of all products.
+
+• A complete assessment of documentation systems used throughout your manufacturing and laboratory operations to determine where documentation practices are inadequate. Include a detailed CAPA plan that remedies documentation practices and ensures you retain complete and accurate records.
+
+• Provide a detailed description of the quantifiable standard of production. Provide evidence of a theoretical yield in batch record with defined upper and lower limits for production yields.
+
+Concerns Regarding Glycerin
+
+The drug products you manufacture contain glycerin as an ingredient. The use of glycerin contaminated with diethylene glycol (DEG) has resulted in various lethal poisoning incidents in humans worldwide.
+
+See FDA's guidance document, Testing of Glycerin for Diethylene Glycol, to help you meet CGMP requirements when distributing glycerin for use in drug products. including testing for DEG and recommendations for supply chain integrity, at https://www.fda.gov/media/71029/download.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements.
+
+Your use of a consultant does not relieve your firm' s obligation to comply with CGMP. Your firm's executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of these violations and for preventing their recurrence or the occurrence of other violations.
+
+FDA may withhold approval of requests for export certificates and approval of pending new drug applications or supplements listing your facility as a supplier or manufacturer until the above violations are corrected. We may re-inspect to verify that you have completed your corrective actions.
+
+FDA placed your firm on Import Alert 66-40 on January 21, 2020.
+
+Until you correct all violations completely and we confirm your compliance with CGMP, FDA may withhold approval of any new drug applications or supplements listing your firm as a drug manufacturer.
+
+Failure to correct these violations may also result in the FDA continuing to refuse admission of articles manufactured at Sunstar Guangzhou Ltd., Blk D, 5/F, 203 Conbo Avenue, Free Trade Zone, Guangzhou, Guangdong, into the United States under section 801(a)(3) of the FD&C Act, 21 U.S.C. 381 (a)(3). Articles under this authority may be subject to refusal of admission, in that the methods and controls used in their manufacture do not appear to conform to CGMP within the meaning of section 501(a)(2)(B) of the FD&C Act, 21 U.S.C. 351 (a)(2)(B).
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days. state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to CDER-OC-OMO-Communications@fda.hhs.gov or mail your reply to:
+
+W. DeVore Irick
+Compliance Officer
+U.S. Food and Drug Administration
+White Oak Building 51, Room 4235
+10903 New Hampshire Avenue
+Silver Spring, MD 20993
+USA
+
+Please identify your response with FEI 3009449945.
+
+Sincerely,
+
+/S/
+Francis Godwin
+Director
+Office of Manufac turing Quality
+Office of Compliance
+Center for Drug Evaluation and Research
+
+ 
+
+cc: (b)(6), Factory Manager

@@ -1,0 +1,210 @@
+Delivery Method: 
+        VIA Electronic Mail
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Wayne Wallace
+          
+
+                                
+  
+    Recipient Title
+              Owner
+          
+
+          
+            Walfer Corporation dba The Medicine Shoppe Pharmacy
+
+          
+                      3524 B Tamiami Trl
+Port Charlotte, FL 33952-8100
+United States
+          
+          
+            
+            
+
+     0703@medicineshoppe.com
+
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Office of Pharmaceutical Quality Operations, Division II
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+September 17, 2021
+
+Case # 611017
+
+WARNING LETTER
+
+Mr. Wallace:
+
+From March 9, 2020, to March 16, 2020, U.S. Food and Drug Administration (FDA) investigators inspected your facility, Walfer Corporation dba The Medicine Shoppe Pharmacy, located at 3524 B Tamiami Trl, Port Charlotte, Florida 33952. During the inspection, the investigators noted that drug products you produced failed to meet the conditions of section 503A of the Federal Food, Drug, and Cosmetic Act (FDCA) [21 U.S.C. § 353a] for exemption from certain provisions of the FDCA. In addition, the investigators noted serious deficiencies in your practices for producing drug products, which put patients at risk.
+
+FDA issued a Form FDA 483 to your firm on March 16, 2020. FDA acknowledges receipt of your facility’s response, dated April 6, 2020 and emails from your counsel on April 1 and 2, 2020. FDA also acknowledges your firm’s statement that “[t]he Pharmacy no longer produces sterile products.” FDA further acknowledges that on March 16, 2020, March 23, 2020, and April 6, 2020, your firm initiated recalls that together constituted all drug products produced by your firm within expiry. Based on this inspection, it appears that you produced drug products that violate the FDCA.
+
+A. Compounded Drug Products Under the FDCA
+
+Section 503A of the FDCA describes the conditions under which human drug products compounded by a licensed pharmacist in a State licensed pharmacy or a Federal facility, or a licensed physician, qualify for exemptions from three sections of the FDCA: compliance with current good manufacturing practice (CGMP) (section 501(a)(2)(B)); labeling with adequate directions for use (section 502(f)(1)); and FDA approval prior to marketing (section 505) [21 U.S.C. §§ 351(a)(2)(B), 352(f)(1) and 355(a)].1 Receipt of valid prescriptions for individually-identified patients is one of the conditions for the exemptions under section 503A.
+
+B. Failure to Meet the Conditions of Section 503A
+
+During the inspection, the FDA investigators noted that drug products produced by your firm failed to meet the conditions of section 503A. For example, the investigators noted that your firm did not receive valid prescriptions for individually-identified patients for a portion of the drug products you produced.
+
+Therefore, you compounded drug products that do not meet the conditions of section 503A and are not eligible for the exemptions in that section, including the FDA approval requirement of section 505 of the FDCA, the requirement under section 502(f)(1) of the FDCA that labeling bear adequate directions for use, and the requirement of compliance with CGMP under section 501(a)(2)(B) of the FDCA. In the remainder of this letter, we refer to your drug products that do not qualify for exemptions under section 503A as the “ineligible drug products.”
+
+Specific violations are described below.
+
+C. Violations of the FDCA
+
+Adulterated Drug Products
+
+The FDA investigators noted that drug products were prepared, packed, or held under insanitary conditions, whereby they may have become contaminated with filth or rendered injurious to health, causing your drug products to be adulterated under section 501(a)(2)(A) of the FDCA [21 U.S.C. § 351(a)(2)(A)]. For example, the investigators observed that:
+
+1. Vermin were present in your production area. Specifically, dead ants were observed on the floor of the unclassified general production area, and dead cockroaches were observed within a drawer adjacent to the (b)(4) hood where drug products were produced.
+
+2. Non-microbial contamination was present in your production area. Specifically, your firm’s (b)(4) hoods contained stained balances and one of the hoods contained stains within close proximity to the (b)(4) air filters.
+
+3. Your production area contained unsealed, loose ceiling tiles, including one cracked, and one stained ceiling tile.
+
+4. Your firm handled hazardous drug products without providing adequate containment, segregation, or cleaning of work surfaces and utensils to prevent cross-contamination.
+
+Furthermore, the manufacture of the ineligible drug products is subject to FDA’s CGMP regulations, Title 21, Code of Federal Regulations (CFR), parts 210 and 211. The FDA investigators observed significant CGMP violations at your facility, causing the ineligible drug products to be adulterated within the meaning of section 501(a)(2)(B) of the FDCA.
+The violations included, for example:
+
+1. Your firm failed to maintain the buildings used in the manufacture, processing, packing, or holding of a drug product in a clean and sanitary condition and to keep them free of infestation by rodents, birds, insects, and other vermin (21 CFR 211.56(a)).
+
+2. Your firm failed to clean, maintain, and, as appropriate for the nature of the drug, sanitize and/or sterilize equipment and utensils at appropriate intervals to prevent malfunctions or contamination that would alter the safety, identity, strength, quality, or purity of the drug product beyond the official or other established requirements (21 CFR 211.67(a)).
+
+It is a prohibited act under section 301(k) of the FDCA [21 U.S.C. § 331(k)] to do any act with respect to a drug, if such act is done while the drug is held for sale after shipment in interstate commerce and results in the drug being adulterated.
+
+Misbranded Drug Products
+
+The ineligible drug products you compounded are intended for conditions not amenable to self-diagnosis and treatment by individuals who are not medical practitioners; therefore, adequate directions for use cannot be written so that a layman can use these products safely for their intended uses. Consequently, their labeling fails to bear adequate directions for their intended uses.2 Accordingly, these ineligible drug products are misbranded under section 502(f)(1) of the FDCA. It is a prohibited act under section 301(k) of the FDCA to do any act with respect to a drug, if such act is done while the drug is held for sale after shipment in interstate commerce and results in the drug being misbranded.
+
+D. Corrective Actions
+
+We have reviewed your firm’s responses to the Form FDA 483. We acknowledge your recall of all drugs within expiry on March 16, 2020, March 23, 2020, and April 6, 2020. Regarding your responses related to the insanitary conditions, some of your corrective actions appear adequate; however, we cannot fully evaluate the adequacy of the following corrective actions described in your April 6, 2020 response because you did not provide sufficient information or supporting documentation:
+
+1. In your April 6, 2020 response to Observation 2 of the Form FDA 483, you stated that the “Pharmacy conducted a deep clean of all areas where vermin were observed …[and] brought in pest control services on 3/10/20, the day after the initial inspection.” Further, you stated that the “pest control company will continue to service the pharmacy (b)(4) for an indefinite period...” You provided two photos. However, you did not provide adequate information and documentation such as the cleaning schedule or the pest remediation actions for us to be able to fully evaluate your response.
+
+2. In your April 6, 2020 response to Observation 5 of the Form FDA 483, you state that you have removed the clutter from the (b)(4) hoods, will keep the area within and around the (b)(4) hoods clutter free, and will clean the area within and surrounding the (b)(4) hoods after every use. You also provided two photos. However, you did not provide adequate information and documentation, such as completed cleaning logs and revised cleaning procedures, for us to fully evaluate your proposed corrections.
+
+3. In your April 6, 2020 response to Observation 13 of the Form FDA 483, you state that you have replaced unsealed, cracked and stained ceiling tiles and will maintain all ceiling tiles in clean condition. However, you have not provided adequate information and documentation for us to fully evaluate your response. Additionally, one of the pictures provided in response to Observation 6 of the Form FDA 483 appears to show visible brown stain indicative of water damage on one of the ceiling tiles, still. We remain concerned about the potential impact of the visibly brown stained tiles and any water damage that could potentially cause mold growth and contamination in production areas.
+
+4. In your April 6, 2020 response to Observation 14 of the Form FDA 483, you stated that you have segregated all hazardous drug products and are working with a third-party vendor to develop procedures and to obtain a deactivation agent. However, you have not provided adequate information and documentation for us to fully evaluate your response, such as revised cleaning procedures.
+
+Please be aware that section 501(a)(2)(A) of the FDCA concerning insanitary conditions applies regardless of whether drug products you compound meet the conditions of section 503A, including the condition on receipt of a prescription for an identified individual patient prior to compounding and distributing drug.
+
+In addition, regarding observations related to the conditions of section 503A of the FDCA, you verbally stated that you will discontinue distributing drugs without patient-specific prescriptions, but we are unable to fully evaluate this corrective action due to lack of adequate supporting documentation.
+
+Should you continue to compound and distribute drug products that do not meet the conditions of section 503A, the compounding and distribution of such drugs would be subject to the new drug approval requirement, the requirement to label drug products with adequate directions for use, and the drug CGMP regulations. Before doing so, you must comply with the requirements of section 505 and 502(f)(1) and fully implement corrections that meet the minimum requirements of the CGMP regulations.3
+
+In addition to the issues discussed above, you should note that CGMP requires the implementation of quality oversight and controls over the manufacture of drugs, including the safety of raw materials, materials used in drug manufacturing, and finished drug products. See section 501 of the FDCA. If you choose to contract with a laboratory to perform some functions required by CGMP, it is essential that you select a qualified contractor and that you maintain sufficient oversight of the contractor’s operations to ensure that it is fully CGMP compliant. Regardless of whether you rely on a contract facility, you are responsible for assuring that drugs you produce are neither adulterated nor misbranded. [See 21 CFR 210.1(b), 21 CFR 200.10(b)]. FDA strongly recommends that if you decide to resume production of sterile drugs, your management first undertake a comprehensive assessment of operations, including facility design, procedures, personnel, processes, maintenance, materials, and systems. In particular, this review should assess your aseptic processing operations. A third-party consultant with relevant sterile drug manufacturing expertise should assist you in conducting this comprehensive evaluation.
+
+We also note that, during the inspection, the FDA investigators collected evidence indicating that, at least on some occasions, your firm compounded drug products that appear to be essentially copies of commercially available drug products (e.g., Oxycodone Hydrochloride 30mg capsules). For your awareness, we note that under section 503A of the FDCA, a drug product is not eligible for certain exemptions if it is prepared by a pharmacist or physician who compounds “regularly or inordinate amounts (as defined by the Secretary)” any drug products that are essentially copies of a commercially available drug product (section 503A(b)(1)(D) of the FDCA). The term “essentially a copy of a commercially available drug product” does not include a drug product in which there is a change, made for an identified individual patient, which produces for that patient a significant difference, as determined by the prescribing practitioner, between the compounded drug and the comparable commercially available drug product (section 503A(b)(2) of the FDCA).4
+
+E. Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive statement of violations at your facility. You are responsible for investigating and determining the causes of the violations identified above and for preventing their recurrence or the occurrence of other violations. It is your responsibility to ensure that your firm complies with all requirements of federal law, including FDA regulations.
+
+You should take prompt action to correct the violations cited in this letter. Failure to adequately address this matter may result in legal action without further notice, including, without limitation, seizure and injunction.
+
+Within fifteen (15) working days of receipt of this letter, please notify this office in writing if you have taken any specific steps to correct the violations cited in this letter. If you intend to resume production of sterile drugs in the future, please include an explanation of each step being taken to provide sterility assurance, considering, in particular, the conditions that contributed to your recall of sterile drugs, as well as copies of related documentation. If you do not believe that the products discussed above violated the FDCA, include your reasoning and any supporting information for our consideration. In addition to taking appropriate corrective actions, you should notify this office fifteen (15) working days prior to resuming production of any sterile drugs in the future.
+
+Your written notification should refer to the Warning Letter Number above (Case # 611017). Please electronically submit your signed reply on your firm’s letterhead to CDR John W. Diehl, M.S., Director, Compliance Branch, at john.diehl@fda.hhs.gov and orapharm2_responses@fda.hhs.gov.
+
+If you have questions regarding the contents of this letter, you may contact Mr. Thao Ta, Compliance Officer, via phone at 214-253-5217 or e-mail at thao.ta@fda.hhs.gov.
+
+Sincerely,
+/S/
+
+Tamala Bogan
+Acting Program Division Director
+Office of Pharmaceutical Quality Operations,
+Division II
+
+cc: Via Electronic Mail
+
+Jonathan Meltz, Esq.
+CHAPMAN LAW GROUP
+1001 Brickell Bay Dr., Suite 1714
+Miami, Florida 33131
+JMeltz@ChapmanLawGroup.com
+
+Michael C. Kaufmann, CEO
+Cardinal Health Company
+7000 Cardinal Place
+Dublin, Ohio 43017
+mike.kaufmann@cardinalhealth.com
+
+_____________________
+
+1 We remind you that there are conditions other than those discussed in this letter that must be satisfied to qualify for the exemptions in section 503A of the FDCA.
+
+2 Your ineligible drug products are not exempted from the requirements of section 502(f)(1) of the FDCA by regulations issued by the FDA (see, e.g., 21 CFR 201.115).
+
+3 In this letter we do not address whether your proposed corrective actions would resolve the CGMP violations noted above.
+
+4 See FDA’s guidance, Compounded Drug Products That Are Essentially Copies of a Commercially Available Drug Product Under Section 503A of the Federal Food, Drug, and Cosmetic Act (“503A copies guidance”), available at https://www.fda.gov/downloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/UCM510154.pdf.

@@ -1,0 +1,199 @@
+Delivery Method: 
+        Via Email
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Ketan C. Mehta
+          
+
+                                
+  
+    Recipient Title
+              Chief Executive Officer and Founder
+          
+
+          
+            NeilMed Pharmaceuticals Inc.
+
+          
+                      601 Aviation Blvd
+Santa Rosa, CA 95403
+United States
+          
+          
+            
+            
+
+     ketan@neilmed.com
+
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+           Division of Pharmaceutical Quality Operations IV
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+WARNING LETTER
+
+May 26, 2023
+
+Dear Dr. Mehta:
+
+The U.S. Food and Drug Administration inspected your drug manufacturing facility, NeilMed Pharmaceuticals Inc., FEI 3002998723, at 601 Aviation Boulevard, Santa Rosa, California from November 28 to December 2, 2022.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your response dated December 15, 2022, to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence.
+
+During our inspection, our investigator observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to conduct at least one test to verify the identity of each component of a drug product. Your firm also failed to validate and establish the reliability of your component supplier’s test analyses at appropriate intervals (21 CFR 211.84(d)(1) and 211.84(d)(2)).
+
+Your firm failed to adequately test incoming components used to manufacture over-the-counter (OTC) drug products. Glycerin, along with other high-risk components, requires identification testing per the United States Pharmacopeia (USP) to ensure that it meets safety limits for diethylene (DEG) or ethylene glycol (EG). Because you did not perform the identity testing on each shipment of each glycerin lot using the USP identification test method that detects these hazardous impurities, you failed to assure the acceptability of glycerin used to manufacture your drug products. Furthermore, your firm relied on the manufacturer’s certificate of analysis (COA) and released one lot of glycerin from an unqualified supplier to manufacture (b)(4) batches of Clear Canal.
+
+Both glycerin and propylene glycol are ingredients used in your drug products. DEG contamination in glycerin and propylene glycol has resulted in various lethal poisoning incidents in humans worldwide. As a drug manufacturer, you are responsible for performing specific identity tests for all incoming shipments of component lots prior to release for use in manufacturing.
+
+In your response, you commit to revise the material specifications for glycerin to include identity testing prior to release for drug product manufacturing. Your response is inadequate. You failed to perform identity testing on glycerin lots currently in your inventory. With respect to your glycerin-containing products, you have not addressed whether your evaluation will include all lots of glycerin for each drug product already released for distribution and within expiry. Without appropriate testing of components and ingredients, you cannot ensure the quality and safety of your drug products.
+
+See the FDA’s guidance document Testing of Glycerin, Propylene Glycol, Maltitol Solution, Hydrogenated Starch Hydrolysate, Sorbitol Solution, and Other High-Risk Drug Components for Diethylene Glycol and Ethylene Glycol, to help you meet the CGMP requirements when manufacturing drugs containing ingredients at risk for DEG or EG contamination, at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/testing-glycerin-propylene-glycol-maltitol-solution-hydrogenated-starch-hydrolysate-sorbitol.
+
+In response to this letter, provide:
+
+
+	A comprehensive, independent review of your material system to determine whether all suppliers of components, containers, and closures are each qualified and the materials are assigned appropriate expiration or retest dates. The review should also determine whether incoming material controls are adequate to prevent use of unsuitable components, containers, and closures.
+	The chemical and microbiological quality control specifications you use to test and release each incoming lot of components for use in manufacturing.
+	A description of how you will test each component lot for conformity with all appropriate specifications for identity, strength, quality, and purity. If you intend to accept any results from your supplier’s certificates of analysis (COA) instead of testing each component lot for strength, quality, and purity, specify how you will robustly establish the reliability of your supplier’s results through initial validation as well as periodic re-validation. In addition, include a commitment to always conduct at least one specific identity test for each incoming component lot. In the case of glycerin, we note that this includes the performance of parts A, B, and C of the United States Pharmacopeia (USP) monograph.
+	A summary of results obtained from testing all components to evaluate the reliability of the COA from each component manufacturer. Include your standard operating procedure (SOP) that describes this COA validation program.
+	A summary of your program for qualifying and overseeing contract facilities that test the drug products you manufacture.
+	Within 30 days, provide the results of tests for DEG and EG in retain samples of all glycerin lots used in production of your glycerin-containing drug products. Indicate whether DEG or EG are present in any glycerin lots used to manufacture your drug products, some of which are intended for use in pediatrics. In addition, perform expeditious testing of all lot retain samples of any other drug product ingredients used by your firm that are at risk for DEG or EG contamination.
+	Provide a full risk assessment for drug products that are within expiry which contain any ingredient at risk for DEG or EG contamination (including but not limited to glycerin). Take prompt and appropriate actions to determine the safety of all lots of the ingredient(s) and any related drug product that could contain DEG or EG, including customer notifications and product recalls for any contaminated lots. Identify additional appropriate corrective actions and preventive actions that secure supply chains in the future, including but not limited to ensuring that all incoming raw material lots are from fully qualified manufacturers and free from unsafe impurities. Detail these actions in your response to this letter.
+
+
+2. Your firm failed to clean, maintain, and, as appropriate for the nature of the drug, sanitize and/or sterilize equipment and utensils at appropriate intervals to prevent malfunctions or contamination that would alter the safety, identity, strength, quality, or purity of the drug product beyond the official or other established requirements (21 CFR 211.67(a)).
+
+You failed to adequately clean and maintain equipment used for manufacturing your drug products. For example, our investigator observed unidentified visible residues on direct product contact surfaces in (b)(4) non-dedicated mixing tanks labeled as “Cleaned” in (b)(4). Furthermore, you failed to maintain cleaning and usage logs for these non-dedicated mixing tanks.
+
+In addition, we note that you have reported multiple findings of objectionable microbial contamination in several of your finished drug products that were manufactured using non-dedicated mixing tanks in (b)(4). Your corrective actions and preventive action (CAPA) indicated that the probable root causes were inadequate cleaning of mixing tank closures and valves, as well as a lack of Quality Assurance (QA) oversight of these activities. However, it did not mention the failure of operations management to oversee daily cleaning activities are performed satisfactorily.
+
+In your response, you commit to revise cleaning procedures and mandate utilization of logbooks. Your response is inadequate. You do not provide a comprehensive assessment of your cleaning effectiveness in determining the identity of the residues, assess whether other manufacturing equipment had been improperly cleaned, and evaluate if any cross-contaminated products were released for distribution. Additionally, you do not commit to holistically review the scope and effectiveness of daily operations management and QA oversight activities.
+
+In response to this letter, provide the following:
+
+
+	A comprehensive, independent retrospective assessment of your cleaning effectiveness to evaluate the scope of cross-contamination hazards. Include the identity of residues, other manufacturing equipment that may have been improperly cleaned, and an assessment whether cross-contaminated products may have been released for distribution. The assessment should identify any inadequacies of cleaning procedures and practices, and encompass each piece of manufacturing equipment used to manufacture more than one product.
+	A CAPA plan, based on the comprehensive assessment of your cleaning program, that includes appropriate remediations to your cleaning processes and practices, timelines for completion, as well as a plan to implement routine, vigilant operations management, and QA oversight. Provide a detailed summary of vulnerabilities in your process for lifecycle management of equipment cleaning. Describe improvements to your cleaning program, including enhancements to cleaning effectiveness; improvements to ensure ongoing verification of proper cleaning and execution for all products and equipment; and all other needed remediations. Also describe how your cleaning validation studies will be updated based on your comprehensive assessment of the cleaning program.
+	A CAPA plan to implement routine oversight of facilities and equipment. This plan should ensure, among other things, prompt detection of equipment/facilities performance issues, effective execution of repairs, adherence to appropriate preventive maintenance schedules, timely technological upgrades to the equipment/facility infrastructure, and improved systems for ongoing management review.
+	A retrospective, independent review of water system failures, batch failures, rejected batches, returned drug products, complaints, and deviations that may have been related to microbiological contamination over the last three years.
+
+
+Additional Concerns Related to Investigation of OOS Bioburden Test Results
+
+During our review, we noticed deficiencies in your investigation for out-of-specification (OOS) bioburden results involving Burkholderia cepacia complex (BCC), or yeast and mold in your finished drug products.
+
+For example, from February 2020 to September 2020, your firm recovered OOS results for BCC or, yeast and mold in multiple finished drug product batches that were manufactured using non-dedicated equipment in (b)(4). Per your investigation, CAPA 20-005 was deemed effective and was subsequently closed on April 2, 2021, approximately eight months later. However, you did not extend the investigation to other potentially impacted drug product batches manufactured around the timeframe when objectionable microorganisms were recovered. You did not implement an effective and timely CAPA to prevent the recurrence of bioburden excursions.
+
+Although CAPA 20-005 identified a probable root cause, the scope of the investigation did not include all potentially affected drug product batches.
+
+For further information regarding the significance of BCC and other objectionable contamination of non-sterile, water-based drug products, see the FDA’s advisory notice posted on April 21, 2023, at https://www.fda.gov/drugs/drug-safety-and-availability/fda-advises-drug-manufacturers-burkholderia-cepacia-complex-poses-contamination-risk-non-sterile.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements. Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion 
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+Correct any violations promptly. Failure to promptly and adequately address this matter may result in regulatory or legal action without further notice including, without limitation, seizure and injunction. Unresolved violations may also prevent other Federal agencies from awarding contracts.
+
+Failure to address violations may also cause the FDA to withhold issuance of export certificates. The FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to address any violations.
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to ORAPHARM4_Responses@FDA.HHS.GOV or mail your reply to:
+
+CDR Steven E. Porter, Jr. Director,
+Director, Division of Pharmaceutical Quality Operations IV
+U.S. Food & Drug Administration
+19701 Fairchild Road
+Irvine, California 92612-2506
+
+Please identify your response with unique identifier 650263.
+
+If you have any further questions, please contact Compliance Officer Nayan J. Patel by email at Nayan.Patel1@FDA.HHS.GOV or by phone at (303) 236-3010. www.fda.gov
+ 
+
+Sincerely,
+
+/S/
+
+CDR Steven E. Porter, Jr.
+Program Division Director
+Division of Pharmaceutical Quality Operations IV
+
+CC: Jamal Azizi, Director of Quality (via e-mail jamal.azizi@neilmed.com)
+
+NeilMed Pharmaceuticals Inc.
+601 Aviation Blvd.
+Santa Rosa, CA 95403

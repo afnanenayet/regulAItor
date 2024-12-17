@@ -1,0 +1,261 @@
+Delivery Method: 
+        UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Medical Devices                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Richard McMahon
+          
+
+                                
+  
+    Recipient Title
+              Managing Director
+          
+
+          
+            Sunstar Americas, Inc.
+
+          
+                      301 E. Central Rd.
+Schaumburg, IL 60195
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Office of Medical Devices and Radiological Health Operations Div. 2 Central
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter # 614058
+
+December 21, 2021
+
+Dear Mr. McMahon:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug and medical device manufacturing facility, Sunstar Americas, Inc., FEI 1413787, at 301 E. Central Rd., Schaumburg, Illinois, from January 12 to February 18, 2021.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals and Quality System (QS) regulations for medical devices. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211) and Title 21 CFR, part 820, respectively.
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+Under section 201(h) of the FD&C Act, 21 U.S.C. § 321(h), G•U•M® HYDRAL™ OTC products are devices because they are intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease, or to affect the structure or any function of the body. The HYDRAL™ OTC products are intended for treatment of Xerostomia/dry mouth.
+
+This inspection also revealed that your devices are adulterated within the meaning of section 501(h) of the FD&C Act, 21 U.S.C. § 351(h) because the methods used in, or the facilities or controls used for, their manufacture, packing, storage, or installation are not in conformity with the current good manufacturing practice requirements of the Quality System regulation.
+
+We reviewed your March 11, 2021, response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence. Your response is inadequate because it did not provide sufficient detail or evidence of corrective actions to bring your operations into compliance with CGMP.
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+Drug CGMP Violations
+
+1. Your firm failed to establish adequate written procedures for production and process control designed to assure that the drug products you manufacture have the identity, strength, quality, and purity they purport or are represented to possess, and to follow all of its written production and process control procedures (21 CFR 211.100(a) and (b)).
+
+Our investigators documented deficiencies in the “(b)(4) system) validation protocol and deviations during its execution. For example:
+
+• Excursions in the performance parameters of your water system occurred while the system was being validated. For example, the (b)(4) concentration, which impacts the ability of the system to maintain microbiological control, was recorded at (b)(4) in the system storage tank. (b)(4) measurements were below the limit of (b)(4) for (b)(4) out of (b)(4) days in January 2018. These occurrences were not documented in the validation report as deviations and reviewed before you deemed the water system validated.
+
+• The water system validation study did not provide scientific data supporting the type and frequency of chemical sanitization performed in addition to the routine (b)(4) sanitization. Your protocol also lacked provisions for evaluating these parameters of your water system sanitization program. Your current practice is to conduct chemical sanitization (b)(4).
+
+• The protocol allowed for reduced sampling and testing if results were considered acceptable but you did not define what an acceptable standard would be. Although you had results as high as (b)(4) at your (b)(4), you still reduced sampling and testing to a (b)(4) frequency.
+
+You have not shown that your water system can consistently produce water suitable for drug manufacturing and meets, at a minimum, the USP purified water monograph and appropriate microbial limits.
+
+It is essential that you design your water system to ensure consistently high purity water that is suitable for its intended use. High bioburden or objectionable microbes in the water used as an ingredient in your drugs may pose significant risk to consumers.
+
+In your response, you committed to reassessing your water system followed by revalidation. You also committed to conducting a gap assessment of your validation program and performing comprehensive CGMP and quality systems training for all personnel.
+
+In response to this letter provide:
+
+• A comprehensive independent assessment of your water system design, control, and maintenance, and corresponding corrective actions and preventative actions (CAPA).
+
+• A thorough remediation plan to install and operate a suitable water system. Include a robust ongoing control, maintenance, and monitoring program to ensure the remediated system design or new system consistently produces water adhering to (b)(4) Water, USP monograph specifications and appropriate microbial limits (total counts, objectionable microbes).
+
+• Regarding the latter, ensure that your total microbial count limit for water is appropriate in view of the intended use of the products produced by your firm.
+
+2. Your firm failed to thoroughly investigate any unexplained discrepancy or failure of a batch or any of its components to meet any of its specifications, whether or not the batch has already been distributed (21 CFR 211.192).
+
+Your water system was subject to microbiological contamination and numerous deviations from operating parameters since validation. Many of these deviations were either not investigated or did not result in implementation of CAPA.
+
+• No investigations were conducted in response to identification of Burkholderia contaminans in seven samples taken from your water system ports (b)(4), and (b)(4), between January 1, 2020, and June 30, 2020. Burkholderia contaminans was not identified as an objectionable organism in your procedures or your (b)(4) water specifications. The presence of objectionable microorganisms in your (b)(4) water system can adversely affect the quality of your drug products.
+
+• You opened a CAPA during the validation of your water system due to findings of Burkholderia cepacia in three samples collected at ports (b)(4) and (b)(4). These ports supply water for manufacturing. The CAPA investigation identified a possible root cause of a “(b)(4)” from the (b)(4) supply port to the (b)(4) sample port and your firm proposed (b)(4). However, the CAPA was closed approximately a year and a half later without addition of the filter or explanation why corrective action was not taken. You subsequently identified Burkholderia contaminans at port (b)(4) multiple times in 2020.
+
+• During the validation of your water system, a third-party service technician observed staining inside the water tank and noted you were investigating the cause. You lacked documentation of the cause or CAPA addressing the service technician’s finding.
+
+• Deviations in the (b)(4) sanitization process were not logged in accordance with your deviation procedure. We found a pattern of failure to conduct investigations or implement CAPA following deviations in the operating parameters during ozone sanitization when the minimum level of (b)(4) was not met in the storage tank, (b)(4), and loop supply.
+
+In your response, you committed to hire a third-party expert and to perform training on investigations. You also committed to performing a review of all CAPA, out-of-specification (OOS), out-of-trend (OOT), and invalidated quality control data initiated from January 1, 2019, to present. You also revised your purified water specifications to include Burkholderia cepacia complex (BCC) as an objectionable organism as of January 11, 2021.
+
+Your response is inadequate because you failed to accurately categorize some OOS and OOT results, deviations, and unexpected discrepancies.
+
+In response to this letter, provide:
+
+• A retrospective, independent review of all invalidated OOS (including in-process, release, and stability testing) results for US products irrespective of whether the batch was ultimately distributed in the US and a report summarizing the findings of the analysis, including the following for each OOS:
+  o Determine whether the scientific justification and evidence relating to the invalidated OOS result conclusively or inconclusively demonstrates causative laboratory error.
+  o For investigations that conclusively establish laboratory root cause, provide the rationale, and ensure that all other laboratory methods vulnerable to the same or similar root cause are identified for remediation.
+  o For all OOS results found by the retrospective review to have an inconclusive or no root cause identified in the laboratory, include a thorough review of production (e.g., batch manufacturing records, adequacy of the manufacturing steps, suitability of equipment/facilities, variability of raw materials, process capability, deviation history, complaint history, batch failure history). Provide a summary of potential manufacturing root causes for each investigation, and any manufacturing operation improvements.
+
+• A comprehensive retrospective review of all GMP documentation associated with distributed finished drug product batches that remain within expiry and the equipment and systems used in their manufacture to ensure all OOS results, OOT results, deviations, and unexpected discrepancies were categorized and appropriately investigated.
+
+• Explain whether you have reconsidered the sequence of the water system components in your current design. You currently have (b)(4) system although the latter represents the best means of microbial reduction.
+
+• A detailed risk assessment addressing the potential effects of the observed water system failures on the quality of all drug product lots currently in U.S. distribution or within expiry. Specify actions that you will take in response to the risk assessment, such as customer notifications and product recalls.
+
+• A detailed description of all CAPA that have been identified to address this violation, with timeframes for CAPA activities.
+
+3. Your firm failed to establish laboratory controls that include scientifically sound and appropriate specifications, standards, sampling plans, and test procedures designed to assure that components, drug product containers, closures, in-process materials, labeling, and drug products conform to appropriate standards of identity, strength, quality, and purity (21 CFR 211.160(b)).
+
+Before beginning distribution, you did not adequately study antimicrobial effectiveness in your finished drugs products to evaluate the ability of the preservative system to inhibit the growth of certain objectionable organisms including BCC.
+
+For example, (b)(4) studies for 0.12% chlorhexidine gluconate oral rinse (Paroex) using Burkholderia cepacia were not performed until July 2020. Notably, BCC was found to proliferate to excessive levels in your product over its shelf life for several batches including too numerous to count (TNTC) levels. Numerous lots of this product were recalled from the market because of excessive microbiological contamination. Paroex is produced by a contract manufacturer under your ANDA 076434.
+
+In your response, you committed to assessing your procedure titled “U.S. Regulatory Information Concerning SAI Products” to determine its adequacy in establishing and maintaining product-specific information and meeting regulatory requirements.
+
+You committed to adding BCC to microbiological tests for products manufactured at and for your firm. You also committed to developing and implementing a procedure to establish steps to follow when a new microorganism is identified in the manufacturing facility to ensure the adequacy of controls, including addressing potentially objectionable microorganisms.
+
+In response to this letter, describe how your product and process development programs will build quality into your products, including conducting appropriate studies to support each new product.
+
+4. Your firm failed to establish an adequate quality control unit with the responsibility and authority to approve or reject all components, drug product containers, closures, in-process materials, packaging materials, labeling, and drug products (21 CFR 211.22(a)).
+
+You did not adequately exercise your responsibility to ensure all drug products manufactured by and for your firm possessed appropriate quality attributes, antimicrobial properties, or preservative systems to ensure their microbiological quality and safety. For example, your non-sterile aqueous-based drug product specifications did not include Burkholderia cepacia.
+
+Your drugs are often used in hospitals or clinical settings in which patients may have a higher vulnerability to infection with Burkholderia cepacia and other objectionable organisms. Detecting numbers and types of objectionable microorganisms in your drug products is critical to making appropriate batch disposition decisions.
+
+The agreement between your firm and your contract manufacturer ((b)(4)) specifically identified your responsibilities with respect to the manufacture of your drug products. Your responsibilities include the provision of support regarding technical and regulatory issues to (b)(4) for the products’ manufacture. You are also responsible for overseeing the CGMP compliance of your contract manufacturer through mechanisms including the review of procedures and records associated with the manufacture of your products.
+
+Drugs must be manufactured in conformance with CGMP. FDA is aware that many drug manufacturers use independent contractors such as production facilities, testing laboratories, packagers, and labelers. FDA regards contractors as extensions of the manufacturer.
+
+We acknowledge that you initially recalled batches of Paroex bearing an expiration date from June 30, 2022, to September 30, 2022, because of the presence of objectionable microbiological contamination or substantial risk of contamination. We also acknowledge your expansion of the recall to include all potentially affected lots of Paroex following further discussions with FDA. We also acknowledge your subsequent recalls of Hydral Dry Mouth Relief, Butler Clear Dip, and Perioshield Oral Health Rinse, medical devices, because of potential contamination with objectionable organisms.
+
+You are responsible for the quality of your drugs regardless of whether you manufacture them, or a contract facility manufactures them for you on your behalf. You are required to ensure that drugs are made in accordance with section 501(a)(2)(B) of the FD&C Act to ensure safety, identity, strength, quality, and purity.
+
+In response to this letter, provide your updated procedures that ensure all activities performed by you and your contract manufacturers are adequate and approved by your quality unit.
+
+Medical Device Quality System Violations
+
+5. Your firm failed to adequately validate a process whose results cannot be fully verified by subsequent inspection and test through established procedures (21 CFR 820.75(a)).
+
+Refer above to the discussion of 21 CFR 211.100(a) and (b) violations.
+
+6. Your failed to adequately establish procedures for corrective and preventive action to include the documentation of such activities (21 CFR 820.100(a) & (b)).
+
+Refer above to the discussion of 21 CFR 211.192 violations.
+
+7. Failure to adequately establish schedules for the adjustment, cleaning, and other maintenance of equipment (21 CFR 820.70(g)).
+
+Specifically, the (b)(4) Sanitization system of the (b)(4) water system was not part of a maintenance schedule. The system included three gauges that measure the (b)(4) in the system to verify that the sanitization process and the storage tank control are acceptable. There was no documentation that gauges ((b)(4)) had been calibrated.
+
+8. Failure to adequately establish procedures for design input (21 CFR 820.30(c)).
+
+Specifically, the design for Hydral Spray failed to include Burkholderia cepacia as a challenge in (b)(4) although Burkholderia cepacia was included in the (b)(4) challenge for other products to include the (b)(4) toothpaste in June 2017. The risk management file of the Hydral Spray was not updated to include these objectionable organisms and any controls necessary to mitigate the risks as part of Hydral spray design verification and validation. The risk management file was updated on January 18, 2021, after the start of the FDA inspection.
+
+Quality Systems
+
+Your firm’s quality systems are inadequate. For guidance on establishing and maintaining CGMP-compliant quality systems, see FDA’s guidances: Q8(R2) Pharmaceutical Development at https://www.fda.gov/media/71535/download, Q9 Quality Risk Management at https://www.fda.gov/media/71543/download and Q10 Pharmaceutical Quality System at https://www.fda.gov/media/71553/download.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements. Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Objectionable Organisms
+
+For further information regarding the significance of Burkholderia cepacia complex and other objectionable contamination of non-sterile, water-based drug products, see FDA’s advisory notice posted on July 7, 2021, at https://www.fda.gov/Drugs/DrugSafety/ucm559508.htm.
+
+Drug Production Suspended
+
+We acknowledge your commitment to suspend production of drugs at this facility.
+
+If you plan to resume manufacturing drugs, notify this office before resuming your operations.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility and in connection with your products. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+Correct any violations promptly. Failure to promptly and adequately address this matter may result in regulatory or legal action without further notice including, without limitation, seizure, and injunction. Unresolved violations may also prevent other Federal agencies from awarding contracts. Additionally, should FDA determine that you have Quality System regulation violations that are reasonably related to premarket approval applications for Class III devices, such devices will not be approved until the violations have been corrected.
+
+Failure to address violations may also cause FDA to withhold issuance of Export Certificates. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to address any violations. Also, should FDA determine that your devices do not meet the requirements of the Act, requests for Certificates to Foreign Governments (CFG) may not be granted.
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Your written notification should refer to the Warning Letter Number above (614058). Please address your reply via email to: oradevices2firmresponse@fda.hhs.gov
+
+Attention: Rafael Padilla. Compliance Officer
+U.S. Food and Drug Administration
+Office of Medical Devices and Radiological Health Operations Div. 2 Central
+
+If you have questions regarding the contents of this letter, please contact Rafael Padilla at (312) 596-4212.
+
+Sincerely,
+/S/
+
+Blake Bevill, M.S.
+Program Division Director
+Office of Medical Devices and Radiological Health Operations Div. 2 Central
+
+Sincerely,
+/S/
+
+Jeffrey Meng
+Acting Program Division Director
+Division of Pharmaceutical Quality Operations Division III

@@ -1,0 +1,168 @@
+Delivery Method: 
+        VIA UNITED PARCEL SERVICE SIGNATURE REQUIRED
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+              Reference #: 
+        OBPO 23-631039
+      
+              Product: 
+        Biologics                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Neil H. Riordan, Ph.D.
+          
+
+                                
+  
+    Recipient Title
+              Chief Executive Officer
+          
+
+          
+            Signature Biologics, LLC
+
+          
+                      4040 W. Royal Lane, Suite 100
+Irving, TX 75063-2844
+United States
+          
+          
+            
+            
+
+     neil@aidanresearch.com
+
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+           Division of Biological Products Operations II
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter #OBPO 23-631039
+
+September 18, 2023
+
+Dear Dr. Riordan:
+
+During an inspection of your firm, Signature Biologics, LLC, located at 4040 W. Royal Lane, Suite 100, Irving, TX 75063, conducted between December 1, 2021, and December 16, 2021, the United States Food and Drug Administration (FDA) documented your manufacture of Signature Cord™, a product derived from human umbilical cord (“your product”) for allogeneic use.1 You have distributed Signature Cord™ directly to health care professionals and medical facilities for use in patients. Your product is intended for injection and purported to be sterile.
+
+Information and records gathered prior to, during and/or after the inspection reflect that your product is intended to treat diseases or conditions. Additionally, information collected indicates that your product fits within the definition of a biological product in the Public Health Service Act (PHS Act) [42 U.S.C. 262(i)]. Therefore, your product is a drug as defined in section 201(g) of the Federal Food, Drug, and Cosmetic Act (the FD&C Act) [21 U.S.C. 321(g)] and biological product as defined in section 351(i) of the PHS Act [42 U.S.C. 262(i)].
+
+Your product is also a human cell, tissue, or cellular or tissue-based product (HCT/P) as defined in 21 CFR 1271.3(d) and is subject to regulation under 21 CFR Part 1271, issued under authority of section 361 of the PHS Act [42 U.S.C. 264]. HCT/Ps that do not meet all the criteria in 21 CFR 1271.10(a), and when no exception in 21 CFR 1271.15 applies, are not regulated solely under section 361 of the PHS Act [42 U.S.C. 264] and the regulations in 21 CFR Part 1271. Such products are regulated as drugs, devices, and/or biological products under the FD&C Act and/or the PHS Act, and are subject to additional regulation, including appropriate premarket review.
+
+Based on a review of the materials described above, Signature Biologics, LLC does not qualify for any exception in 21 CFR 1271.15, and Signature Cord™ fails to meet all the criteria in 21 CFR 1271.10(a). Therefore, your product is not regulated solely under section 361 of the PHS Act [42 U.S.C. 264] and the regulations in 21 CFR Part 1271.
+
+Specifically, Signature Cord™ fails to meet the minimal manipulation criterion set forth in 21 CFR 1271.10(a)(1) and defined for structural tissue in 21 CFR 1271.3(f)(1), because your processing alters the original relevant characteristics of the umbilical cord related to its utility for reconstruction, repair, or replacement.2
+
+Please be advised that to lawfully market a drug that is a biological product, a valid biologics license must be in effect [42 U.S.C. 262(a)]. Such licenses are issued only after showing that the product is safe, pure, and potent. While in the development stage, such products may be distributed for clinical use in humans only if the sponsor has an investigational new drug application (IND) in effect as specified by FDA regulations [21 U.S.C. 355(i); 42 U.S.C. 262(a)(3); 21 CFR Part 312]. Your product is not the subject of an approved biologics license application (BLA), nor is there an IND in effect for your product. Based on this information, your actions have violated the FD&C Act and the PHS Act.
+
+Additionally, during the inspection, FDA investigators documented evidence of significant deviations from current good manufacturing practice (CGMP) requirements, including deviations from section 501(a)(2)(B) of the FD&C Act [21 U.S.C. 351(a)(2)(B)] and 21 CFR Parts 210 and 211.
+
+At the conclusion of the inspection, the FDA investigators issued a Form FDA-483, List of Inspectional Observations, which described significant CGMP deviations applicable to your product. FDA identified additional significant deviations upon further review of the information collected during the inspection, as discussed below. These CGMP deviations, involving over (b)(4) vials of your product manufactured and distributed between November 2018 and December 2021, include, but are not limited to, the following:
+
+1. Failure to establish and follow appropriate written procedures designed to prevent microbiological contamination of drug products purporting to be sterile [21 CFR 211.113(b)]. Your firm failed to adequately validate the aseptic processes used to manufacture your Signature Cord™ product in that the media fill batches used for your validation studies did not represent the maximum commercial batch size. For example, your validation studies entitled “Aseptic Processing Validation Report—Signature Cord” utilized a maximum of (b)(4) vials per batch. However, from November 2018 through February 2020, your firm manufactured (b)(4) commercial batches of Signature Cord™ with (b)(4) vials.
+
+2. Failure to have an adequate system for monitoring environmental conditions in an aseptic processing area [21 CFR 211.42(c)(10)(iv)]. Your firm has not established an adequate system for environmental monitoring in the aseptic processing areas where your products are manufactured. For example:
+
+a. You have not performed microbiological monitoring of viable air in the ISO 7 supporting cleanrooms in association with each production run.
+
+b. Your environmental monitoring procedure describes the following as acceptable results for microbiological monitoring: (b)(4) colony forming units (CFUs) for surfaces within the ISO 7 supporting cleanrooms, (b)(4) CFUs for settling plate samples within the ISO 7 supporting cleanrooms, (b)(4) CFUs for personnel glove samples within the ISO 7 supporting cleanrooms, and (b)(4) CFUs for personnel garment samples within the ISO 7 supporting cleanrooms. Your allowance for such high numbers of microorganisms could contribute to product contamination and pose a potentially significant safety concern.
+
+3. Laboratory controls do not include the establishment of scientifically sound and appropriate specifications designed to assure that the drug products conform to appropriate standards of identity, strength, quality, and purity [21 CFR 211.160(b)]. For example, at the time of the inspection, your finished product testing was limited to sterility testing as a measurement of product attributes.
+
+4. Each of batch of drug product purporting to be pyrogen-free is not laboratory tested to determine conformance to such requirements [21 CFR 211.167(a)]. For example, your firm failed to perform endotoxin testing as a release criterion on (b)(4) units of Signature Cord™ product manufactured and distributed by your firm since November 2018. By the nature of the route of administration, your product is purported to be pyrogen-free and is expected to be pyrogen-free.
+
+5. Failure to establish written procedures for production and process controls designed to assure that the drug products have the identity, strength, quality, and purity they purport or are represented to possess [21 CFR 211.100(a)]. For example, the manufacturing process for your product has not been validated.
+
+6. Failure to have an adequate system for cleaning and disinfecting the room and equipment to produce aseptic conditions [21 CFR 211.42(c)(10)(v)]. For example, at the time of the inspection, you had not validated your process for cleaning and disinfecting the Biological Safety Cabinets (BSCs) and supporting cleanrooms where your product was manufactured.
+
+7. Failure to establish a written testing program designed to assess the stability characteristics of drug products and to use results of such stability testing to determine appropriate storage conditions and expiration dates [21 CFR 211.166(a)]. Specifically, you assigned a two-year expiration date to your product without supporting data.
+
+FDA received your written responses dated January 10, 2022, March 1, 2022, April 1, 2022, May 24, 2022, June 30, 2022, August 31, 2022, and November 2, 2022, to the inspectional observations on the Form FDA-483. The corrective actions described in your responses are not adequate to address the above-referenced deficiencies. We note that certain corrective actions cannot be evaluated because they lack supporting documentation. In addition, your responses do not address your specific plans for disposition of the inventory of Signature Cord™ at your facility. Additionally, for your previously distributed product, you do not describe actions you have taken or plan to take that adequately address the impact of the above-noted deficiencies on your distributed product that carries a two-year shelf life and was manufactured under the above-described conditions.
+
+We acknowledge your commitment to voluntarily suspend the manufacture and distribution of Signature Cord™. However, your responses do not adequately address your failure to have an IND in effect to study your product addressed in this letter or your lack of an approved BLA to lawfully market your product. As noted above, to lawfully market a drug that is a biological product, a valid biologics license must be in effect [42 U.S.C. 262(a)]. Such licenses are issued only after showing that the product is safe, pure, and potent. While in the development stage, such a product may be distributed for clinical use in humans only if the sponsor has an IND in effect for that product, as specified by FDA regulations, that covers such clinical use [21 U.S.C. 355(i); 42 U.S.C. 262(a)(3); 21 CFR Part 312].
+
+Neither this letter nor the observations noted on the Form FDA-483, which were discussed with your firm at the conclusion of the inspection, are intended to be an all-inclusive list of deficiencies associated with your products. It is your responsibility to ensure full compliance with the FD&C Act, PHS Act, and all applicable regulations.
+
+This letter notifies you of our findings and provides you an opportunity to address them. Failure to adequately address these matters may lead to regulatory action without further notice. Such actions include seizure and/or injunction.
+
+For further information about IND requirements for biological products, please contact the Center for Biologics Evaluation and Research (CBER), Division of Regulatory Project Management, Office of Therapeutic Products, at (240) 402-8190, or OTPRPMS@fda.hhs.gov. Please include a copy of this letter with your initial submission to CBER.
+
+We request that you respond in writing within fifteen (15) working days from your receipt of this letter, outlining the specific steps you have taken or plan to take to address any violations and prevent their recurrence. Include any documentation necessary to show that the matters have been addressed. If you do not believe your products are in violation of the FD&C Act, PHS Act, or applicable regulations, include your reasoning and any supporting information for our consideration. If you cannot address these matters completely within fifteen (15) working days, please explain the reason for your delay and the time frame for completion.
+
+Your response to this letter should be sent to the following address: Young Mi Yoon, Compliance Officer, U.S. Food & Drug Administration, Office of Biological Products Operations – Division 2, 222 W. 7th Avenue, #25, Room 122, Anchorage, AK 99513 or emailed to YoungMi.Yoon@fda.hhs.gov. If you should have any questions, please contact Young Mi Yoon, Compliance Officer at (907) 271-1242 x 104 or via e-mail.
+
+Sincerely,
+/S/
+
+Karlton T. Watson
+Program Division Director
+Office of Biological Products Operations – Division 2
+
+
+Cc: Chloe R. Bailey, President and Chief Operating Officer
+Signature Biologics, LLC
+4040 W. Royal Lane, Suite 100
+Irving, TX 75063-2844
+
+_______________________
+
+1 During the December 2021 inspection, FDA also collected evidence that you have manufactured and marketed Signature MatrixTM and Signature MatrixHXTM, which are amniotic membrane derived products for allogeneic use. Your firm has represented that it ceased manufacturing these products in (b)(4) and that it discontinued their manufacture and distribution as of (b)(4). It is therefore FDA’s understanding that any previously manufactured Signature MatrixTM and Signature MatrixHXTM products are no longer within expiry. Based on information and records gathered prior to, during and/or after the inspection, Signature MatrixTM and Signature MatrixHXTM are intended to treat diseases or conditions in humans and are more than minimally manipulated. We note that these amniotic membrane derived products must meet all the criteria at 21 CFR 1271.10(a), including the “minimal manipulation” criterion at 21 CFR 1271.10(a)(1), to be regulated solely under section 361 of the Public Health Service Act and the regulations in 21 CFR Part 1271.
+
+2 We also note that based on the information and records gathered prior to, during and/or after the inspection, Signature CordTM appears to be intended to treat orthopedic diseases and conditions, for example. Such uses are not considered homologous use of umbilical cord. Signature CordTM must meet all the criteria at 21 CFR 1271.10(a), including the homologous use only criterion at 21 CFR 1271.10(a)(2), to be regulated solely under section 361 of the PHS Act and the regulations in 21 CFR Part 1271.

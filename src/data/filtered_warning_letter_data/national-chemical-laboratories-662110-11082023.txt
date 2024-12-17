@@ -1,0 +1,202 @@
+Delivery Method: 
+        Certified Mail
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Harry Pollack
+          
+
+                                
+  
+    Recipient Title
+              President and CEO
+          
+
+          
+            National Chemical Laboratories
+
+          
+                      401 N. 10th Street
+Philadelphia, PA 19123-3803
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Office of Pharmaceutical Quality Operations
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter #662110
+
+November 8, 2023
+
+Dear Mr. Pollack:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, National Chemical Laboratories, FEI 1000071237, at 401 N. 10th Street, Philadelphia, from May 22 to 26, 2023.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your June 19, 2023, response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence.
+
+During our inspection, our investigator observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to validate and establish the reliability of your component supplier’s test analyses at appropriate intervals (21 CFR 211.84(d)(2)).
+
+Your firm manufactures over-the-counter (OTC) topical drug products, such as antibacterial hand sanitizers containing benzalkonium chloride (BZK). During the inspection, you were unable to provide documentation of your component testing of BZK, including identity. In lieu of testing, you provided your supplier’s certificate of analysis (COA) without establishing the reliability of your component supplier’s test analyses at appropriate intervals.
+
+Without adequate testing, you do not have scientific evidence that the components conform to appropriate specifications prior to use in the manufacture of your drug products.
+
+In your response you commit to creating a supplier qualification program. You also state that (b)(4) lots of your BZK material will be analyzed to confirm that the specification requirements are aligned with the supplier’s COA. Your response is inadequate. You fail to provide sufficient details describing your new supplier qualification program, including periodic re-validation. Also, you do not address retrospective identity testing to assess the quality of your components used in your OTC drug products that have been manufactured, distributed, and within expiry.
+
+In response to this letter, provide:
+
+
+	A description of how you will test each component lot for conformity with all appropriate specifications for identity, strength, quality, and purity. If you intend to accept any results from your supplier’s COA instead of testing each component lot for strength, quality, and purity, specify how you will robustly establish the reliability of your supplier’s results through initial validation as well as periodic re-validation. In addition, include a commitment to always conduct at least one specific identity test for each incoming component lot.
+	Your standard operating procedure that describes your COA validation program.
+	A summary of your program for qualifying and overseeing contract facilities that test the components you use to manufacture your drug products.
+
+
+2. Your firm’s quality control unit failed to exercise its responsibility to ensure drug products manufactured are in compliance with CGMP, and meet established specifications for identity, strength, quality, and purity (21 CFR 211.22).
+
+Your quality unit (QU) did not provide adequate oversight for the manufacture of your drug products. For example, your QU failed to ensure the following:
+
+
+	Appropriate production and process controls designed to assure drug products manufactured have the identity, strength, quality, and purity purported or represented to possess (21 CFR 211.100(a)).
+	Establishment of an adequate ongoing stability program (21 CFR 211.166(a)).
+	Establishment of adequate procedures describing out-of-specifications, deviations, manufacturing equipment cleaning, process validation, and pest control (21 CFR 211.22(d)).
+	Appropriate validation and approved written procedures for cleaning and maintenance of non-dedicated manufacturing equipment (21 CFR 211.67(b)).
+
+
+In your response, you state that you are in the process of implementing procedures to ensure quality control over your processes. You also state that you would perform training for employees. Your response is inadequate. You do not adequately detail how your quality function plans to improve its oversight of manufacturing quality. You also fail to assess the impact that your insufficient QU oversight had on product quality. Further, your cleaning validation does not include the testing of product residues or justification for the selection of swabbing locations.
+
+Your inspectional history indicates that your QU is not able to fully exercise its authority and/or responsibilities. Your firm must provide the QU with the appropriate authority and sufficient resources to carry out its responsibilities and consistently ensure drug quality. See FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations for help implementing quality systems and risk management approaches to meet the requirements of CGMP regulations 21 CFR, parts 210 and 211 at https://www.fda.gov/media/71023/download.
+
+In response to this letter, provide:
+
+
+	A comprehensive assessment and remediation plan to ensure your QU is given the authority and resources to effectively function. The assessment should also include, but not be limited to:
+
+
+    o A determination of whether procedures used by your firm are robust and appropriate
+    o Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices
+    o A complete and final review of each batch and its related information before the QU disposition decision
+    o Oversight and approval of investigations and discharging of all other QU duties to ensure identity, strength, quality, and purity of all products
+
+
+	A comprehensive, independent assessment and corrective action and preventive action (CAPA) plan to ensure the adequacy of your stability program. Your remediated program should include, but not be limited to:
+
+
+    o Stability-indicating methods
+    o Stability studies for each drug product in its marketed container-closure system before distribution is permitted
+    o An ongoing program in which representative batches of each product are added each year to the program to determine if the shelf-life claim remains valid
+    o Detailed definition of the specific attributes to be tested at each station (timepoint)
+    o All procedures that describe these and other elements of your remediated stability program
+
+
+	A timeline for performing appropriate process performance qualification for each of your marketed drug products.
+	Appropriate improvements to your cleaning validation program, with special emphasis on incorporating conditions identified as worst case in your drug manufacturing operation. This should include, but not be limited to, identification and evaluation of all worst-case:
+
+
+    o Drugs with higher toxicities
+    o Drugs with higher drug potencies
+    o Drugs of lower solubility in their cleaning solvents
+    o Drugs with characteristics that make them difficult to clean
+    o Swabbing locations for areas that are most difficult to clean
+    o Maximum hold times before cleaning
+
+Repeat Observations at Facility
+
+In a previous inspection ending on November 4, 2021, FDA cited similar CGMP observations. You proposed specific remediation for these observations in your response. Our current inspection identified multiple failures to implement your specific corrective actions. These repeated failures demonstrate that executive management oversight and control over the manufacture of drugs is inadequate. Explain how you intend to assure your commitments are fulfilled and corrective actions are effective and sustainable.
+
+Drug Production Ceased
+
+We acknowledge your commitment to cease production of all drugs at this facility. In response to this letter, clarify whether you intend to resume manufacturing any drugs at this facility in the future. If you plan to resume any manufacturing operations regulated under the FD&C Act, notify this office before resuming your drug manufacturing operations.
+
+You are responsible for resolving all deficiencies and systemic flaws to ensure your firm is capable of ongoing CGMP compliance. Based upon the nature of the violations we identified at your firm, you should engage a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements before resuming drug manufacturing operations. The qualified consultant should also perform a comprehensive six-system audit1 of your entire operation for CGMP compliance and evaluate the completion and efficacy of all CAPAs before you pursue resolution of your firm’s compliance status per FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+Correct any violations promptly. Failure to promptly and adequately address this matter may result in regulatory or legal action without further notice including, without limitation, seizure, and injunction. Unresolved violations may also prevent other Federal agencies from awarding contracts.
+
+Failure to address violations may also cause FDA to withhold issuance of Export Certificates. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to address any violations.
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Please send your electronic reply to Yvette Johnson, Compliance Officer at Yvette.Johnson@fda.hhs.gov, ORAPHARM1_RESPONSES@fda.hhs.gov and CDER-OC-OMQ-Communications@fda.hhs.gov. Identify your response with FEI# 1000071237.
+
+Sincerely,
+/S/
+
+Lisa Harlan
+Program Division Director
+U.S. Food and Drug Administration
+OPQO Division I
+
+_____________________________
+
+1 i.e., Quality System, Facilities & Equipment System, Materials System, Production System, Packaging & Labeling System, and Laboratory Control System per FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations.

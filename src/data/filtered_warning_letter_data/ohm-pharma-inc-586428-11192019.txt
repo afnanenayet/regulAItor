@@ -1,0 +1,278 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Dietary SupplementsDrugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Robert Melo
+          
+
+                                
+  
+    Recipient Title
+              Owner and President
+          
+
+          
+            OHM Pharma, Inc.
+
+          
+                      2940 FM3028
+Mineral Wells, TX 76067
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Office of Pharmaceutical Quality
+        
+         
+          4040 N. Central Expressway, Suite 300
+Dallas, TX 75204
+United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+November 19, 2019
+
+Case #: 586428
+
+WARNING LETTER
+
+
+
+Mr. Melo:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, OHM Pharma, Inc., FEI 3003231743, at 2940 FM3028, Mineral Wells, from May 14 to 23, 2019.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See Title 21, Code of Federal Regulations (CFR), Parts 210 and 211 (21 CFR Parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+Also, based on the records collected during the inspection, we reviewed and identified serious violations of the Current Good Manufacturing Practice in Manufacturing, Packaging, Labeling, or Holding Operations for Dietary Supplements regulation, 21 CFR Part 111. These violations cause your dietary supplement products, including your Jambol Seed Syzygium Jambolanium and (b)(4) products, to be adulterated within the meaning of section 402(g)(1) of the FD&C Act, 21 U.S.C. 342(g)(1), in that the dietary supplements have been prepared, packed, or held under conditions that do not meet CGMP requirements for dietary supplements.
+
+Additionally, your Jambol Seed Syzygium Jambolanium and (b)(4) products are misbranded dietary supplements under section 403 of the FD&C Act, 21 U.S.C. 343, because they do not comply with the labeling requirements for dietary supplements as required by 21 CFR 101.
+
+We reviewed your June 13, 2019, response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence.
+
+During our inspection, our investigator observed specific violations including, but not limited to, the following.
+
+Drug CGMP Violations
+
+1. Your firm failed to maintain the buildings used in the manufacture, processing, packing, or holding of a drug product in a clean and sanitary condition (21 CFR 211.56(a)).
+
+You failed to adequately clean your facilities. Our investigator observed white residue in hallways and rooms within your production areas. These areas were identified as clean and were not in use at the time. The identity of the white powder residue was unknown.
+
+You use non-dedicated equipment and production areas to manufacture a wide variety of dietary supplements and drug products. Some of the latter are intended for infants and children. This is particularly significant because some of your products are produced from potentially toxic ingredients, such as boric acid. It is important that your facilities are well-designed, and subject to robust cleaning and maintenance procedures, to prevent cross-contamination.
+
+In your response, you stated that you intend to replace the curtains that separate the production rooms from the adjoining hallway. You stated that you would install doors and introduce negative pressure to the rooms. However, you did not address the adequacy of your cleaning procedures.
+
+In your response to this letter, provide:
+
+• A complete, independent evaluation of your overall cleaning program, including equipment and facilities (manufacturing rooms, hallways, etc.). Provide a comprehensive corrective action and preventive action (CAPA) plan that includes, but is not limited to:
+    o remediation of all deficiencies in cleaning procedures and current practices; and,
+    o specific details addressing how your firm will prevent visible residues from remaining on all surfaces, e.g. walls, floors, and preparation surfaces.
+
+• Appropriate improvements to your cleaning validation program, with special emphasis on incorporating conditions identified as worst case in your drug manufacturing operation. This should include but not be limited to identification and evaluation of all worst-case:
+    o products with higher toxicities;
+    o products with higher drug potencies;
+    o products of lower solubility in their cleaning solvents;
+    o products with characteristics that make them difficult to clean;
+    o swabbing locations for areas that are most difficult to clean; and,
+    o maximum hold times before cleaning.
+
+    In addition, describe the steps that must be taken in your change management system before introduction of new manufacturing equipment or a new product.
+
+• A summary of updated procedures that ensure an appropriate program is in place for verification and validation of cleaning procedures for products, processes, and equipment.
+• Your remediation plan to implement routine, vigilant operations management oversight of facilities and equipment. This plan should ensure, among other things, prompt detection of equipment/facilities performance issues, effective execution of repairs, adherence to appropriate preventive maintenance schedules, timely technological upgrades to the equipment/facility infrastructure, and improved systems for ongoing management review.
+
+2. Your firm failed to establish laboratory controls that include scientifically sound and appropriate specifications, standards, sampling plans, and test procedures designed to assure that components, drug product containers, closures, in-process materials, labeling, and drug products conform to appropriate standards of identity, strength, quality, and purity (21 CFR 211.160(b)).
+
+Your laboratory sampling plans and testing methods were not scientifically sound. You collected non-representative samples of your (b)(4) water system. Your procedures specified collecting samples from the (b)(4) of the (b)(4) water system. However, our inspection found that you used purified water stored in plastic containers held in ambient conditions for manufacturing. The sampling location should be the same as the point-of-use, and represent worst-case conditions. Note, however, that storing water in plastic containers for extended periods of time may also pose a significant hazard for microbial contamination
+
+Furthermore, your microbiological test methods used for testing water and/or finished products were deficient:
+
+• You lacked growth promotion testing for your microbiological media.
+• You lacked method suitability.
+• Your microbiological testing procedures lacked sufficient details to establish how many units in the finished product batch are to be used for microbiological testing.
+
+By using deficient microbiological testing practices, you may not know if your components and/or drug products contain objectionable microbiological contamination.
+
+In your response, you stated that you revised your procedures to include suitability of test media and that you will perform suitability tests (b)(4). Your response is inadequate because suitability testing should be performed on every lot of media, due to potential lot-to-lot variation in media preparation. Furthermore, your response was also inadequate because it did not address the effects of your deficient laboratory practices on drug products on the market within expiry.
+
+In your response to this letter, provide:
+
+• An independent assessment of all test methods used by your firm to ensure they have appropriate instructions, method suitability criteria, and appropriate validation (or verification, for USP compendial methods) to determine whether they are fit for their intended use.
+• Your plan of action to complete validation (or verification, for USP compendial methods) for all analytical test methods.
+• A comprehensive independent review of your entire laboratory system, and a CAPA plan that ensures full remediation of the laboratory operation. For example, the review of your laboratory system should include, but not be limited to, the suitability of all laboratory equipment and methods, a fully remediated calibration program, staff competencies, supervisory oversight, data systems, and other elements of laboratory control, such as sampling.
+• Details on whether you pool or mix the product to make the testing sample.
+
+3. Your firm failed to establish adequate written procedures for production and process control designed to assure that the drug products you manufacture have the identity, strength, quality, and purity they purport or are represented to possess, and your firm’s quality control unit did not review and approve those procedures, including any changes (21 CFR 211.100(a)).
+
+You did not validate your firm’s manufacturing processes and you were not able to provide any records that would support current production parameters for (b)(4) which is a drug product intended for teething infants.1
+
+Furthermore, your batch records were inadequate because they lack the specificity required to enable reproducibility. For example, your batch records were missing specific information regarding the execution of significant steps in manufacturing such as start/end of dry times.
+
+In your response, you stated that you have prepared the Master Validation Plan and started to collect samples for validating your processes. Your response is inadequate because you failed to provide a detailed process performance qualification protocol and a program for ensuring maintenance of a validated process throughout the product lifecycle for all of your drug products. You also stated that you have removed uncontrolled photocopies, purchased log books, and updated pellet and tincture batch records. Your response is inadequate because your revised batch records still lack sufficient details such as your pellet impregnation process. Furthermore, you did not address the effects of your lack of process validation on the products on the market within expiry.
+
+In response to this letter provide:
+
+• A validation plan for ensuring a state of control throughout the product lifecycle. Include a timeline for performing appropriate process performance qualification for each of your drug products. Describe your program for monitoring batch-to-batch variation to ensure an ongoing state of control.
+• An independent assessment of your batch records to assure adequate specificity and clarity to support consistent, reproducible drug product manufacturing.
+• A comprehensive assessment and remediation plan to ensure your quality unit (QU) is given the authority and resources to effectively function. The assessment should also include, but not be limited to:
+    o a determination of whether procedures used by your firm are robust and appropriate;
+    o provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices;
+    o a complete and final review of each batch and its related information before the QU disposition decision; and,
+    o oversight and approval of investigations and discharge of all other QU duties to ensure identity, strength, quality, and purity of all products.
+
+    Also describe how top management supports quality assurance and reliable operations, including but not limited to timely provision of resources to proactively address emerging manufacturing/quality issues and to assure a continuing state of control.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements.
+
+Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Quality Systems
+
+Your firm’s quality systems are inadequate. See FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations for help implementing quality systems and risk management approaches to meet the requirements of CGMP regulations 21 CFR, parts 210 and 211 at https://web.fda.gov/media/71023/download.
+
+Adulterated Dietary Supplements
+
+1. You failed to establish product specifications for each dietary supplement for the identity, purity, strength, and composition of the finished batch of a dietary supplement, as required by 21 CFR 111.70(e). For example, your finished product specifications provided in the Master Production Formula for your (b)(4) do not include specifications for identity, purity, strength, and composition.
+
+2. You failed to establish adequate identity specifications for your Syzygium Jambolanum (Jambul Powder) used in the manufacture of your Syzygium Jambolanum (Jambul Powder) Tincture, as required by 21 CFR 111.70(b)(1). Specifically, the (b)(4) identity specifications for your Syzygium Jambolanum (Jambul Powder) are inadequate because they do not include the expected numerical limits (Rf Factor) for gallic acid and cholesterol.
+
+3. You failed to ensure that the tests and examinations that you use to determine whether the specifications are met are appropriate, scientifically valid methods, as required by 21 CFR 111.75(h)(1). For example, during the production of Soothing Tablets (Powder) Lot (b)(4), you performed an identity test by (b)(4) by comparing the (b)(4) as your reference material. However, your standard reference material is inappropriate because it is a previous lot of product for which identity has not been confirmed. A previous lot is not an acceptable standard unless it is adequately confirmed through appropriate characterization to be acceptable as a reference standard using scientifically valid methods.
+
+4. Your master manufacturing record for your (b)(4) Lot (b)(4) failed to include all of the elements of a master manufacturing record, as required by 21 CFR 111.210. Specifically, your master manufacturing record does not include:
+
+• A cross-reference to procedures for test or examinations (21 CFR 111.210(h)(2)).
+• Corrective action plans for use when a specification is not met (21 CFR 111.210(h)(5)).
+
+5. Your batch production record for Syzgium Jambolanum Tincture Lot BS154-2 failed to include all of the elements of a batch production record, as required by 21 CFR 111.260. Specifically, your batch production record does not include the following required information:
+
+• Initials of the person responsible for weighing or measuring each component used in the batch (21 CFR 111.260(j)(2(i)).
+• Initials of the person responsible for verifying the weight or measure of each component used in the batch 21 CFR 111.260(j)(2)(ii).
+• Unique identifier that you assigned to packaging and labels used, and the quantity of labels used (21 CFR 111.260(k)(1)).
+
+6. Your quality control failed to reject the Syzygium Jambolanum (Jambul Powder) Lot (b)(4) that had an out-of-specification result for Total Aerobic Microbial Count (TAMC), as required by 21 CFR 111.113(b)(2). This component was subsequently used in the manufacture of your Syzygium Jambolanum (Jambul Powder) Tincture Lot BS154-2.
+
+7. Your quality control personnel approved and released for distribution a batch of dietary supplement that did not meet established product specifications in accordance with 21 CFR 111.70(e), as required by 21 CFR 111.123(b)(2). Specifically, you released into distribution your Syzygium Jambolanum (Jambul Powder) Tincture Lot BS154-2 that did not meet your established product specification for alcohol content. You established an alcohol content specification of (b)(4) however, this product tested on March 19, 2019, yielded an alcohol content of (b)(4)%.
+
+Misbranded Dietary Supplements
+
+1. Your Jambol Seed Syzygium Jambolanium Herbal Supplement product is misbranded within the meaning of section 403(y) of the FD&C Act, 21 U.S.C. 343(y), in that the label fails to bear a domestic address or domestic phone number through which the responsible person (as described in section 761) may receive a report of a serious adverse event with such a dietary supplement.
+
+2. Your (b)(4) and Jambol Seed Syzygium Jambolanum products are misbranded within the meaning of section 403(q)(5)(F) of the FD&C Act, 21 U.S.C. 343(q)(5)(F), in that the nutrition information is not in accordance with 21 CFR 101.36. For example:
+
+a) Your (b)(4), outer carton and inner bottle product labels, appear to be intended for 3m+ infants and children as implied by “3m+” and other text. However, each Supplement Facts label does not state this information. If a product is represented or purported to be for use by infants and children less than 4 years of age, the %Daily Value column heading must clearly state the intended group. (21 CFR 101.36(b)(2)(iii)(E)).
+
+b) The (b)(4) Supplement Facts labels for the bottle and carton each declare nutrition information per tablet and per serving. However, for the carton label, the per serving information column fails to be placed before the per unit information in accordance with 21 CFR 101.36(e)(9)(i). Likewise, for the bottle label, the linear presentation of the nutrition information declares “Amount Per Tablet/Serving” which is not consistent within the meaning of the regulation.
+
+c) The (b)(4) labels for the carton and bottle each display in the Supplement Facts label (b)(4)” as the quantitative amount of the proprietary blend per serving and per tablet. (b)(4)” is not a quantitative amount (i.e., a specific amount) as required for (b)(3)-dietary ingredients or for a proprietary blend of (b)(3)-dietary ingredients (21 CFR 101.36(c)(3)).
+
+d) The Jambol Seed Syzygium Jambolanum product’s Supplement Facts label fails to declare the standardized common name of Jambolan for the botanical Syzygium jambolana as noted in Herbs of Commerce, (21 CFR 101.4(h) and 101.36(b)(3)(i)).
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of these violations and for preventing their recurrence or the occurrence of other violations.
+
+We also have the following comments regarding your dietary supplement products:
+
+1. Please be advised of the requirement to establish and follow written procedures for the responsibilities of the quality control operations, including written procedures for conducting a material review and making a disposition decision, and for approving or rejecting any reprocessing in accordance with 21 CFR 111.103. Please also be advised that your written complaint procedure must be implemented in accordance with 21 CFR 111.560(c). This includes the requirement for quality control personnel’s review, including the findings and follow-up actions of any investigations performed, to extend to all relevant batches and records involved in the subject complaint.
+
+2. Powder was observed on the walls, plastic curtains, and hallways within your processing areas and the floors of areas that were not in use. Please be advised to maintain your physical plant in a clean and sanitary condition in accordance with 21 CFR 111.15(b)(1).
+
+In addition, your (b)(4) water system does not appear to be installed in a manner to not allow backflow from, or cross connection between, piping systems that discharge waste water or sewage and piping systems that carry water used for manufacturing dietary supplements, and for cleaning contact surfaces. It was observed the waste water line is (b)(4), and ultimate dispense for use.
+
+3. Your Jambol Seed Syzygium Jambolanum product’s net quantity of contents fails to be displayed in the bottom 30% of the principal display panel in accordance with 21 CFR 101.7(f).
+
+4. Your (b)(4) label for the bottle the end user accesses fails to place the FDA disclaimer statement set off in a box when it is not adjacent to the structure function claim(s) in accordance with 21 CFR 101.93(d).
+
+Correct the violations cited in this letter promptly. Failure to promptly correct these violations may result in legal action without further notice including, without limitation, seizure and injunction. Unresolved violations in this warning letter may also prevent other Federal agencies from awarding contracts.
+
+FDA may also withhold approval of requests for export certificates and approval of pending new drug applications or supplements listing your facility as a supplier or manufacturer until the above violations are corrected. We may re-inspect to verify that you have completed your corrective actions.
+
+Section 743 of the FD&C Act, 21 U.S.C. 379j-31, authorizes FDA to assess and collect fees to cover FDA’s costs for certain activities, including re-inspection related costs. A re-inspection is one or more inspections conducted subsequent to an inspection that identified noncompliance materially related to a food safety requirement of the FD&C Act, specifically to determine whether compliance has been achieved. Re-inspection related costs mean all expenses, including administrative expenses, incurred in connection with FDA’s arranging, conducting, and evaluating the results of the re-inspection and assessing and collecting the re-inspection fees (21 U.S.C. 379j-31(a)(2)(B)). For a domestic facility, FDA will assess and collect fees for re-inspection related costs from the responsible party for the domestic facility. The inspection noted in this letter identified non-compliance materially related to a food safety requirement of the FD&C Act. Accordingly, FDA may assess fees to cover any re-inspection related costs.
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Your written notification should refer to case # 586428.
+
+Please electronically submit your reply, on company letterhead, to Shawn Larson, Compliance Officer, at ORAPHARM2_RESPONSES@fda.hhs.gov. In addition, please submit a signed copy of your response to Shawn.Larson@fda.hhs.gov and CDR John Diehl - Director, Compliance Branch at John.Diehl@fda.hhs.gov.
+
+If you have questions regarding the contents of this letter, you may contact Shawn Larson via phone at 214-253-5216 or email at Shawn.Larson@fda.hhs.gov.
+
+Sincerely,
+/S/
+
+Monica R. Maxwell
+Program Division Director
+Office of Pharmaceutical Quality Operations, Division II
+
+CC:
+Megan Snyder, Manager
+Texas Department of State Health Services
+1100 West 49th Street
+Austin, Texas 78754
+
+____________________________________
+
+1 Your “(b)(4)” product is labeled as a dietary supplement, but is marketed for topical use. Under section 201(ff)(2)(A)(i) of the Act, 21 U.S.C. 321(ff)(2)(A)(i), a dietary supplement is defined, among other things, as a product intended for ingestion. Topical products are not dietary supplements. Your “(b)(4)” product marketed for infant teething is a drug under section 201(g)(1) of the Act and not a dietary supplement under section 201(ff) of the Act.

@@ -1,0 +1,201 @@
+Delivery Method: 
+        VIA UNITED PARCEL SERVICE
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Biologics                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Martin M. Porter
+          
+
+                                
+  
+    Recipient Title
+              Chief Operating Officer
+          
+
+          
+            Re-Gen Active Lab, Inc.
+
+          
+                      2216 W. Walnut Hill Lane
+Irving, TX 75038
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Office of Biological Products Operations – Division 2
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+WARNING LETTER
+
+May 27, 2022
+
+Warning Letter #OBPO 22-620763
+ 
+
+Dear Mr. Porter:
+
+During an inspection of your firm, Re-Gen Active Lab, Inc. (Re-Gen Active Lab), located at 2216 W. Walnut Hill Lane, Irving, TX 75038, conducted between July 19, 2021 and July 28, 2021, the United States Food and Drug Administration (FDA) documented your manufacture of cellular products for allogeneic use, namely, an amniotic membrane derived cellular product, ActiveFlow™, a human umbilical cord tissue derived cellular product, ActiveShot™, and a cellular product derived from both human umbilical cord tissue and amniotic membrane, ActivePro™ (collectively, “your products”). You have distributed your products directly to a third-party distributor, physicians, and medical clinics throughout the United States. These products are intended for injection and are purported to be sterile.
+
+Information and records gathered prior to, during, and/or after the inspection, including information on your website, regenactivelab.com, reflect your products are intended to treat various diseases or conditions. Therefore, your products are drugs as defined in section 201(g) of the Federal Food, Drug, and Cosmetic Act (FD&C Act) [21 U.S.C. 321(g)] and biological products as defined in section 351(i) of the Public Health Service Act (PHS Act) [42 U.S.C. 262(i)].
+
+Your products are also human cells, tissues, or cellular or tissue-based products (HCT/Ps) as defined in 21 CFR 1271.3(d) and are subject to regulation under 21 CFR Part 1271, issued under the authority of section 361 of the PHS Act [42 U.S.C. 264]. HCT/Ps that do not meet all the criteria in 21 CFR 1271.10(a), and when no exception in 21 CFR 1271.15 applies, are not regulated solely under section 361 of the PHS Act [42 U.S.C. 264] and the regulations in 21 CFR Part 1271. Such products are regulated as drugs, devices, and/or biological products under the FD&C Act and/or the PHS Act, and are subject to additional regulation, including appropriate premarket review.
+
+Re-Gen Active Lab does not qualify for any exception in 21 CFR 1271.15, and your HCT/Ps derived from umbilical cord and/or amniotic membrane fail to meet all the criteria in 21 CFR 1271.10(a). Therefore, your products are not regulated solely under section 361 of the PHS Act [42 U.S.C. 264] and the regulations in 21 CFR Part 1271.
+
+Specifically, your products fail to meet the criterion in 21 CFR 1271.10(a)(2) that the HCT/Ps be “intended for homologous use only, as reflected by the labeling, advertising, or other indications of the manufacturer’s objective intent.” Your products are not intended to perform the same basic function or functions of umbilical cord or amniotic membrane in the recipient as in the donor, such as serving as a conduit (for umbilical cord); or serving as a selective barrier for the movement of nutrients between the external and in utero environment, protecting the fetus from the surrounding maternal environment, and serving as a covering to enclose the fetus and retain fluid in utero (for amniotic membrane). Using your products for orthopedic diseases or conditions, for example, is not homologous use as defined in 21 CFR 1271.3(c).
+
+In addition, your products fail to meet other criteria set forth in 21 CFR 1271.10(a). Your products derived from umbilical cord (ActiveShotTM), amniotic membrane (ActiveFlowTM), and both umbilical cord and amniotic membrane (ActiveProTM) fail to meet the minimal manipulation criterion set forth in 21 CFR 1271.10(a)(1) and defined for structural tissue in 21 CFR 1271.3(f)(1), because your processing alters the original relevant characteristics of the umbilical cord and/or amniotic membrane related to their utility for reconstruction, repair, or replacement.
+
+Be advised that to lawfully market a drug that is a biological product, a valid biologics license application (BLA) must be in effect [42 U.S.C. 262(a)]. Such licenses are issued only after showing that the product is safe, pure, and potent. While in the development stage, such products may be distributed for clinical use in humans only if the sponsor has an investigational new drug application (IND) in effect as specified by FDA regulations [21 U.S.C. 355(i); 42 U.S.C. 262(a)(3); 21 CFR Part 312]. None of your products are the subject of an approved biologics license application (BLA) nor is there an IND in effect for any of them. Based on this information, your actions have violated the FD&C Act and the PHS Act.
+
+Additionally, during the inspection, FDA investigators documented evidence of significant deviations from current good manufacturing practice (CGMP) requirements, including deviations from section 501(a)(2)(B) of the FD&C Act and 21 CFR Parts 210 and 211.
+
+At the close of the inspection, FDA investigators issued a Form FDA-483, List of Inspectional Observations, which described significant deviations applicable to your products. FDA identified additional significant deviations upon further review of the information collected during the July 2021 inspection, as discussed below.
+
+The CGMP deviations, involving over (b)(4) vials of products manufactured between (b)(4), include, but are not limited to, the following:
+
+1. Failure to establish and follow appropriate written procedures designed to prevent microbiological contamination of drug products purporting to be sterile, including procedures for validation of the aseptic process [21 CFR 211.113(b)]. For example:
+
+a. You failed to validate the aseptic processes used to manufacture ActiveShot™, ActivePro™, and ActiveFlow™ (i.e., by performing media fill simulations) since product manufacturing began in (b)(4). Your products purport to be sterile and are expected to be sterile.
+
+b. At the time of the inspection, FDA investigators observed personnel practices that do not adequately protect against microbiological contamination of your products, including the use of non-sterile protective equipment (PPE) such as face masks, beard covers, foot covers, and hair nets, worn by your employees during the aseptic processing of your products.
+
+c. You have not established appropriate written procedures for environmental, including personnel, monitoring in the aseptic processing areas where your products are manufactured. Specifically:
+
+    i. You have not performed routine microbiological monitoring of the air, critical surfaces, and personnel in the aseptic processing area.
+    ii. You have not performed routine non-viable particulate monitoring of the critical area (i.e., inside the laminar flow hood (LFH) where your products are exposed to the environment).
+    iii. You have not performed non-viable particulate monitoring of the (b)(4) on a sufficient frequency to demonstrate control of the aseptic processing area during manufacturing. Additionally, you have not established alert or action limits for particulate monitoring of the (b)(4)1.
+
+2. Failure to routinely calibrate, inspect or check automatic, mechanical or electronic equipment or other types of equipment, including computers, or related systems that will perform a function satisfactorily, that are used in the manufacture, processing, packing and holding of a drug product, according to a written program designed to assure proper performance [21 CFR 211.68(a)]. Specifically, you have failed to routinely calibrate, inspect or check (e.g., certify) the LFH where your products are exposed to the environment during aseptic processing.
+
+3. Failure to establish and follow written procedures for cleaning and maintenance of equipment used in the manufacture, processing, packing, or holding of a drug product [21 CFR 211.67(b)].
+
+a. You have not validated your process for cleaning and disinfecting the LFH, the critical aseptic processing area where your products are manufactured.
+
+b. At the time of the inspection, your written procedure for the cleaning and disinfecting the LFH did not include a description in sufficient detail of the methods, equipment, and materials used in cleaning and maintenance operations. Specifically, the written procedure was found lacking adequate instructions, including information about cleaning agents that must be used, required contact times for disinfectants, and use of a sporicidal agent.
+
+4. Failure to establish written procedures describing in sufficient detail the cleaning methods, equipment, and materials to be used in cleaning the buildings and facilities [21 CFR 211.56(b)].
+
+a. You have not validated the process for cleaning and disinfecting your (b)(4).
+
+b. At the time of the inspection, your written procedure for cleaning and disinfection of (b)(4) was inadequate in that it did not include a description in sufficient detail of the cleaning schedules, methods, equipment, and materials to be used in cleaning the facility. Specifically, the written procedure lacked adequate instructions, including cleaning agents used, contact times for disinfectants, and use of a sporicidal agent.
+
+5. Failure to establish written procedures for production and process controls designed to assure that the drug products have the identity, strength, quality, and purity they purport or are represented to possess [21 CFR 211.100(a)]. For example:
+
+a. You have not validated the manufacturing processes for ActiveShot™, ActivePro™, and ActiveFlow™ with respect to identity, strength, quality, and purity.
+
+b. You have not established written procedures that describe the manufacture of ActivePro™, which was described to FDA investigators during the inspection as being manufactured from ActiveShot™ and ActiveFlow™ final bulk products. You also have not established written procedures that describe the manufacturing step involving controlled rate freezing of ActivePro™, ActiveShot™, and ActiveFlow™ in (b)(4).
+
+6. Failure to satisfy general biological products standards for sterility testing [21 CFR 610.12]. For example:
+
+a. You have not validated your in-house sterility test method used to demonstrate your method is capable of reliably and consistently detecting the presence of viable contaminating microorganisms in products. This also represents a failure to establish and document the accuracy, sensitivity, specificity, and reproducibility of test methods you employ, as required by 21 CFR 211.165(e).
+
+b. Your written procedure for sterility testing does not include details regarding the composition of the culture media to be used, growth-promotion test requirements, and the number and volume of articles to be tested.
+
+7. Failure to establish and follow written procedures describing in sufficient detail the receipt, identification, storage, handling, sampling, testing, approval or rejection of components and drug product containers and closures [21 CFR 211.80(a)]. Specifically, your firm lacks written procedures describing in sufficient detail the criteria for approval or rejection of incoming human umbilical cord tissue, amniotic membrane, other components, and drug product containers and closures.
+
+8. Failure to establish and follow a written testing program designed to assess the stability characteristics of drug products and to use the results of such stability testing to determine appropriate storage conditions and expiration dates [21 CFR 211.166(a)]. Specifically, you assign a two-year expiration date to your products without supporting data.
+
+9. Failure to prepare batch production and control records for each batch of drug product produced that include complete information relating to the production and control of each batch, including documentation that each significant step in the manufacture, processing, packing, or holding of the batch was accomplished [21 CFR 211.188(b)]. Specifically, your batch production records do not include documentation of the accomplishment of each significant step in the manufacture of your products or the person(s) performing each of those steps.
+
+We acknowledge receipt of your correspondence dated August 12, 2021, which provides a response to FDA’s inspectional observations (FDA-483) and describes certain corrective actions. We have reviewed your response and represented corrective actions and have found that they are inadequate. Your response does not include sufficient detail for FDA to fully assess the adequacy of your corrective actions; it lacks documentation to demonstrate that you have corrected your violations and fails to include a timeline for completion of all necessary corrective actions. For example, while you have represented that you have corrected various deficiencies (e.g., you represent that you have written environmental monitoring procedures), you have not provided documentation of your corrective actions for our review. FDA will need to verify and evaluate any corrective actions during a reinspection of your firm.
+
+Additionally, you stated during the inspection that you ceased manufacturing your products in October 2020 due to the COVID-19 pandemic. However, you have distributed your product after this date, most recently in July 2021. Your written response did not include a discussion about your plans to continue manufacturing your umbilical cord derived and/or amniotic membrane derived products.
+
+Your response also does not address the quantity of product inventory you may still have at your facility and your plans for its disposition. Furthermore, your response does not describe actions you have taken or plan to take to address the impact of the above-described CGMP deficiencies on your distributed products that carry a two-year shelf life and remain within expiry.
+
+Importantly, your response also does not adequately address your failure to have an IND in effect to study your products and your lack of an approved BLA to lawfully market your products. As noted above, in order to lawfully market a drug that is a biological product, a valid biologics license must be in effect [42 U.S.C. 262(a)]. Such licenses are issued only after showing that the product is safe, pure, and potent. While in the development stage, such products may be distributed for clinical use in humans only if the sponsor has an IND in effect as specified by FDA regulations [21 U.S.C. 355(i); 42 U.S.C. 262(a)(3); 21 CFR Part 312].
+
+Neither this letter nor the observations noted on the Form FDA 483, which were discussed with you at the conclusion of the inspection, are intended to be an all-inclusive list of deficiencies associated with your products. It is your responsibility to ensure that your establishment is in full compliance with the law.
+
+This letter notifies you of our findings and provides you an opportunity to address them. Failure to adequately address these matters may lead to regulatory action without further notice. Such actions include seizure and/or injunction.
+
+For further information about IND requirements for biological products, contact the Center for Biologics Evaluation and Research (CBER), Division of Regulatory Project Management, Office of Tissues and Advanced Therapies, at (240) 402-8190, or OTATRPMS@fda.hhs.gov. Please include a copy of this letter with your initial submission to CBER.
+
+We request that you respond in writing within fifteen (15) working days from your receipt of this letter, outlining the specific steps you have taken or plan to take to correct the noted violations, including an explanation of how you plan to prevent these violations, or similar violations, from occurring again. Include any documentation necessary to show that correction has been achieved. If you believe that your products are not in violation of the FD&C Act, the PHS Act, and applicable regulations, include your reasoning and any supporting information for our consideration. If you cannot complete all corrective actions within fifteen (15) working days, please explain the reason for your delay and the timeframe within which the remaining corrections will be completed.
+
+Your response should be sent to the following address: Young Mi Yoon, Compliance Officer, U.S. Food & Drug Administration, Office of Biological Product Operations – Division 2, 222 W. 7th Avenue, #25, Room 122, Anchorage, AK 99513 or emailed to YoungMi.Yoon@fda.hhs.gov. If you should have any questions, please contact Young Mi Yoon, Compliance Officer at (907) 271-1242 x 104 or via e-mail.
+
+Sincerely,
+/S/
+
+Karlton T. Watson
+Program Division Director
+Office of Biological Products Operations – Division 2
+
+Cc: Deepesh Shrestha, President/Chief Financial Officer
+Re-Gen Active Lab, Inc.
+2216 W. Walnut Hill Ln.
+Irving, TX 75038
+
+Cc: Sagar Nepal, Chief Scientific Officer
+Re-Gen Active Lab, Inc.
+2216 W. Walnut Hill Ln.
+Irving, TX 75038
+ 
+
+_____________________
+
+1 For additional information, we recommend that you review FDA Guidance for Industry, Sterile Drug Products Produced by Aseptic Processing – Current Good Manufacturing Practice, available at https://www.fda.gov/downloads/Drugs/Guidances/ucm070342.pdf. FDA’s guidance documents do not establish legal requirements.

@@ -1,0 +1,268 @@
+Delivery Method: 
+        Via Email
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Gavin Gear
+          
+
+                                
+  
+    Recipient Title
+              CEO
+          
+
+          
+            NDAL Mfg Inc.
+
+          
+                      80 Garden Court, Suite 100
+Monterey, CA 93940
+United States
+          
+          
+            
+            
+
+     gavin@ndalmfg.com
+
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Division of Pharmaceutical Quality Operations IV
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+WARNING LETTER
+
+March 28, 2022
+
+Dear Mr. Gear:
+
+The U.S. Food and Drug Administration inspected your facility, NDAL Mfg Inc., FEI 3011219618, at 80 Garden Court, Suite 100, Monterey, California 93940, from September 8 to 20, 2021.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21, Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+In addition, MANUKA HONEY ALLERCLEANSE Nasal Spray, MANUKA HONEY SINUS CLEANSER, and MANUKA HONEY EXTRA STRENGTH NASAL SPRAY ALLERCLEANSE are unapproved new drugs in violation of section 505(a) of the FD&C Act, 21 U.S.C. 355(a). Introduction or delivery for introduction of such products into interstate commerce is prohibited under sections 301(d) and (a) of the FD&C Act, 21 U.S.C. 331(d) and (a). These violations are described in more detail below.
+
+We reviewed your September 30, 2021, response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence.
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+CGMP Violations
+
+1. You firm’s quality control unit failed to exercise its responsibility to ensure drug products manufactured are in compliance with CGMP, and meet established specifications for identity, strength, quality, and purity (21 CFR 211.22).
+
+Your firm utilizes Contract Manufacturing Organizations (CMOs) to manufacture your drug products, and you provided at least one of them drug components for use in drug manufacturing. Additionally, an agreement with one of your contractors stipulated that you are responsible for drug product release to the market. Your firm did not have a quality unit (QU) and failed to have adequate procedures to ensure that all drug products produced for your firm possessed appropriate quality attributes. For example, you failed to establish procedures for the approval of components provided to your CMOs, for investigating out of specification (OOS) results, and for evaluation of customer complaints. Furthermore, you were unable to provide the specifications being used by your CMOs to release your drug products commercially.
+
+In your response, you stated that you intend to establish a QU, quality agreements with all your CMOs, and specifications. In addition, your firm hired a Quality Manager and employed the services of a third-party consultant.
+
+Your response is inadequate. You did not provide a detailed risk assessment addressing the potential effects of releasing drug product to the market without established specifications to ensure their identity, strength, quality, and purity. In addition, there was a lack of detail for qualifying and overseeing your CMOs to ensure adherence to CGMP regulations. Furthermore, you did not provide a comprehensive assessment and remediation plan of your firm’s quality systems for them to function effectively.
+
+Your firm’s quality system is inadequate. See FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations for help implementing quality systems and risk management approaches to meet the requirements of CGMP regulations 21 CFR, parts 210 and 211, at https://www.fda.gov/media/71023/download.
+
+In response to this letter, provide the following:
+
+• An independent, comprehensive assessment and remediation plan to ensure your QU is established with the authority and resources to effectively function. The assessment should also include, but not be limited to:
+  o A determination of whether procedures used by your firm are robust and appropriate.
+  o Provisions for QU oversight throughout your and your contract manufacturers operations to evaluate adherence to appropriate practices in functions that could affect drug quality.
+  o A complete and final review of each batch and its related information before the QU disposition decision.
+  o Oversight and approval of investigations and discharging of all other QU duties to ensure identity, strength, quality, and purity of all drug products.
+
+• A list of chemical and microbial test methods and specifications used to analyze each lot of your drug product before making a lot disposition decision, and the associated written procedures.
+
+• A detailed description of your procedures and processes for conducting audits of your CMOs to ensure that they operate in compliance with CGMP.
+
+• A detailed risk assessment to determine the impact of specifications for product released to the market. Specify actions you will take in response to the risk assessment, such as customer notifications and product recalls.
+
+2. Your firm failed to thoroughly investigate any unexplained discrepancy or failure of a batch or any of its components to meet any of its specifications, whether or not the batch has already been distributed (21 CFR 211.192).
+
+Your firm failed to perform a thorough investigation into the microbial contamination that occurred with ManukaGuard Allercleanse nasal spray lot 2010045, manufactured for your firm by your CMO, (b)(4). There is a lack of scientific justification to support your purported root causes. In addition, other potential root causes, such as components, equipment, or production environment, were not fully evaluated. Your firm was unable to provide an investigation from your CMO to determine potential microbial contamination in other drug products produced for your firm.
+
+In your response, you stated that you intend to prepare a written record of your firm’s investigation into the microbial contamination of ManukaGuard Allercleanse nasal spray lot 2010045. We acknowledge that your firm voluntarily recalled ManukaGuard Allercleanse nasal spray lot 2010045. You also shared your plan to establish written procedures for investigating failures.
+
+Your response is inadequate. You have not provided an adequate scientific justification that microbial contamination was limited to one lot. You failed to extend the investigation to other batches of the same drug product and to other drug products that may have been associated with the microbial contamination. In addition, you did not provide a retrospective and comprehensive review of complaints to determine if any other similar issues had occurred.
+
+In response to this letter, provide the following:
+
+• A comprehensive, independent assessment of your overall system for investigating deviations, discrepancies, complaints, OOS results, and failures. Provide a detailed action plan to remediate this system. Your action plan should include, but not be limited to, significant improvements in investigation competencies, scope determination, root cause evaluation, corrective and preventive actions (CAPA) effectiveness, quality unit oversight, and written procedures. Address how your firm will ensure all phases of investigations are appropriately conducted by your firm and your CMOs.
+
+• A thorough retrospective and comprehensive risk assessment of all CGMP documentation associated with distributed finished drug product lots currently in U.S. distribution or within expiry, to evaluate the potential for microbiological contamination and how it may have affected the product quality of your drugs.
+
+• A detailed remediation plan with timelines to address the findings of the risk assessment. Specify the actions you will take in response to the risk assessment, such as customer notifications and product recalls.
+
+• A plan to perform testing of retain samples for all batches of drug products manufactured by your CMOs within expiry.
+
+3. Your firm failed to assure that the drug product bore an expiration date that was supported by appropriate stability testing (21 CFR 211.137(a)).
+
+Your firm has not established an adequate stability program. You lack data to demonstrate that the chemical, physical, and microbiological properties of your OTC drug products will remain acceptable throughout their labeled three-year expiry period.
+
+During the inspection, when asked for stability data for your nasal spray products, you provided a report from an outside laboratory for one lot manufactured in 2016 that covered (b)(4) under accelerated conditions. Full shelf life studies were not conducted. Furthermore, the report does not contain predefined acceptance criteria, or a description of the container-closure system utilized, and the lot involved was not manufactured by your current CMO.
+
+In your response, you committed to establishing stability specifications for your drug products and initiating a full shelf life study to cover the three-year product shelf life.
+
+Your response is inadequate. You failed to provide stability protocols, including all relevant quality attributes and acceptance criteria, and you did not provide assurance that your test methods are stability indicating.
+
+In response to this letter, provide:
+
+• A comprehensive assessment of adequacy of product in market through shelf life for all lots of drug products manufactured by your CMOs that remain within expiry in the U.S. market.
+
+• A comprehensive independent assessment and CAPA plan to ensure the adequacy of your stability program. Your remediated program should include, but not be limited to:
+  o Stability indicating methods
+  o Stability studies for each drug product in its marketed container-closure system before distribution is permitted
+  o An ongoing program in which representative batches of each product are (b)(4) to the program to determine if the shelf life claim remains valid
+  o Detailed definition of the specific attributes to be tested at each station (timepoint)
+
+• All procedures that describe these and other elements of your remediated stability program
+
+Test Results Out-of-Specification
+
+For more information about handling failing, out-of-specification, out-of-trend, or other unexpected results and documentation of your investigations, see FDA’s guidance document Investigating Out-of-Specification (OOS) Test Results for Pharmaceutical Production at https://www.fda.gov/media/71001/download.
+
+Use of Contract Manufacturers
+
+Drugs must be manufactured in conformance with CGMP. The FDA is aware that many drug manufacturers use independent contractors, such as production facilities, testing laboratories, packagers, and labelers. The FDA regards contractors as extensions of the manufacturer.
+
+You are responsible for the quality of your drugs, regardless of agreements in place with your contract facilities. You are required to ensure that drugs are made in accordance with section 501(a)(2)(B) of the FD&C Act to ensure safety, identity, strength, quality, and purity. See FDA’s guidance document Contract Manufacturing Arrangements for Drugs: Quality Agreements at https://www.fda.gov/media/86193/download.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements. Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Unapproved New Drugs Violations
+
+Examples of claims observed on the MANUKA HONEY ALLERCLEANSE Nasal Spray, MANUKA HONEY SINUS CLEANSER, and MANUKA HONEY EXTRA STRENGTH NASAL SPRAY ALLERCLEANSE product labels and website that provide evidence of the intended use (as defined in 21 CFR 201.128) of the products include, but may not be limited to, the following:
+
+MANUKA HONEY ALLERCLEANSE Nasal Spray
+
+“Ingredients: Medical Grade Manuka Honey 12+ MGO 400…” [from your MANUKA HONEY ALLERCLEANSE Nasal Spray product label]
+
+“Medical grade Manuka Honey supports a strong immune system, reduces irritation in the throat and soothes coughs associated with hoarseness, dry throat, environmental contaminants.” [from your website https://www.manukaguard.com]
+
+“I was in the beginning of a sinus infection. I did not want to take antibiotics again. ONE USE after I bought it sitting in the store parking lot. I am 90% better now and slept like a baby last night.” [from your website https://www.manukaguard.com]
+
+“SUPPORTS CLEARING OF NASAL PASSAGES” [from your MANUKA HONEY ALLERCLEANSE Nasal Spray product label]
+
+“Breathe Easy” [from your MANUKA HONEY ALLERCLEANSE Nasal Spray product label]
+
+MANUKA HONEY SINUS CLEANSER
+
+“Ingredients: Medical Grade Manuka Honey 16+ MGO 600…” [from your MANUKA HONEY SINUS CLEANSER product label]
+
+“Medical grade Manuka Honey supports a strong immune system, reduces irritation in the throat and soothes coughs associated with hoarseness, dry throat, environmental contaminants.” [from your website https://www.manukaguard.com]
+
+“Ever since I use [sic] ManukaGuard Sinus Cleanser I am not picking up any of the viruses floating around during flu season.” [from your website https://www.manukaguard.com]
+
+“Breathe Easy” [from your MANUKA HONEY SINUS CLEANSER product label]
+
+MANUKA HONEY EXTRA STRENGTH NASAL SPRAY ALLERCLEANSE
+
+“Ingredients: Medical Grade Manuka Honey 16+ MGO 600…” [from your MANUKA HONEY EXTRA STRENGTH NASAL SPRAY product label]
+“Medical grade Manuka Honey supports a strong immune system, reduces irritation in the throat and soothes coughs associated with hoarseness, dry throat, environmental contaminants.” [from your website https://www.manukaguard.com]
+
+“After days i [sic] hardly have any post nasal drip for the first time in years.” [from your website https://www.manukaguard.com]
+
+“Breathe Easy” [from your MANUKA HONEY EXTRA STRENGTH NASAL SPRAY product label].
+
+Based on the products’ labeled intended uses, MANUKA HONEY ALLERCLEANSE Nasal Spray, MANUKA HONEY SINUS CLEANSER, and MANUKA HONEY EXTRA STRENGTH NASAL SPRAY ALLERCLEANSE, are “drugs” as defined by section 201(g)(1)(B) of the FD&C Act, 21 U.S.C. 321(g)(1)(B), because they are intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease and/or under section 201(g)(1)(C) of the FD&C Act, 21 U.S.C. 321(g)(1)(C), because they are intended to affect the structure or any function of the body.
+
+MANUKA HONEY ALLERCLEANSE Nasal Spray, MANUKA HONEY SINUS CLEANSER, and MANUKA HONEY EXTRA STRENGTH NASAL SPRAY ALLERCLEANSE are “new drugs” under section 201(p) of the FD&C Act, 21 U.S.C. 321(p), because they are not generally recognized as safe and effective for use under the conditions prescribed, recommended, or suggested in their labeling. Under section 505(a) of the FD&C Act, 21 U.S.C. 355(a), a new drug may not be introduced or delivered for introduction into interstate commerce without an approved application from FDA in effect. There are no FDA-approved applications in effect for MANUKA HONEY ALLERCLEANSE Nasal Spray, MANUKA HONEY SINUS CLEANSER, and MANUKA HONEY EXTRA STRENGTH NASAL SPRAY ALLERCLEANSE. Thus, the introduction or delivery for introduction into interstate commerce of these products violates sections 301(d) and 505(a) of the FD&C Act, 21 U.S.C. 331(d) and 355(a).
+
+Dietary Supplement Labeling
+
+Your ManukaGuard Throat Soother Manuka Honey (8.8 oz), ManukaGuard Immune Support Manuka Honey (8.8 oz), and ManukaGuard Gut Health Manuka Honey (8.8 oz) products are labeled as dietary supplements. However, statements such as “[t]hroat soother, alternative to lozenges,” and “take ½ Tsp sublingual” were found in the labeling of these products. Only products that are intended for ingestion may be lawfully marketed as dietary supplements under section 201(ff) of the FD&C Act.
+
+Drug Production Suspended
+
+We acknowledge your commitment to temporarily suspend production of drugs for the U.S. market.
+
+If you plan to resume production of drugs for the U.S. market, notify this office before resuming your operations.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility or in connection with your products. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+Correct the violations cited in this letter promptly. Failure to promptly and adequately address this matter may result in regulatory or legal action without further notice including, without limitation, seizure and injunction. Unresolved violations may also prevent other Federal agencies from awarding contracts.
+
+Failure to address violations may also cause the FDA to withhold issuance of Export Certificates. The FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to address any violations.
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+If you believe that your products are not in violation of the FD&C Act, include your reasoning and any supporting information for our consideration.
+
+Your response should refer to unique identifier CMS 621656 and be sent electronically to ORAPHARM4_Responses@fda.hhs.gov or mailed to:
+
+CDR Steven E. Porter, Jr.
+Director, Division of Pharmaceutical Quality Operations IV
+U.S. Food and Drug Administration
+19701 Fairchild Road
+Irvine, CA 92612
+
+If you have questions regarding the contents of this letter, please contact Jamie Dion, Compliance Officer via email at Jamie.Dion@fda.hhs.gov or telephone at 303-236-3133.
+
+Sincerely,
+/S/
+
+CDR Steven E. Porter
+Director, Division of Pharmaceutical Quality Operations IV

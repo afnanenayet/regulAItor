@@ -1,0 +1,251 @@
+Delivery Method: 
+        Via Email
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Sanjoy Banerjee
+          
+
+                                
+  
+    Recipient Title
+              Executive Chairman and CEO
+          
+
+          
+            Urban Electric Power
+
+          
+                      401 N Middletown Road, B155
+Pearl River, NY 10965
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+           Division of Pharmaceutical Quality Operations I
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter #635791
+
+December 27, 2022
+
+Dear Mr. Banerjee:
+
+Your facility was registered with the United States Food and Drug Administration (FDA or Agency) as a manufacturer of over-the-counter (OTC) drug products, including consumer antiseptic hand rub drug products (also referred to as consumer hand sanitizers) until October 24, 2022 and you distributed hand sanitizer drug products as recently as August 31, 2022. FDA conducted testing of your consumer hand sanitizer drug products1. These drug products were manufactured at your facility, Urban Electric Power, FEI 3016759092, located at 401 N Middletown Road, Bldg. 155, Pearl River.
+
+The results of the FDA laboratory testing of batches of these drug products demonstrate that these drug products manufactured at your facility are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (the FD&C Act) (21 U.S.C. 351(a)(2)(B))2, in that contamination with the impurities acetaldehyde and acetal at unacceptable levels demonstrates that the quality assurance within your facility is not functioning in accordance with Current Good Manufacturing Practice (CGMP) requirements.
+
+Additionally, FDA has reviewed your September 8, 2022 response to our information request letter dated July 28, 2022, which notified you of the adverse findings and requested clarification of your manufacturing operations, and acknowledge receipt of your subsequent correspondence. Because your methods, facilities, or controls for manufacturing, processing, packing, or holding of drugs as described in your response do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the FD&C Act (21 U.S.C. 351(a)(2)(B)).
+
+Adulteration Violations
+
+You manufactured ohm BY URBAN ELECTRIC POWER hand sanitizer and sanitizer spray at your facility. FDA collected (b)(4) batches of your drug products and FDA laboratory testing of your products found that all four batches of the drug products contained acetaldehyde and acetal impurities at unacceptable levels. See table below.
+
+
+	
+		
+			
+			Product Name
+			
+			
+			Test Results (ppm)
+			
+		
+		
+			
+			ohm BY URBAN ELECTRIC POWER, sanitizer spray, FRESH SCENT, 80% ALCOHOL BY VOLUME, 8 FL OZ (237ML), EXP. DATE: JULY 2023
+			
+			
+			Acetaldehyde
+			
+			
+			(b)(4)
+			
+		
+		
+			
+			Acetal
+			
+			
+			(b)(4)
+			
+		
+		
+			
+			ohm BY URBAN ELECTRIC POWER, hand sanitizer, 70% ALCOHOL BY VOLUME, GEL BASED, FRESH SCENT, 10 FL OZ (295ML), EXP. DATE: MAY 30, 2023
+			
+			
+			Acetaldehyde
+			
+			
+			(b)(4)
+			
+		
+		
+			
+			Acetal
+			
+			
+			(b)(4)
+			
+		
+		
+			
+			ohm BY URBAN ELECTRIC POWER, hand sanitizer, 70% ALCOHOL BY VOLUME, GEL BASED, FRESH SCENT, 10 FL OZ (295ML), EXP. DATE: JUNE 2023
+			
+			
+			Acetaldehyde
+			
+			
+			(b)(4)
+			
+		
+		
+			
+			Acetal
+			
+			
+			(b)(4)
+			
+		
+		
+			
+			ohm BY URBAN ELECTRIC POWER, hand sanitizer, 70% ALCOHOL BY VOLUME, GEL BASED, FRESH SCENT, 12 FL OZ (355ML), EXP. DATE: JUNE 2023
+			
+			
+			Acetaldehyde
+			
+			
+			(b)(4)
+			
+		
+		
+			
+			Acetal
+			
+			
+			(b)(4)
+			
+		
+	
+
+
+ 
+
+Acetaldehyde and acetal are known impurities of alcohol, as delineated in the United States Pharmacopeia (USP). The USP monograph for alcohol limits acetaldehyde and acetal to not more than (NMT) 10μL/L, 10 ppm (expressed as acetaldehyde). Alcohol not meeting the specification for acetaldehyde and acetal is deemed adulterated under section 501(b) of the FD&C Act. Alcohol represents a significant component of your drug product; therefore, you must have a specification for acetaldehyde and acetal per 21 CFR 211.160(b). Further, finished product testing of each batch of drug product is required under 21 CFR 211.165. The test results for acetaldehyde and acetal impurities in your drug products are unacceptable because these results are higher than the levels expected if the alcohol contained in your products complied with compendial standards and if you had conducted finished product testing with a specification for acetaldehyde and acetal. Therefore, your drug products are deemed adulterated under section 501(a)(2)(B) of the FD&C Act.
+
+Acetaldehyde appears to be genotoxic, and potentially carcinogenic, when in direct contact with tissues.
+
+On July 28, 2022, FDA sent you an information request letter informing you of the unacceptable levels of impurities in your ohm BY URBAN ELECTRIC POWER hand sanitizer and sanitizer spray and requested additional information including impurity testing of reserve samples to determine the quality of all batches of your hand sanitizer drug products within expiry.3
+
+Your response dated September 8, 2022 indicated you manufactured hand sanitizer through March 2022 and distributed hand sanitizer drug products as recently as August 31, 2022. In our information request we asked whether you could test reserve samples to test the quality of your product. Your response dated September 8, 2022 indicated you “do not have retain samples and therefore cannot test them to determine batch quality.” Not having reserve samples for distributed drug products is a violation of CGMP (21 CFR 211.170(b)).
+
+FDA is concerned about the quality of your distributed hand sanitizer drug products because all batches of your drug products FDA tested contained unacceptable levels of acetaldehyde and acetal impurities and you are unable to test retain samples to ascertain the quality of other lots you distributed. On October 18, 2022, FDA held a teleconference with you. We recommended you consider removing all of your OTC hand sanitizer drug products currently in distribution and within labeled expiry.
+
+To date, you have yet to initiate a recall.
+
+On November 9, 2022, FDA notified the public of the unacceptable impurity results in your hand sanitizer drugs products at the following website: https://www.fda.gov/drugs/drug-safety-and-availability/fda-updates-hand-sanitizers-consumers-should-not-use
+
+The contamination with acetaldehyde and acetal in drug products manufactured in your facility, in addition to the deficiencies in your response to the information we requested, demonstrate that the quality assurance within your facility is not functioning in accordance with CGMP requirements under section 501(a)(2)(B) of the FD&C Act.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified, you should engage a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements if your firm intends to resume manufacturing drugs for the U.S. market. The qualified consultant should also perform a comprehensive audit of your entire operation for CGMP compliance and evaluate the completion and efficacy of your corrective actions and preventive actions before you pursue resolution of your firm’s compliance status with FDA.
+
+Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Drug Production Ceased
+
+We acknowledge your commitment to cease production of drugs at this facility and your response on September 8, 2022 stated you “do not intend to continue manufacturing hand sanitizer drug products.”
+
+If you plan to resume manufacturing drugs, notify this office before resuming your operations.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations associated with your drug products. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+Correct any violations promptly. Failure to promptly and adequately address this matter may result in regulatory or legal action without further notice including, without limitation, seizure and injunction. Unresolved violations may also prevent other Federal agencies from awarding contracts.
+
+Failure to address violations may also cause FDA to withhold issuance of Export Certificates. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may inspect to verify that you have completed corrective actions to address any violations.
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov ATTN: Lynnsey Renn. Also please send your electronic supply to Nancy Espinal, Compliance Officer and ORAPHARM1_RESPONSES@fda.hhs.gov . Identify your response with FEI 3016759092.
+
+Sincerely,
+/S/
+
+Lisa Harlan
+Program Division Director/ District Director
+U.S. Food and Drug Administration
+OPQO Division I / New Jersey District
+
+_________________________________
+
+1 ohm BY URBAN ELECTRIC POWER, sanitizer spray, FRESH SCENT, 80% ALCOHOL BY VOLUME, 8 FL OZ (237ML); ohm BY URBAN ELECTRIC POWER, hand sanitizer, 70% ALCOHOL BY VOLUME, GEL BASED, FRESH SCENT, 10 FL OZ (295ML); ohm BY URBAN ELECTRIC POWER, hand sanitizer, 70% ALCOHOL BY VOLUME, GEL BASED, FRESH SCENT, 12 FL OZ (355ML)
+
+2 Due to an increased demand for alcohol-based hand sanitizers during the COVID-19 pandemic, the FDA published the Guidance for Industry: Temporary Policy for Preparation of Certain Alcohol-Based Hand Sanitizer Products During the Public Health Emergency (COVID-19) on March 19, 2020, and subsequently updated the guidance several times. The guidance was withdrawn effective December 31, 2021 (86 Fed Reg at 56960). This guidance communicated the agency’s temporary policy that we did not intend to take action against firms for CGMP violations under section 501(a)(2)(B) of the FD&C Act if such firms prepared alcohol-based hand sanitizers for consumer use (or for use as a health care personnel hand rub) during the public health emergency, provided certain circumstances described in the guidance are present. These circumstances included preparation of hand sanitizer products using only the ingredients and formulas set forth in the guidance. Because Urban Electric Power hand sanitizer drug products were not consistent with the formulations described in these guidances, they did not fall within any temporary agency policy not to take action against firms manufacturing hand sanitizer products for violations of section 505 of the FD&C Act.
+
+3 In the July 28, 2022 letter, FDA had described “unacceptable” levels of acetal and acetaldehyde as being above 50 ppm. That number had originally been described in the Temporary Policy for Preparation of Certain Alcohol-Based Hand Sanitizer Products During the Public Health Emergency (COVID-19) and had represented FDA’s intent to not take action against products within that level of impurity, provided that the other circumstances described in the guidance were present. As noted in FN2 above, that temporary policy has been withdrawn. Acetal and acetaldehyde levels in alcohol must not exceed the 10 ppm limit prescribed by the USP.

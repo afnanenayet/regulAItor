@@ -1,0 +1,209 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Jitendra R. Patel 
+          
+
+                                
+  
+    Recipient Title
+              V.P. of Production and Operations
+          
+
+          
+            US Pharmaceuticals Inc. 
+
+          
+                      681 Main Street, Building 27
+Belleville, NJ 07109
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Division of Pharmaceutical Quality Operations I
+        
+         
+          10 Waterview Blvd, 3rd Floor
+Parsippany, NJ 07054
+United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+WARNING LETTER
+CMS #573233
+
+06/06/2019
+
+VIA UPS OVERNIGHT
+
+Mr. Jitendra R. Patel
+V.P. of Production and Operations
+US Pharmaceuticals, Inc.
+681 Main Street, Building 27
+Belleville, NJ 07109
+
+Dear Mr. Patel:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, US Pharmaceuticals, Inc. at 681 Main Street, Building 27, Belleville, New Jersey, from October 31 to December 18, 2018.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See 21 CFR, parts 210 and 211.
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your January 11, 2019, response in detail and acknowledge receipt of your subsequent correspondence.
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to thoroughly investigate any unexplained discrepancy or failure of a batch or any of its components to meet any of its specifications, whether or not the batch has already been distributed (21 CFR 211.192).
+
+You frequently lacked investigations into failing microbiological and chemical monitoring results from your purified water system.
+
+For example, you did not investigate multiple results above the total aerobic microbial count limit of (b)(4) cfu/ml, including too numerous to count (TNTC) results for purified water lots (b)(4).
+
+You also did not investigate more than ten different incidents of chemical testing failures. Our inspection found that water samples exceeded total organic carbon (TOC) content limits in several water lots.
+
+These purified water lots were used in the manufacture of over-the-counter drug products released for distribution to U.S. consumers.
+
+Our inspection found microbiological deviations in your purified water system dating back to 2016. Although you had recurring excessive microbial levels in your water system, you failed to take appropriate actions to ensure water used in manufacturing consistently met minimum quality standards.
+
+Pharmaceutical water must be suitable for its intended use and routinely tested to ensure ongoing conformance with appropriate chemical and microbiological attributes.
+
+Your response states that you will revise your SOP-085, Procedure for Use, Monitoring and Maintenance of Water Purification System. However, you did not address SOP-016, Investigating and Reporting Out of Specification Test Results or SOP-017, Handling of Deviations in Manufacturing and Related Processes. Your response is also inadequate because you have not provided adequate information to ensure that out-of-limit (OOL) investigations will be executed in a thorough and timely manner, and identify root cause(s) to be addressed by corrective actions and preventive actions (CAPA). In addition, you also did not indicate that any future OOL purified water result will trigger the quality unit to evaluate whether a batch may need to be rejected.
+
+Your response also states that conforming finished product microbial testing indicates that your batches were of acceptable quality and safety. It should be noted that microbial testing cannot be relied upon as sole justification to release drug product batches. Contamination is not uniformly distributed in a system and a sample may not be representative of the type or level of contamination that may exist in other individual units of a batch. Purified water systems that are inadequately designed pose a serious risk because such systems sporadically contribute microbial contamination and this unpredictable contamination can be difficult to detect.
+
+You manufacture topical products that could be applied to broken skin, including hydrocortisone and skin barrier products. Objectionable microbiological contamination of these products can pose a serious hazard to patients.
+
+During our inspection, you initiated recalls of some, but not all, products manufactured with the purified water that failed minimum quality standards. You did not provide an adequate rationale for permitting some topical products manufactured with OOL purified water to remain on the market.
+
+In response to this letter provide:
+
+? A comprehensive, independent assessment of your overall system for investigating deviations, discrepancies, complaints, out-of-specification (OOS) results, and failures. Provide a detailed CAPA plan to remediate this system. Your CAPA plan should include, but not be limited to, significant improvements in investigation competencies, root cause evaluation, scope determination, quality unit oversight, and written procedures. It should also address how you will ensure all phases of investigations were appropriately conducted and that the CAPA was effective.
+? Revised procedures governing the investigation of OOL or OOS results in your facility.
+? A detailed risk assessment addressing the potential effects of the observed water system failures on the quality of all drug product lots currently in U.S. distribution. Specify actions that you will take in response to the risk assessment, such as customer notifications and product recalls.
+
+For more information about handling failing, out-of-specification, out-of-trend, or other unexpected results and documentation of your investigations, see FDA’s guidance document Investigating Out-of-Specification (OOS) Test Results for Pharmaceutical Production at https://www.fda.gov/downloads/drugs/guidances/ucm070287.pdf.
+
+2. Your firm failed to use equipment in the manufacture, processing, packing, or holding of drug products that is of appropriate design, adequate size, and suitably located to facilitate operations for its intended use and for its cleaning and maintenance (21 CFR 211.63).
+
+You have not established that your purified water system is adequately designed, controlled, maintained, and monitored to ensure it consistently produces water that meets Purified Water USP monograph specifications and appropriate microbial limits. Our inspection found that during 2016 you determined that your purified water system design contributed to biofilm formation and the rapid growth of bacteria. You failed to address these design issues identified in your 2016 investigation and continued to use water from this system as a component in your drug products.
+
+In your response, you propose a (b)(4) sanitation schedule. This is the same CAPA you had proposed following the 2016 investigation, and it has been in place since 2017. Your response lacks an appropriate plan to remediate your water system. You also lack sufficient detail about the design of the new system and plans for proper monitoring and maintenance of the system.
+
+During a previous inspection in December 2010, we cited similar CGMP violations for issues related to your (b)(4) water system. Despite these recurring water system findings, you have failed to remediate your water system.
+
+In response to this letter, provide:
+
+? A comprehensive, independent assessment of your water system design, control, and maintenance.
+? A thorough CAPA plan to fully remediate and validate a suitable water system.
+? An effective program for ongoing control, maintenance, and monitoring that ensures the remediated system that you install consistently produces water that meets Purified Water, USP, monograph specifications and appropriate microbial limits (including both total counts and objectionable microbes). Regarding the latter, ensure that the total count limit for your purified water is appropriately stringent in view of the intended use of each of the products produced by your firm.
+? Revised procedures governing the updated purified water system, including provisions that require collection of daily samples from your water system for microbiological counts and microbial identification testing.
+? All microbial monitoring test results from your purified water system for the past three years including sampling and sanitization dates.
+
+3. Your firm failed to establish laboratory controls that include scientifically sound and appropriate specifications, standards, sampling plans, and test procedures designed to assure that components, drug product containers, closures, in-process materials, labeling, and drug products conform to appropriate standards of identity, strength, quality, and purity (21 CFR 211.160(b)).
+
+Samples were not appropriately representative of water quality. The timing and method of sample collection were not appropriate to provide meaningful results for detecting system variability.
+
+? For example, since August 2017, you have collected (b)(4) water samples following system sanitization. This sampling timing and frequency does not provide meaningful information about the quality of the water used throughout the week to manufacture your products.
+? In addition, the discharge hose was observed with a build-up of black and brown residue. This hose was used to dispense purified water for manufacturing drug products. However, water samples were collected directly from the water system valve outlet without the discharge hose attached. Consequently, you lacked sampling results to routinely reflect the quality of the water dispensed from this hose that our inspection found to be visibly contaminated.
+
+You stated in your response that you will cease sampling water immediately following sanitization and that you replaced the unsuitable transfer hose. You did not provide new purified water sampling procedures that will ensure an appropriate monitoring program. In addition, you committed to carry out a Performance Qualification (PQ) of your water system. However, you did not provide the protocol with acceptance criteria for your PQ or a timeline for completion.
+
+In response to this letter provide:
+
+? Your revised water system sampling plan.
+? Validation outcome for the water system obtained after an appropriately designed system has been installed. Include the system validation protocol, the complete test results, and the final validation report.
+? Qualifications of the personnel responsible for the PQ.
+? The timeline for completion of the PQ.
+
+Quality Systems
+
+Your firm’s quality systems are inadequate. For guidance on establishing and maintaining CGMP-compliant quality systems, see FDA’s guidances: Q8(R2) Pharmaceutical Development at https://www.fda.gov/downloads/drugs/guidances/ucm073507.pdf, Q9 Quality Risk Management at https://www.fda.gov/downloads/Drugs/Guidances/ucm073511.pdf and Q10 Pharmaceutical Quality System at https://www.fda.gov/downloads/drugs/guidances/ucm073517.pdf.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements.
+
+Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+Violations cited in this letter are not intended as an all-inclusive list. You are responsible for investigating these violations, for determining the causes, for preventing their recurrence, and for preventing other violations.
+
+Correct the violations cited in this letter promptly. Failure to promptly correct these violations may result in legal action without further notice including, without limitation, seizure and injunction. Unresolved violations in this warning letter may also prevent other Federal agencies from awarding contracts.
+
+Until these violations are corrected, we may withhold approval of pending drug applications listing your facility. We may re-inspect to verify that you have completed your corrective actions. We may also refuse your requests for export certificates.
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Please send your electronic reply to orapharm1_responses@fda.hhs.gov. Your written notification should refer to Warning Letter #573233.
+
+If you have any questions, contact Compliance Officer James Mason at james.mason@fda.hhs.gov.
+
+Sincerely,
+/S/
+
+Diana Amador-Toro
+Program Division Director/District Director
+U.S. Food and Drug Administration
+OPQO Division I/New Jersey District

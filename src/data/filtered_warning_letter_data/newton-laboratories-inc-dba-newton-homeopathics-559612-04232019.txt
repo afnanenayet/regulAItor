@@ -1,0 +1,319 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Animal & VeterinaryDrugs                          
+            
+            
+            
+            
+            
+              
+              Pharmaceutical Quality
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Marjorie J. Roberts
+          
+
+                                
+  
+    Recipient Title
+              Chief Executive Officer
+          
+
+          
+            Newton Laboratories Inc DBA Newton Homeopathics
+
+          
+                      455 Gees Mill Business Ct. NE
+Conyers, GA 30013
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Division of Pharmaceutical Quality Operations II
+        
+         
+          4040 North Central Expressway, Suite 300
+Dallas, TX 75204-3128
+United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+April 23, 2019
+
+CMS # 559612
+
+WARNING LETTER
+
+ 
+
+Ms. Roberts:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Newton Laboratories, Inc. (FEI #1051203) at 455 Gees Mill Business Ct. NE, Conyers, Georgia, from March 26 to 30, 2018.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See 21 CFR, parts 210 and 211. Significant violations also include misbranded human drugs and unapproved new animal drugs.
+
+Human Drug CGMP Violations
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+Human Drug Misbranding Violations
+
+Your firm’s products are misbranded drugs under section 503(b)(4) of the FD&C Act, 21 U.S.C. 353(b)(4), in that their labels fail to bear the symbol, “Rx only.” A discussion of these violations is included below.
+
+Unapproved New Animal Drug Violations
+
+Your firm manufactures and distributes new animal drugs, as defined by section 201(v) of the FD&C Act, [21 U.S.C. 321(v)]. As discussed below, they are not the subject of an approved new animal drug application, conditionally approved new animal drug application, or index listing. Therefore, these products are unsafe within the meaning of section 512(a) of the FD&C Act, [21 U.S.C. 360b(a)], and adulterated under section 501(a)(5) of the FD&C Act [21 U.S.C. 351(a)(5)].
+
+We reviewed your April 19, 2018, response in detail.
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to thoroughly investigate any unexplained discrepancy or failure of a batch or any of its components to meet any of its specifications, whether or not the batch has already been distributed (21 CFR 211.192).
+
+You manufacture various homeopathic drug products marketed direct to consumers for potentially vulnerable patient populations including pediatric patients.
+
+You failed to thoroughly investigate microbial results outside of established limits received from your contract laboratory for samples of (b)(4) water and finished products. Instead, you had new samples tested by your contract laboratory. For example:
+
+• (b)(4) water initially tested for Total Aerobic Microbial Count (TAMC) greater than 300 CFU/mL on December 12, 2016.
+
+• Bladder-Kidney (L01N010 1605028) initially tested for Total Yeast and Mold Count (TYMC) of 405 CFU/g on June 01, 2016.
+
+• Jet Lag (Lot P01N221 1605031) initially tested for TYMC of 45 CFU/g on June 01, 2016.
+
+You failed to perform an investigation into the failing results to evaluate potential root causes; assess risk to patient safety and product quality; determine the scope and magnitude of the discrepancies; and verify effectiveness of corrective actions and preventive actions (CAPAs).
+
+Despite your lack of investigation, you released the products to the U.S. market. Further, you permitted batch release before you received conforming results on the newly taken samples. We note you routinely released drug products without the assurance that they meet their quality attributes.
+
+In your response, you stated that you are currently revising your procedures for conducting investigations, handling of production materials, and water sampling. Your response is inadequate because it lacked investigations into the failing microbial results.
+
+In addition, your response cannot be fully evaluated because you did not provide the revised procedures.
+
+In response to this letter, provide the following:
+
+• A retrospective, independent review of all invalidated OOS (in-process and finished testing) results for products currently on the U.S. market and within expiry. Assess whether the scientific justification and evidence for each invalidated OOS result was conclusive. For investigations that establish laboratory root cause, ensure that other laboratory methods vulnerable to the same root cause are identified for remediation.
+
+• A thorough review of production (e.g., batch manufacturing records, adequacy of the manufacturing steps, raw materials, process capability, deviation history, batch failure history) for any OOS results with inconclusive or no root cause identified.
+
+• A full evaluation of scope and magnitude to determine the impact of the failing results on the implicated batches and additional drug products you manufacture.
+
+• A CAPA plan that identifies manufacturing root causes and specifies meaningful improvements.
+
+• A review and remediation of your system for investigating OOS results. Provide a CAPA plan to improve OOS handling. Your CAPA plan should ensure that your revised OOS investigations procedure includes:
+
+o Enhanced quality unit oversight of laboratory investigations;
+o Ongoing identification of adverse laboratory control trends;
+o Resolution of causes of laboratory variation; and,
+o Investigations of potential manufacturing causes when a laboratory cause is not conclusively identified.
+
+2. Your firm failed to establish written procedures for production and process controls designed to assure that the drug products you manufacture have the identity, strength, quality, and purity they purport or are represented to possess (21 CFR 211.100(a)).
+
+You failed to validate your drug manufacturing processes. Unvalidated production processes increase the probability that your products will vary in identity, strength, quality, and purity. Your failure to validate your drug manufacturing processes means that you cannot assure consistency in the quality of your finished products and may result in variable levels of potentially toxic ingredients in them.
+
+Your homeopathic drug products are indicated for treating conditions in infants and children, and they are manufactured from ingredients such as Nux vomica, Belladonna, Aconitum napellus, and Gelsemium sempervirents that pose potentially toxic effects. For example, Nux vomica contains strychnine. Strychnine is a highly toxic, well-studied poison that is used as a rodenticide.
+
+You released numerous lots of homeopathic drugs without validating your manufacturing processes. Before any batch is commercially distributed for use by consumers, a manufacturer should have gained a high degree of assurance in the performance of the manufacturing process such that it will consistently produce drug products meeting attributes relating to identity, strength, quality, and purity. Information and data should determine if the commercial manufacturing process is capable of consistently producing acceptable quality products under commercial manufacturing conditions. Failure to validate manufacturing processes could expose patients to unnecessary risks due to the lack of knowledge about and control over sources of variation.
+
+This is a repeat and persistent observation that was also cited during inspections conducted in 2012 and 2017.
+
+In your response, you stated you have begun process validation by sending samples to your contract laboratory for analysis. You provided a draft validation procedure and sample test submission forms.
+
+Your response is inadequate because you failed to provide assurance that each batch of your drug products can consistently meet all pre-determined quality and performance characteristics. You failed to address the impact of your lack of demonstrated control over your manufacturing processes and the potential hazards posed by the lots you have already released for distribution.
+
+In response to this letter, provide the following:
+
+• A data-driven and scientifically sound program that identifies and controls all sources of variability, such that your production processes will consistently meet appropriate parameters and manufacturing standards. This includes, but is not limited to, evaluating suitability of equipment for its intended use, ensuring quality of input materials, and determining the capability and reliability of each manufacturing process step and control.
+
+• Timelines for performing prospective process qualification for your drug products, including a summary of the results of your validation studies.
+
+• An improved sampling plan that includes representative samples for each product lot so you can evaluate intrabatch variation and help prevent distribution of lots contaminated with objectionable organisms. This sampling plan should improve detection of microbiological contamination and improve the capacity of your quality control and in-process testing to identify any objectionable contamination before products are released to patients.
+
+3. Your firm failed to clean, maintain, and, as appropriate for the nature of the drug, sanitize and/or sterilize equipment and utensils at appropriate intervals to prevent malfunctions or contamination that would alter the safety, identity, strength, quality, or purity of the drug product beyond the official or other established requirements (21 CFR 211.67(a)).
+
+You failed to demonstrate that your cleaning practices are sufficient to remove potential contaminants from your equipment product contact surfaces.
+
+For example, your drug products are made on non-dedicated manufacturing equipment with ingredients of various origins. Cleaning samples you collected from your equipment following production routinely failed microbial testing with results greater than 300 CFU/mL and total organic carbon (TOC) with test results as high as 896,692 parts per billion (ppb). These manufacturing conditions present a significant cross-contamination risk between drug products. They also pose a potential contamination risk of drug products with microbes, cleaning agents, and drug residues.
+
+In your response, you state that you will perform cleaning validations in a timely manner. However, your response cannot be fully evaluated because you did not provide the results of any validation studies to support the effectiveness of your cleaning practices.
+
+In response to this letter, provide the following:
+
+• A comprehensive plan to evaluate cleaning procedures and practices, and validation studies for each piece of manufacturing equipment used to manufacture more than one product.
+
+• Scientific rationale for your cleaning validation strategy to ensure that your cleaning procedures are effective.• A summary of updates to your cleaning validation protocol incorporating conditions identified as worst case. This should include, but not be limited to:
+
+o Evaluating drugs of the highest toxicity;
+o Assessing drugs of the lowest solubility in their cleaning solvents;
+o Evaluating drugs with characteristics that make them difficult to clean; and,
+o Swabbing equipment locations that are most difficult to clean.
+
+• A summary of updated standard operating procedures (SOP) that ensure an appropriate program is in place for verification and validation of cleaning procedures for new products, processes, and equipment.
+
+4. Your firm failed to maintain written records so that the quality standards of each drug product can be evaluated at least annually to determine the need for changes in drug product specifications or manufacturing or control procedures (21 CFR 211.180(e)).
+
+You failed to conduct annual product reviews for homeopathic drugs manufactured in 2016, such as Hypercalm Mental Focus and PRO Insomnia. Failure to perform annual product reviews limits your ability to identify variability in your manufacturing processes, to make appropriate manufacturing process improvements, and ultimately, to ensure the quality of your products.
+
+This is a repeat and persistent observation that was also cited during inspections conducted in 2006 and 2008.
+
+In your response, you stated you will revise your procedures for annual product reviews to require the evaluation of products earlier in the year with the reports due for completion by March 31. However, your response is inadequate or cannot be fully evaluated because you provided neither revised procedures nor the results of your annual product reviews.
+
+In response to this letter, provide your plan or procedure to ensure that you will complete product quality reviews at least annually for all drug products that you manufacture and distribute in the United States. Also provide your procedures for investigating, responding to, and correcting any deviations from product quality and safety standards identified as part of your product quality review findings and risk assessments.
+
+Out-of-Specification Test Results
+
+For more information about handling failing, out-of-specification, out-of-trend, or other unexpected results and documentation of your investigations, see FDA’s guidance document entitled Investigating Out-of-Specification (OOS) Test Results for Pharmaceutical Production at https://www.fda.gov/downloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/UCM070287.pdf.
+
+Process Controls
+
+Your firm lacks an ongoing program for monitoring process control to ensure stable manufacturing operations and consistent drug quality.
+
+See FDA’s guidance document entitled Process Validation: General Principles and Practices for general principles and approaches that FDA considers appropriate elements of process validation at: https://www.fda.gov/downloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/UCM070336.pdf.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm and because you failed to correct repeat deficiencies, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements. Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Misbranded Human Drugs
+
+Your firm’s products, including, but not necessarily limited to, “Fever~Infection,” “Food Allergies~Additives,” “Blues~Mood~Emotions,” and “Vaccination~Illness” are drugs under section 201(g)(1) of the FD&C Act, 21 U.S.C. 321(g)(1), because they are intended to diagnose, cure, mitigate, treat, or prevent disease, and intended to affect the structure or any function of the body. Examples of claims on your website, https://www.newtonlabs.net, that establish the intended use for your products below include, but may not be limited to, the following:
+
+Fever~Infection:
+• “violent illness with high fever”
+• “blood poisoning”
+• “Senile erysipelas (streptococcus bacterial skin infection)”
+• “Liver disorders”
+• “Chicken pox; Measles; Mumps”
+
+Food Allergy~Additives:
+• The product name, “Food Allergy~Additive”
+• “Formulated for associated symptoms such as itching, swelling, headaches, labored breathing, indigestion, vomiting, cramping and other related symptoms”
+• “Vertigo”
+• “Migraine Headaches with nausea and vomiting”
+
+Blues~Mood~Emotions:
+• “Depression”
+• “Suicidal tendency”
+• “Impotence”
+
+Kids Vaccination~Illness:
+• The product name, “Vaccination~Illness”
+• “Cholera; Croup; Pneumonia; Small pox”
+• “Measles; Influenza; Whooping cough; Diptheria (sic)”
+• “Influenza; Mumps; Tuberculosis”
+• “Injury to nerve; Neuralgia (nerve pain)”
+
+We recognize that “Fever~Infection,” “Food Allergy~Additives,” “Blues~Mood~Emotions,” and “Vaccination~Illness” are represented as being homeopathic drugs with active ingredients measured in homeopathic strengths. Under section 201(g)(1) of the FD&C Act (21 U.S.C. 321(g)(1)), the term “drug” includes articles recognized in the official Homeopathic Pharmacopeia of the United States (HPUS), or any supplement to it. Homeopathic drugs are subject to the same regulatory requirements as other drugs; nothing in the FD&C Act exempts homeopathic drugs from any of the requirements related to adulteration, labeling, misbranding, or approval.
+
+We acknowledge that many homeopathic drugs are manufactured and distributed without FDA approval under enforcement policies set out in the FDA’s Compliance Policy Guide entitled, Conditions Under Which Homeopathic Drugs May be Marketed (CPG 400.400). As its title suggests, the CPG identifies specific conditions under which homeopathic drugs may ordinarily be marketed; thus, in order to fall under the enforcement policies set forth in the CPG, a homeopathic product must meet the conditions set forth in the CPG. One of those conditions is compliance with section 503(b) of the FD&C Act. The CPG states that homeopathic products intended solely for self-limiting disease conditions amenable to self-diagnosis (of symptoms) and treatment may be marketed as OTC products. Homeopathic products offered for conditions not amenable to OTC use must be marketed as prescription products.
+
+Section 503(b)(1) of the FD&C Act, 21 U.S.C. 353(b)(1), identifies criteria for determining the prescription status of a product. Your above products are prescription drugs as defined in section 503(b)(1)(A) of the FD&C Act, 21 U.S.C. 353(b)(1)(A), because in light of their toxicity or other potentiality for harmful effect, or the method of their use, or the collateral measures necessary to their use, they are not safe for use except under the supervision of a practitioner licensed by law to administer such drugs. Therefore, these products are misbranded under section 503(b)(4) of the FD&C Act, 21 U.S.C. 353(b)(4), in that their label fails to bear the symbol, “Rx only.”
+1 The introduction or delivery for introduction of these misbranded drugs into interstate commerce is a violation of section 301(a) of the FD&C Act, 21 U.S.C. 331(a).
+
+Unapproved Animal Drugs
+
+During an inspection of this facility, FDA determined that your firm is manufacturing and shipping via interstate commerce products such as: Pets Bladder~Kidney, Pets Bowel~Digestive Care, Pets Cough~Airway, Pets Detoxifier, Pets Diarrhea~Gas, Pets Doggy Breath, Pets Ear Care, Pets Energy~Vitality, Pets Eye Care, Pets Fever~Infection, Pets Flea~Bug Bites, Pets Inflammation, Pets Injury~Rescue, Pets Nervousness~Fear, Pets Parasites, Pets Rheumatic~Joint Care, Pets Scoot Stopper, Pets Skin Care, which are unapproved new animal drugs. Based on our review of the information provided, we determined that these products are intended for use in the mitigation, treatment, or prevention of diseases in animals, which makes them drugs under section 201(g)(1)(B) of the Federal Food, Drug and Cosmetic Act (the FD&C Act) [21 U.S.C. 321(g)(1)(B)]. Further, as discussed below, these products are unapproved new animal drugs and marketing them violates the FD&C Act.
+
+Examples of statements on the firm’s product labeling and website that show the intended uses of their products include, but are not limited to, the following: https://www.newtonlabs.net/ComplexesPets/products/2/
+
+Pets Bladder~Kidney:
+• “According to the Materia Medica the following remedies in Bladder~Kidney may be administered for symptoms of the following conditions:”
+• “Berberis vulgaris: Inflammation of kidneys with hematuria (blood in the urine).”
+• “Juniperus communis: Dropsy (edema) with suppression of urine; It has a very powerful action on the kidneys.”
+
+Pets Fever~Infection:
+• “According to the Materia Medica the following remedies in Fever~Infection may be administered for symptoms of the following conditions:”
+• "Aconitum napellus: Acute, sudden and violent illness with high fever; Restlessness; Oppressed breathing."
+• “Cantharis: Inflammations are violently acute or rapidly destructive in the mucous and serous membranes; Tenacious mucous.”
+
+Pets Parasites:
+• “Abrotanum: Worms; Alternating diarrhea with constipation; Destroys worms, especially ascarides (roundworms).”
+• “Granatum: Tapeworms; Used as vermifuge for the expulsion of tapeworms; Constant hunger; Ascarides (roundworms).”
+• “Ratanhia: Anal and rectal symptoms are most important; Pinworms; Worms.”
+• “Thymolum: Hookworm disease (ancylostomiasis); Diarrhea after constipation.”
+
+Pets Inflammation:
+• “According to the Materia Medica the following remedies in Inflammation may be administered for symptoms of the following conditions:”
+• “Apis mellifica: Inflammation of kidneys; Anxious restlessness and fidgety; Allergic reactions.”
+• “Chelidonium majus: Jaundice; Liver disorders; High fever.”
+• “Gaultheria procumbens: Inflammatory arthritis, rheumatism, pleurodynea (pain in lungs), and other neuralgias; Prolonged vomiting.”
+• “Hepar sulphuris calcareum: Abscess; Ear infections; Glandular swellings; Skin disorders.”
+
+Because these products are intended to prevent, mitigate or treat diseases in animals, they are drugs within the meaning of section 201(g)(1)(B) of the FD&C Act, [21 U.S.C. 321(g)(1)(B)]. Moreover, these products are new animal drugs, as defined by section 201(v) of the FD&C Act, [21 U.S.C. 321(v)], because they are not generally recognized among experts qualified by scientific training and experience to evaluate the safety and effectiveness of animal drugs, as safe and effective for use under the conditions prescribed, recommended, or suggested in the labeling. They are not the subject of an approved new animal drug application, conditionally approved new animal drug application, or index listing under sections 512, 571, and 572 of the FD&C Act [21 U.S.C. 360b, 360ccc, and 360ccc-1]. Therefore, the products are unsafe within the meaning of section 512(a) of the FD&C Act, [21 U.S.C. 360b(a)], and adulterated under section 501(a)(5) of the FD&C Act [21 U.S.C. 351(a)(5)].
+
+Conclusion
+
+Violations cited in this letter are not intended as an all-inclusive list. You are responsible for investigating these violations, for determining the causes, for preventing their recurrence, and for preventing other violations.
+
+Correct the violations cited in this letter promptly. Failure to promptly correct these violations may result in legal action without further notice including, without limitation, seizure and injunction. Unresolved violations in this warning letter may also prevent other Federal agencies from awarding contracts.
+
+Until these violations are corrected, we may withhold approval of pending drug applications listing your facility. We may re-inspect to verify that you have completed your corrective actions. We may also refuse your requests for export certificates.
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Your written notification should refer to the Warning Letter Number above (CMS # 559612). Please electronically submit your signed reply on your firm’s letterhead to CDR John W. Diehl, M.S., Director, Compliance Branch, at john.diehl@fda.hhs.gov and orapharm2_responses@fda.hhs.gov.
+
+If you have questions regarding the contents of this letter, you may contact Mr. Thao Ta, Compliance Officer, via phone at 214-253-5217 or e-mail at thao.ta@fda.hhs.gov.
+
+Sincerely,
+/S/
+
+Monica R. Maxwell
+Program Division Director
+Office of Pharmaceutical Quality Operations,
+Division II
+
+ 
+
+1 CPG 400.400 states that, in accordance with 503(b)(1) of the FD&C Act, homeopathic drug products offered for conditions that require diagnosis or treatment by a licensed practitioner must bear the prescription legend, “Caution: Federal law prohibits dispensing without prescription.” This CPG was issued by the agency in 1988. In 1997, Congress enacted the Food and Drug Administration Modernization Act (FDAMA); section 126 of FDAMA amended 503(b)(4) of the FD&C Act to require that the label of a prescription drug must bear, at a minimum, the symbol “Rx only.”

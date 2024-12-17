@@ -1,0 +1,205 @@
+Delivery Method: 
+        VIA SIGNATURE CONFIRMED DELIVE
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Brandon R. Mackay
+          
+
+                                
+  
+    Recipient Title
+              President and CEO
+          
+
+          
+            SnugZ USA, Inc. 
+
+          
+                      9258 South Prosperity Road
+West Jordan, UT 84081-6161
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Division of Pharmaceutical Quality Operations III
+        
+         
+          300 River Place, Suite 5900
+Detroit, MI 48207
+United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+WARNING LETTER
+
+VIA SIGNATURE CONFIRMED DELIVERY
+
+June 12, 2019
+
+Mr. Brandon R. Mackay
+President and CEO
+SnugZ USA, Inc.
+9258 South Prosperity Road
+West Jordan, UT 84081-6161
+
+Dear Mr. Mackay:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, SnugZ USA, Inc. at 9258 South Prosperity Road, West Jordan, UT 84081, from November 26 to 30, 2018.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals, 21 CFR parts 210 and 211.
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your December 19, 2018, response and acknowledge receipt of your subsequent correspondence.
+
+During our inspection, our investigator observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to perform, for each batch of drug product, appropriate laboratory determination of satisfactory conformance to final specifications for the drug product, including the identity and strength of each active ingredient, prior to release, and for each batch of drug product required to be free of objectionable microorganisms, appropriate laboratory testing, as necessary (21 CFR 211.165(a) and (b)).
+
+Your firm released numerous over-the-counter (OTC) drug products including Naawk Aloe Relief Gel + Lidocaine, Unscented SPF 30 Sunscreen Lotion, and Coconut Breeze SPF 50 Fill without adequate testing for identity and strength of the active ingredients. In addition, your firm also released finished drug products without adequate testing for critical microbial attributes (e.g., free of objectionable microorganisms, total count). Without testing each batch, you do not have scientific evidence that all drug product batches conformed to specifications before release.
+
+In response to this letter, provide:
+
+? Procedures for testing all finished drug dosage products according to your firm’s specifications.
+? Completed chemical and microbial analytical method validation, equipment validation, and updated test methods. Also provide specifications that your drug products must conform to before a batch disposition decision.
+? A summary of test results obtained from testing retain samples of all drug products within expiry that have been distributed in the United States. These test results should include identity and strength of active ingredients and all other appropriate quality attributes.
+
+2. Your firm failed to conduct at least one test to verify the identity of each component of a drug product. Your firm also failed to validate and establish the reliability of your component supplier’s test analyses at appropriate intervals (21 CFR 211.84(d)(1) and (2)).
+
+Your firm failed to adequately test incoming active pharmaceutical ingredients (API) and other raw materials you use in manufacturing your drug products to determine the conformance to identity, purity, strength, and other specifications. Instead, your firm released API and other materials based on the certificate of analysis (COA) from your supplier without establishing the reliability of the supplier’s analysis through appropriate validation and ensuring at least one specific identity test is conducted for each lot.
+
+In response to this letter, provide:
+
+? Your updated procedure for incoming component testing. Include your corrective action and preventative action (CAPA) plan to ensure that you conduct at least one specific identity test for each incoming lot (both active and inactive ingredients). Describe in detail how you plan to test each incoming component lot for conformity with all appropriate written specifications for purity, strength, and quality. If you accept your supplier’s COA in lieu of testing each component lot for purity, strength, and quality, specify how you plan to establish the reliability of your suppliers’ test results for these attributes through periodic validation.
+? A comprehensive, independent review of your materials system to determine whether all containers, closures, and ingredients from each supplier are adequately qualified; drugs are assigned appropriate expiration or retest dates; and incoming material lot controls are adequate to prevent use of unsuitable containers, closures, and components.
+
+3. Your firm failed to establish an adequate quality control unit and procedures applicable to the quality control unit with the responsibility and authority to approve or reject all components, drug product containers, closures, in-process materials, packaging materials, labeling, and drug products (21 CFR 211.22(a) and (d)).
+
+Your firm lacked an adequate quality unit (QU). You failed to establish written procedures describing the roles, responsibilities, and authorities of the QU. In addition, your firm lacked adequate systems and documentation for the following:
+
+? Thorough investigations
+? Change control systems
+? Annual product reviews
+? Drug product approval or rejection
+
+In response to this letter, provide your corrective actions to ensure that you:
+
+? Establish an adequate QU with appropriate authority and sufficient resources to carry out its responsibilities and consistently ensure drug quality.
+? Establish adequate procedures in accordance with CGMP covering all aspects of your facility and operations that may compromise the identity, strength, quality, and purity of your drug products.
+? Provide your timeline to perform annual product reviews for drug products within expiry.
+
+4. Your firm failed to establish adequate written procedures for production and process control designed to assure that the drug products you manufacture have the identity, strength, quality, and purity they purport or are represented to possess (21 CFR 211.100(a)).
+
+You have not validated the processes you use to manufacture your drug products. For example, you did not conduct process performance qualification studies, and you lack an ongoing program for monitoring process control to ensure robust manufacturing operations and consistent drug quality. See FDA’s guidance document Process Validation: General Principles and Practices for general principles and approaches that FDA considers appropriate elements of process validation at https://www.fda.gov/downloads/Drugs/.../Guidances/UCM070336.pdf.
+
+In response to this letter, provide:
+
+? Protocols for your validation and qualification activities.
+? Description of how you will monitor sources of variability in your operation throughout the drug lifecycle to minimize batch variation and ensure consistent product quality.
+? Assessment of distributed batches of your OTC drug products. Include your plans for addressing product quality and patient safety risks for any OTC drugs still in distribution, including notifications or market withdrawals.
+
+5. Your firm failed to clean, maintain, and, as appropriate for the nature of the drug, sanitize and/or sterilize equipment and utensils at appropriate intervals to prevent malfunctions or contamination that would alter the safety, identity, strength, quality, or purity of the drug product beyond the official or other established requirements (21 CFR 211.67(a)).
+
+For example, our investigator observed that filling equipment used to manufacture your OTC drug products was filthy and contained drug product residues. Your firm also failed to conduct cleaning validations.
+
+In response to this letter, provide:
+
+? A comprehensive plan to evaluate cleaning procedures and practices for each piece of manufacturing equipment.
+? Your cleaning validation studies to demonstrate that cleaning procedures are adequate for worst case cross contamination scenarios. This selection should be based on the solubility and difficulty of cleaning.
+? A risk assessment of batches released for distribution within expiry that were potentially compromised by inadequate equipment cleaning and maintenance.
+
+Overall Response
+
+In your response, you acknowledged the significance of the CGMP observations. However, you provided limited corrective actions and insufficient details and evidence to support that your proposed corrective actions will bring your operations and distributed drug products into full compliance with CGMP.
+
+Quality Unit (QU) Authority
+
+Significant findings in this letter indicate that your QU is not able to fully exercise its authority and/or responsibilities. Your firm must provide the QU with the appropriate authority and sufficient resources to carry out its responsibilities and consistently ensure drug quality. In addition, your QU remains responsible for fully investigating and resolving all reported complaints. See FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations for help
+implementing quality systems and risk management approaches to meet the requirements of CGMP regulations 21 CFR, parts 210 and 211 at: https://www.fda.gov/media/71023/download.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements. Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+Violations cited in this letter are not intended as an all-inclusive list. You are responsible for investigating these violations and deviations, for determining the causes, for preventing their recurrence, and for preventing other violations and deviations.
+
+Correct the violations and deviations cited in this letter promptly. Failure to promptly correct these violations and deviations may result in legal action without further notice including, without limitation, seizure and injunction. Unresolved violations and deviations in this warning letter may also prevent other Federal agencies from awarding contracts.
+
+Until these violations and deviations are corrected, we may withhold approval of pending drug applications listing your facility. We may re-inspect to verify that you have completed your corrective actions. We may also refuse your requests for export certificates.
+
+After you receive this letter, respond to this office in writing within fifteen (15) working days. Specify what you have done since our inspection to correct your violations and deviations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to ORAPHARM4_RESPONSES@fda.hhs.gov or mail your reply to:
+
+CDR Steven E. Porter, Jr.
+Director, Division of Pharmaceutical Quality Operations IV
+19701 Fairchild Road
+Irvine, CA 92612
+
+Please refer to Unique Identification Number (Case 570361) when replying. If you have questions regarding the contents of this letter, please contact Ms. Tina M. Pawlowski, Compliance Officer, at (313) 393-8217, or Tina.Pawlowski@fda.hhs.gov.
+
+Sincerely,
+/S/
+CDR Steven E. Porter, Jr.
+Director, Division of Pharmaceutical Quality Operations IV

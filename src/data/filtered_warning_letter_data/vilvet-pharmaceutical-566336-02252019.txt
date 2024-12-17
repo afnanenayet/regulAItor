@@ -1,0 +1,259 @@
+Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Damaris McWilliams 
+          
+
+                                
+  
+    Recipient Title
+              Chief Executive Officer
+          
+
+          
+            Vilvet Pharmaceutical
+
+          
+                      Kimberton Road, Suite 101
+Chester Springs, PA 19425
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+February 25, 2019
+
+ 
+
+Case # 566336
+
+ 
+
+WARNING LETTER
+
+ 
+
+VIA UPS EXPRESS
+
+ 
+
+Damaris McWilliams
+
+Chief Executive Officer
+
+Vilvet Pharmaceuticals Inc. 1208
+
+Kimberton Road, Suite 101
+
+Chester Springs, Pennsylvania 19425
+
+ 
+
+Ms. McWilliams:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Vilvet Pharmaceuticals, Inc. at 1208 Kimberton Road, Suite 101, Chester Springs, Pennsylvania, from June 18 to 27, 2018.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See 21 CFR, parts 210 and 211.
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of sections 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+In addition, you commercially distribute (b)(4) and (b)(4) (NDC 71186-(b)(4)). A review of FDA’s drug listing database confirms that this drug is not listed with FDA as required by section 510 of the FD&C Act 21 U.S.C. 360(j), which is prohibited under section 301(p) of the FD&C Act 21 U.S.C. 331(p). Failure to properly list a drug with the FDA will also render it misbranded under section 502(o) of the FD&C Act 21 U.S.C. 352(o).
+
+We reviewed your July 19, 2018 response in detail and acknowledge your subsequent correspondence. 
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+1.    Your firm failed to establish an adequate quality control unit and procedures applicable to the quality control unit with the responsibility and authority to approve or reject all components, drug product containers, closures, in- process materials, packaging materials, labeling, and drug products, including drug products manufactured, processed, packed or held under contract by another company (21 CFR 211.22(a) and (d)).
+
+Lack of quality control over batch release
+
+Your firm failed to establish adequate written responsibilities and procedures for reviewing batches made by your supplier. You also failed to review each batch produced for you to determine its appropriate disposition (i.e., reject or approve).
+
+Your firm used a contract manufacturer (also referred to as supplier), (b)(4), to perform manufacturing, processing, and packaging activities for drug products on your behalf. In your quality agreement with (b)(4), you stated that both you and your supplier are responsible for complying with 21 CFR 211.22. However, the quality agreement further specified that your supplier is responsible for approval or rejection of all products.
+
+You are ultimately responsible for approving or rejecting drug product batches manufactured for you by a contract facility. Our inspection found that your firm was not performing final reviews of each batch to determine its disposition. Determining the suitability of each batch for release is an essential component of your quality unit responsibility.
+
+In your response, you stated that “Vilvet Pharmaceuticals will develop and/or enhance written procedures for the review and assessment of executed batch records for release.” Your response is inadequate because you did not provide details on what these procedures entail, how they will be applied, or timeframes for implementation.
+
+You also provided a list of batches that you plan to assess using your new procedures, but it is unclear if this list represents all batches of drugs on the market within expiration. Further, you stated that you engaged a consultant who will conduct a quality audit of your contract manufacturer, (b)(4), covering all systems as well as all batches released for Vilvet Pharmaceuticals to date. However, you provided no results or outcomes from that audit.
+
+In response to this letter, provide details of your procedures for the review and assessment of batch records as part of your final batch disposition decisions. Also, provide the results of a retrospective review using your new batch disposition procedures, and a risk assessment of all products on the market within expiration and any actions taken because of this evaluation. In addition, provide a summary of the quality audit of (b)(4) and any actions that resulted from that audit.
+
+Lack of quality control unit procedures
+
+Your firm lacked written procedures regarding critical quality control unit functions. For example:
+
+
+	Your quality agreement with (b)(4) states that they will notify you of any process changes and provide you with batch records and final yields. However, you had insufficient related procedures.
+	The 1-888-705-4369 telephone number on your drug product labels for reporting Vilvet product complaints connects to your firm’s voicemail. Consistent with your quality agreement, your supplier is responsible for investigating complaints. However, you lacked procedures to handle and oversee complaints such as quality and adverse events, including how you would refer complaints to your supplier to investigate.
+	Our investigator asked your Accounts Manager how Vilvet is notified of out-of- specification (OOS) or out-of-trend (OOT) results from your supplier, (b)(4). Your Accounts Manager stated that your supplier, (b)(4), is required to notify you via phone or email. However, your firm lacked procedures for handling such results.
+	You also lacked additional relevant procedures including, but not limited to, review and assessment of stability data, and development and approval of release specifications.
+
+
+In your response, you summarized a list of quality control unit procedures you intend to develop and/or enhance with the help of third-party consultants. However, your response lacked sufficient information regarding your procedures. Furthermore, you did not propose a timetable to implement your procedures.
+
+In response to this letter, provide a summary of your consultant’s assessment of your quality system and the timeline to implement these procedures. Also, provide details on how you will ensure effective implementation of any revised or new procedures (e.g., the batch release procedures).
+
+Inadequate quality control unit procedures
+
+Quality unit procedures were inadequate. For example:
+
+
+	You did not have a designated individual or department to fulfill the quality unit’s responsibilities at the time of inspection.
+	You contract out your warehousing. Holding drugs in a warehouse is a CGMP activity. In your Vendor/Supplier Questionnaire, your contract warehouse (b)(4) stated that it is “not applicable” for them to train their employees on good manufacturing practice and “good documentation practices.” Your procedures were insufficient to prevent you from approving the questionnaire and using the warehouse. 
+
+
+In your response, you stated that your consultants will review, assess, and generate quality control unit procedures as well as serve as the interim “quality assurance unit” to review and assess regulatory documents. Your response is inadequate because it did not provide details on the scope of the consultant’s engagement or your plans to build an internal quality unit after your consultant’s engagement ends.
+
+In response to this letter, provide your plans to establish a quality unit, including its structure, authority, responsibilities, and timeline. Also provide your long-term plans for ensuring that all contract facilities perform all operations in conformance with CGMP.
+
+Use of contract manufacturers
+
+Drugs must be manufactured in conformance with CGMP. FDA is aware that many drug manufacturers use independent contractors, such as production facilities, testing laboratories, packagers, and labelers. FDA regards contractors as extensions of the manufacturer.
+
+You are responsible for the quality of your drugs, regardless of agreements in place with your contract facilities. You are required to ensure that drugs are made in accordance with section 501(a)(2)(B) of the FD&C Act to ensure safety, identity, strength, quality, and purity. See FDA’s guidance document, Contract Manufacturing Arrangements for Drugs: Quality Agreements, at https://www.fda.gov/downloads/drugs/guidances/ucm353925.pdf.
+
+Quality Systems
+
+ See FDA’s guidance document, Quality Systems Approach to Pharmaceutical CGMP Regulations, for help implementing quality systems and risk management approaches to meet the requirements of CGMP regulations (21 CFR, parts 210 and 211), at  https://www.fda.gov/downloads/Drugs/Guidances/UCM070337.pdf
+
+CGMP consultant recommended
+
+In your response, you indicated that you retained the services of a third-party regulatory consultant. Based upon the nature of the violations we identified at your firm, we strongly recommend engaging a third party and ensuring they are qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements.
+
+Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for fully resolving all deficiencies and ensuring ongoing CGMP compliance.
+
+Drug listing violation
+
+(b)(4) and (b)(4) (NDC 71186-(b)(4)) is in commercial distribution in the U.S. but is not listed with FDA. Under section 510 of the FD&C Act, as amended, and 21 CFR, all drugs manufactured, prepared, propagated, compounded, or processed for U.S. commercial distribution must be listed with FDA. See 21 U.S.C. 360(j)(1); see also 21 CFR 207.17 and 207.41. Failure to properly list a drug product is prohibited and will render the drug misbranded. See 21 U.S.C. 331(p), 352(o).
+
+Dietary supplement concerns
+
+1.    Your VIL-DHA Capsules and VIL-Rx Tablets product labels fail to bear nutrition labeling in accordance with 21 CFR 101.36. For example:
+
+a.    Your VIL-DHA Capsules and VIL-Rx Tablets are labeled with the terms prenatal and prenatal/postnatal, respectively. However, the % Daily Values displayed in the Supplement Facts label for each product are for the intended group of adults and children four or more years of age. In accordance with 21 CFR 101.36(b)(2)(iii)(E), if a product is represented or purported to be specifically for pregnant women, or lactating women, the column heading of % Daily Value shall clearly state the intended group.
+
+b.    Your VIL-DHA Capsules and VIL-Rx Tablets Supplement Facts display the title “Supplement Facts” and the “Amount Per Serving … % Daily Value” headings in bold. However, for each product, all listed dietary ingredient names in the Supplement Facts label are also bolded. In accordance with 21 CFR 101.36(e)(1), the “Supplement Facts” and all headings must be bolded to distinguish them from other information.
+
+c.    Your VIL-DHA Capsules and VIL-Rx Tablets Supplement Facts labels fail to place a light bar beneath the headings “Amount Per Serving” and “% Daily Value” as required by 21 CFR 101.36(e)(7).
+
+d.    Your VIL-DHA Capsules Supplement Facts label fails to display a heavy bar beneath the last (b)(2)-dietary ingredient in accordance with 21 CFR 101.36(e)(6).
+
+e.    Your VIL-DHA Capsules Supplement Facts label declares, below the heavy bar following the last (b)(3)-dietary ingredient, “As ascorbic acid, calcium ascorbate, magnesium ascorbate, niacinamide ascorbate, and sodium ascorbate” and “As Ferrous fumarate and iron amino acid chelate.” The source ingredient that supplies a dietary ingredient may be identified within the nutrition label in parentheses immediately following or indented beneath the name of a dietary ingredients and preceded by the words “as” or “from.” When a source ingredient is not identified within the nutrition label, it must be listed in an ingredient statement in accordance with 21 CFR 101.4(g) and 21 CFR 101.36(d).
+
+f.     Your VIL-DHA Capsules product fails to declare the common or usual names of DHA and EPA. Furthermore, these specific Omega-3 Fatty Acids should be indented under “Omega 3 Fatty Acid”. [21 CFR 101.4(a)(1) and 21 CFR 101.36(b)(3)iii)]
+
+g.    Your VIL-Rx Tablets Supplement Facts label incorrectly displays the footnote “* The % Daily Value tells you…“ and “2,000 calories … advice.” In accordance with 21 CFR 101.9(d)(9), the first statement of the footnote may be used on foods that can use the terms “calorie free,” “free of calories,” “without calories,” “trivial source of calories,” “negligible source  of calories,” or “dietary insignificant source of calories” on the label or in the labeling of foods as defined in 21 CFR 101.60(b). However, per 21 CFR 101.13(b)(5), for dietary supplements, claims regarding calories may not be made on products that meet the criteria in 21 CFR 101.60(b)(1) or (b)(2) for “calorie free” or “low calorie” claims except when an equivalent amount of a similar dietary supplement (e.g., another multivitamin supplement) that the labeled food resembles and for which it substitutes, normally exceeds the definition for “low calorie” in 21 CFR 101.60(b)(2). The statement “Percent Daily Values are based on a 2,000 calorie diet” is required when the percent of Daily Value is declared for total fat, saturated fat, total carbohydrate, dietary fiber, or protein [21 CFR 101.9(c) and 21 CFR 101.36(b)(2)(iii)(D)]. Your VIL-Rx Tablets product does not declare any of the aforementioned (b)(2)-dietary ingredients; consequently, the latter statement is also not permitted.
+
+h.    Your VIL-Rx Tablets label declares 1% Daily Value for magnesium. Any (b)(2)-dietary ingredient not present, or in amounts that can be declared as zero in 101.9(c), (e.g. less than 2% RDI for vitamins and minerals), shall not be declared in accordance with 21 CFR 101.36(b)(2)(i)).
+
+i.      The header “Supplement Facts” is to be set the entire width of the supplement facts label and without a bar placed under the header as required by 21 CFR 101.36(e)(1).
+
+2.    Your VIL-Rx Tablets product label fails to include a statement of identity as a “dietary supplement,” as required by 21 CFR 101.3(g).
+
+3.    Your VIL-DHA Capsules product label fails to declare the common or usual names of each ingredient used as required by 21 CFR 101.4(a)(1). For example, the product is manufactured into gelatin capsules, but the label fails to declare capsule ingredients in an ingredient list below the Supplement Facts label, in accordance with 21 CFR 101.4(g).
+
+4.    Your VIL-Rx Tablets product label fails to list a city, state and zip code in accordance with 21 CFR 101.5(d).
+
+Conclusion 
+
+Violations cited in this letter are not intended as an all-inclusive list. You are responsible for investigating these violations, for determining the causes, for preventing their recurrence, and for preventing other violations.
+
+Correct the violations cited in this letter promptly. Failure to promptly correct these violations may result in legal action without further notice including, without limitation, seizure and injunction. Unresolved violations in this warning letter may also prevent other Federal agencies from awarding contracts.
+
+Until these violations are corrected, we may withhold approval of pending drug applications listing your facility. We may re-inspect to verify that you have completed your corrective actions. We may also refuse your requests for export certificates.
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Your written notification should refer to the Warning Letter Number above,Case #566336. Please electronically submit your signed reply on your firm’s letterhead to CDR John W. Diehl, M.S., Director, Compliance Branch, at john.diehl@fda.hhs.gov, orapharm2_responses@fda.hhs.gov, and orapharm1_responses@fda.hhs.gov.
+
+If you have questions regarding the contents of this letter, please contact Ms. Rebecca Asente, M.S., Compliance Officer, at (504) 846-6104 or Rebecca.asente@fda.hhs.gov.
+
+ 
+
+Sincerely,
+
+/S/
+
+Diana Amador-Toro
+
+Program Division Director
+
+Office of Pharmaceutical Quality Operations, Division I
+
+ 
+
+CC:
+
+ 
+
+Damaris McWilliams
+
+Chief Executive Officer
+
+Vilvet Pharmaceuticals Inc.
+
+11281 Nw 33rd Street
+
+Coral Springs, Florida 33065
