@@ -1,16 +1,19 @@
-import os
 import json
-from qdrant_client import QdrantClient
-from qdrant_client.http.models import PointStruct
-from qdrant_client.http.exceptions import UnexpectedResponse
-from sentence_transformers import SentenceTransformer
+import os
+from pathlib import Path
+
 from dotenv import load_dotenv
+from qdrant_client import QdrantClient
+from qdrant_client.http.exceptions import UnexpectedResponse
+from qdrant_client.http.models import PointStruct
+from sentence_transformers import SentenceTransformer
 
 
 def main():
-    load_dotenv()
+    _ = load_dotenv()
     with open(
-        "/Users/mobin.azimipanah/Desktop/Berkley/regulAItor/src/data/output/validated_summaries.json",
+        Path(__file__).parent.parent.parent.parent
+        / "data/output/validated_summaries.json",
         "r",
     ) as f:
         data_samples = json.load(f)
