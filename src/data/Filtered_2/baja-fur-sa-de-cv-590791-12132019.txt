@@ -1,0 +1,240 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+              Reference #: 
+        320-20-12
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Eric Chen
+          
+
+                                
+  
+    Recipient Title
+              CEO
+          
+
+          
+            Baja Fur S.A. de C.V.
+
+                      Markwins Beauty Brands, Inc.
+          
+                      22067 Ferrero Parkway
+City of Industry, CA 91789
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research | CDER
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+
+December 13, 2019
+
+
+Warning Letter 320-20-12
+
+Dear Mr. Chen:
+
+The U.S. Food and Drug Administration (FDA) inspected the site procured by Baja Fur S.A. de C.V., FEI 3012285699, at Avenida Alejandro Graham Bell 19296, Zona Cerril General, C.P. 22163, Tijuana, Mexico from July 8 to 12, 2019. where Mark wins Beauty Brands, Inc. conducts and oversees drug manufacturing operations.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed the August 1, 2019 response submitted by Mark wins Beauty Brands to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence. Your response is inadequate because it did not provide sufficient detail and evidence of corrective actions to bring your operations into compliance with CGMP.
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to thoroughly investigate any unexplained discrepancy or failure of a batch or any of its components to meet any of its specifications, whether or not the batch has already been distributed (21 CFR 211.192).
+
+You did not adequately investigate the out-of-specification (OOS) microbiological contamination that caused you to reject (b)(4) batches of your over-the-counter (OTC) drug product (b)(4) including results as high as (b)(4) CFU/g. While you documented these OOS results in you annual product review. you failed to conduct an adequate investigation to prevent recurrence or microbial contamination in the drug products you manufacture for the U.S. market.
+
+We also note that your microbiological testing of drug products is listed as "Modified USP61" by your contract testing lab. Your written procedure for microbial testing of drug products specifies incubation of total plate count samples at (b)(4) USP chapter <61> defines incubation parameters for microbiological testing that differ from your procedure. It is essential that each batch of drug product is suitably tested to determine conformance with appropriate microbiological quality specifications.
+
+In your response, you stated that you would establish a written procedure to "fully capture investigation of errors, OOS and rejected products." You further stated that you would investigate "all OOS and rejected products."
+
+Your response is inadequate. You failed to provide details of your investigation into the source of microbiological contamination. You also did not address any distributed product batches that may be compromised by microbiological contamination.
+
+In response to this letter, provide:
+
+
+	A comprehensive assessment of your overall system for investigating deviations, discrepancies, complaints, OOS results, and failures. Provide a detailed action plan to remediate this system. Your action plan should include, but not be limited to, significant improvements in investigation competencies, scope determination, root cause evaluation, corrective action and preventive action (CAPA) effectiveness, quality unit oversight, and written procedures. Address how your firm will ensure that all phases of investigations are conducted appropriately.
+	Your complete investigations into all batches found to have out-of-specification total counts or objectionable microbes. The updated investigations should detail your findings on the likely root causes of the contamination. Specify actions that you will take in response to the investigation, that may include further customer notifications and product recalls.
+	A detailed CAPA plan to ensure that failing drug products are not distributed to the U.S. in the future.
+	Appropriate microbiological batch release specifications (i.e., total counts, identification of bioburden to detect objectionable microbes) for each of your drug products.
+	Microbiological testing methods that conform to USP <61> and <62>, which are capable of recovering product bioburden and determining whether any microorganisms are objectionable relative to the product's intended use, route of administration, and patient (i.e., consumer) population.
+	A commitment to test each batch using qualified methods to ensure conformance to finished product specifications before final disposition decision.
+	A comprehensive assessment of your firm's manufacturing operations with emphasis on microbiological controls and contamination prevention.
+
+
+2. Your firm failed to prepare batch production and control records that include documentation of the accomplishment of each significant step in the manufacture, processing, packing, or holding of the batch, for each batch of drug product (21 CFR
+211.188(b)).
+
+Your batch records do not include adequate production details, including but not limited to identifying significant steps in filling operations and the person(s) performing each significant step in the drugs you manufacture. This documentation is necessary to establish that manufacturing processes were consistently followed and are reproducible.
+
+In your response, you stated that your "Batch History Record" procedure would be updated and that a "Critical process parameters" form would be created as part of the Batch History Record for your drug products.
+
+Your response is inadequate. You failed to provide details of your procedural updates to confirm your compliance with batch production and control record requirements. Your response also fails
+to provide information regarding your review, assessment, and identification of any significant
+process parameters applicable to drug product packaging and labeling operations.
+
+In response to this letter, provide:
+
+
+	Your master production and control records for your drug products to demonstrate that they fully document each significant and validated manufacturing step.
+	A complete assessment of documentation systems used throughout your manufacturing operations to determine where documentation practices are insufficient. Include a detailed CAPA plan that comprehensively remediates your firm's documentation practices to ensure you retain attributable, legible, complete, original, accurate, and contemporaneous records throughout your operation.
+
+
+3. Your firm failed to establish adequate written procedures for cleaning and maintenance of equipment (21 CFR 211.67(b)).
+
+Your firm fills and packages various drug products using shared equipment. Your firm did not adequately validate your cleaning procedures to ensure that your drug products are not contaminated by other drugs you manufacture on the same equipment.
+
+For example, your cleaning validation for the (b)(4) system does not provide adequate assurance that your cleaning procedures for this shared equipment are sufficient to prevent cross-contamination. Inadequate removal of residues from manufacturing equipment during cleaning can cross-contaminate products subsequently manufactured on shared equipment.
+
+In your response, you stated that you will update your procedure for operating, maintaining, and cleaning the (b)(4), and create a cleaning validation studies checklist.
+
+Your response is inadequate in that it failed to assess the risk of potential cross-contamination and its effect on product quality and your marketed batches of drug product manufactured on this shared equipment.
+
+In response to this letter, provide:
+
+
+	Appropriate improvements to your cleaning validation program, with special emphasis on incorporating conditions identified as worst case in your drug manufacturing operation. This should include but not be limited to identification and evaluation of all worst-case:
+
+
+        o drugs with higher toxicities
+        o drugs with higher drug potencies
+        o drugs of lower solubility in their cleaning solvents
+        o drugs with characteristics that make them difficult to clean
+        o swabbing locations for areas that are most difficult to clean
+        o maximum hold times before cleaning
+
+In addition, describe the steps that must be taken in your change management system before introducing new manufacturing equipment or a new product.
+
+
+	A summary of updated SOPs that ensure an appropriate program is in place to verify and validate cleaning procedures for products, processes, and equipment.
+
+
+CGMP consultant recommended
+
+Based upon the nature of the violations we identified at your firm, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements. We also recommend that the qualified third party perform a comprehensive audit of your entire operation for CGMP compliance and evaluate the effectiveness of your corrective actions and preventive actions.
+
+Your use of a consultant does not relieve your firm's obligation to comply with CGMP. Your firm's executive management remains responsible for fully resolving all deficiencies and ensuring ongoing CGMP compliance.
+
+Conclusion
+
+Violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of these violations and for preventing their recurrence or the occurrence of other violations.
+
+Until you correct all violations completely and we confirm your compliance with CGMP, FDA may withhold approval of any new drug applications or supplements listing your firm as a drug manufacturer.
+
+Failure to correct these violations may also result in the FDA refusing admission of articles manufactured at Baja Fur S.A. de C.V. at Avenida Alejandro Graham Bell 19296, Zona Cerril General, C.P. 22163, Tijuana, Mexico into the United States under section 801(a)(3) of the FD&C Act, 21 U.S.C. 381(a)(3). Articles under this authority may be subject to refusal of admission, in that the methods and controls used in their manufacture do not appear to conform to CGMP within the meaning of section 501(a)(2)(B) of the FD&C Act, 21 U.S.C. 351(a)(2)(B).
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to CDER-OC-OMO-Communications@fda.hhs.gov or mail your reply to:
+
+Rebecca Dombrowski
+Compliance Officer
+U.S. Food and Drug Administration
+White Oak Building 51. Room 4235
+10903 New Hampshire Avenue
+Silver Spring, MD 20993
+USA
+
+Please identify your response with FEI 3012285699.
+
+Sincerely,
+/S/
+Francis Godwin
+Director
+Office of Manufacturing Quality
+Office of Compliance
+Center for Drug Evaluation and Research
+
+ 
+
+Cc: Leonardo Gomez. VP of Manufacturing
+Baja Fur S.A. de C. V.
+Fur S.A. de C.V. (Markwins Beauty Brands)
+Avenida Alejandro Graham Bell 19296
+Zona Cerril General, C.P. 22163
+Tijuana, BC
+Mexico
+
+Cc: Ross Baldwin
+Owner
+Baja Fur S.A. de C. V.
+Avenida Alejandro Graham Bell 19296
+Zona Cerril General, C.P. 22163
+Tijuana, BC
+Mexico
+
+Cc: Derrick Baldwin
+Owner
+Baja Fur S.A. de C.V.
+Avenida Alejandro Graham Bell 19296
+Zona Cerril General, C. P. 22163
+Tijuana, BC
+Mexico

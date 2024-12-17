@@ -1,0 +1,164 @@
+Delivery Method: 
+        VIA UNITED PARCEL SERVICE SIGNATURE REQUIRED
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+              Reference #: 
+        CBER 24-646460
+      
+              Product: 
+        Biologics                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Merrill B. Stromer
+          
+
+                                
+  
+    Recipient Title
+              Chairman
+          
+
+          
+            Amnio Technology, LLC
+
+          
+                      22510 N. 18th Drive
+Phoenix, AZ 85027-1363
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Biologics Evaluation and Research (CBER)
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+WARNING LETTER
+
+October 1, 2024
+
+CBER 24-646460
+
+Dear Dr. Stromer:
+
+During an inspection of your firm, Amnio Technology, LLC, located at 22510 N. 18th Drive, Phoenix, AZ 85027, conducted between August 15, 2022, and August 29, 2022, and your storage and distribution facility, located at (b)(4), conducted between August 17, 2022, and August 29, 2022, the United States Food and Drug Administration (FDA) documented your manufacture of an amniotic membrane and amniotic fluid derived product, PalinGen® Flow®, and an amniotic fluid derived product, PalinGen® InovōFlo® (hereinafter, your products). You have distributed your products to third-party distributors, hospitals, and medical clinics throughout the United States.1 Your products are intended for injection and purported to be sterile.
+
+Information and records gathered prior to, during, and/or after the inspection, including information from your contract manufacturer, (b)(4), reflect that your products are intended for use in the cure, treatment or prevention of diseases or conditions, such as wound healing and/or are intended to affect the structure or function of the body. For example, your promotional materials for PalinGen Flow state, “PalinGen Flow contain[s] key growth factors, cytokines, amino acids… hyaluronic acid, extracellular matrix proteins and cellular components recognized as intrinsic to the complex wound healing process,” and “Amniotic tissue is a rich source of various biologically active factors involved in tissue regeneration and wound healing with reported anti-inflammatory, anti-bacterial, re-epithelialization and anti-fibrotic properties.” Your promotional materials for PalinGen InovoFLo state, “Amniotic fluid possesses anti-inflammatory, anti-microbial and regenerative properties that make it attractive for use in clinical applications.”
+
+As a result, your products are drugs as defined in section 201(g)(1) of the Federal Food, Drug, and Cosmetic Act (FD&C Act) [21 U.S.C. 321(g)(1)] and biological products as defined in section 351(i) of the Public Health Service Act (PHS Act) [42 U.S.C. 262(i)].
+
+Because PalinGen® Flow® contains amniotic membrane, in addition to being a drug and biological product, it is also a human cell, tissue, or cellular or tissue-based product (HCT/P) as defined in 21 CFR 1271.3(d) and is subject to regulation under 21 CFR Part 1271, issued under the authority of section 361 of the PHS Act [42 U.S.C. 264]. HCT/Ps that do not meet all the criteria in 21 CFR 1271.10(a), and when no exception in 21 CFR 1271.15 applies, are not regulated solely under section 361 of the PHS Act, and are regulated as drugs, devices, and/or biological products under the FD&C Act and/or the PHS Act, and are subject to additional regulation, including appropriate premarket review.
+
+Based on a review of the materials described above, Amnio Technology, LLC does not qualify for any exception in 21 CFR 1271.15, and PalinGen® Flow® fails to meet all the criteria in 21 CFR 1271.10(a). Therefore, PalinGen® Flow® is not regulated solely under section 361 of the PHS Act [42 U.S.C. 264] and the regulations in 21 CFR Part 1271.
+
+For example, PalinGen® Flow® fails to meet the minimal manipulation criterion set forth in section 1271.10(a)(1) and defined for structural tissue in section 1271.3(f)(1). During the manufacturing process for PalinGen® Flow®, amniotic membrane is processed (b)(4) to a flowable form that can be administered by injection. The amniotic membrane is more than minimally manipulated because such processing alters the original relevant characteristics of the HCT/P relating to its utility to serve as a barrier by effectively eliminating its physical integrity, tensile strength, and elasticity.
+
+PalinGen® Flow® also fails to meet other criteria set forth in 21 CFR 1271.10(a). For example, PalinGen® Flow® fails to meet the criterion in 21 CFR 1271.10(a)(2) that the HCT/P be “intended for homologous use only, as reflected by the labeling, advertising, or other indications of the manufacturer's objective intent.” PalinGen® Flow® is not intended solely to perform the same basic function or functions of amniotic membrane in the recipient as in the donor (such as serving as a selective barrier for the movement of nutrients between the external and in utero environment, protecting the fetus from the surrounding maternal environment, and serving as a covering to enclose the fetus and retain fluid in utero). Rather, PalinGen® Flow® is intended, for example, for use in wound healing and tissue regeneration, which are not homologous uses of amniotic membrane as defined in 21 CFR 1271.3(c).2
+
+PalinGen® InovōFlo® is not an HCT/P. The definition of HCT/Ps in 21 CFR 1271.3(d) excludes secreted or extracted human products. Accordingly, secreted body fluids, such as amniotic fluid, are not considered HCT/Ps. Because PalinGen® InovōFlo® meets the definition of a drug under section 201(g) of the FD&C Act and a biological product under section 351(i) of the PHS Act, your product is regulated as a drug under the FD&C Act and a biological product under the PHS Act and requires premarket review and approval.
+
+To lawfully market a drug that is a biological product, a valid biologics license must be in effect [42 U.S.C. 262(a)]. Such licenses are issued only after showing that the product is safe, pure, and potent. A biological product for which a biologics license application (BLA) has been approved under section 351(a) of the PHS Act is not required to have an approved application under section 505 of the FD&C Act [21 U.S.C. § 355; 42 U.S.C. § 262(j)]. Otherwise, with certain exceptions not applicable here, a new drug may not be introduced or delivered for introduction into interstate commerce without an approved application from FDA in effect, as described in section 505(a) of the FD&C Act. While in the development stage, such products may be distributed for clinical use in humans only if the sponsor has an investigational new drug application (IND) in effect as specified by FDA statutory and regulatory requirements [21 U.S.C. 355(i); 42 U.S.C. 262(a)(3); 21 CFR part 312].
+
+Neither PalinGen® Flow® nor PalinGen® InovōFlo® are the subject of an approved BLA or an approved application under section 505(a) of the FD&C Act. Since (b)(4), Amnio Technology, LLC (b)(4) However, FDA’s inspection documented your distribution of PalinGen® Flow® for human use outside of a clinical investigation. Therefore, you are not exempt from the requirement to have an approved BLA or an approved application under section 505(a) in effect for PalinGen Flow. Further, (b)(4) PalinGen InovoFlo. Based on our review these products are unapproved new drugs, and your firm’s introduction or delivery for introduction of products into interstate commerce violates sections 301(d) [21 U.S.C. § 331(d)] and 505(a) of the FD&C Act and section 351(a)(1) of the PHS Act.
+
+Additionally, during the inspection, FDA investigators documented evidence of significant deviations from current good manufacturing practice (CGMP) requirements, including deviations from section 501(a)(2)(B) of the FD&C Act and 21 CFR Parts 210 and 211.
+
+At the close of the inspection, the FDA investigators issued a Form FDA-483, List of Inspectional Observations (FDA-483), which described a number of significant CGMP deviations applicable to your products. These deficiencies include, but are not limited to, the following:
+
+1. Failure to establish written procedures for production and process control designed to assure that the drug products have the identity, strength, quality, and purity they purport or are represented to possess [21 CFR 211.100(a)]. Specifically, your firm did not validate the manufacturing processes for PalinGen® Flow® or PalinGen® InovōFlo® with respect to identity, strength, quality, and purity.Your firm’s validation protocol is insufficient as it does not include supporting data demonstrating that your firm’s manufacturing process can consistently yield expected product characteristics.. Your firm distributed approximately (b)(4) units of PalinGen® Flow® and approximately (b)(4) units of PalinGen® InovFlo® since January 2020 to August 2022. These units were distributed without process validation for these products.
+
+2. Failure to establish and follow a written testing program designed to assess the stability characteristics of drug products and to use the results of such stability testing to determine appropriate storage conditions and expiration dates [21 CFR 211.166(a)]. Specifically, your firm has assigned a two-year expiration date to your products without adequate data demonstrating the stability characteristics of the products. For example, in your study protocol for PalinGen® Flow® under PROT-ENG-148, only assessed (b)(4) and (b)(4) and did not include tests for sterility.
+
+3. Failure to follow written procedures describing the handling of all written and oral complaints regarding a drug product [21 CFR 211.198(a)]. For example, the report for consumer complaint CC-000159 related to PalinGen® Flow® indicated that the incident involved a communicable disease and required medical/surgical intervention; however, you did not report this event to FDA within 15 days, as required by your written complaint procedure.
+
+We acknowledge receipt of your letters dated September 16, 2022, June 7, 2023, and December 20, 2023, which respond to the FDA-483. In your response, you represent that you have corrected the deficiencies documented on the FDA-483. However, your responses and the corrective actions described are not adequate to address our concerns. For example, in your response, you reference a validation protocol completed for PalinGen® Flow; however, you failed to provide supporting data to demonstrate that your manufacturing process can consistently yield product that meets established product specifications.
+
+Your response also does not adequately address the inventory you still have at your facility and your specific plans for the disposition of this product inventory. Nor do you describe actions you have taken or plan to take to address the impact of the above-noted deficiencies on your products that you distributed.
+
+Your response further does not adequately address your lack of an approved BLA to lawfully market your products. As noted above, to lawfully market a drug that is a biological product, a valid biologics license must be in effect [42 U.S.C. 262(a)]. Such licenses are issued only after showing that the product is safe, pure, and potent. While in the development stage, such products may be distributed for clinical use in humans only if the sponsor has an IND in effect, as specified by FDA statutory and regulatory requirements that cover such clinical use [21 U.S.C. 355(i); 42 U.S.C. 262(a)(3); 21 CFR parts 312].
+
+Neither this letter nor the observations noted on the FDA-483 are intended to be an all-inclusive list of deficiencies that may be associated with your products. It is your responsibility to ensure full compliance with the FD&C Act, PHS Act, and all applicable regulations.
+
+This letter notifies you of our findings and provides you an opportunity to address them. Failure to adequately address these matters may lead to regulatory action without further notice. Such actions include seizure and/or injunction.
+
+For further information about IND requirements for biological products, please contact the Center for Biologics Evaluation and Research (CBER), Division of Regulatory Project Management, Office of Therapeutic Products, at (240) 402-8190, or OTPRPMS@fda.hhs.gov. Please include a copy of this letter with your initial submission to CBER.
+
+We also have concerns regarding your (b)(4) sterilized amniotic fluid derived product, ProMatrX ACF®. Based on our review, this product is a biological product as defined in section 351(i) of the Public Health Service Act (PHS Act) [42 U.S.C. 262(i)]. It is also either a drug under section 201(g) of the FD&C Act or a device under section 201(h) of the FD&C Act. To lawfully market a biological product, either a valid biologics license or, as applicable, an appropriate device premarket authorization must be in effect. If you would like more information on which pathway is appropriate for this product, please contact us.
+
+We request that you respond in writing within fifteen (15) working days from your receipt of this letter, outlining the specific steps you have taken or plan to take to take to address any violations and prevent their recurrence. Include any documentation necessary to show that the matters have been addressed. If you do not believe your products are in violation of the FD&C Act, the PHS Act, or applicable regulations, include your reasoning and any supporting information for our consideration. If you cannot address these matters completely within fifteen (15) working days, please explain the reason for your delay and the time frame for completion.
+
+Send your electronic response to CBERDCMRecommendations@fda.hhs.gov. If you have questions regarding this letter, contact the Division of Case Management, CBER at (240) 402-9156.
+
+Sincerely,
+/S/
+
+Melissa J. Mendoza
+Director
+Office of Compliance and Biologics Quality
+Center for Biologics Evaluation and Research
+
+Cc:
+
+(b)(4)
+
+_________________________
+
+1 You manufacture an amniotic membrane derived product for private label customers using (b)(4) manufacturing process used for Palingen Flow under product names including (b)(4), ASGFluid, Cell-ECT, Gryphon Amnio Flow, SXFluid, and (b)(4). The instructions for use are the same as those for PalinGen Flow. You also manufacture an amniotic membrane and amniotic fluid derived product for private label customers using the same manufacturing process used for PalinGen InovoFlo under the product name (b)(4). The instructions for use are the same as those for PalinGen InovoFlo.
+
+2 Because your amniotic membrane and amniotic fluid derived product, PalinGen® Flow®, fails to meet the criterion at 21 CFR 1271.10(a)(1) and also fails to meet the criterion at 21 CFR 1271.10(a)(2), this letter does not address whether this product meets the criteria at 21 CFR 1271.10(a)(3) or (a)(4).

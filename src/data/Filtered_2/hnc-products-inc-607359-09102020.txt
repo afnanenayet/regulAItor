@@ -1,0 +1,249 @@
+Delivery Method: 
+        UPS Next Day
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Dr. Vishnu Potini
+          
+
+                                
+  
+    Recipient Title
+              President
+          
+
+          
+            HNC Products Inc. 
+
+          
+                      1619 Commerce Parkway
+Bloomington, IL 61704
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Division of Pharmaceutical Quality Operations III
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+September 10, 2020
+
+WARNING LETTER
+
+
+Ref: Case 607359
+
+Dear Dr. Potini:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, HNC Products Inc., FEI 3000205427, at 8631 Sunset Road, Clinton, Illinois, from March 10 to 17, 2020.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+Our inspection also revealed that your firm failed to fulfill its registration and listing obligations under section 510 of the FD&C Act, which is prohibited under section 301(p), 21 U.S.C. 360 and 331(p). As a result, your drugs are misbranded under section 502(o) of the FD&C Act, 21 U.S.C. 352(o).
+
+We reviewed your April 3, 2020, response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence.
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to thoroughly investigate any unexplained discrepancy or failure of a batch or any of its components to meet any of its specifications, whether or not the batch has already been distributed (21 CFR 211.192).
+
+You failed to thoroughly investigate an out-of-specification (OOS) assay test result, a critical product attribute, for one of your sunscreen drug products. Specifically, your investigation into the OOS result for (b)(4) batch (b)(4) lacked critical information in sufficient detail, such as sample and standard preparation, root cause analysis, conclusion of investigation, and corrective action and preventive action (CAPA).
+
+In addition, original data associated with the OOS result was overwritten and unavailable for review. Furthermore, the only information available in your investigation was that (b)(4) results were high and OOS. Your rationale for invalidating the test failure lacked a substantive scientific evaluation and did not follow your procedure for investigating OOS results.
+
+Your response acknowledged that you did not have a formalized written review and investigation into the OOS result, and that your procedure lacked a requirement for root cause analysis and CAPA determination. You stated that you updated the (b)(4) method on the software to prevent deleting or overwriting results, although the quality control (QC) manager still retains the ability to do so.
+
+Your response is inadequate because your revised procedure for OOS investigation provided in response to this violation continued to lack sufficient details on how your firm will meaningfully investigate OOS occurrences. We also note that your laboratory manager still retains the ability to delete and overwrite results, which is unacceptable. It is your fundamental GMP responsibility to ensure that laboratory records include complete data derived from all tests necessary to assure compliance with established specifications and standards.
+
+The lack of control over the integrity of your data raises questions about the authenticity and reliability of your analytical data and the quality of your drug products.
+
+For more information about handling out-of-specification, out-of-trend, or other unexpected results and documentation of your investigations, see FDA’s guidance document Investigating Out-of-Specification (OOS) Test Results for Pharmaceutical Production at https://www.fda.gov/media/71001/download.
+
+In response, provide the following:
+
+a. A retrospective review of all invalidated OOS (including in-process and release/stability testing) results for products currently in the U.S. for the last three years from the initial date of inspection and a report summarizing the findings of the analysis, including the following for each OOS:
+  i. Determine whether the scientific justification and evidence relating to the invalidated OOS result conclusively or inconclusively demonstrates causative laboratory error
+  ii. For investigations that conclusively establish laboratory root cause, provide rationale and ensure that all other laboratory methods vulnerable to the same or similar root cause are identified for remediation
+  iii. For all OOS results found by the retrospective review to have an inconclusive or no root cause identified in the laboratory, include a thorough review of production (e.g., batch manufacturing records, adequacy of the manufacturing steps, suitability of equipment/facilities, variability of raw materials, process capability, deviation history, complaint history, batch failure history). Provide a summary of potential manufacturing root causes for each investigation, and any manufacturing operation improvements.
+
+b. A comprehensive review and remediation plan for your OOS result investigation systems. The CAPA should include but not be limited to addressing the following:
+  i. Quality unit oversight of laboratory investigations
+  ii. Identification of adverse laboratory control trends
+  iii. Resolution of causes of laboratory variation
+  iv. Initiation of thorough investigations of potential manufacturing causes whenever a laboratory cause cannot be conclusively identified
+  v. Adequate scoping of each investigation and its CAPA
+  vi. Revised OOS investigation procedures with these and other remediations
+
+c. A complete assessment of documentation systems used throughout your manufacturing and laboratory operations to determine where documentation practices are insufficient. Include a detailed CAPA plan that comprehensively remediates your firm’s documentation practices to ensure you retain attributable, legible, complete, original, accurate, and contemporaneous records throughout your operation.
+
+d. A detailed description of how your firm will implement an effective system to ensure retention and review of written and electronic laboratory data. Include the following:
+  i. Summarize your interim controls to prevent deletion and modification of data.
+  ii. Define the roles and responsibilities of personnel who have access to analytical instruments and data.
+  iii. Establish a procedure to ensure that all analytical data including but not limited to sample and standard preparation are documented in accordance with CGMP requirements.
+  iv. Detail the user privileges for all staff for each of your analytical systems.
+  v. Provide a detailed summary of your procedural updates and associated training for user role assignments and controls.
+
+2. Your firm failed to establish adequate written procedures for production and process control designed to assure that the drug products you manufacture have the identity, strength, quality, and purity they purport or are represented to possess, and your firm's quality control unit did not review and approve those procedures, including any changes (21 CFR 211.100(a)).
+
+You did not perform process validation studies for your sunscreen products. During the inspection, you were not able to provide documentation that process performance qualification (PPQ) studies had been conducted to establish that your processes are capable of consistently delivering quality product. Furthermore, you did not have an ongoing program for monitoring process control to ensure stable manufacturing operations and consistent drug quality.
+
+In your response, you provided a new procedure for process validation. Your response is inadequate because it failed to include a detailed process performance protocol and actions to identify all sources of variability. Additionally, your response did not provide a timeline for completion of PPQ studies for each of your drug products.
+
+Successful process qualification studies are necessary before commercial distribution. Thereafter, ongoing vigilant oversight of process performance and product quality is necessary to ensure you maintain a stable manufacturing operation throughout the product lifecycle.
+
+See FDA’s guidance document Process Validation: General Principles and Practices for general principles and approaches that FDA considers appropriate elements of process validation at https://www.fda.gov/media/71021/download.
+
+In response, provide the following:
+
+a. A detailed summary of your validation program for ensuring a state of control throughout the product lifecycle, along with associated procedures. Describe how your program ensures appropriate design, how you approach process performance qualification studies, and how you perform vigilant monitoring of both intra-batch and inter-batch variation to ensure an ongoing state of control.
+
+b. A timeline for performing appropriate process performance qualification (PPQ) for each of your marketed drug products.
+
+c. Include your PPQ protocols, and written procedures for qualification of equipment and facilities.
+
+d. For the PPQ studies, include the statistical basis for intensively evaluating the sources of variation in your manufacturing operation, number of batches per product, and other important parameters of your study.
+
+3. Your firm failed to establish an adequate quality control unit with the responsibility and authority to approve or reject all components, drug product containers, closures, in-process materials, packaging materials, labeling, and drug products (21 CFR 211.22(a)).
+
+You failed to establish an independent and effective quality unit. For example, you failed to perform adequate quality unit (QU) responsibilities, such as the review of OOS investigations and equipment qualification. In addition, your firm failed to establish a change management and annual product review program.
+
+Your response indicated that you do not have the resources to allow for a formal QU and that increased organization, documentation, and cross-checking will improve your QU. You also indicated that you updated existing procedures; created new ones, such as a procedure for investigations; and planned to implement annual product review.
+
+Your response is inadequate because you failed to provide documentation to demonstrate that you have implemented an effective QU capable of performing QU responsibilities. You also failed to provide copies of the procedures you updated or created, and a timeline for the remaining procedures.
+
+Establishing an adequate QU is essential to ensuring that your operations associated with all systems (facilities and equipment, materials, production, laboratory controls, and packaging and labeling) are appropriately planned, approved, conducted, and monitored, and ultimately ensures that your firm is capable of consistently producing drug products of acceptable quality.
+
+See FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations for help implementing quality systems and risk management approaches to meet the requirements of CGMP regulations 21 CFR, parts 210 and 211 at https://www.fda.gov/media/71023/download.
+
+In response, provide the following:
+
+a. A comprehensive assessment and remediation plan to ensure your QU is given the authority and resources to effectively function. The assessment should also include, but not be limited to:
+  i. A determination of whether procedures used by your firm are robust and appropriate
+  ii. Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices
+  iii. A complete and final review of each batch and its related information before the QU disposition decision
+  iv. Oversight and approval of investigations and discharging of all other QU duties to ensure identity, strength, quality, and purity of all drug products
+  v. Also describe how top management supports quality assurance and reliable operations, including but not limited to timely provision of resources to proactively address emerging manufacturing/quality issues and to assure a continuing state of control
+
+b. Information collected during the inspection indicated that bulk products are shipped outside of your firm’s control, prior to receipt of final laboratory test results. State whether your firm has discontinued this practice and provide the list of lots shipped and distributed prior to final receipt of laboratory results and QU clearance.
+
+Data Integrity Remediation
+
+Your quality system does not adequately ensure the accuracy and integrity of data to support the safety, effectiveness, and quality of the drugs you manufacture. See FDA’s guidance document Data Integrity and Compliance with Drug CGMP for guidance on establishing and following CGMP compliant data integrity practices at: https://www.fda.gov/media/97005/download.
+
+We strongly recommend that you retain a qualified consultant to assist in your remediation.
+
+In response, provide the following:
+
+a. A comprehensive investigation into the extent of the inaccuracies in data records and reporting including results of the data review for drugs distributed to the United States. Include a detailed description of the scope and root causes of your data integrity lapses.
+
+b. A current risk assessment of the potential effects of the observed failures on the quality of your drugs. Your assessment should include analyses of the risks to patients caused by the release of drugs affected by a lapse of data integrity and analyses of the risks posed by ongoing operations.
+
+c. A management strategy for your firm that includes the details of your global corrective action and preventive action plan. The detailed corrective action plan should describe how you intend to ensure the reliability and completeness of all data generated by your firm including microbiological and analytical data, manufacturing records, and all data submitted to the FDA.
+
+Quality Unit Authority
+
+Significant findings in this letter indicate that your quality unit is not able to fully exercise its authority and/or responsibilities. Your firm must provide the quality unit with the appropriate authority and sufficient resources to carry out its responsibilities and consistently ensure drug quality.
+
+Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements.
+
+We also recommend a consultant assist you in identifying which of your products are drugs, and therefore subject to the pharmaceutical CGMPs (21 CFR 210 and 211).
+
+Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Drug Registration Violation
+
+It was observed during the FDA’s inspection (March 10 to 17, 2020) of your facility HNC Products Inc., at 8631 Sunset Road, Clinton, Illinois, that this facility manufactures OTC drug products. Section 510(j) of the FD&C Act and 21 Code of Federal Regulations (CFR) Part 207 outlines the requirements for registration and listing of drug products. Your firm has failed to submit drug listing information to the FDA for the drugs manufactured at the above facility, including (b)(4) and (b)(4).
+
+Please note that even if you are the contract manufacturer organization for any of these drugs, you are required to register your facility and list all drugs manufactured at the facility. Drug listing requirements for a drug manufactured under contract include a listing submission for the contract manufacturer organization (registrant), under the contract manufacturer’s NDC; and a listing submission for the private label distributor (PLD), under the PLD’s NDC. If the PLD elects not to submit that information directly, it is the registrant’s responsibility to submit both listing files to FDA. See 21 CFR 207.41(c)(1) and 21 CFR 207.41(c)(2).
+
+Your firm failed to fulfill its listing obligations under section 510(j) of the FD&C Act, and your firm failed to fulfill its listing obligations, which is prohibited under section 301(p), (21 U.S.C. 360(j) and 331(p)). In addition, your firm’s failure to fulfill its drug listing obligations misbrands the product(s) you manufacture at this facility under section 502(o) of the FD&C Act. Introduction or delivery for introduction into interstate commerce of a misbranded product is a prohibited act under section 301(a) (21 U.S.C. 352(o) and 331(a)).
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of these violations and for preventing their recurrence or the occurrence of other violations.
+
+Correct the violations cited in this letter promptly. Failure to promptly correct these violations may result in legal action without further notice including, without limitation, seizure and injunction. Unresolved violations in this warning letter may also prevent other Federal agencies from awarding contracts.
+
+FDA may also withhold approval of requests for export certificates and approval of pending new drug applications or supplements listing your facility as a supplier or manufacturer until the above violations are corrected. We may re-inspect to verify that you have completed your corrective actions.
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion. If you believe that your products are not in violation of the FD&C Act or you have complied with FDA regulations, include your reasoning and any supporting information for our consideration.
+
+Please submit your response via email to ORAPHARM3_RESPONSES@FDA.HHS.GOV.
+
+Attention: Brett R. Havranek, Compliance Officer
+U.S. Food and Drug Administration
+Division of Pharmaceutical Quality Operations III
+
+If you have any questions, please contact Brett R. Havranek, Compliance Officer at (913) 495-5189.
+
+Sincerely,
+/S/
+
+Art O. Czabaniuk
+Program Division Director
+Division of Pharmaceutical Quality Operations III

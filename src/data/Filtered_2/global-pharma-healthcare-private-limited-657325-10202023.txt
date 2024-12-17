@@ -1,0 +1,442 @@
+Delivery Method: 
+        VIA Electronic Mail
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Dr. A.R. Venkatesh
+          
+
+                                
+  
+    Recipient Title
+              Chief Executive Officer
+          
+
+          
+            Global Pharma Healthcare Private Limited
+
+          
+                      A-9 SIDCO Pharmaceutical Complex
+Thiruporur 603110
+Tamil Nadu
+India
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research | CDER
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter 320-24-03
+
+October 20, 2023
+
+Dear Dr. Venkatesh:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Global Pharma Healthcare Private Limited, FEI 3012323885, at A-9 SIDCO Pharmaceutical Complex, Thiruporur, from February 20 to March 2, 2023.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+Because your drug products were prepared, packed, or held under insanitary conditions, whereby they may have become contaminated with filth or rendered injurious to health, your drug products are also adulterated within the meaning of section 501(a)(2)(A) of the FD&C Act, 21 U.S.C. 351(a)(2)(A)1.
+
+In addition, EZRICARE Artificial Tears, Delsam Pharma’s ARTIFICIAL TEARS, and Delsam Pharma’s ARTIFICIAL EYE OINTMENT are misbranded under section 502(j) of the FD&C Act, 21 U.S.C. 352(j), and Delsam Pharma’s ARTIFICIAL EYE OINTMENT is further misbranded under section 502(a) of the FD&C Act, 21 U.S.C. 352(a). Introduction or delivery for introduction of misbranded products into interstate commerce is prohibited under section 301(a) of the FD&C Act, 21 U.S.C. 331(a). These violations are described in more detail below.
+
+Pseudomonas aeruginosa Outbreak and FDA Testing of Samples
+
+In December 2022, FDA began collaborating with the Center for Disease Control and Prevention (CDC) on an investigation into the multistate outbreak of antibiotic-resistant Pseudomonas aeruginosa infections that ultimately affected more than 80 patients and led to 4 patient deaths and at least 14 cases of vision loss. As part of this investigation, FDA collected finished product samples of Artificial Tears and Artificial Eye Ointment batches that were manufactured by your facility, and we sent the samples for sterility testing at FDA laboratories. Our analysis of intact (unopened) units found that 18 batches of Artificial Tears were non-sterile. In addition, we also sampled a batch of your Artificial Eye Ointment product, and this batch was also found to be non-sterile. The testing of these intact units revealed that your ophthalmic drug products were intrinsically contaminated with microorganisms. Microbiological isolates from the non-sterile samples were further characterized using whole genome sequencing and compared to isolates in a national database.2 Pseudomonas aeruginosa isolates from three different batches of intact Artificial Tears samples collected by FDA were found to be close genetic matches to more than 85 clinical isolates associated with this outbreak. These test results demonstrate that these lots are adulterated under section 501(a)(1) of the FD&C Act, in that they have been contaminated with filth, and rendered injurious to health.
+
+Significantly, the pervasive contamination of your drug products, as indicated by FDA sample results, also demonstrates that all drugs made at your facility are adulterated under section 501(a)(2)(A) of the FD&C Act as they have been manufactured under insanitary conditions.
+
+In addition, two intact samples of Artificial Tears from different batches were found to contain visible, foreign particles.
+
+CGMP Violations
+
+We reviewed your March 22, 2023, response to our Form FDA 483 in detail. During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to establish and follow appropriate written procedures that are designed to prevent microbiological contamination of drug products purporting to be sterile, and that include validation of all aseptic and sterilization processes (21 CFR 211.113(b)).
+
+Inadequate Equipment and Processes
+
+A. You lacked adequate scientific evidence that the aseptic filling machine used for manufacture of Artificial Tears was suitable for its intended use. Your qualification report was inadequate, including a lack of data on any batches filled as part of the qualification study. Further, all batches of Artificial Tears distributed to the U.S. market were manufactured using filling machine parameters that were outside the design specifications of the equipment.
+
+B. You lacked validation of the processes used to manufacture your aseptically filled Artificial Tears, for example:
+
+• You failed to validate methods that were intended to render your ophthalmic drug products sterile. Specifically, you lacked a study to show the (b)(4) performed on your Artificial Tears product using a (b)(4) can reliably achieve sterilization.
+
+• Your media fill program lacked assurance that aseptic processing operations are appropriately performed to prevent microbial contamination. Our inspection found that you failed to perform appropriate and sufficient media fills studies, for example:
+    o Your media fills failed to adequately simulate the commercial aseptic manufacturing operation. Interventions were not simulated sufficiently or accurately. In addition, you have a manually intensive line with minimal barrier protection where the possibility of contamination is greater. Despite this, you filled (b)(4)-(b)(4)% of the production batch size during media fills.
+    o Manufacturing lines used to produce the Artificial Tears and Artificial Eye Ointment products were not qualified by three successful media fills.
+    o You removed integral units (i.e., units with intact container-closure systems) from media fills without adequate justification and failed to incubate all integral units for the full (b)(4) period.
+    o The personnel responsible for visual inspection of media-filled units lacked appropriate training and qualification.
+
+C. You lacked meaningful airflow pattern studies for your aseptic processing lines. The studies were not performed under dynamic conditions and lacked simulation of interventions and other routine activities that occur during aseptic manufacturing operations.
+
+D. Your firm also shipped an ointment product to the United States that was manufactured using a (b)(4) sterilization process. You failed to ensure the (b)(4) process employed by your contractor to sterilize your Artificial Eye Ointment was validated.
+
+Your response is inadequate, including the following:
+
+• You lack details of your internal investigation into the product contamination. Your investigation is not comprehensive, including but not limited to, a lack of descriptions of the activities performed and root cause analysis. You also lack details on sampling and laboratory methods used for environmental and other tests.
+
+• There is a lack of detail relating to future dynamic airflow pattern studies; heating, ventilation, and air conditioning (HVAC) system qualification; or media fill procedural revisions.
+
+• You also fail to include a commitment to validate the (b)(4) sterilization process and sterility test methods for the Artificial Eye Ointment products.
+
+Lack of Container Closure Integrity
+
+You lacked evidence of reliable container closure integrity for your multi-use ophthalmic products that purport to be sterile. While visual inspections revealed leakers during batch manufacture, there was no assurance that your visual inspection procedure was adequate.
+
+Your product distributors received complaints of leaking Artificial Tears and Artificial Eye Ointment units. FDA’s laboratory performed container closure integrity testing of Artificial Eye Ointment, batch H29, manufactured at your facility. FDA tested 20 units, and 1 unit was found to allow microbiological ingress, which further confirmed that your container-closure system lacks integrity and is insufficient for maintaining sterility. Notably, batch H29 was also found to be non-sterile through FDA testing.
+
+All sterile drugs must be packaged using a container-closure system that protects product integrity for the duration of its shelf-life. Maintenance of product integrity throughout stresses of its manufacture, storage, distribution, and consumer use is critical to product quality and safety. Loss of container-closure integrity is a direct cause of non-sterility of medicines.
+
+In your response, you state you will perform container-closure integrity testing using a dye ingress method for your Artificial Tears product and a comprehensive sterility assessment. Your response is inadequate because your container-closure integrity testing protocol does not extend to Artificial Eye Ointment. In addition, you do not sufficiently address the sensitivity of your dye ingress method. The sensitivity of the method to be employed for your study is unclear, and you do not indicate whether it is capable of correlating with detection of bacteria comparable in size to Pseudomonas aeruginosa. Furthermore, your response does not include details on the comprehensive sterility assessment.
+
+Inadequate Formulation for Artificial Tears and Artificial Eye Ointment
+
+You manufactured multi-dose, over-the-counter (OTC) ophthalmic drug products for the product owners, EzriCare LLC, and Delsam Pharma LLC. These products lacked antimicrobial properties to preserve the formulation. Significantly, your firm also marketed this multi-dose product without performing antimicrobial effectiveness studies. It is essential that multi-dose ophthalmic drug products contain one or more suitable substances that will preserve the product and minimize the hazard of injury resulting from incidental contamination during use.
+
+In your response, you state that antimicrobial effectiveness testing (AET) will be initiated for your Artificial Tears product, and you will use these studies to determine if a suitable preservative will be added to the formulation. Your response is inadequate because you do not explain why you failed to perform AET studies prior to launch of your drug product, and how you will correct such fundamental flaws in your product development program. You also make no commitment to conduct AET for the Artificial Eye Ointment formulation. In addition, although your protocol indicates that you follow the United States Pharmacopeia (USP), the acceptance criteria in the Artificial Tears protocol is less stringent and not in alignment with USP <51> Antimicrobial Effectiveness Testing.
+
+Inadequate Gowning Practices & Operator Qualification
+
+Cleanroom operators lacked adequate gowning and qualification for performing aseptic operations. Your deficient practices and procedures placed products at high risk for contamination, for example:
+
+A. A gowning demonstration revealed that cleanroom operators do not don sterile goggles and therefore have exposed skin around their eyes during aseptic operations.
+
+B. Cleanroom garments were not suitable for their intended use. For example, garments indicated to be clean were observed to be stained, worn out, and stored improperly. In addition, your firm re-used cleanroom garments for an unspecified number of times without tracking or validation.
+
+C. You lacked written procedures and a training program on proper aseptic behavior and gowning for cleanroom operators. You also lacked evidence that all cleanroom operators are qualified through participation in a media fill, and the microbiological limit set in your gowning validation procedure is unsuitable for aseptic operations.
+
+D. You lacked written procedures and a training program on proper aseptic behavior and gowning for cleanroom operators. You also lacked evidence that all cleanroom operators were qualified through participation in a media fill and justification for the microbiological limits used in your aseptic processing operator gowning qualification procedure (i.e., no more than (NMT) (b)(4) colony forming units (cfu) for each gowning location). You also lacked a commitment to systematically review staff qualifications and competencies throughout your operation, including but not limited to, ensuring an effective CGMP training program.
+
+In your response, you state that gowning qualification will be performed through media fills, and an in-house study will evaluate the impact of repeated sterilization cycles on cleanroom garments to establish an acceptable number of sterilization cycles. Your response is inadequate. You lack a comprehensive review of all aspects of personnel gowning, the qualification program, aseptic technique, cleanroom behavior, and an examination of the role of people as a contamination hazard in your processes. To further illustrate, you continue to lack substantive actions to implement sterile goggles, enhance practices to prevent sterile gown contamination, gowning qualification criteria (e.g., sampling requirements, location descriptions, acceptance limits with justifications), and many other basic elements of a compliant sterile facility. Your response also fails to address how your inadequate gowning practices impacted your sterile drug products.
+See FDA’s guidance document Sterile Drug Products Produced by Aseptic Processing—Current Good Manufacturing Practice to help you meet the CGMP requirements when manufacturing sterile drugs using aseptic processing at https://www.fda.gov/media/71026/download.
+
+In response to this letter, provide the following:
+
+• Comprehensive risk assessment of all contamination hazards with respect to your aseptic processes, equipment, and facilities, including an independent assessment that includes, but is not limited to:
+    o All human interactions within the ISO 5 area
+    o Equipment placement and ergonomics
+    o Air quality in the ISO 5 area and surrounding room
+    o Facility layout
+    o Personnel Flows and Material Flows (throughout all rooms used to conduct and support sterile operations)
+
+• A detailed remediation plan with timelines to address the findings of the independent contamination hazards risk assessment. Describe specific tangible improvements to be made to aseptic processing operation design and control at your facility. Explain how your corrective action and preventive action (CAPA) will robustly remediate your deficient sterile manufacturing operation. Also describe your plans for qualification and validation of your comprehensively remediated facility, processes and equipment.
+
+• A remediation plan that better assures ongoing management oversight throughout the manufacturing lifecycle of all drug products. Provide a more data-driven and scientifically sound program that identifies sources of process variability and assures that manufacturing (including both production and packaging) operations meet appropriate parameters and quality standards. This includes, but is not limited to, evaluating suitability of equipment for its intended use, ensuring quality of input materials, determining the capability and reliability of each manufacturing process step and its controls, and vigilant ongoing monitoring of process performance and product quality.
+
+• Your CAPA plan to implement routine, vigilant operations management oversight of facilities and equipment. This plan should ensure, among other things, prompt detection of equipment/facilities performance issues, effective execution of repairs, adherence to appropriate preventive maintenance schedules, timely technological upgrades to the equipment/facility infrastructure, and improved systems for ongoing management review.
+
+• Your plan to ensure that inspection and other quality control methods for container-closure systems, including but not limited to opaque bottles and ointment tubes, can robustly detect integrity breaches.
+
+• A comprehensive, independent assessment of the qualifications and competencies of staff to conduct their job duties throughout your operations, including:
+    o a system that ensures each staff member receives training to enable them to properly perform each of their job duties in advance of performing job tasks
+    o a review of your training curriculum, including courses, timing, frequency, and training effectiveness
+    o supervision to determine ongoing adherence of staff to procedures and proper practices
+    o provisions for retraining in response to deficient performance or, when appropriate, re-evaluating whether the individual has the appropriate qualifications and expertise (training, education, skills) for the type and complexity of their assigned work
+    o training of supervisors and managers in CGMPs
+
+2. Your firm failed to test samples of each component for identity and conformity with all appropriate written specifications for purity, strength, and quality. Your firm also failed to validate and establish the reliability of your component supplier’s test analyses at appropriate intervals (21 CFR 211.84(d)(1) and 211.84(d)(2)).
+
+You did not ensure that incoming lots of active pharmaceutical ingredient (API) and packaging materials were suitable for use in manufacturing.
+
+Your firm released API for use in drug manufacturing based on a component supplier’s certificate of analysis (COA), although you neither established the reliability of the analysis through appropriate validation nor performed identity testing. Notably, examples included two lots of carboxy methyl cellulose sodium API used to manufacture Artificial Tears batches distributed to the U.S. market.
+
+You also failed to adequately test primary packaging materials, including caps and plugs, used in the Artificial Tears container-closure system. For example, between 2019 and 2022, you received (b)(4) shipments of caps and plugs supplied as sterile from a vendor and released them for use based on the supplier’s COA without adequate testing.
+
+Identity testing for each component lot used in drug product manufacturing is required, and you may only rely on COA for other component attributes if you validate the supplier’s test results to ensure their reliability at appropriate intervals.
+
+A drug product produced by aseptic processing can become contaminated not only by unacceptable practices in the manufacturing operation, but also due to the use of one or more defective components, containers, or closures.
+
+Your response is inadequate for reasons that include, but are not limited to, the following:
+
+• You fail to indicate that all existing and new suppliers will be qualified.
+
+• It lacks details on procedural revisions to be made, including how you intend to establish and maintain assurance of the reliability of your supplier’s COA.
+
+• It also lacks details on your retrospective testing, including the scope of materials to be tested, sampling and testing methods, and how you intend to ensure that incoming materials are suitable for their intended use.
+
+We also note that you listed drug products with FDA as being manufactured at your facility and intended for distribution in the United States, including paracetamol syrup, clotrimazole 1%, and Diaprene Children Maximum Topical Creams, that contain components with a high risk of diethylene glycol (DEG) or ethylene glycol (EG) contamination, such as glycerin and propylene glycol. The use of ingredients contaminated with DEG or EG has resulted in various lethal poisoning incidents in humans worldwide. See FDA’s guidance document Testing of Glycerin, Propylene Glycol, Maltitol Solution, Hydrogenated Starch Hydrolysate, Sorbitol Solution, and Other High-Risk Drug Components for Diethylene Glycol and Ethylene Glycol to help you meet the CGMP requirements when manufacturing drugs containing ingredients at high-risk for DEG or EG contamination (“high-risk drug components”), at https://www.fda.gov/media/167974/download.
+
+In response to this letter, provide the following:
+
+• A comprehensive, independent review of your material system to determine whether all suppliers of components, containers, and closures, are each qualified and the materials are assigned appropriate expiration or retest dates. The review should also determine whether incoming material controls are adequate to prevent use of unsuitable components, containers, and closures.
+
+• The chemical and microbiological quality control specifications you use to test and release each incoming lot of components for use in manufacturing.
+
+• A summary of results obtained from testing all components to evaluate the reliability of the COA from each component manufacturer. Include your standard operating procedure (SOP) that describes this COA validation program.
+
+• A summary of your program for qualifying and overseeing contract facilities that test the drug products you manufacture.
+
+• A commitment to provide DEG and EG test results, no later than 30 calendar days from the date of this letter, from testing retains for all lots of high-risk drug components used in the manufacture of drug products. Alternatively, if a retain of a component lot is unavailable, perform retain sample testing of all potentially affected finished drug product batches for the presence of DEG and EG.
+
+• A full risk assessment for drug products that are within expiry which contain any ingredient at risk for DEG or EG contamination (including but not limited to glycerin). Take prompt and appropriate actions to determine the safety of all lots of the component(s) and any related drug product that could contain DEG or EG, including customer notifications and product recalls for any contaminated lots. Identify additional appropriate corrective actions and preventive actions that secure supply chains in the future, including but not limited to ensuring that all incoming raw material lots are from fully qualified manufacturers and free from unsafe impurities. Detail these actions in your response to this letter.
+
+• A description of how you will test each component lot for conformity with all appropriate specifications for identity, strength, quality, and purity. If you intend to accept any results from your supplier’s COA instead of testing each component lot for strength, quality, and purity, specify how you will robustly establish the reliability of your supplier’s results through initial validation as well as periodic revalidation. In addition, include a commitment to always conduct at least one specific identity test for each incoming component lot. In the case of glycerin, propylene glycol, and certain additional high-risk components we note that this includes the performance of parts A, B, and C of the United States Pharmacopeia (USP) monograph.
+
+3. Your firm failed to establish a system for monitoring environmental conditions in aseptic processing areas and an adequate system for cleaning and disinfecting the room to produce aseptic conditions (21 CFR 211.42(c)(10)(iv) and 211.42(c)(10)(v)).
+
+Sterilization and Cleaning
+
+You failed to adequately sterilize and clean your equipment used for drug product manufacturing, for example:
+
+A. You failed to ensure that all equipment with direct product contact was sterilized. During the inspection, you were not able to provide records showing sterilization of product contact equipment on the “(b)(4) Line,” including the filling (b)(4), (b)(4) tubing, and (b)(4) bowls. Review of sterilization records revealed that you only documented that garments and tools were sterilized. You also lacked written procedures describing sterilization of the manufacturing equipment.
+
+B. You failed to adequately clean the equipment used to aseptically produce Artificial Tears. Significantly, our investigators observed visible grease-like residue on product contact surfaces of your filling machine after they had been cleaned.
+
+You also lacked written procedures and other documentation describing cleaning of the manufacturing equipment.
+
+C. You lacked cleaning validation studies for the shared manufacturing equipment on the “(b)(4) Line.”
+
+Inadequately cleaned and maintained equipment can lead to cross-contamination and poor quality drug products.
+
+Your response is inadequate for reasons that include, but are not limited to, the following:
+
+• You fail to provide cleaning procedures or cleaning validation protocols. In addition, no commitment is made to comprehensively evaluate the suitability of your filling machine and other equipment for the manufacture of sterile drug products.
+
+• You fail to provide details of your proposed testing of retain samples.
+
+• You fail to provide explanations for the conflicting information provided to FDA investigators during the inspection. For example, investigators were initially told that (b)(4) bowls on the filling line were not cleaned or sterilized. These statements were later retracted; however, you were unable to provide sufficient information to support claims that (b)(4) bowls were cleaned and sterilized.
+
+Monitoring Environmental Conditions
+
+Your environmental monitoring (EM) program (including personnel monitoring (PM)) was inadequate for classified areas used to produce sterile ophthalmic drug products. For example, non-viable air samples were not collected inside the Grade A filling zone or the Grade B surrounding areas during active filling, you lacked studies to demonstrate that residual disinfectant would not interfere with the swabs used for viable surface monitoring, and you lacked identification data on isolates recovered from EM and PM sampling.
+
+Vigilant and responsive environmental and personnel monitoring programs should be designed to provide meaningful information on the state of control of your aseptic processing environment. Operations that include highly manually intensive aseptic activities warrant a more extensive environmental and personnel monitoring program, including but not limited to, heightened emphasis on well-timed sampling to appropriately monitor batch manufacturing conditions.
+
+In your response, you mention a limited number of environmental samples taken in January 2023 were sent to a third-party laboratory and these samples did not reveal Pseudomonas aeruginosa in your environment. This response is inadequate. The last batches of Artificial Tears shipped to the United States had been manufactured many months before (in April 2022) your limited sampling was conducted, according to records provided by your firm. Environmental sampling that occurs several months after batch manufacture is of little temporal significance. There is also minimal scientific value in testing sterile drug manufacturing areas solely for the presence of a single microbial species. You also had batch retain samples tested by a third-party laboratory and you reported in your response that these samples did not fail sterility testing. However, it is not unexpected that sterility testing of retains of otherwise contaminated batches may pass sterility testing because of the non-uniform nature of microbiological contamination. As noted above, many of your firm’s batches were found to be non-sterile upon FDA testing and were associated with grave adverse events.
+
+In response to this letter, provide the following:
+
+• A comprehensive, independent assessment of the design and control of your firm’s manufacturing operations, with a detailed and thorough review of all microbiological hazards.
+
+• A comprehensive, independent retrospective assessment of your cleaning effectiveness to evaluate the scope of cross-contamination hazards. Include the identity of residues, other manufacturing equipment that may have been improperly cleaned, and an assessment whether cross-contaminated products may have been released for distribution. The assessment should identify any inadequacies of cleaning procedures and practices and encompass each piece of manufacturing equipment used to manufacture more than one product.
+
+• A CAPA plan, based on the retrospective assessment of your cleaning and disinfection program, that includes appropriate remediations to your cleaning and disinfection processes and practices, and timelines for completion. Provide a detailed summary of vulnerabilities in your process for lifecycle management of equipment cleaning and disinfection. Describe improvements to your cleaning and disinfection program, including enhancements to cleaning effectiveness; improved ongoing verification of proper cleaning and disinfection execution for all products and equipment; and all other needed remediations.
+
+• Appropriate improvements to your cleaning validation program, with special emphasis on incorporating conditions identified as worst case in your drug manufacturing operation. This should include but not be limited to identification and evaluation of all worst-case:
+    o Drugs with higher toxicities
+    o Drugs with higher drug potencies
+    o Drugs of lower solubility in their cleaning solvents
+    o Drugs with characteristics that make them difficult to clean
+    o Swabbing locations for areas that are most difficult to clean
+    o Maximum hold times before cleaning
+
+In addition, describe the steps that must be taken in your change management system before introduction of new manufacturing equipment or a new product.
+
+• A summary of updated SOPs that ensure an appropriate program is in place for verification and validation of cleaning procedures for products, processes, and equipment.
+
+• A comprehensive, independent review of your personnel and environmental monitoring programs, including but not limited to, a plan to fully remediate these programs. For example, describe changes to equipment, procedures, and practices that will ensure meaningful ongoing data is collected to promptly detect and respond to emerging risks in your classified areas. Provide an updated timeline for implementation of your program, including a summary of the CAPA steps you will be undertaking to ensure effective remediation.
+
+4. Your firm failed to establish the accuracy, sensitivity, specificity, and reproducibility of its test methods, and you also failed to conduct appropriate laboratory testing to determine whether each batch of drug product purporting to be sterile conforms to such requirements (21 CFR 211.165(e) and 211.167(a)).
+
+Your firm lacked adequate sterility testing, for example:
+
+A. You failed to show that your sterility test method was suitable to detect microorganisms in your ophthalmic drug products.
+
+Method suitability testing ensures the method can reliably determine the presence of microbial growth in the product. Method validation and verification is necessary to support reliable determinations of identity, strength, quality, purity, and potency of drugs. Without evaluating the validity of methods, you lack the basic assurance that the data provided to customers was an accurate reflection of pharmaceutical product quality and safety.
+
+B. You lacked growth promotion tests of the media used for media fills and personnel monitoring.
+
+The validity of your microbiological testing cannot be ensured without appropriate testing of media.
+
+In your response, you make commitments to review your sterility testing and other analytical method validations, initiate sterility method verification, and revise your media preparation procedures. Your response is inadequate because you fail to provide revised procedures and you do not address your failure to perform adequate sterility testing on your distributed finished drug products.
+
+In response to this letter, provide the following:
+
+• A comprehensive, independent assessment of your laboratory practices, procedures, methods, equipment, documentation, and analyst competencies. Based on this review, provide a detailed plan to remediate and evaluate the effectiveness of your laboratory system.
+
+• A detailed risk assessment addressing the hazards posed by distributing contaminated drug products.
+
+• Complete investigations into all batches with confirmed and potential microbial contamination. The investigations should detail your findings regarding the root causes of the contamination.
+
+• All chemical and microbial test methods used to analyze each of your drug products.
+
+5. Your firm’s quality control unit failed to exercise its responsibility to ensure drug products manufactured are in compliance with CGMP, and meet established specifications for identity, strength, quality, and purity (21 CFR 211.22).
+
+Your firm failed to establish an adequate quality unit (QU) with the responsibilities and authority to oversee the manufacture of your drug products. For example:
+
+A. You failed to perform adequate batch release to ensure the acceptability of all batches of Artificial Tears, prior to release for the U.S. market.
+
+B. Your quality system does not adequately ensure the accuracy and integrity of data to support the quality of the drugs you manufacture. For example, your firm permitted the unacceptable practice of using pre-filled batch release documents.
+
+C. You failed to follow your change management procedure. The impact of the change to the specification for the inner cap (plug) used as part of your Artificial Tears container-closure system to a plug “with prehole” was not evaluated.
+
+In your response, you state you will perform an impact assessment for all change controls initiated. Your response is inadequate for reasons that include, but are not limited to, the following:
+
+• You do not assess all records potentially affected by lapses in data integrity. You also do not assess how poor documentation practices affected distributed drug product nor how you could strengthen QU oversight. You also do not provide copies of the missing batch release documents you indicated that you have now recovered.
+
+• You do not perform a review and impact assessment for changes made outside of your change management system and not previously evaluated.
+
+In response to this letter, provide the following:
+
+• A comprehensive assessment and remediation plan to ensure your QU is given the authority and resources to effectively function. The assessment should also include, but not be limited to:
+    o A determination of whether procedures used by your firm are robust and appropriate
+    o Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices
+    o A complete and final review of each batch and its related information before the QU disposition decision
+    o Oversight and approval of investigations and discharging of all other QU duties to ensure identity, strength, quality, and purity of all products
+
+Also describe how top management supports quality assurance and reliable operations, including but not limited to, timely provision of resources to proactively address emerging manufacturing/quality issues and to assure a continuing state of control.
+
+• A comprehensive, independent assessment of your change management system. This assessment should include, but not be limited to, your procedure(s) to ensure changes are justified, reviewed, and approved by your quality unit. Your change management program should also include provisions for determining change effectiveness.
+
+• A complete assessment of documentation systems used throughout your manufacturing and laboratory operations to determine where documentation practices are insufficient. Include a detailed CAPA plan that comprehensively remediates your firm’s documentation practices to ensure you retain attributable, legible, complete, original, accurate, contemporaneous records throughout your operation.
+
+Data Integrity Remediation
+
+Your quality system does not adequately ensure the accuracy and integrity of data to support the safety, effectiveness, and quality of the drugs you manufacture. See FDA’s guidance document Data Integrity and Compliance With Drug CGMP: Questions and Answers for guidance on establishing and following CGMP-compliant data integrity practices at https://www.fda.gov/media/119267/download.
+
+Your firm should retain a qualified consultant to assist in your remediation. In response to this letter, provide:
+
+A. A comprehensive investigation into the extent of the inaccuracies in data records and reporting including results of the data review for drugs distributed to the United States. Include a detailed description of the scope and root causes of your data integrity lapses.
+
+B. A current risk assessment of the potential effects of the observed failures on the quality of your drugs. Your assessment should include analyses of the risks to patients caused by the release of drugs affected by a lapse of data integrity and analyses of the risks posed by ongoing operations.
+
+C. A management strategy for your firm that includes the details of your global CAPA plan. The detailed corrective action plan should describe how you intend to ensure the reliability and completeness of all data generated by your firm including microbiological and analytical data, manufacturing records, and all data submitted to FDA.
+
+Misbranded Drug Violations
+
+EZRICARE Artificial Tears, Delsam Pharma’s ARTIFICIAL TEARS, and Delsam Pharma’s ARTIFICIAL EYE OINTMENT are “drugs” as defined by section 201(g)(1)(B) of the FD&C Act, 21 U.S.C. 321(g)(1)(B), because they are intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease, and/or under section 201(g)(1)(C) of the FD&C Act, 21 U.S.C. 321(g)(1)(C), because they are intended to affect the structure or any function of the body. Specifically, EZRICARE Artificial Tears and Delsam Pharma’s ARTIFICIAL TEARS are intended for use as ophthalmic demulcents, and Delsam Pharma’s ARTIFICIAL EYE OINTMENT is intended for use as an ophthalmic emollient.
+
+Examples of claims from your product labeling that provide evidence of the intended uses (as defined by 21 CFR 201.128) of your products as drugs include, but may not be limited to, the following:
+
+EZRICARE Artificial Tears
+“Drug Facts . . . Uses . . . ■ for use as a protectant against further irritation or to relieve dryness of the eye ■ for the temporary relief of discomfort due to minor irritations of the eye, or to exposure to wind or sun” [from your product’s label]
+
+Delsam Pharma’s ARTIFICIAL TEARS
+“Drug Facts . . . Uses . . . ■ for use as a protectant against further irritation or to relieve dryness of the eye ■ for the temporary relief of discomfort due to minor irritations of the eye, or to exposure to wind or sun” [from your product’s label]
+
+Delsam Pharma’s ARTIFICIAL EYE OINTMENT
+“Drug Facts . . . Uses . . . For use as a lubricant to prevent further irritation or to relieve dryness of the eyes.” [from your product’s label]
+
+EZRICARE Artificial Tears, Delsam Pharma’s ARTIFICIAL TEARS, and Delsam Pharma’s ARTIFICIAL EYE OINTMENT are misbranded under section 502(j) of the FD&C Act, 21 U.S.C. 352(j), because they are not sterile. 21 CFR 200.50 states that all preparations offered or intended for ophthalmic use should be sterile, and if not are deemed misbranded under section 502(j) of the FD&C Act.3 However, FDA analysis of samples of EZRICARE Artificial Tears, Delsam Pharma’s ARTIFICIAL TEARS, and Delsam Pharma’s ARTIFICIAL EYE OINTMENT determined that these products were contaminated with microorganisms. For example, microorganisms in your products included but were not limited to the following: EZRICARE Artificial Tears contained Pseudomonas species, Delsam Pharma’s ARTIFICIAL TEARS contained Bacillus species, and Delsam Pharma’s ARTIFICIAL EYE OINTMENT contained Burkholderia cepacia complex. There is a reasonable probability that instillation of a bacterially contaminated eye product into the eye may cause a range of ocular infections, from minor to serious, vision-threatening infections which could progress in some cases to life-threatening systemic bacterial infection. Therefore, EZRICARE Artificial Tears, Delsam Pharma’s ARTIFICIAL TEARS, and Delsam Pharma’s ARTIFICIAL EYE OINTMENT are misbranded under section 502(j) of the FD&C Act, 21 U.S.C. 352(j).
+
+In addition, Delsam Pharma’s ARTIFICIAL EYE OINTMENT is further misbranded under section 502(a) of the FD&C Act, 21 U.S.C 352(a), because its labeling is false or misleading. Specifically, the principal display panel (PDP) of the product label purports the product to be “sterile.” However, FDA analysis of samples of Delsam Pharma’s ARTIFICIAL EYE OINTMENT determined that it was contaminated with microorganisms including Burkholderia cepacia complex. Therefore, the labeling for Delsam Pharma’s ARTIFICIAL EYE OINTMENT is false or misleading, because the product is not in fact sterile for its intended use as an ophthalmic emollient drug product, and thus the product is misbranded under section 502(a) of the FD&C Act, 21 U.S.C. 352(a).
+
+The introduction or delivery for introduction of a misbranded drug into interstate commerce is prohibited under section 301(a) of the FD&C Act, 21 U.S.C. 331(a).
+
+Drug Recalls
+
+On January 30, 2023, FDA held a teleconference with you. We recommended you consider removing all batches of EzriCare Artificial Tears and Delsam Pharma’s Artificial Tears in distribution from the U.S. market. On February 2, 2023, you initiated a voluntary recall of EzriCare Artificial Tears and Delsam Pharma’s Artificial Tears based on bacterial contamination and CGMP concerns discussed with your firm. The company announcement was posted to the FDA website: https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/global-pharma-healthcare-issues-voluntary-nationwide-recall-artificial-tears-lubricant-eye-drops-due.
+
+On February 22, 2023, FDA held another teleconference with you. We recommended you remove batch H29 of Delsam Pharma’s Artificial Eye Ointment in U.S. distribution. On February 24, 2023, you initiated a voluntary recall of Delsam Pharma’s Artificial Eye Ointment due to non-sterility. The company announcement was posted to the FDA website: https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/global-pharma-healthcare-issues-voluntary-nationwide-recall-delsam-pharma-artificial-eye-ointment.
+
+Drug Production Suspended
+
+We acknowledge your commitment to suspend production of drugs for the U.S. market.
+
+Given the egregious violations of CGMP at your facility, if you plan to resume drug manufacturing operations for the U.S. market, decide to transfer your ownership, contract out any processes, or move to a new location, notify this office.
+
+Based upon the nature of the violations we identified at your firm, you should engage a consultant qualified as set forth in 21 CFR 211.34, to assist your firm in meeting drug CGMP requirements, if your firm intends to resume manufacturing drugs for the U.S. market. The qualified consultant should also perform a comprehensive six-system audit4 of your entire operation for CGMP compliance and evaluate the completion and efficacy of all corrective actions and preventive actions before you pursue resolution of your firm’s compliance status with FDA.
+
+Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Responsibilities as a Contractor
+
+Drugs must be manufactured in conformance with CGMP. FDA is aware that many drug manufacturers use independent contractors such as production facilities, testing laboratories, packagers, and labelers. FDA regards contractors as extensions of the manufacturer.
+
+You are responsible for the quality of drugs you produce as a contract facility regardless of agreements in place with product owners. You are required to ensure that drugs are made in accordance with section 501(a)(2)(B) of the FD&C Act for safety, identity, strength, quality, and purity. See FDA’s guidance document Contract Manufacturing Arrangements for Drugs: Quality Agreements at https://www.fda.gov/media/86193/download.
+
+Ineffective Quality System
+
+Significant findings in this letter demonstrate that your firm does not operate an effective quality system in accord with CGMP. In addition to a severe lack of effective production oversight of facilities and equipment, we found your quality unit is not enabled to exercise proper authority and has insufficiently implemented its responsibilities. You should immediately and comprehensively assess your company’s global manufacturing operations to ensure that systems, processes, and the products manufactured conform to FDA requirements.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+FDA placed your firm on Import Alert 66-40 on January 3, 2023, after your response to our 704(a)(4) Request for Records sent to you on November 15, 2022, demonstrated CGMP violations related to controls for DEG/EG in high-risk components used in your drugs.
+
+The inspectional findings and sample results detailed above further demonstrate your firm’s noncompliance.
+
+Your firm remains on Import Alert 66-40.
+
+Correct any violations promptly. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to any violations.
+
+Failure to address any violations may also result in the FDA continuing to refuse admission of articles manufactured at Global Pharma Healthcare Private Limited, A-9 SIDCO Pharmaceutical Complex, Thiruporur, into the United States under section 801(a)(3) of the FD&C Act, 21 U.S.C. 381(a)(3). Articles under this authority that appear to be adulterated or misbranded may be detained or refused admission, in that the methods and controls used in their manufacture do not appear to conform to CGMP within the meaning of section 501(a)(2)(B) of the FD&C Act, 21 U.S.C. 351(a)(2)(B) and are misbranded under section 502 of the FD&C Act, respectively.
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov. Identify your response with FEI 3012323885 and ATTN: Carrie Ann Plucinski.
+
+Sincerely,
+/S/
+
+Francis Godwin
+Director
+Office of Manufacturing Quality
+Office of Compliance
+Center for Drug Evaluation and Research
+
+____________________
+
+1 21 CFR 200.50(a)(2) states, in relevant part, “…liquid preparations offered or intended for ophthalmic use that are not sterile may be regarded as adulterated…”
+
+2 National Center for Biotechnology Information (NCBI)
+
+3 21 CFR 200.50(a)(2) states, in relevant part, “liquid preparations offered or intended for ophthalmic use that are not sterile…may be deemed misbranded within the meaning of section 502(j) of the FD&C Act. This ruling is extended to affect all preparations for ophthalmic use. By this regulation, this ruling is applicable to ophthalmic preparations that are regulated as drugs.”
+
+4 i.e., Quality System, Facilities & Equipment System, Materials System, Production System, Packaging & Labeling System, and Laboratory Control System per FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations.

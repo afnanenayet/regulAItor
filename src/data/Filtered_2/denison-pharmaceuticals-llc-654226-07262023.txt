@@ -1,0 +1,324 @@
+Delivery Method: 
+        Certified Mail
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Jose Gaido
+          
+
+                                
+  
+    Recipient Title
+              President and Chief Executive Officer
+          
+
+          
+            Denison Pharmaceuticals, LLC
+
+          
+                      1 Powder Hill Rd.
+Lincoln, RI 02865
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+           Division of Pharmaceutical Quality Operations I 
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+WARNING LETTER
+WL #654226
+
+July 26, 2023
+
+Dear Mr. Gaido:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Denison Pharmaceuticals, LLC, FEI 1210580, at 1 Powder Hill Rd., Lincoln, from January 5 to February 9, 2023.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+In addition, the FDA reviewed the product labels for the homeopathic products, “Colic Calm,” “Colic Calm +,” and “Nauzene Kids,” along with the websites www.nauzenekids.com and www.coliccalm.com that are referenced on the product labels. Based on our review, these products are unapproved new drugs under section 505(a) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 355(a). Introducing or delivering these products for introduction into interstate commerce violates section 301 of the FD&C Act, 21 U.S.C. 331. These products are especially concerning from a public health perspective given the significant quality issues found during the recent inspection and because the products are labeled for use in young children and infants.
+
+We reviewed your March 2, 2023 response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence.
+
+CGMP Violations
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to thoroughly investigate any unexplained discrepancy or failure of a batch or any of its components to meet any of its specifications, whether or not the batch has already been distributed (21 CFR 211.192).
+
+You contract manufacture homeopathic and over-the-counter (OTC) drug products including those intended for infants and children and labeled “safe for newborn.”
+
+Lubricant Contamination
+
+You failed to perform adequate investigations and expand investigations to all batches and drug products that may have been impacted from contamination by machinery lubricant. For example, your investigation into the contamination of (b)(4) with (b)(4) lubricant, a non-food grade lubricant not intended for ingestion, concluded that only Lot (b)(4) was impacted and was rejected. However, your investigation did not consider other potentially affected drug products manufactured in the same mixing tank, and indicated that no corrective action and preventive action (CAPA) was required. The lubricant was used for manufacturing equipment for approximately (b)(4) previous months, during which more than (b)(4) batches of drug products were manufactured, including products for infants. The safety data sheet (SDS) from the manufacturer of (b)(4) lubricant lists health hazards such as skin and respiratory irritation, genetic defects, and cancer. The (b)(4) lubricant is unsuitable for pharmaceutical purposes.
+
+It is necessary to conduct a thorough investigation to evaluate all potentially affected batches and implement a timely and effective CAPA.
+
+Odor Complaints
+
+You failed to adequately investigate multiple foul odor complaints for (b)(4). For complaints COMP 20-161 and COMP 20-162, you tested retains of (b)(4), Berry, Lot (b)(4), which failed microbiological testing due to too numerous to count (TNTC) results for total count of yeast and mold (TCYM). Your investigation noted “there was a trend for foul odor complaints for lot (b)(4). The organism which caused of [sic] the odor in this lot was determined to be Staphylococcus epidermis.” Your investigation further stated that the organism “is a facultative anaerobic bacteria and poses no health risk to the customer in an oral dose liquid” and “the lot remains fit for use.” You failed to adequately assess the microbiological contamination and extend the investigation to additional batches manufactured after Lot (b)(4) that may also have been impacted. The TNTC microbiological testing results for your (b)(4) posed an unacceptable risk to public health, yet you failed to take any market action.
+
+Microbiological contamination may not be uniformly distributed, and a sample may not be representative of the type or level of contamination that may exist in other individual units of a batch.
+
+Water System Excursions
+
+You failed to initiate investigations for multiple microbiological excursions for your purified water system used to manufacture aqueous drug products. For example, you did not investigate several testing results for your water system that indicated the bacteria were too numerous to count (TNTC), and above your total aerobic microbial count action limit of (b)(4) cfu/mL. You also failed to consider how flaws in design, control, and maintenance of your water system contribute to these excessive microbial counts. Furthermore, your procedure for sampling and testing of the water system lacks a mechanism to trigger an investigation in response to severe microbiological excursions from water testing.
+
+In addition, your investigation INV-21-051 was inadequate because you failed to identify the microbial species in the water samples and did not extend the impact assessment to other potentially affected products manufactured using the same water system. Indeed, your procedure does not specify the need for microbial identification of water system sample isolates and the level of identification required (e.g., genus or species).
+
+Notably, you use water as a component in your aqueous based products, which is the prominent ingredient in your (b)(4) indicated for infants.
+
+In your response, you state you are revising your procedures and conducting additional investigations. However, your response is inadequate because your investigations are limited in scope and lack comprehensive review for potentially affected products and root cause determination. You also did not provide any supporting documentation, including details of your corrective actions with your initial 483 response.
+
+Well documented, thorough, scientifically sound investigations are necessary to identify the root cause and implement the appropriate CAPA.
+
+In response to this letter, provide:
+
+
+	A comprehensive, independent assessment of your overall system for investigating deviations, discrepancies, complaints, out-of-specification (OOS) results, and failures. Provide a detailed action plan to remediate this system. Your action plan should include, but not be limited to, significant improvements in investigation competencies, scope determination, root cause evaluation, CAPA effectiveness, quality unit (QU) oversight, and written procedures. Address how your firm will ensure all phases of investigations are appropriately conducted.
+	An independent assessment and remediation plan for your CAPA program. Provide a report that evaluates whether the program includes effective root cause analysis, ensures CAPA effectiveness, analyzes investigations trends, improves the CAPA program when needed, implements final QU decisions, and is fully supported by executive management.
+	A comprehensive, independent assessment of your water system design, control, and maintenance.
+	A thorough remediation plan to install and operate a suitable water system. Include a robust ongoing control, maintenance, and monitoring program to ensure the remediated system design consistently produces water adhering to Purified Water, United States Pharmacopeia (USP) monograph specifications and appropriate microbial limits (total counts, objectionable microbes).
+	A procedure for your water system monitoring that specifies routine microbial testing of water to ensure its acceptability for use in each batch of drug products produced by your firm.
+	A procedure governing your program for ongoing control and monitoring that ensures the system consistently produces water that meets Purified Water, United States Pharmacopeia (USP) monograph specifications and appropriate microbial limits.
+
+
+2. Your firm failed to conduct at least one test to verify the identity of each component of a drug product (21 CFR 211.84(d)(1)).
+
+You lacked testing for each shipment of each lot of components at high risk of diethylene glycol (DEG) and ethylene glycol (EG) contamination, used in the manufacture of your drug products. For example, you lacked a specific identity test to detect DEG and EG in all lots of glycerin and propylene glycol, prior to determining acceptability for use in manufacturing drug products. The identity testing of glycerin and propylene glycol includes a limit test per the USP to ensure that the component meets the relevant safety limits for the levels of DEG or EG. We note that both glycerin and propylene glycol are ingredients used in your (b)(4) and (b)(4) drug products. As a drug manufacturer, you are responsible for performing specific identity tests for all incoming shipments of component lots prior to determining suitability for release for use in manufacturing.
+
+In your response, you state that you performed DEG and EG testing for 3 lots of glycerin and 4 lots of propylene glycol. In response to the FDA teleconference held with you on April 19, 2023, you indicate that testing of all additional lots of retain samples of glycerin and propylene glycol was initiated. However, your response did not indicate whether you intend to perform a risk assessment for other components at high-risk for DEG or EG contamination.
+
+Without appropriate testing of components and ingredients, you cannot ensure the quality and safety of your drug products.
+
+The use of ingredients contaminated with DEG or EG has resulted in various lethal poisoning incidents in humans worldwide. See FDA’s guidance document Testing of Glycerin, Propylene Glycol, Maltitol Solution, Hydrogenated Starch Hydrolysate, Sorbitol Solution, and Other High-Risk Drug Components for Diethylene Glycol and Ethylene Glycol to help you meet the CGMP requirements when manufacturing drugs containing ingredients at risk for DEG or EG contamination, at https://www.fda.gov/media/167974/download.
+
+In response to this letter, provide a full risk assessment for drug products that are within expiry which contain any ingredient at risk for DEG or EG contamination (including, but not limited to, glycerin). Take prompt and appropriate actions to determine the safety of all lots of the component(s) and any related drug product that could contain DEG or EG, including customer notifications and product recalls for any contaminated lots. Identify additional appropriate CAPA that secure supply chains in the future including, but not limited to, ensuring that all incoming raw material lots are from fully qualified manufacturers and free from unsafe impurities. Detail these actions in your response to this letter.
+
+3. Your firm failed to establish the accuracy, sensitivity, specificity, and reproducibility of its test methods (21 CFR 211.165(e)).
+
+You failed to adequately validate your alternative rapid microbiological test methods, demonstrate they were equivalent to, or better than USP compendial methods, and suitable for their intended use.
+
+For example, our investigators observed the (b)(4) system used for rapid microbiological release testing (total counts, objectionable microorganisms) of (b)(4) and (b)(4) drug products was not validated, and that your investigation of OOS results concluded the system should be reassessed before future use. You failed to demonstrate that the (b)(4) system is appropriate for total count testing or detection of objectionable microorganisms, such as Burkholderia cepacia complex, in your drug products.
+
+Notably, microbiological testing for (b)(4) lots (b)(4) for total count and objectionable microorganisms revealed failing results using the (b)(4) system. Objectionable microbes detected by (b)(4) included Pseudomonas aeruginosa and Staphylococcus aureus. Retesting confirmed the failures.
+
+However, your firm invalidated these failing total count and objectionable microorganism findings based on limited retest using traditional compendial methods (USP <60>, <61>, and < 62>). The investigation speculated that the failures could be due to interferences from analytes and extra incubation time, but lacked data to support any root cause(s). Although you lacked sufficient investigation, scientific justification, and data to establish a root cause, you released (b)(4) lots. You did not adequately investigate manufacturing operations, including but not limited to review of process state of control and testing microbial quality of units from other parts of the batch, as contamination is not a uniform attribute.
+
+The investigation ultimately concluded in June 2021 that a reassessment of the suitability of the (b)(4) system was required prior to any future use, and stated “all future testing to be done using compendial methods.”
+
+But your firm decided not to undertake this CAPA, despite the lack of methods validation and your investigation conclusion that the method was unreliable. Instead of reassessing the (b)(4) method due to your lack of confidence in its validity, you continued to use the method for (b)(4) from June 2021 through March 2023, per your response.
+
+In your response, you state that you have now suspended the use of the (b)(4) testing system until validation is performed. Your response is inadequate because it does not adequately address how you intend to validate your alternative method for its intended use.
+
+Test methods must be validated to show they are suitable for their intended use, and equivalent or better than applicable USP compendial methods. The reproducibility of your test methods is essential to determine if your drug products meet established specifications for microbial attributes.
+
+In response to this letter, provide:
+
+
+	A comprehensive, independent assessment of your laboratory practices, procedures, methods, equipment, documentation, supervision, and analyst competencies. Based on this review, provide a detailed plan to remediate and evaluate the effectiveness of your laboratory system.
+	Comprehensively evaluate your method and fully address its inadequacies, including but not limited to those cited in this letter. Once this full evaluation is complete, provide all findings, data, and deviations encountered.
+	Updated validation protocols and final reports for each product that include specificity, limit of detection, robustness, ruggedness, and repeatability. Where non-compendial methods are used, provide studies evaluating equivalence or superiority of the method to the USP method.
+	A retrospective, independent review of all invalidated OOS (including in-process and release/stability testing) results for US products currently in the U.S. market and within expiry as of the date of this letter and a report summarizing the findings of the analysis, including the following for each OOS:
+
+
+      o Determine whether the scientific justification and evidence relating to the invalidated OOS result conclusively or inconclusively demonstrates causative laboratory error.
+      o For investigations that conclusively establish laboratory root cause, provide rationale and ensure that all other laboratory methods vulnerable to the same or similar root cause are identified for remediation.
+      o For all OOS results found by the retrospective review to have an inconclusive or no root cause identified in the laboratory, include a thorough review of production (e.g., batch manufacturing records, adequacy of the manufacturing steps, suitability of equipment/facilities, variability of raw materials, process capability, deviation history, complaint history, batch failure history). Provide a summary of potential manufacturing root causes for each investigation, and any manufacturing operation improvements.
+
+
+	A more detailed investigation into the failure of (b)(4) lots (b)(4).
+
+
+      o Include details regarding the apparent over-incubation of the starting samples that specifies how much longer the plates were allowed to incubate than established by your procedures (or USP <61> and <62>), and what day the plates were read after incubation.
+      o Specify what interferences were postulated to be present in the samples that caused the failing results and what actions you took to prevent repeat failures.
+      o Provide all accompanying raw data from the analysis of the (b)(4) lots (b)(4).
+      o Evaluate your manufacturing operations to determine what variables may have led to contamination in portions of the batch.
+
+Unapproved New Drugs
+
+Based on a review of the product labels, along with websites referenced on the products’ labels, “Colic Calm,” “Colic Calm +,” and “Nauzene Kids” products are drugs under section 201(g)(1) of the FD&C Act, 21 U.S.C. 321(g)(1), because they are intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease, and/or intended to affect the structure or any function of the body.
+
+Examples of claims from the product labels and websites www.coliccalm.com and www.nauzenekids.com/ that provide evidence of the intended uses of these products as drugs include, but may not be limited to, the following:
+
+Colic Calm
+From the product label:
+
+
+	“For Symptomatic relief of infant Colic, Gas & Reflux”
+	“Temporarily relieves the symptoms of infant: colic · gas · reflux · upset stomach · bloating · hiccups”
+
+
+From the website www.coliccalm.com:
+
+
+	“Colic Calm eases baby’s discomfort often associated with gas, colic, hiccups and teething. Our gentle liquid formula is the #1 selling gripe water for infant gas & colic relief.”
+
+
+Colic Calm +
+From the product label:
+
+
+	“For Symptomatic relief of infant Colic, Gas & Reflux”
+	“Temporarily relieves the symptoms of infant: colic · gas · reflux · upset stomach · bloating · hiccups”
+
+
+From the website www.coliccalm.com:
+
+
+	“Colic Calm® Plus is a professional strength formulation developed for babies that need extra help. Our Plus formula is enhanced with additional gas absorption properties . . . four more homeopathic remedies for added digestive support . . . amazing healing properties to quickly and safely eliminate the symptoms of infant gas, colic and upset stomach.”
+
+
+Nauzene Kids
+From the product label:
+
+
+	“For Nausea & Upset Tummies”
+	“Relief of Nauseas From:
+
+
+      o ‘Car Sickness’
+      o ‘Stomach Flu’
+      o ‘Upset Tummies’”
+
+
+	“Promptly relieves nausea and upset tummies – even from the ‘stomach flu’ and ‘car sickness’”
+	“For the relief of upset stomach and nausea, including that due to ‘stomach flu,’ ‘car sickness’ or overindulgences in food or drink.”
+
+
+From the website www.nauzenekids.com/:
+
+
+	“The Easy Fix for Upset Stomachs & Nausea”
+
+
+      o “Trusted Relief for Upset Stomachs Caused by . . . Diet . . . Stomach Bug . . . Motion Sickness . . . Nervous Stomach”
+
+“Colic Calm,” “Colic Calm +,” and “Nauzene Kids” products are not generally recognized as safe and effective (GRASE) for their above referenced uses and therefore these products are “new drugs” under section 201(p) of the FD&C Act, 21 U.S.C. 321(p). With certain exceptions not applicable here, new drugs may not be introduced or delivered for introduction into interstate commerce without an approved application from FDA in effect, as described in sections 505(a) and 301(d) of the FD&C Act, 21 U.S.C. 355(a) and 331(d). No FDA-approved application pursuant to section 505 of the FD&C Act, 21 U.S.C. 355, is in effect for these products. Accordingly, the introduction or delivery for introduction into interstate commerce of these products violates sections 301(d) and 505(a) of the FD&C Act, 21 U.S.C. 331(d) and 355(a).
+
+We recognize that “Colic Calm,” “Colic Calm +,” and “Nauzene Kids” are labeled as homeopathic drugs with active ingredients measured in homeopathic strengths. Under section 201(g)(1) of the FD&C Act, 21 U.S.C. 321(g)(1), the term “drug” includes articles recognized in the official Homeopathic Pharmacopeia of the United States (HPUS), or any supplement to it. Homeopathic drug products are subject to the same statutory requirements as other drugs; nothing in the FD&C Act exempts homeopathic drugs from any of the requirements related to adulteration, misbranding, or FDA approval.
+
+Recall
+
+In your March 2, 2023 response, you indicated you were conducting an investigation and considering recalling drug products.
+
+On April 19, 2023, FDA held a teleconference with you. We recommended you remove any batches of drug products currently in distribution from the U.S. market that were manufactured between April 2020, and December 2020, when you used the non-food grade (b)(4) lubricant for the (b)(4) mixing vessel.
+
+On May 3, 2023, you issued a voluntary nationwide recall of the following four products: Safe tussin DM, DAY TIME Cough Relief; Safe tussin PM, NIGHT TIME Cough Relief; Colic Calm, Colic, Gas & Reflux, Homeopathic Medicine; and Pin-Away PYRENTAL PAMOATE (Pyrantel base 50 mg / mL) Pinworm Treatment.
+
+Responsibilities as a Contractor
+
+Drugs must be manufactured in conformance with CGMP. FDA is aware that many drug manufacturers use independent contractors such as production facilities, testing laboratories, packagers, and labelers. FDA regards contractors as extensions of the manufacturer.
+
+You are responsible for the quality of drugs you produce as a contract facility regardless of agreements in place with product owners. You are required to ensure that drugs are made in accordance with section 501(a)(2)(B) of the FD&C Act for safety, identity, strength, quality, and purity. See FDA’s guidance document Contract Manufacturing Arrangements for Drugs: Quality Agreements at https://www.fda.gov/media/86193/download.
+
+Ineffective Quality Systems
+
+Significant findings in this letter demonstrate that your firm does not operate an effective quality system in accord with CGMP. In addition to the lack of effective production operations oversight to ensure reliable facilities and equipment, we found that your QU is not enabled to exercise proper authority and/or has insufficiently implemented its responsibilities. You should immediately and comprehensively assess your company’s global manufacturing operations to ensure that systems, processes, and the products manufactured conform to FDA requirements.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, you should engage a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements. The qualified consultant should also perform a comprehensive six-system audit1 of your entire operation for CGMP compliance and evaluate the completion and efficacy of your corrective actions and preventive actions before you pursue resolution of your firm’s compliance status with FDA. Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility and in connection with your products. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+Correct any violations promptly. Failure to promptly and adequately address this matter may result in regulatory or legal action without further notice including, without limitation, seizure and injunction. Unresolved violations may also prevent other Federal agencies from awarding contracts.
+
+Failure to address violations may also cause FDA to withhold issuance of Export Certificates. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to address any violations.
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Please send your electronic reply to ORAPHARM1_RESPONSES@fda.hhs.gov and “cc” Compliance Officer, Nancy Espinal (Nancy.Espinal@fda.hhs.gov). Your written notification should refer to Warning Letter #654226 and include FEI 1210580.
+
+If you have questions regarding the contents of this letter, please contact Nancy Espinal, Compliance Officer at Nancy.Espinal@fda.hhs.gov.
+
+Sincerely,
+/S/
+
+Lisa Harlan
+Program Division Director
+OPQO Division I
+U.S. Food and Drug Administration
+
+cc:
+CalmCo LLC (previously named Ketomi LLC)
+Keith Page
+1215 Sarasota Center Blvd
+Sarasota, FL 34240
+customercare@coliccalm.com
+
+ALVA-AMCO Pharmacal Companies, LLC.
+Micah S. Gerchenson
+7711 Merrimac Avenue
+Niles, IL 60714-3423
+customer_service@alva-amco.com
+
+_________________________
+
+1 i.e., Quality System, Facilities & Equipment System, Materials System, Production System, Packaging & Labeling System, and Laboratory Control System per FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations.

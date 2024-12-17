@@ -1,0 +1,217 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Daniel Leon
+          
+
+                                
+  
+    Recipient Title
+              President
+          
+
+          
+            Apothecus Pharmaceutical Corp.
+
+          
+                      485 South Broadway, Suite 27
+Hicksville, NY 11801-5071
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Division of Pharmaceutical Quality Operations I
+        
+         
+          10 Waterview Blvd, 3rd Floor
+Parsippany, NJ 07054
+United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter
+CMS # 585666
+
+November 8, 2019
+
+
+Dear Mr. Leon:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Apothecus Pharmaceutical Corp., FEI 3001746542, at 485 South Broadway, Suite 27, Hicksville, New York, from April 15 to 30, 2019.
+
+At this facility, you manufacture combination products covered under section 503(g) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 353(g) because your products include drug and device constituent parts.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for combination products. See 21 CFR part 4 for combination products, and 21 CFR parts 210 and 211 for drugs.
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to drug CGMP requirements, 21 CFR parts 210 and 211, your combination products are adulterated within the meaning of section 501(a)(2)(B) of the FD&C Act, 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your May 21, 2019, response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence.
+
+During our inspection, we observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to thoroughly investigate any unexplained discrepancy or failure of a batch or any of its components to meet any of its specifications, whether or not the batch has already been distributed (21 CFR 211.192).
+
+Our inspection found that you did not adequately investigate (b)(4) results and complaints for drug products from your contract manufacturing and testing facility, (b)(4).
+
+For example, (b)(4) of VCF vaginal contraceptive foam finished drug products batches #31560 and #31561. (b)(4), reported passing results, and (b)(4).
+
+(b)(4) results did not determine root causes or include effective corrective action and preventive action (CAPA) plans. Your firm released the two batches for commercial distribution after reviewing and agreeing with (b)(4) conclusions. Your firm is responsible for final product release for commercial distribution and shares various responsibilities with your contract manufacturer, including complaint handling.
+
+Additionally, your firm received a complaint investigation for VCF vaginal contraceptive foam batch #31560, reporting leakage and missing or illegible codes on containers. According to (b)(4), the most likely cause of the leaks (b)(4). You concluded the illegible codes were a result of product leaks onto the surface.
+
+In your response, you acknowledged that the (b)(4). You acknowledged that (b)(4).
+
+Your response is inadequate because you failed to expand the investigation to other batches of VCF foam which (b)(4). Drug products lacking an integral container-closure system may lose efficacy due to loss of solvent, degrade due to exposure to oxygen, fail to meet potency specifications, or suffer from microbial contamination. Furthermore, patients may not receive the required amount of drug product for their treatment.
+
+During the inspection, your firm stated that you would recall batches #31560 and #31561. However, there is no record that you initiated market action against the two batches.
+
+In response to this letter, provide the following:
+
+• A retrospective independent review of all invalidated OOS in-process and finished testing results obtained for products currently on the U.S. market and within expiry. Assess whether the scientific justification and evidence for each invalidated OOS result was conclusive. For investigations that conclusively establish laboratory root cause, determine effectiveness of the CAPA, and ensure that other laboratory methods vulnerable to the same root cause are identified for remediation. For any OOS results with inconclusive or no root cause identified in the laboratory, include a thorough review of production (e.g., batch manufacturing records, adequacy of the manufacturing steps, raw materials, process capability, deviation history, and batch failure history). Provide a CAPA plan that identifies manufacturing root causes and specifies meaningful improvements.
+
+• Review and remediate your overall system for investigating OOS results. Provide a CAPA plan to improve OOS handling. Your CAPA plan should ensure that your revised OOS investigations procedure enhances quality unit oversight of laboratory investigations, identifies adverse laboratory control trends, resolves causes of laboratory variation, and investigates potential manufacturing causes when a laboratory cause cannot be conclusively identified.
+
+2. Your firm failed to establish an adequate quality control unit with the responsibility and authority to approve or reject all components, drug product containers, closures, in-process materials, packaging materials, labeling, and drug products (21 CFR 211.22 (a)).
+
+Significant findings indicate that your quality unit (QU) did not fully exercise its authority and/or responsibilities. Your QU lacked control over your drug manufacturing operations. Your firm must provide the quality unit with the appropriate authority and sufficient resources to carry out its responsibilities and consistently ensure drug quality.
+
+For example, your quality unit failed (b)(4). During the inspection, we observed (b)(4).
+
+In your response, (b)(4).
+
+Your response is inadequate because you failed to address whether all drug products currently within expiry have adequate supporting stability data.
+
+In response to this letter, provide a comprehensive assessment with a CAPA plan to ensure your QU is given the needed authority and resources to effectively discharge its function. The assessment should also include, but not be limited to:
+
+• A determination of whether procedures used by your firm are robust and appropriate.
+• Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices.
+• Complete and final review of each batch and its related information prior to the QU disposition decision.
+• Your action plan to address any product quality or patient safety risks for your drug products in U.S. distribution, including potential customer notifications or recalls or market withdrawals.
+
+Provide a comprehensive assessment and CAPA plan to ensure the adequacy of your stability program. Your remediated program should include, but not be limited to:
+
+• Stability indicating methods.
+
+• Appropriate stability data for each drug product in its marketed container-closure system before distribution is permitted.
+
+• An ongoing program in which representative batches of each product are added each year to the program to determine if the shelf-life claim remains valid.
+
+• Detailed definition of the specific attributes to be (b)(4).
+
+• All procedures that describe these and other elements of your remediated stability program.
+
+3. Your firm failed to exercise appropriate controls over computer or related systems to assure that only authorized personnel institute changes in master production and control records, or other records (21 CFR 211.68(b))
+
+Specifically, your high-performance liquid chromatography (HPLC) data acquisition system did not have sufficient controls to prohibit deletion of data, and to prevent alteration of data without appropriate documentation and justification. During the inspection, we observed that your laboratory manager performed HPLC analyses and had administrative privileges to access your electronic storage system for HPLC data.
+
+In addition, data is stored on a stand-alone computer and not backed up to prevent loss of data. The (b)(4). Furthermore, there was no approved written procedure to address data security and integrity, or a procedure requiring your quality unit to routinely review audit trails to ensure test methods are being followed and all associated raw data is protected.
+
+In your response, you stated that you have hired additional QC personnel, revised procedures, and trained employees on the use of HPLC and software.
+
+Your response is inadequate. You did not provide details of your retrospective review of the HPLC and other laboratory data, or an action plan describing the interim control measures that will be in place before you update the system controls. Also, you lacked details regarding the type of electronic controls to be installed, and how you will evaluate the effectiveness of these computerized system changes.
+
+It is important to maintain strict control over CGMP electronic data to ensure that all additions, deletions, or modifications of information in your electronic records are authorized and properly documented. Without complete and accurate records, you cannot make appropriate decisions about batch release, stability, and other fundamental factors for ongoing quality assurance.
+
+In response to this letter, provide the following:
+
+• A complete assessment of documentation systems used throughout your manufacturing and laboratory operations to determine where documentation practices are insufficient. Include a detailed CAPA plan that comprehensively remediates your firm’s documentation practices to ensure you retain attributable, legible, complete, original, accurate, and contemporaneous records throughout your operation.
+
+• Summarize your interim controls to prevent deletion and modification of data.
+
+• Define the roles and responsibilities of personnel who have access to analytical instruments and data.
+
+• Standardize a procedure to ensure that (b)(4).
+
+• Detail the associated user’s privileges for each analytical system.
+
+• Provide a detailed summary of your procedural updates and associated training for user role assignments and controls; and detailed procedures for your review (b)(4).
+
+• A comprehensive investigation into the extent of the inaccuracies in data records and reporting, including results of the data review for drugs you have distributed. Include a detailed description of the scope and root causes of your data integrity lapses.
+
+Use of Contract Manufacturers
+
+Drugs must be manufactured in conformance with CGMP. FDA is aware that many drug manufacturers use independent contractors such as production facilities, testing laboratories, packagers, and labelers. FDA regards contractors as extensions of the manufacturer.
+
+You are responsible for the quality of your drugs regardless of agreements in place with your contract facility. You are required to ensure that drugs are made in accordance with section 501(a)(2)(B) of the FD&C Act to ensure safety, identity, strength, quality, and purity. See FDA’s guidance document Contract Manufacturing Arrangements for Drugs: Quality Agreements at https://www.fda.gov/media/86193/download.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of these violations and for preventing their recurrence or the occurrence of other violations.
+
+Correct the violations cited in this letter promptly. Failure to promptly correct these violations may result in legal action without further notice including, without limitation, seizure and injunction. Unresolved violations in this warning letter may also prevent other Federal agencies from awarding contracts.
+
+FDA may also withhold approval of requests for export certificates and approval of pending new drug applications or supplements listing your facility as a supplier or manufacturer until the above violations are corrected. We may re-inspect to verify that you have completed your corrective actions.
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to orapharm1_responses@fda.hhs.gov. Your written notification should refer to the Warning Letter CMS # 585666 and reference FEI 3001746542.
+
+If you have any questions, contact Compliance Officer CDR Liatte K. Closs at Liatte.Closs@fda.hhs.gov.
+
+ 
+
+Sincerely,
+/S/
+Diana Amador-Toro
+Program Division Director/District Director
+OPQO Division I/New Jersey District

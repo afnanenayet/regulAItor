@@ -1,0 +1,301 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Bill Ghuman
+          
+
+                                
+  
+    Recipient Title
+              President and Director of Operations
+          
+
+          
+            Cosmaceutical Research Lab Inc.
+
+          
+                      12920 84th Avenue
+Surrey BC V3W 1K7
+Canada
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research | CDER
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter 320-20-36
+
+May 29, 2020
+
+Dear Mr. Ghuman:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Cosmaceutical Research Lab Inc., FEI 3003878590, at 12920 84th Avenue, Surrey, BC, Canada, from November 18 to 22, 2019.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+In addition, you manufacture OTC drug products “Dr. Numb® Lidocaine Cream 4% - Topical Anesthetic” and “Dr. Numb® Lidocaine Cream.” “Dr. Numb® Lidocaine Cream 4% - Topical Anesthetic” is an unapproved new drug in violation of section 505(a) of the FD&C Act, 21 U.S.C. 355(a) and is also misbranded under section 502(j) of the FD&C Act, 21 U.S.C. 352(j). Introduction or delivery for introduction of such a product into interstate commerce is prohibited under sections 301(a) and (d) of the FD&C Act, 21 U.S.C. 331(a) and (d). “Dr. Numb® Lidocaine Cream” is an unapproved new drug in violation of section 505(a) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 355(a). Introduction or delivery for introduction of such a product into interstate commerce is prohibited under section 301(d) of the FD&C Act, 21 U.S.C. 331(d). These violations are described in more detail below.
+
+We reviewed your December 13, 2019, response to our Form FDA 483 in detail.
+
+During our inspection, our investigator observed specific violations including, but not limited to, the following.
+
+CGMP Violations
+
+1. Your firm failed to ensure that laboratory records included complete data derived from all tests necessary to ensure compliance with established specifications and standards (21 CFR 211.194(a)).
+
+Your firm performed extra injections without a clearly identified purpose and using ambiguous nomenclature.
+
+You injected samples with the intention of obtaining an “unofficial” result and/or failed to clearly indicate if the single injections were standards to determine whether high-performance liquid chromatography (HPLC) instruments were fit for use. For example:
+
+a) On April 25, 2019, at 3:37pm, you performed an HPLC injection with a blank “sample name” field. Afterwards, you ran a sample set of (b)(4), lot (b)(4), at (b)(4). Both the initial injection and the (b)(4) sample set had similar chromatograms and retention times. Only the results from (b)(4) were reported as the final results.
+
+b) On September 19, 2019, at 2:52pm, you performed an HPLC injection with a name of “(b)(4)” in the “sample name” field. Afterwards, you ran (b)(4) for (b)(4) pain reliever (b)(4), lots (b)(4), at 4:19pm and (b)(4). All (b)(4) in this series of injections performed that day had similar chromatograms and retention times. Only the results from 4:19pm and (b)(4) were reported as the final results.
+
+We also found torn documents in the trash related to quality and production.
+
+In response, you stated that you will file a deviation and take corrective action regarding the unofficial injection issue.
+
+You stated that the injection named “(b)(4)” was a standard. However, other standards run on that day were labeled as “Std.”
+
+You also committed to reviewing your audit trials on a (b)(4) basis.
+
+Regarding the improper disposal of quality and production documents, you stated you would revise your procedures on controlling, duplicating, and archiving documents and will retrain all staff. Your brief response lacked details regarding corrective and preventive actions, including but not limited to, a comprehensive review of laboratory and documentation system vulnerabilities.
+
+Unofficial sample injections are not acceptable. All analytical data must be retained and reviewed as part of the official record.
+
+In response to this letter, provide:
+
+• An update on the unofficial injection assessment and other data integrity assessments performed by your third party. Include a copy of your protocols, and any interim and final reports. See the Data Integrity Remediation heading on page six of this letter for additional requests.
+
+• A complete assessment of documentation systems used throughout your manufacturing and laboratory operations to determine where documentation practices are insufficient. Include a detailed corrective action and preventive action (CAPA) plan that comprehensively remediates your firm’s documentation practices to ensure you retain attributable, legible, complete, original, accurate, contemporaneous records throughout your operation.
+
+2. Your firm failed to establish laboratory controls that include scientifically sound and appropriate specifications, standards, sampling plans, and test procedures designed to assure that components, drug product containers, closures, in-process materials, labeling, and drug products conform to appropriate standards of identity, strength, quality, and purity (21 CFR 211.160(b)).
+
+You lacked impurity testing and used deficient testing methods for your products. For example:
+
+a) You lacked impurity testing for your products, including, but not limited to, (b)(4) and (b)(4). (b)(4) may contain a potentially carcinogenic impurity called (b)(4). Because you did not test for (b)(4), you do not know the amount of (b)(4) in the final product to which a user might be exposed.
+
+b) Your analytical test methods were deficient, including but not limited to, AM-011 Determination of (b)(4) in Raw Material and (b)(4) by HPLC, for your (b)(4). Range was not evaluated adequately with respect to accuracy and precision. It did not appear that accuracy was conducted on spiked placebo formulations. Accuracy testing was conducted on standard solutions whose composition is not representative of the final product. Furthermore, precision was not reported for the low or high concentrations used to determine the calibration function for range analysis.
+
+In your response, you stated that you will investigate impurity testing on finished products. You stated that you will test your raw materials method against the USP method. Your response lacked details, such as specific plans for finished product impurity testing and how you revised or intend to revise your raw material and finished product testing.
+
+In your response, provide:
+
+• A list of chemical and microbial specifications, including test methods, used to analyze each lot of your drug products before a lot disposition decision.
+
+• An action plan and timelines for conducting full chemical and microbiological testing of retain samples to determine the quality of all batches of drug product distributed to the United States that are within expiry as of the date of this letter.
+
+• A summary of all results obtained from testing retain samples from each batch. If such testing reveals substandard quality drug products, take rapid corrective actions, such as notifying customers and product recalls.
+
+• A comprehensive, independent assessment of your laboratory practices, procedures, methods, equipment, documentation, and analyst competencies. Based on this review, provide a detailed plan to remediate and evaluate the effectiveness of your laboratory system.
+
+• A progress update on your raw material and finished drug product testing procedure revisions, and status of all method validation and verification studies.
+
+See FDA’s guidance document Analytical Procedures and Methods Validation for Drugs and Biologics for general principles and approaches that FDA considers appropriate elements of method validation at: https://www.fda.gov/media/87801/download.
+
+3. Your firm failed to establish and follow an adequate written testing program designed to assess the stability characteristics of drug products (21 CFR 211.166(a)).
+
+Your firm lacked stability-indicating methods for testing your finished drug products. You also lacked forced degradation studies for your finished drug products.
+
+In your response, you stated that you performed accelerated stability and (b)(4) stability on your (b)(4) product and will perform them on your (b)(4) product. Your response is inadequate because it did not address your firm’s lack of stability-indicating test methods.
+
+In response to this letter, provide:
+
+• A comprehensive, independent assessment and CAPA plan to ensure the adequacy of your stability program. Your remediated program should include, but not be limited to:
+
+o Stability indicating methods
+o Stability studies for each drug product in its marketed container-closure system before distribution is permitted
+o An ongoing program in which representative batches of each product are added each year to the program to determine if the shelf-life claim remains valid
+o Detailed definition of the specific attributes to be tested at each station (timepoint)
+
+• All procedures that describe these and other elements of your remediated stability program.
+
+4. Your firm failed to thoroughly investigate any unexplained discrepancy or failure of a batch or any of its components to meet any of its specifications, whether or not the batch has already been distributed (21 CFR 211.192).
+
+Your investigations into out-of-specification (OOS) results were inadequate. For example, you obtained OOS results for active pharmaceutical ingredient (API) assay during raw material testing for both (b)(4). In your OOS Number 169 investigation report, you
+
+attributed the root cause to assumed dilution error, prepared new sample solutions, and performed new tests. The new tests for (b)(4) API passed and you used the (b)(4) to manufacture (b)(4) for the U.S. market. Before performing the new tests, you noticed that the (b)(4) on the original sample had been damaged during testing. Yet you did not test the original sample or investigate the damaged (b)(4). Your investigation did not involve hypothesis testing to scientifically show dilution error was the root cause of the OOS results.
+
+Re-analysis of the actual solutions, test units, and glassware is an integral part of an investigation to determine whether a laboratory error may have occurred. This assessment, in tandem with hypothesis testing if initial re-examinations do not reveal a root cause, is instrumental in determining whether there was a causative laboratory error. Whenever an investigation lacks conclusive evidence of laboratory error, a thorough investigation of potential manufacturing quality causes must be conducted either internally or with your supplier, depending on the source of the material being tested.
+
+In your response, you acknowledged there was no justification for invalidating the original sample and that you will retrain your analysts to conduct proper investigations before preparing a new sample for retest. Your response is inadequate because review of your OOS results was limited to the examples described by our investigator. You did not broaden your assessment to comprehensively identify any additional inadequate OOS investigations.
+
+For more information about handling failing, OOS, out-of-trend, or other unexpected results and documentation of your investigations, see FDA’s guidance document Investigating Out-of-Specification (OOS) Test Results for Pharmaceutical Production at https://www.fda.gov/media/71001/download.
+
+In response to this letter, provide:
+
+• A retrospective, independent review of all invalidated OOS (including in-process and release/stability testing) results for U.S. products currently in the U.S. market and within expiry as of the date of this letter for the last three years from the initial date of inspection and a report summarizing the findings of the analysis, including the following for each OOS:
+
+o Determine whether the scientific justification and evidence relating to the invalidated OOS result conclusively or inconclusively demonstrates causative laboratory error.
+o For investigations that conclusively establish laboratory root cause, provide rationale and ensure that all other laboratory methods vulnerable to the same or similar root cause are identified for remediation.
+o For all OOS results found by the retrospective review to have an inconclusive or no root cause identified in the laboratory, include a thorough review of production (e.g., batch manufacturing records, adequacy of the manufacturing steps, suitability of equipment/facilities, variability of raw materials, process capability, deviation history, complaint history, batch failure history). Provide a summary of potential manufacturing root causes for each investigation, and any manufacturing operation improvements.
+
+• A comprehensive review and remediation plan for your OOS result investigation systems. The CAPA should include, but not be limited to, addressing the following:
+
+o Quality unit oversight of laboratory investigations
+o Identification of adverse laboratory control trends
+o Resolution of causes of laboratory variation
+o Initiation of thorough investigations of potential manufacturing causes whenever a laboratory cause cannot be conclusively identified
+o Adequate scoping of each investigation and its CAPA
+o Revised OOS investigation procedures with these and other remediations
+
+Unapproved New Drug and Misbranding Violations
+
+“Dr. Numb® Lidocaine Cream 4% - Topical Anesthetic”
+
+“Dr. Numb® Lidocaine Cream 4% - Topical Anesthetic” is a drug as defined by section 201(g)(1)(B) of the FD&C Act, 21 U.S.C. 321(g)(1)(B), because it is intended for the diagnosis, cure, mitigation, treatment, or prevention of disease and/or as defined by section 201(g)(1)(C) of the FD&C Act, 21 U.S.C. 321(g)(1)(C), because it is intended to affect the structure or any function of the body. Specifically, “Dr. Numb® Lidocaine Cream 4% - Topical Anesthetic” is intended for use as an external analgesic and as an anesthetic used prior to medical and cosmetic procedures.
+
+Examples of claims observed on the product label and labeling, which includes the package insert and the internet website that is printed in the package insert, www.DrNumb.com, provide evidence of the intended uses (as defined by 21 CFR 201.128) of the product. These claims include, but may not be limited to, the following:
+
+Package Insert Claims for “Dr. Numb® Lidocaine Cream 4% - Topical Anesthetic”
+
+“Dr. Numb® Topical Anesthetic 4% Lidocaine Cream is a non-prescription medication that produces temporary numbness or loss of sensation of the skin and its surrounding tissues to relieve local discomfort, pain and itch associated with insect bites, minor burns, minor cuts, minor scrapes, minor skin irritations, needle pain, and sunburn . . . HOW TO APPLY DR. NUMB® TOPICAL ANESTHETIC 4% LIDOCAINE CREAM . . . Apply a thick layer of Dr. Numb® cream and rub it evenly into the entire target area. Then apply another thick layer of cream and let it sit on top of the first application . . . Cover the area with a plastic film to prevent the cream from drying off. The heat sealed inside the film will facilitate better absorption of the cream into the skin. Wait for the anesthesia to take effect within 45-60 minutes . . . Wait time may vary and it could be extended up to 1.5 hours depending on the complexity of procedure. Ensure that the skin is fully numbed before unwrapping the plastic film. Wipe off the excess cream and then start the procedure.”
+
+Website Labeling Claims for “Dr. Numb® Lidocaine Cream 4% - Topical Anesthetic”
+
+“For more than a decade, Dr. Numb® has been the most recommended Topical Lidocaine Cream by healthcare professionals, artists and aestheticians . . . Health care professionals and aestheticians use Dr. Numb® Topical Lidocaine Cream for a number of off-label uses such as medical and cosmetic treatments . . . Dr. Numb® is an OTC (Over-the-Counter) Topical Anesthetic Cream (commonly known as numbing cream) that contains 4% lidocaine. It produces temporary numbness or loss of sensation of the skin and its surrounding tissues after its application. It is primarily used for relief of pain associated with skin conditions and dermal procedures including: . . . AESTHETIC PROCEDURES: . . . Dermal Fillers, Electrolysis, Hair Removal, Laser Treatments, Microblading, Microdermabrasion, Microneedling, Mole Removal, Permanent Makeup, Piercing, Spider Vein Removal, Tattoo, Tattoo Removal, Waxing . . . Topical lidocaine preparation produces anesthesia by inhibiting/ blocking conduction in the peripheral nerves to prevent pain signal propagation. The following takes place after applying Dr. Numb®: . . . 15 - 20 minutes: The onset of numbness begins at this point and is starting to spread out in the target area . . . 45 - 60 minutes: The numbness has infiltrated the entire target area. The loss of sensation in the superficial layer prevents any feeling of pain or discomfort . . . 60 – 90 minutes: The peak of numbing effect. Any pain, itch or discomfort should not be felt because the efficacy is at its highest . . . 90 – 120 minutes: The duration of maximum numbing effect is approximately sustained up to this point . . . 120 – 180 minutes: The numbing effect will gradually diminish. Re-application is highly recommended for another extended period of time.”
+
+OTC drug products such as “Dr. Numb® Topical Anesthetic 4% Lidocaine Cream” that are labeled to contain lidocaine and are intended for external analgesic indications such as the temporary relief of pain have been the subject of ongoing rulemaking under the Agency’s OTC Drug Review. In particular, such products were addressed in the Tentative Final Monograph (TFM) for External Analgesic Drug Products for Over-the-Counter Human Use (external analgesic TFM; 48 FR 5852, February 8, 1983).
+
+The Coronavirus Aid, Relief, and Economic Security Act (CARES Act), recently enacted on March 27, 2020, added section 505G to the FD&C Act. Under section 505G(a)(1) of the FD&C Act, drug ingredients that were classified as Category I in a TFM, such as lidocaine, are generally recognized as safe and effective (GRASE) and are not required to have approved applications under section 505 in order to be marketed, as long as they are in conformity with the relevant conditions of use outlined in the applicable TFM, including the labeling conditions, and comply with all other applicable requirements for nonprescription drugs. However, “Dr. Numb® Lidocaine Cream 4% - Topical Anesthetic” is not labeled or formulated in conformance with the external analgesic TFM for the reasons explained below.
+
+While lidocaine, the labeled active ingredient in “Dr. Numb® Lidocaine Cream 4% - Topical Anesthetic,” is an active ingredient included in the external analgesic TFM, the allowable indications for lidocaine are limited to the temporary relief of pain and/or itching, which can be followed by “associated with minor burns, sunburn, minor cuts, scrapes, insect bites, and/or minor skin irritations” (48 FR 5852 at 5868, February 8, 1983). Indications related to tattooing and piercing are not included in the external analgesic TFM or any other proposed or final rule.
+
+Thus, as formulated and labeled, “Dr. Numb® Lidocaine Cream 4% - Topical Anesthetic” does not comply with the TFM described above or any other proposed or final rule. Furthermore, we are not aware of sufficient evidence to show “Dr. Numb® Lidocaine Cream 4% - Topical Anesthetic” as formulated and labeled is generally recognized as safe and effective. Therefore, this product is a new drug within the meaning of section 201(p) of the FD&C Act, 21 U.S.C. 321(p). As a new drug, “Dr. Numb® Lidocaine Cream 4% - Topical Anesthetic” may not be legally marketed in the United States absent approval of an application filed in accordance with section 505(a) of the FD&C Act, 21 U.S.C. 355(a). “Dr. Numb® Lidocaine Cream 4% - Topical Anesthetic” is not the subject of an FDA-approved application and, therefore, the marketing of this product in the United States is prohibited under section 301(d) of the FD&C Act, 21 U.S.C. 331(d).
+
+“Dr. Numb® Lidocaine Cream 4% - Topical Anesthetic” is also misbranded under section 502(j) of the FD&C Act, 21 U.S.C. 352(j) because it is dangerous to health when used in the dosage or manner; or with the frequency or duration prescribed, recommended, or suggested in the labeling. Topically applied anesthetics containing ingredients such as lidocaine can be dangerous to health if used before certain cosmetic procedures (e.g., tattooing), particularly because these procedures are generally conducted without the supervision of a trained health professional. When applied to the skin surface, the anesthetic ingredient can be absorbed into the blood stream and, if used improperly, may cause life-threatening side effects, such as irregular heartbeat, seizures, breathing difficulties, coma, or even death. FDA has specifically warned about use of these types of products when applied over large areas of skin, particularly on irritated skin, for prolonged periods of time, and when the skin is covered after application. These uses increase the amount of active ingredient that passes into the blood stream.1
+
+The label of your “Dr. Numb® Lidocaine Cream 4% - Topical Anesthetic” directs the user to “Apply a thick layer of Dr. Numb® cream and rub it evenly into the entire target area” and “Cover the area with a plastic film.” These directions for use increase the possibility that significant amounts of lidocaine could enter the bloodstream and potentially cause serious harm to the p+atient. Therefore, as currently labeled, your product, “Dr. Numb® Lidocaine Cream 4% - Topical Anesthetic” is dangerous to health when used in the dosage or manner, or with the frequency or duration prescribed, recommended, or suggested in the labeling.
+
+The introduction or delivery for introduction of misbranded drugs into interstate commerce is prohibited under section 301(a) of the FD&C Act, 21 U.S.C. 331(a). Therefore, the marketing of “Dr. Numb® Lidocaine Cream 4% - Topical Anesthetic” violates this provision of the FD&C Act.
+
+“Dr. Numb® Lidocaine Cream”
+
+“Dr. Numb® Lidocaine Cream” is a drug as defined by section 201(g)(1)(B) of the FD&C Act, 21 U.S.C. 321(g)(1)(B), because it is intended for the diagnosis, cure, mitigation, treatment, or prevention of disease and/or as defined by section 201(g)(1)(C) of the FD&C Act, 21 U.S.C. 321(g)(1)(C), because it is intended to affect the structure or any function of the body. Specifically, “Dr. Numb® Lidocaine Cream” is intended for use as an anorectal drug product and as an anesthetic used prior to medical and cosmetic procedures.
+
+Examples of claims observed on the product label and labeling, which includes the package insert and the internet website that is printed in the package insert, www.DrNumb.com, provide evidence of the intended uses (as defined by 21 CFR 201.128) of the product. These claims include, but may not be limited to, the following:
+
+Package Insert Claims for “Dr. Numb® Lidocaine Cream”:
+
+“Dr. Numb® Lidocaine Cream is a non-prescription topical anesthetic product that provides temporary relief of local discomfort, itching pain, soreness or burning in the perianal area associated with anorectal disorders such as hemorrhoids, pruritus ani and anal fissures”
+
+Website Claims for “Dr. Numb® Lidocaine Cream”:
+
+“Dr. Numb® is an OTC (Over-the-Counter) Topical Anesthetic Cream (commonly known as numbing cream) that contains 5% lidocaine. It produces temporary numbness or loss of sensation of the skin and its surrounding tissues after its application. It is primarily used for relief of pain associated with skin conditions and dermal procedures including: . . . AESTHETIC PROCEDURES: . . . Dermal Fillers, Electrolysis, Hair Removal, Laser Treatments, Microblading, Microdermabrasion, Microneedling, Mole Removal, Permanent Makeup, Piercing, Spider Vein Removal, Tattoo, Tattoo Removal, Waxing.”
+
+OTC anorectal drug products, such as “Dr. Numb® Lidocaine Cream,” are subject to the final rule for Anorectal Drug Products for OTC Human Use (anorectal final rule), see 21 CFR Part 3462. However, this product is not labeled in accordance with the final rule for the reasons explained below.
+
+“Dr. Numb® Lidocaine Cream” includes labeling claims that specifically state the product is intended for the relief of pain associated with anal fissures and cosmetic procedures, such as tattooing, microblading, microneedling, and piercing. These indications are not included in the anorectal final rule or any other proposed or final rule.
+
+Thus, as formulated and labeled, “Dr. Numb® Lidocaine Cream” does not comply with the final rule described above. Furthermore, we are not aware of sufficient evidence to show “Dr. Numb® Lidocaine Cream,” as formulated and labeled, is generally recognized as safe and effective. Therefore, this product is a new drug within the meaning of section 201(p) of the FD&C Act, 21 U.S.C. 321(p). As a new drug, “Dr. Numb® Lidocaine Cream” may not be legally marketed in the United States absent approval of an application filed in accordance with section 505(a) of the FD&C Act, 21 U.S.C. 355(a). “Dr. Numb® Lidocaine Cream” is not the subject of an FDA-approved application, and therefore, the current marketing of this product violates section 505(a) of the FD&C Act, 21 U.S.C. 355(a). Introduction or delivery for introduction of such products into interstate commerce is prohibited under section 301(d) of the FD&C Act, 21 U.S.C. 331(d).
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements. Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Data Integrity Remediation
+
+Your quality system does not adequately ensure the accuracy and integrity of data to support the safety, effectiveness, and quality of the drugs you manufacture. See FDA’s guidance document Data Integrity and Compliance With Drug CGMP for guidance on establishing and following CGMP compliant data integrity practices at https://www.fda.gov/media/119267/download.
+
+We strongly recommend that you retain a qualified consultant to assist in your remediation. In response to this letter, provide the following:
+
+A. A comprehensive investigation into the extent of the inaccuracies in data records and reporting including results of the data review for drugs distributed to the United States. Include a detailed description of the scope and root causes of your data integrity lapses.
+
+B. A current risk assessment of the potential effects of the observed failures on the quality of your drugs. Your assessment should include analyses of the risks to patients caused by the release of drugs affected by a lapse of data integrity and analyses of the risks posed by ongoing operations.
+
+C. A management strategy for your firm that includes the details of your global CAPA plan. The detailed corrective action plan should describe how you intend to ensure the reliability and completeness of all data generated by your firm including microbiological and analytical data, manufacturing records, and all data submitted to FDA.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of these violations and for preventing their recurrence or the occurrence of other violations.
+
+Until you correct all violations completely and we confirm your compliance with CGMP, FDA may withhold approval of any new drug applications or supplements listing your firm as a drug manufacturer.
+
+Failure to correct these violations may also result in the FDA refusing admission of articles manufactured at Cosmaceutical Research Lab Inc., 12920 84th Avenue, Surrey, into the United States under section 801(a)(3) of the FD&C Act, 21 U.S.C. 381(a)(3). Articles under this authority may be subject to refusal of admission, in that the methods and controls used in their manufacture do not appear to conform to CGMP within the meaning of section 501(a)(2)(B) of the FD&C Act, 21 U.S.C. 351(a)(2)(B).
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov.
+
+Please identify your response with FEI 3003878590.
+
+Sincerely,
+/S/
+
+Francis Godwin
+Director
+Office of Manufacturing Quality
+Office of Compliance
+Center for Drug Evaluation and Research
+
+___________________________
+
+1 FDA issued Public Health Advisory in January 2009 regarding Life-Threatening Side Effects with the Use of Skin Products Containing Numbing Ingredients for Cosmetic Procedures.
+
+2 Under section 505G(a) of the FD&C Act, as added by the CARES Act, an over-the-counter (OTC) drug marketed in conformance with a final monograph and other applicable requirements is determined to be GRASE and not a new drug under section 201(p) of the FD&C Act.

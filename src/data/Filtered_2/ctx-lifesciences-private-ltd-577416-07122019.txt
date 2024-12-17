@@ -1,0 +1,220 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Kanak Jariwala
+          
+
+                                
+  
+    Recipient Title
+              Director
+          
+
+          
+            CTX Lifesciences Private Ltd.
+
+          
+                      Block No. 251-252, Sachin-Magdalla Road
+GIDC, Sachin, Surat 394230
+Gujarat
+India
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research
+        
+         
+          10903 New Hampshire Avenue
+Silver Spring, MD 20993
+United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter 320-19-30
+
+ 
+
+July 12, 2019
+
+            
+
+ 
+
+Dear Mr. Jariwala:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, CTX Lifesciences Private Ltd. at 251-252 Plot, Sachin Magdalla Highway, Surat, Gujarat, from February 11-16, 2019.
+
+This warning letter summarizes significant deviations from current good manufacturing practice (CGMP) for active pharmaceutical ingredients (API). 
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your API are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your March 8, 2019, response in detail and acknowledge receipt of your subsequent correspondence. 
+
+During our inspection, our investigators observed specific deviations including, but not limited to, the following.
+
+1.    Failure to ensure that water used in the (b)(4) manufacturing steps of a non-sterile API intended for a sterile drug product is monitored and controlled for total microbial counts, objectionable organisms, and endotoxins.
+
+Your firm did not assure that the (b)(4) water used for the (b)(4) steps of your parenteral grade API was suitable for its intended use. For example, although you were aware that your non-sterile API (e.g., (b)(4)) are intended for sterile injectable drug product manufacturing, you failed to monitor and control the water used in the (b)(4) rinse steps for endotoxins. 
+
+FDA considers the expectations outlined in ICH Q7 when determining whether API are manufactured in conformance with CGMP. See FDA’s guidance document Q7 Good Manufacturing Practice Guidance for Active Pharmaceutical Ingredients for guidance regarding CGMP for the manufacture of API at https://www.fda.gov/media/71518/download 
+
+In response to this letter, provide:
+
+
+	Your commitment to monitor and control your (b)(4) water for endotoxins for API intended for sterile drug products. 
+	All corrective action and preventive actions (CAPA) implemented to monitor and control for endotoxins, including but not limited to all applicable standard operating procedures (SOPs), qualifications, validations, specifications, alert/action limits, test methods, water analysis frequency, and locations and diagrams of sampling points. 
+	Your scientific justification for the endotoxin limits selected for (b)(4) water generated at your firm.
+	Water analysis test results for a period of (b)(4) obtained after implementation of endotoxin testing, including but not limited to sampling procedure(s), and results for total microbial counts, objectionable organisms, and endotoxins. 
+
+
+2.    Failure to adequately investigate out-of-specification results and implement appropriate corrective actions.
+
+You invalidated an out-of-specification (OOS) related substances test result for API (b)(4) batch (b)(4), listed in a pending drug application, without scientific justification. 
+
+In your response, you stated that you performed an investigational hypothesis study to evaluate the effect of sonication on API (b)(4) batch (b)(4). You concluded that (b)(4) generated an unknown impurity at the same relative retention time (RRT) and similar percentage peak area as the OOS result. 
+
+Your response is inadequate because you did not adequately investigate all potential causes of the unknown impurity. You attributed the OOS result to degradation caused by (b)(4), a sample preparation step performed during your test procedure. You also did not provide adequate scientific justification for your OOS result root cause. We note that three other batches of API (b)(4) followed this (b)(4) preparation and analysis procedure during the same sequence with no OOS results for these (b)(4) batches.
+
+In addition, you stated that (b)(4) activity is not recorded in analytical test data sheets for any of your API; therefore, you have no records to identify which tests included extended (b)(4). Moreover, you stated that no unknown impurity with this same RRT had been identified in previous related substances analyses at this magnitude. Still, you did not extend your investigation and root cause analysis past Phase (b)(4) to your manufacturing operations. You have been cited for inadequate OOS investigations in past inspections. 
+
+For more information about handling failing, out-of-specification, out-of-trend, or other unexpected results and documentation of your investigations, see FDA’s guidance document Investigating Out-of-Specification (OOS) Test Results for Pharmaceutical Production at https://www.fda.gov/media/71001/download 
+
+A possible laboratory error is insufficient to close an investigation at Phase (b)(4). Whenever an investigation lacks conclusive evidence of laboratory error, a thorough investigation of potential manufacturing causes must be performed.
+
+In response to this letter, provide:
+
+
+	A retrospective review of all invalidated OOS results (stability and commercial batch release) obtained for API distributed to the U.S. market and within expiry/retest date. Assess whether the scientific justification and evidence was conclusive. For investigations that conclusively establish laboratory root cause, determine adequacy of the CAPA plan, and ensure that other laboratory methods potentially vulnerable to the same root cause are identified for remediation. 
+
+
+For any OOS result with inconclusive or no root cause identified in the laboratory, include a thorough review of production (e.g., batch manufacturing records, adequacy of the manufacturing steps, raw materials, process capability, deviation history, batch failure history). Provide a summary of each CAPA plan, identifying the potential manufacturing root causes for each such investigation and process improvements where appropriate. Your CAPA plan should also include, but not be limited to, improvements in investigation competencies, root cause analysis, written procedures, quality unit oversight, and a process for evaluating CAPA effectiveness.
+
+
+	Total number of OOS results, and number of OOS results that were invalidated, for each product (raw material, in-process, released finished product and real-time stability testing) from 2017 to the present (tabulated annually). Include all OOS results investigated per 21 CFR 211.192, even if invalidated due to laboratory error.
+
+
+Specify how you assign a date to an OOS result (e.g., the time the initial OOS result is identified; when the initial laboratory investigation is initiated or closed, or when the final investigation is closed). Include a copy of your procedure for this process.
+
+
+	A table listing all OOS results from 2017 to the present relating to product distributed to the U.S. market, including the following information: 
+
+	
+		date OOS result occurred 
+		identifying code
+		description of OOS result
+		description of root cause
+		whether the OOS result was accepted or invalidated as a laboratory error
+		disposition of batch(es) 
+	
+	
+
+
+ 
+
+Conclusion
+
+Deviations cited in this letter are not intended as an all-inclusive list. You are responsible for investigating these deviations, for determining the causes, for preventing their recurrence, and for preventing other deviations. 
+
+If you are considering an action that is likely to lead to a disruption in the supply of drugs produced at your facility, FDA requests that you contact CDER’s Drug Shortages Staff immediately, at drugshortages@fda.hhs.gov, so that FDA can work with you on the most effective way to bring your operations into compliance with the law. Contacting the Drug Shortages Staff also allows you to meet any obligations you may have to report discontinuances or interruptions in your drug manufacture under 21 U.S.C. 356C(b) and allows FDA to consider, as soon as possible, what actions, if any, may be needed to avoid shortages and protect the health of patients who depend on your products.
+
+Until you correct all deviations completely and we confirm your compliance with CGMP, FDA may withhold approval of any new applications or supplements listing your firm as a drug manufacturer. 
+
+Failure to correct these deviations may also result in FDA refusing admission of articles manufactured at CTX Lifesciences Private Ltd. at 251-252 Plot, Sachin Magdalla Highway, Surat, Gujarat, into the United States under section 801(a)(3) of the FD&C Act, 21 U.S.C. 381(a)(3). Under the same authority, articles may be subject to refusal of admission, in that the methods and controls used in their manufacture do not appear to conform to CGMP within the meaning of section 501(a)(2)(B) of the FD&C Act, 21 U.S.C. 351(a)(2)(B).
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your deviations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion. 
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov or mail your reply to:
+
+Christina Alemu-Cruickshank
+
+Compliance Officer 
+
+U.S. Food and Drug Administration
+
+White Oak Building 51, Room 4212
+
+10903 New Hampshire Avenue
+
+Silver Spring, MD 20993
+
+USA
+
+ 
+
+Please identify your response with FEI 3006254924.
+
+ 
+
+Sincerely,
+
+/S/
+
+Francis Godwin
+
+Director
+
+Office of Manufacturing Quality
+
+Office of Compliance
+
+Center for Drug Evaluation and Research

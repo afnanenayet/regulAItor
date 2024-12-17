@@ -1,0 +1,181 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Ms. Jung Ok Lee
+          
+
+                                
+  
+    Recipient Title
+              CEO
+          
+
+          
+            AriBio H&B Co., Ltd.
+
+          
+                      77, Hanbangexpo-ro5-gil
+Jecheon-si
+Chungcheongbuk-do
+27116
+South Korea
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research | CDER
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter 320-22-02
+
+October 8, 2021
+
+Dear Ms. Lee:
+
+Your firm was registered as a human drug manufacturer. The United States Food and Drug Administration (FDA) conducted testing of a consumer antiseptic rub drug product (also referred to as a consumer hand sanitizer), labeled as Hand Sanitizer Original. This drug product was labeled as manufactured at your facility, AriBio H&B Co., Ltd., FEI 3009836687, at 77, Hanbangexpo-ro5-gil, Jecheon-si, Chungcheongbukdo. Following an attempt to import Hand Sanitizer Original into the United States, it was detained and refused admission at the border.
+
+The results of the FDA laboratory testing of a batch of this product detained at the border demonstrate that this drug product labeled as manufactured at your facility is adulterated within the meaning of section 501(c) of the Federal Food, Drug, and Cosmetic Act (FD&C Act or Act), 21 U.S.C. 351(c), in that its strength, purity, or quality falls below that which it purports or is represented to possess. In addition, this product is adulterated within the meaning of section 501(a)(2)(B) of the FD&C Act (21 U.S.C. 351(a)(2)(B)), in that the subpotency, in addition to the deficiencies in your response to the information we requested during the November 20, 2020 teleconference, demonstrates that the quality assurance within your facility is not functioning in accordance with Current Good Manufacturing Practice (CGMP) requirements.
+
+In addition, Hand Sanitizer Original drug product is misbranded under sections 502(a) and (x) of the FD&C Act, 21 U.S.C. 352(a) and (x). Introduction or delivery for introduction of such products into interstate commerce is prohibited under sections 301(a) of the FD&C Act, 21 U.S.C. 331(a). These violations are described in more detail below.
+
+Adulteration Violations
+
+Hand Sanitizer Original, labeled as manufactured at your facility, is labeled to contain 70% weight by volume (w/v) of the active ingredient anhydrous ethanol (ethanol). However, FDA laboratory testing of a batch of this product detained at the border found that the drug product contained an average of only 58% w/v ethanol. This hand sanitizer drug product is adulterated under section 501(c) of the FD&C Act in that the active ingredient of ethanol is present at levels in the products lower than that which is declared on their labeling.
+
+CDC recommends1 that, if soap and water are not readily available, consumers use an alcohol-based hand sanitizer that contains not less than 60% alcohol (ethanol). This is the minimum active ingredient concentration of ethanol specified in the 1994 Tentative Final Monograph for Health-Care Antiseptic Drug Products (59 FR 31402 (June 17, 1994)), as further amended by “Safety and Effectiveness of Consumer Antiseptics; Topical Antimicrobial Drug Products for Over-the-Counter Human Use; Proposed Amendment of the Tentative Final Monograph; Reopening of Administrative Record,” Proposed Rule, 81 FR 42912 (June 30, 2016).
+
+On November 20, 2020, FDA held a teleconference with you. We requested additional information concerning your CGMP operations, including test methods for your finished drug product, active ingredient supplier information, a statement confirming that you follow drug CGMP per 21 CFR Parts 210 and 211, and your investigation into the subpotent batch tested by FDA. In your responses, you provided details on the test method for release of finished hand sanitizer products but did not provide any documentation of what methanol content test method you or your suppliers are using or a scientific rationale for your ethanol content test method. Without adequate testing of incoming raw materials, as is required under 21 CFR 211.84, you cannot assure that your drug products conform to appropriate standards of identity, strength, quality and purity.
+
+In response to this letter, provide the following:
+• A detailed follow-up investigation into how the hand sanitizer drug product described above, which was labeled as containing 70% ethanol, in fact contained an average of 58% ethanol.
+• A list of all raw materials used to manufacture your hand sanitizer drug products, including the suppliers’ names, addresses, and contact information.
+• A list of all batches of any hand sanitizer drug products shipped to the United States by your firm, and a full reconciliation of all material you distributed.
+• Copies of the complete batch records for all batches distributed to the United States.
+• Methanol content test method for your hand sanitizer drug products shipped to the United States.
+
+The subpotency of hand sanitizer drug products labeled as manufactured in your facility, in addition to the deficiencies in your response to the information we requested during the November 20, 2020 teleconference, demonstrates that the quality assurance within your facility is not functioning in accordance with CGMP requirements under section 501(a)(2)(B) of the FD&C Act.2
+
+Misbranding Violations
+
+Hand Sanitizer Original is a “drug” as defined by section 201(g)(1)(B) of the FD&C Act, 21 U.S.C. 321(g)(1)(B), because it is intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease and/or under section 201(g)(1)(C) of the FD&C Act, 21 U.S.C. 321(g)(1)(C), because it is intended to affect the structure or any function of the body. Specifically, this product is intended for use as a consumer topical antiseptic.
+
+Examples of claims observed on the Hand Sanitizer Original product label that provide evidence of the intended use (as defined in 21 CFR 201.128) of the product include, but may not be limited to, the following:
+
+    “Hand Sanitizer Original. . . DRUG FACTS . . . Purpose: Antiseptic . . . Uses: Hand sanitizer to decrease bacteria on the skin that could cause disease . . . rub into the skin until dry.”
+
+Hand Sanitizer Original is misbranded under section 502(a) of the FD&C Act, 21 U.S.C. 352(a), because its label contains statements that are false or misleading. The label includes the claims, “REDLAB Korea NO1 Dietary Supplement” and “H&B aribio Korea NO1 Dietary Supplement,” which imply that this product is a dietary supplement. However, the Uses and Directions sections of the Hand Sanitizer Original label indicate that the product is intended for use as a topical antiseptic, not for ingestion. Because the definition of dietary supplement specifies that a dietary supplement “is intended for ingestion” (section 201(ff)(2)(A)(i) of the FD&C Act, 21 U.S.C. 321(ff)(2)(A)(i)), Hand Sanitizer Original is not a dietary supplement. Declaring Hand Sanitizer Original to be a dietary supplement is therefore false or misleading.
+
+This product is also misbranded under section 502(x) of the FD&C Act, 21 U.S.C. 352(x), because the product label fails to disclose a domestic address or domestic telephone number through which the responsible person may receive a report of a serious adverse event with such drug.
+
+The introduction or delivery for introduction of a misbranded drug into interstate commerce is prohibited under section 301(a) of the FD&C Act, 21 U.S.C. 331(a).
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to evaluate your operations and to assist your firm in meeting CGMP requirements if your firm intends to resume manufacturing drugs for the U.S. market. We also recommend that the qualified consultant perform a comprehensive audit of your entire operation for CGMP compliance and that the consultant evaluates the completion and efficacy of your corrective actions and preventive actions before you pursue resolution of your firm’s compliance status with FDA. Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations associated with your drug products. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+Note that FDA placed all drugs and drug products manufactured by your firm on Import Alert 66-78 on March 4, 2021, as the methods used in and controls used for the manufacture, processing, packing, or holding of these products do not appear to conform to current good manufacturing practices within the meaning of section 501(a)(2)(B) of the FD&C Act. Drugs and drug products that appear to be adulterated or misbranded may be detained or refused admission without physical examination.
+
+All drugs and drug products manufactured by your firm may remain listed on this import alert until there is evidence establishing that the conditions that gave rise to the appearance of a violation have been resolved, and the Agency has confidence that future entries will be in compliance with the FD&C Act. This may include an inspection prior to the Agency considering the appearance of adulteration to be addressed.
+
+If you decide you want to manufacture drugs for the United States in the future, request a Regulatory Meeting to discuss corrective actions.
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot do so within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov.
+
+Please identify your response with FEI 3009836687 and ATTN: Kevin Maguire.
+
+Sincerely,
+/S/
+Francis Godwin
+Director
+Office of Manufacturing Quality
+Office of Compliance
+Center for Drug Evaluation and Research
+
+cc:
+Registered U.S. Agent:
+Onbix Corp US
+3337 Park Vista Drive
+La Crescenta, CA 91214-3376
+onbixUS@gmail.com
+
+Onbix Corporation
+Ho Dong Yang
+#821 Samil Plaza
+14, Dogok-ro 1-gil
+Gangnam-gu, Seoul, 06253 South Korea
+onbix@naver.com
+
+____________________________
+
+1 https://www.cdc.gov/handwashing/hand-sanitizer-use.html
+
+2 Due to an increased demand for alcohol-based hand sanitizers during the COVID-19 pandemic, FDA published the Guidance for Industry: Temporary Policy for Preparation of Certain Alcohol-Based Hand Sanitizer Products During the Public Health Emergency (COVID-19) on March 19, 2020, and subsequently updated the guidance several times, most recently on February 10, 2021. This guidance communicates the Agency’s temporary policy that we do not intend to take action against firms for CGMP violations under section 501(a)(2)(B) of the FD&C Act if such firms prepare alcohol-based hand sanitizers for consumer use (or for use as a health care personnel hand rub) during the public health emergency, provided certain circumstances described in the guidance are present. These circumstances include preparation of hand sanitizer products using only the ingredients and formulas set forth in the guidance. In addition to the violative testing results detailed above that demonstrate the subpotency of a hand sanitizer product labeled as manufactured at your facility, a review of the purported formulation on the drug product’s labeling further indicates that this product is not prepared consistent with FDA’s temporary policy set forth in the guidance. Therefore, this product does not fall within the Agency’s temporary policy not to take action against firms manufacturing hand sanitizer products for violations of section 501(a)(2)(B) of the FD&C Act.

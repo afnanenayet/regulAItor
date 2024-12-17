@@ -1,0 +1,208 @@
+Delivery Method: 
+        Via Email
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Oren Ezra
+          
+
+                                
+  
+    Recipient Title
+              Owner/Chief Executive Officer
+          
+
+          
+            Formology Lab Inc.
+
+          
+                      9174 Deering Avenue
+Chatsworth, CA 91311
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+           Division of Pharmaceutical Quality Operations IV 
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+WARNING LETTER
+
+March 1, 2023
+
+Dear Mr. Ezra:
+
+The U.S. Food and Drug Administration inspected your drug manufacturing facility, Formology Lab Inc., FEI 3014278936, at 9174 Deering Avenue in Chatsworth, California from August 30 to September 9, 2022.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21, Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (the FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your October 3, 2022, response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence.
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+CGMP Violations
+
+1. Your firm failed to conduct at least one test to verify the identity of each component of a drug product ((21 CFR 211.84(d)(1)).
+
+Your firm failed to test Active Pharmaceutical Ingredients (API) prior to use in manufacturing drug products. Specifically, at least (b)(4) drug product batches were manufactured and subsequently released, before identity testing was performed. Component testing is fundamental to drug product quality. Without adequate testing, you do not have scientific evidence that your incoming components conform to appropriate specifications before use in the manufacture of drug products.
+
+In your response, you indicate that your firm is currently developing, reviewing, and updating all quality management system procedures and processes and assessing the roles and responsibilities of all personnel. You also indicate that procedures around testing and receiving of components will be enhanced.
+
+Your response is inadequate. The revision of the procedure for receiving and testing components lacks details such as timelines for implementation of revised procedures and specific testing to be performed. The use of components and release of the drug products containing these components prior to conducting identity testing, and the qualification of suppliers was not addressed. An impact assessment or investigation into this practice is not provided, nor is there any evaluation if other components were inappropriately utilized.
+
+In response to this letter, provide:
+
+
+	 A comprehensive review of your material system to determine whether all suppliers of components, containers, and closures, are each qualified and the materials are assigned appropriate expiration or retest dates. The review should also determine whether incoming material controls are adequate to prevent use of unsuitable components, containers, and closures.
+	A description of how you will test each component lot for conformity with all appropriate specifications for identity, strength, quality, and purity. If you intend to accept any results from your supplier’s Certificates of Analysis (COA) instead of testing each component lot for strength, quality, and purity, specify how you will robustly establish the reliability of your supplier’s results through initial validation as well as periodic revalidation. In addition, include a commitment to always conduct at least one specific identity test for each incoming component lot.
+
+
+2. Your firm failed to establish written procedures for production and process control designed to assure that the drug products you manufacture have the identity, strength, quality, and purity they purport or are represented to possess (21 CFR 211.100(a)).
+
+Your firm lacked an adequate ongoing program for monitoring process controls to ensure stable manufacturing operations and consistent drug quality. Specifically, you did not provide documentation to show that the manufacturing processes for your over-the-counter (OTC) sunscreen drug products have been validated.
+
+See the FDA’s guidance document Process Validation: General Principles and Practices for general principles and approaches that the FDA considers appropriate elements of process validation at https://www.fda.gov/media/71021/download.
+
+In addition, your firm could not provide data to demonstrate that the water used to manufacture drug products met the United States Pharmacopeia (USP) monograph for (b)(4) water and was fit for pharmaceutical use. Specifically, conductivity and total organic carbon (TOC) testing was not performed.
+
+In your response, you provide a Master Validation Plan. Additionally, your firm commits (b)(4).
+
+Your response is inadequate because it lacks sufficient information on your planned validation activities, including timelines for completion. Also, your response does not discuss TOC and conductivity testing.
+
+In response to this letter, provide:
+
+
+	A detailed summary of your validation program for ensuring a state of control throughout the product lifecycle, along with associated procedures, for each of your manufacturing processes. Describe your program for process performance qualification and ongoing monitoring of both intra-batch and inter-batch variation to ensure a continuing state of control.
+	A timeline for performing process performance qualification (PPQ) for each of your marketed drug products.
+	Include your process performance protocol(s), and written procedures for qualification of equipment and facilities.
+	A comprehensive assessment of your water system design, control, and maintenance.
+	A thorough remediation plan to install and operate a suitable water system. Include a robust ongoing control, maintenance, and monitoring program to ensure the (b)(4) system consistently produces water adhering to (b)(4) Water, USP monograph specifications and appropriate microbial limits.
+	Regarding the latter, ensure that your total microbial count limit for water is appropriate in view of the intended use of the products produced by your firm.
+	A detailed risk assessment addressing the potential effects of the observed water system deficiencies on the quality of all drug product lots currently in U.S. distribution or within expiry. Specify actions that you will take in response to the risk assessment, such as customer notifications and product recalls.
+
+
+3. Your firm failed to establish an adequate quality unit and the responsibilities and procedures applicable to the quality control unit are not in writing and fully followed (21 CFR 211.22(a) and (d)).
+
+Specifically, your quality unit (QU) failed to establish procedures describing critical oversight responsibilities including but not limited to, the following: investigations, management of changes, customer complaints, training, corrective actions and preventive actions (CAPAs), deviations, annual product reviews, and written procedures for quality unit operations.
+
+Furthermore, you did not have appropriate stability data to demonstrate that the chemical and microbiological properties of your drug products met established specifications and remain acceptable throughout their assigned shelf-life. For example, your firm did not place an appropriate number of batches of each drug product formulation on stability. Additionally, out-of-specification (OOS) viscosity results were obtained for your (b)(4) and (b)(4) formula stability samples. You failed to conduct an adequate investigation for the OOS viscosity results.
+
+In your response, you state that you are currently developing, or reviewing and updating all quality management system procedures and processes. You plan to provide training for all applicable personnel as procedures are implemented and include documented evidence in subsequent response updates. Your firm also provides information on how viscosity impacts your product and may shift during stability testing. You commit to continuing to evaluate your viscosity specifications and OOS investigations are initiated for the failures.
+
+Your response is inadequate. You do not provide target completion dates for the updated procedures. In addition, it is not appropriate to train personnel without a training procedure in place.
+
+In response to this letter, provide:
+
+
+	A comprehensive assessment and remediation plan to ensure your QU is given the authority and resources to effectively function. The assessment should also include, but not be limited to:
+
+
+  o  A determination of whether procedures used by your firm are robust and appropriate
+  o  Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices
+  o  A complete and final review of each batch and its related information before the QU disposition decision
+  o  Oversight and approval of investigations and discharging of all other QU duties to ensure identity, strength, quality, and purity of all products
+
+
+	A comprehensive assessment and CAPA plan to ensure the adequacy of your stability program. Your remediated program should include, but not be limited to:
+
+
+  o  Stability indicating methods
+  o  Stability studies for each drug product in its marketed container-closure system before distribution is permitted
+  o  An ongoing program in which representative batches of (b)(4) product (b)(4) to the program to determine if the shelf-life claim remains valid
+  o  Detailed definition of the specific attributes to be tested at each station (timepoint)
+
+All procedures that describe these and other elements of your remediated stability program.
+
+Responsibilities as a Contractor
+
+Drugs must be manufactured in conformance with CGMP. The FDA is aware that many drug manufacturers use independent contractors such as production facilities, testing laboratories, packagers, and labelers. The FDA regards contractors as extensions of the manufacturer. You are responsible for the quality of drugs you produce as a contract facility regardless of agreements in place with product owners. You are required to ensure that drugs are made in accordance with section 501(a)(2)(B) of the FD&C Act for safety, identity, strength, quality, and purity. See the FDA’s guidance document Contract Manufacturing Arrangements for Drugs: Quality Agreements at https://www.fda.gov/media/86193/download.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+Correct any violations promptly. Failure to promptly and adequately address this matter may result in regulatory or legal action without further notice including, without limitation, seizure and injunction. Unresolved violations may also prevent other federal agencies from awarding contracts.
+
+Failure to address violations may also cause the FDA to withhold issuance of Export Certificates. The FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to address any violations.
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Please send your electronic reply to ORAPHARM4_Responses@FDA.HHS.GOV or mail your reply to:
+
+CDR Steven E. Porter, Jr.
+Director, Division of Pharmaceutical Quality Operations IV
+U.S. Food & Drug Administration
+19701 Fairchild Road
+Irvine, California 92612-2506
+
+Please identify your responses with the unique identifier: CMS 644745.
+
+If there is any question about the released information, please contact Yumi Hiramine, compliance officer, at yumi.hiramine@fda.hhs.gov or at 818-226-1839.
+
+Sincerely,
+/S/
+CDR Steven E. Porter, Jr.
+Director, Division of Pharmaceutical Quality Operations IV

@@ -1,0 +1,215 @@
+Delivery Method: 
+        UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              President/Co-Chief Executive Officer
+          
+
+                    
+            Cosmax USA, Inc.
+
+                      Mr. Byung Joo Lee
+          
+                      65 Challenger Road
+Ridgefield Park, NJ 07660
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Division of Pharmaceutical Quality Operations II
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+October 15, 2020
+
+WARNING LETTER
+WL #606909
+
+
+Dear Mr. Lee:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Cosmax USA, Inc., FEI 1527228, at 30701 Carter Street, Solon, Ohio, from February 24, to March 17, 2020.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We acknowledge receipt of your April 6, 2020, and your subsequent responses dated May 6 and June 6, 2020.
+
+During our inspection, our investigator observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to thoroughly investigate any unexplained discrepancy or failure of a batch or any of its components to meet any of its specifications, whether or not the batch has already been distributed (21 CFR 211.192).
+
+You used (b)(4) to manufacture your over-the-counter topical sunscreen drug products. Your firm failed to adequately investigate microbial out-of-limit (OOL) results from your (b)(4) system. For example, water sampled from (b)(4) on September 30, 2019, yielded an OOL result. Pseudomonas aeruginosa was identified. Your investigation noted that Pseudomonas aeruginosa was also found in samples taken from a different (b)(4) on September 11 and 20, 2019. Despite finding objectionable microbiological contamination in your water system (b)(4) times in less than a month, your firm failed to conduct an adequate investigation.
+
+Your firm subsequently found additional water samples to be OOL, including Too Numerous to Count, between September and November 2019. In multiple instances, your investigations did not document the identity of the microorganism(s). Your firm also lacked control of the upstream part of your water system.
+
+Your firm failed to adequately investigate the recurring microbiological failures. You lacked sufficient investigations into poor water quality and its impact on drug product quality. The presence of objectionable levels and types of microorganisms in your (b)(4) may have adversely affected the quality of your distributed drug products.
+
+Your response indicates that other samples collected for (b)(4) from before and after the occurrence were within limits, and you believe there was no risk to the drug product. Your response is inadequate. You failed to address the root cause of the adverse pattern of excessive and objectionable contamination in your water system. You also did not address any distributed product batches that may be compromised by microbiological contamination.
+
+In response to this letter, provide the following:
+
+
+	A comprehensive, independent assessment of the adequacy of water system design, control, and maintenance. One of the key elements of this independent assessment should be a retrospective review of all past monitoring results and critique of past investigations (including adequacy of root cause determinations) into the microbial contamination problems.
+	A thorough remediation plan to install and operate a suitable water system.
+	A detailed risk assessment addressing the potential effects of the observed water system failures on the quality of all drug product lots currently in U.S. distribution or within expiry. Specify actions that you will take in response to the risk assessment, such as customer notifications and product recalls.
+	An effective program for ongoing control, maintenance, and monitoring that helps ensure the remediated system consistently produces water that meets (b)(4), USP monograph specifications and appropriate microbial limits (i.e., total count, objectionable microbes).
+	A water system monitoring procedure that specifies routine microbial testing of water to ensure its acceptability for use in each batch of drug products produced by your firm.
+
+
+Describe in detail the frequency of sampling for each location that is monitored in your water system, and improved provisions for identification of microbes from water system point-of-use samples.
+
+
+	The current action/alert limits for total counts and objectionable organisms for your (b)(4) system.
+	A comprehensive, independent assessment of your overall system for investigating deviations, discrepancies, complaints, Out-of-Specification (OOS) results, and failures. Provide a detailed action plan to remediate this system. Your action plan should include, but not be limited to, significant improvements in investigation competencies, scope determination, root cause evaluation, Corrective Action and Preventive Action (CAPA) effectiveness, Quality Unit (QU) oversight, and written procedures. Address how your firm will ensure all phases of investigations are appropriately conducted.
+	A retrospective, independent assessment of all OOL and OOS results for water, ingredients, containers and closures, in-process materials, and finished product since January 1, 2018, to present. Provide a summary of each incident that includes batch number, date, presumed root cause(s), CAPA, and an independent evaluation of CAPA effectiveness.
+
+
+2. Your firm failed to establish time limits for the completion of each phase of production to assure the quality of the drug product (21 CFR 211.111).
+
+Your firm lacked bulk hold time studies for multiple drug products that may be held at the in-process stage for up to six months prior to final fill. However, you assigned (b)(4) as the maximum bulk hold time to your drug products without an approved study, procedure, or protocol. Furthermore, you exceeded your maximum bulk hold time without an appropriate investigation.
+
+Your response states there was no risk to the product that was released for distribution without a formal bulk study because routine quality control testing was performed by your firm. Your response is inadequate because you failed to provide sufficient information about how you will establish time limitations for production phases to ensure quality of your drug product. Furthermore, you did not adequately address impact of the lack of bulk hold time data on the stability of your products.
+
+In response to this letter, provide the following:
+
+
+	An assessment of each drug product process to ensure that there is a data-driven and scientifically sound program that identifies and controls all sources of variability and consistently meets appropriate specifications and manufacturing standards. This includes, but is not limited to, evaluating suitability of equipment for its intended use, sufficiency of detectability in your monitoring and testing systems, quality of input materials, and reliability of each manufacturing process step and control.
+	A revised procedure that defines appropriate time limits of production phases and a description of each study performed to support these time limits. Include all attributes that will be tested at maximum hold times and describe rationale for any attribute that is not tested at maximum hold time.
+	A remediation of your stability program to ensure that representative and robust studies are conducted to establish appropriate hold time limits for all significant phases of production for each of your drug products. Also state whether batches tested as part of studies to establish maximum hold times will also be placed on long term stability. Provide an implementation plan that fully addresses this deficiency.
+
+
+3. Your firm failed to establish and follow adequate written procedures for cleaning and maintenance of equipment (21 CFR 211.67(b)).
+
+You failed to clean and sanitize your non-dedicated production tanks per your written and approved cleaning procedures. For example, your employees did not maintain the minimum appropriate temperature or routinely fill the tanks to the level specified in the procedure during the cleaning and sanitization process. Your firm management acknowledged that some employees did not know how to adequately clean the tanks per the cleaning procedure.
+
+Furthermore, your cleaning program lacked adequate documentation. For example, a bucket of cleaning solution was used without a label or other documentation of the chemicals or the amounts used to reach the appropriate cleaning concentration. In addition, your procedures did not include details for employees to evaluate the difficult to reach areas in order to assess cleanliness. Without an adequate cleaning program, you cannot ensure your employees clean equipment consistently to prevent contamination from previously manufactured batches.
+
+Your response stated you would retrain all “skincare” processing employees on your cleaning procedures. Your response is inadequate because you did not assess the risk of potential cross-contamination and its effect on product quality for batches of drug product manufactured on this shared equipment. You also did not provide adequate evidence that your cleaning procedures have been fully remediated.
+
+In response to this letter, provide the following:
+
+
+	A CAPA plan, based on the retrospective assessment of your cleaning and disinfection program, that includes appropriate remediations to your cleaning and disinfection procedures and practices, and timelines for completion. Provide a detailed summary of vulnerabilities in your process for lifecycle management of equipment cleaning and disinfection. Describe improvements to your cleaning and disinfection program, including enhancements to cleaning effectiveness, improved ongoing verification of proper cleaning and disinfection execution for all products and equipment, and all other needed remediations.
+	Appropriate improvements to your cleaning validation program, with special emphasis on incorporating conditions identified as worst case in your drug manufacturing operation. This should include, but not be limited to, identification and evaluation of all worst-case:
+
+
+    o Drugs with higher toxicities
+    o Drugs with higher drug potencies
+    o Drugs of lower solubility in their cleaning solvents
+    o Drugs with characteristics that make them difficult to clean
+    o Swabbing locations for areas that are most difficult to clean
+    o Maximum hold times before cleaning
+
+
+	In addition, describe the steps that must be taken in your change management system before introduction of new manufacturing equipment or a new product.
+	A summary of updated SOPs that ensure an appropriate program is in place for verification and validation of cleaning procedures for products, processes, and equipment.
+
+
+Products Containing Glycerin
+
+You manufacture multiple drugs that contain glycerin. The use of glycerin contaminated with diethylene glycol (DEG) has resulted in various lethal poisoning incidents in humans worldwide. See FDA’s guidance document Testing of Glycerin for Diethylene Glycol to help you meet the CGMP requirements when manufacturing drugs containing glycerin at https://www.fda.gov/media/71029/download.
+
+Quality Unit Authority
+
+Significant findings in this letter indicate that your QU is not able to fully exercise its authority and/or responsibilities. Your firm must provide the QU with the appropriate authority and sufficient resources to carry out its responsibilities and consistently ensure drug quality.
+
+CGMP Consultant
+
+Based upon the nature of the violations we identified at your firm, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements. Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of these violations and for preventing their recurrence or the occurrence of other violations.
+
+You should take prompt action to correct the violations cited in this letter. Failure to promptly correct these violations may result in legal action without further notice including, without limitation, seizure and injunction. Unresolved violations in this warning letter may also prevent other Federal agencies from awarding contracts.
+
+FDA may also withhold approval of requests for export certificates and approval of pending new drug applications or supplements listing your facility as a supplier or manufacturer until the above violations are corrected. We may re-inspect to verify that you have completed your corrective actions.
+
+Within fifteen (15) working days of receipt of this letter, please notify this office in writing of the specific steps that you have taken to correct the violations. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+If you believe that your products are not in violation of the FD&C Act (or you have complied with FDA regulations), include your reasoning and any supporting information for our consideration.
+
+Please address your reply to ORAPHARM3_RESPONSES@fda.hhs.gov
+
+Attention: Tina M. Pawlowski, Compliance Officer
+Division of Pharmaceutical Quality Operations III
+
+Your written notification should refer to the Warning Letter Number above (#606909). If you have questions regarding the contents of this letter, please contact Tina M. Pawlowski at (313) 393-8217.
+
+Sincerely,
+/S/
+
+Art O. Czabaniuk
+Program Division Director
+Division of Pharmaceutical Quality Operations III
+
+ 
+
+cc: Jeongdae Ha, Factory Manager
+Cosmax USA, Inc.
+30701 Carter Street
+Solon, OH 44139

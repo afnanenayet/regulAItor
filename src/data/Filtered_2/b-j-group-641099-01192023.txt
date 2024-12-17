@@ -1,0 +1,167 @@
+Delivery Method: 
+        VIA UPS and Electronic Mail
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Tilghman B. Frey
+          
+
+                                
+  
+    Recipient Title
+              Chief Operating Officer
+          
+
+          
+            B & J Group
+
+          
+                      1001 New Ford Mill Rd.
+Morrisville, PA 19067
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+           Division of Pharmaceutical Quality Operations I
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter 641099
+
+January 19, 2023
+
+Dear Mr. Frey:
+
+Your facility is registered with the United States Food and Drug Administration (FDA or Agency) as a manufacturer of over-the-counter (OTC) drug products, including consumer antiseptic hand rub drug products (also referred to as consumer hand sanitizers). FDA has reviewed the records you submitted in response to our January 25, 2022 and February 9, 2022 request for records and other information pursuant to section 704(a)(4) of the Federal Food, Drug, and Cosmetic Act (FD&C Act) (21 U.S.C. 374(a)(4)) for your facility, B & J Group, FEI 3010096700, at 1001 New Ford Mill Road, Morrisville, Pennsylvania.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding drugs as described in your response to our 704(a)(4) request do not conform to CGMP regulations, your drug products are deemed adulterated within the meaning of section 501(a)(2)(B) of the FD&C Act (21 U.S.C. 351(a)(2)(B))1.
+
+704(a)(4) Request for Records and Related CGMP Violations
+
+Following review of records and other information provided pursuant to section 704(a)(4) of the FD&C Act, significant violations were observed including, but not limited to, the following:
+
+1. Your firm failed to have, for each batch of drug product, appropriate laboratory determination of satisfactory conformance to final specifications for the drug product, including the identity and strength of each active ingredient, prior to release, and for each batch of drug product required to be free of objectionable microorganisms, appropriate laboratory testing, as necessary (21 CFR 211.165(a) and (b))
+
+Your response to our request for records and other information under section 704(a)(4) indicated that you are a contract filler of OTC hand sanitizer drug products and that you did not test the finished drug products before release. Specifically, in response to our request to provide the finished product specifications and test methods for both analytical and microbiological tests for each hand sanitizer product manufactured for distribution in the United States, you stated that this is “Done by customer” and “We just filled the bottles.”
+
+Owners and contract manufacturing facilities are both responsible for CGMPs, which includes the implementation of oversight and controls over the manufacture of drugs to ensure quality, including managing the risk of and establishing the safety of raw materials, materials used in the manufacturing of drugs, and finished drug products.
+
+Full release testing, including for identity, strength, and impurities, must be performed prior to drug release and distribution. Without adequate testing, there is no scientific evidence to assure that your drug products conform to appropriate specifications before release.
+
+In response to this letter, provide:
+
+• A list of chemical and microbial specifications, including test methods, used to analyze each batch of your drug products before a batch disposition decision:
+  o An action plan and timelines for conducting full chemical and microbiological testing of reserve samples to determine the quality of all batches of drug product distributed to the United States that are within expiry as of the date of this letter.
+  o A summary of all results obtained from testing reserve samples from each batch. If such testing reveals substandard quality drug products, take rapid corrective actions, such as notifying customers and product recalls.
+
+2. Your firm failed to conduct at least one test to verify the identity of each component of a drug product (21 CFR 211.84(d)(1)).
+
+Based on the records and information you provided, you did not demonstrate adequate testing of the identity of incoming components used in the manufacture of your drug products. Specifically, your response stated that raw material identity testing for each lot of each component is “Not Applicable,” testing of ethanol or isopropyl alcohol and methanol is “Done by each customer,” and testing the potency (assay) of ethanol or isopropyl alcohol used for hand sanitizer is “Not Applicable.”
+
+You manufacture multiple drugs that contain ethanol. The use of ethanol contaminated with methanol has resulted in various lethal poisoning incidents in humans worldwide. See FDA’s guidance document Policy for Testing of Alcohol (Ethanol) and Isopropyl Alcohol for Methanol, Including During the Public Health Emergency (COVID-19) at: https://www.fda.gov/media/145262/download.
+
+In response to this letter, provide:
+
+• A description of how you will test each component lot for conformity with all appropriate specifications for identity, strength, quality, and purity. If you intend to accept any results from your supplier’s Certificates of Analysis (COA) instead of testing each component lot for strength, quality, and purity, specify how you will robustly establish the reliability of your supplier’s results through initial validation as well as periodic re-validation. In addition, include a commitment to always conduct at least one specific identity test for each incoming component lot.
+
+3. Your firm failed to establish written procedures for production and process control designed to assure that the drug products you manufacture have the identity, strength, quality, and purity they purport or are represented to possess (21 CFR 211.100(a)).
+
+Based on the information you provided, you did not demonstrate that your manufacturing processes are reproducible and controlled to yield a product of uniform character and quality. For example, we asked you to provide a copy of the most recent, completed batch production record for each hand sanitizer product manufactured. You stated in your response that batch production records are “Maintained by customers.”
+
+In response to this letter, provide:
+
+• A complete assessment of documentation systems used throughout your manufacturing and laboratory operations to determine where documentation practices are insufficient. Include a detailed corrective action and preventive action (CAPA) plan that comprehensively remediates your firm’s documentation practices to ensure you retain attributable, legible, complete, original, accurate, contemporaneous records throughout your operation.
+• A list of all batches of any hand sanitizer drug products distributed by your firm, and a full reconciliation of all material you distributed.
+
+Responsibilities as a Contractor
+
+Drugs must be manufactured in conformance with CGMP. FDA is aware that many drug manufacturers use independent contractors such as production facilities, testing laboratories, packagers, and labelers. FDA regards contractors as extensions of the manufacturer.
+
+You are responsible for the quality of drugs you produce as a contract facility regardless of agreements in place with product owners. You are required to ensure that drugs are made in accordance with section 501(a)(2)(B) of the FD&C Act for safety, identity, strength, quality, and purity. See FDA’s guidance document Contract Manufacturing Arrangements for Drugs: Quality Agreements at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/contract-manufacturing-arrangements-drugs-quality-agreements-guidance-industry.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+Correct any violations promptly. Failure to promptly and adequately address this matter may result in regulatory or legal action without further notice including, without limitation, seizure and injunction. Unresolved violations may also prevent other Federal agencies from awarding contracts.
+
+Failure to address violations may also cause FDA to withhold issuance of Export Certificates. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may inspect your facility to verify that you have completed corrective actions to address any violations.
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to ORAPHARM1_RESPONSES@fda.hhs.gov and CDER-OC-OMQ-Communications@fda.hhs.gov. Please also identify your response with FEI 3010096700.
+
+Sincerely,
+/S/
+
+Lisa Harlan
+Program Division Director/ District Director
+U.S. Food and Drug Administration
+OPQO Division I / New Jersey District
+
+________________________
+
+1 Due to an increased demand for alcohol-based hand sanitizers during the COVID-19 pandemic, FDA published the Guidance for Industry: Temporary Policy for Preparation of Certain Alcohol-Based Hand Sanitizer Products During the Public Health Emergency (COVID-19) on March 19, 2020, and subsequently updated the guidance several times. This guidance communicated the Agency’s temporary policy that we did not intend to take action against firms for CGMP violations under section 501(a)(2)(B) of the FD&C Act if such firms prepared alcohol-based hand sanitizers for consumer use (or for use as a health care personnel hand rub) during the public health emergency, provided certain circumstances described in the guidance were present. These circumstances included preparation of hand sanitizer products using only the ingredients and formulas set forth in the guidance. The guidance was withdrawn effective December 31, 2021 (86 Fed Reg at 56960). Because B & J Group hand sanitizer drug products were not prepared under the circumstances described in this guidance, they did not fall within any temporary Agency policy not to take action against firms manufacturing hand sanitizer products for violations of section 501(a)(2)(B) of the FD&C Act.

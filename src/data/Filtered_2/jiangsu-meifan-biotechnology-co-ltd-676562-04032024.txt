@@ -1,0 +1,156 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+              Reference #: 
+        320-24-30
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Linda Lee
+          
+
+                                
+  
+    Recipient Title
+              General Manager
+          
+
+          
+            Jiangsu Meifan Biotechnology Co. Ltd.
+
+          
+                      Industrial Park of Wangduo, Yazhou Town
+Hai'an Xian
+Nantong Shi
+Jiangsu Sheng, 226641
+China
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research | CDER
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter 320-24-30
+
+April 3, 2024
+
+Dear Ms. Lee:
+
+Your facility is registered with the United States Food and Drug Administration (FDA) as a manufacturer of over-the-counter (OTC) drug products. FDA has reviewed the records you submitted in response to our August 15, 2022 request for records and other information pursuant to section 704(a)(4) of the Federal Food, Drug, and Cosmetic Act (FD&C Act) for your facility, Jiangsu Meifan Biotechnology Co. Ltd., FEI 3017005720, at Industrial Park of Wangduo, Yazhou Town, Haian, Nantong, Jiangsu 226641, China.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations, parts 210 and 211 (21 CFR, parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding of drugs as described in your response to our 704(a)(4) request do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act) (21 U.S.C. 351(a)(2)(B)).
+
+Following review of records and other information provided pursuant to section 704(a)(4) of the FD&C Act, significant violations were observed including, but not limited to, the following:
+
+1. Your firm failed to have, for each batch of drug product, appropriate laboratory determination of satisfactory conformance to final specifications for the drug product, including the identity and strength of each active ingredient, prior to release (21 CFR 211.165(a)).
+
+Your firm manufactures OTC drug products, including antimicrobial hand wipes.1 Based on the records and information you provided, you did not demonstrate that you conduct adequate finished drug product testing on your drug products. For example, the test reports that you provided did not include an appropriate assay test for active ingredient content or impurities.
+
+Full release testing, including strength and identity testing of the active ingredient, must be performed before drug product release and distribution. Without adequate testing, you do not have adequate scientific evidence to assure that your drug products conform to appropriate specifications before release.
+
+2. Your firm failed to establish an adequate quality control unit with the responsibility and authority to approve or reject all components, drug product containers, closures, in-process materials, packaging materials, labeling, and drug products (21 CFR 211.22(a)).
+
+The records and information you provided demonstrate that your quality unit (QU) did not effectively exercise its responsibilities to oversee the quality of your drug manufacturing operations.
+
+Your QU is responsible for fully exercising its authority and responsibilities. FDA is concerned that your QU may not be conducting appropriate oversight regarding CGMP operations.
+
+See FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations for help implementing quality systems and risk management approaches to meet the requirements of CGMP regulations 21 CFR, parts 210 and 211 at https://www.fda.gov/media/71023/download.
+
+CGMP Consultant Recommended
+
+If your firm intends to resume manufacturing drugs for the U.S. market, you should engage a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements before resuming drug manufacturing operations. The qualified consultant should also perform a comprehensive six-system audit of your entire operation for CGMP compliance and evaluate the completion and efficacy of all CAPAs before you pursue resolution of your firm’s compliance status per FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+FDA placed your firm on Import Alert 66-40 on April 1, 2024.
+
+Correct any violations promptly. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may inspect to verify that you have completed corrective actions to any violations.
+
+Failure to address any violations may also result in the FDA continuing to refuse admission of articles manufactured at Jiangsu Meifan Biotechnology Co. Ltd., Industrial Park of Wangduo, Yazhou Town, Haian, Nantong, Jiangsu, China, into the United States under section 801(a)(3) of the FD&C Act, 21 U.S.C. 381(a)(3). Articles under this authority that appear to be adulterated may be detained or refused admission.
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov. Identify your response with FEI 3017005720 and ATTN: Daniel W. Brisker.
+
+Sincerely,
+/S/
+
+Francis Godwin
+Director
+Office of Manufacturing Quality
+Office of Compliance
+Center for Drug Evaluation and Research
+
+CC:
+US Agent
+Frosa Technology LLC
+U.S.agent@frosatechnology.com
+
+_______________________
+
+1 Due to an increased demand for alcohol-based hand sanitizers during the COVID-19 pandemic, the FDA published the Guidance for Industry: Temporary Policy for Preparation of Certain Alcohol-Based Hand Sanitizer Products During the Public Health Emergency (COVID-19) on March 19, 2020, and subsequently updated the guidance several times. This guidance communicated the Agency’s temporary policy that we did not intend to take action against firms for CGMP violations under section 501(a)(2)(B) of the FD&C Act if such firms prepared alcohol-based hand sanitizers for consumer use (or for use as a health care personnel hand rub) during the public health emergency, provided certain circumstances described in the guidance were present. These circumstances included preparation of hand sanitizer products using only the ingredients and formulas set forth in the guidance. The guidance was withdrawn effective December 31, 2021 (86 Fed Reg at 56960). Because Jiangsu Meifan Biotechnology Co., Ltd.., hand sanitizer products were not prepared under the circumstances described in this guidance, they do not fall within any temporary agency policy not to take action against firms manufacturing hand sanitizer products for violations of section 501(a)(2)(B) of the FD&C Act.

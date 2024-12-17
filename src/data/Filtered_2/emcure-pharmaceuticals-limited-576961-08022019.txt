@@ -1,0 +1,191 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Satish Mehta
+          
+
+                                
+  
+    Recipient Title
+              CEO
+          
+
+          
+            Emcure Pharmaceuticals Limited
+
+          
+                      Plot No. P-1, P-2, I.T.B.T. Park, Phase II
+M.I.D.C., Hinjwadi, Pune 411057
+Maharashtra
+India
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research
+        
+         
+          10903 New Hampshire Avenue
+Silver Spring, MD 20993
+United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter 320-19-32
+
+Via UPS
+Return Receipt Requested
+
+August 2, 2019
+
+Mr. Satish Mehta, CEO
+Emcure Pharmaceuticals, Ltd.
+Plot No. P-1, P-2, I.T.B.T. Park, Phase II
+M.I.D.C., Hinjwadi, Pune
+Maharashtra, 411057
+India
+
+Dear Mr. Mehta:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Emcure Pharmaceuticals Limited at Plot No. P-1 & P-2, I.T.B.T. Park, Phase II, M.I.D.C., Hinjwadi, Pune, Maharashtra, from February 11 to 20, 2019.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See 21 CFR, parts 210 and 211.
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your March 13, 2019, response in detail and acknowledge receipt of your subsequent correspondence.
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+Your firm failed to thoroughly investigate any unexplained discrepancy or failure of a batch or any of its components to meet any of its specifications, whether or not the batch has already been distributed (21 CFR 211.192).
+
+You failed to adequately investigate the following sterility failures obtained during routine batch release testing:
+
+• (b)(4) Injection, (b)(4)mg(b)(4)mL, Batch (b)(4) Sterility testing performed on June 4, 2018, reported Bacillus cereus growth.
+• (b)(4) Injection, (b)(4)gm(b)(4)ml (b)(4) Batch (b)(4) Sterility testing performed on November 24, 2017, reported Lysinbacillus fusiformis growth.
+
+According to your sterility failure investigations, the most probable root cause for both events was laboratory error. Your firm’s investigations substantially addressed the potential for microbial contamination during sterility testing, but deemphasized potential manufacturing causes.
+
+Your sterility failure investigations lacked sufficient data to support its conclusions. For example:
+
+•     Sterility testing was performed using a closed testing system inside an ISO 5 laminar air flow environment. These conditions minimize the potential introduction of adventitious contamination during a sterility test. The investigation did not adequately address the specific breaches that could have occurred in such a closed testing system.
+•     No microbial contamination was observed in the negative controls.
+•     Environmental monitoring data in the ISO 5 environment did not show microbiological contamination during performance of the sterility test.
+•     Your investigation did not identify aseptic breaches during the sterility tests.
+•     Your investigation did not identify faults in the testing procedure, material, or technique used in conducting the sterility tests.
+•     Potential manufacturing failure modes were not adequately assessed.
+
+Regarding the latter, your investigation did not thoroughly investigate potential manufacturing root causes. For example, while the organisms isolated during the failing sterility tests had been recovered in the laboratory facility in the past, the same microorganisms were also recovered in the production area in a six-month timeframe prior to the sterility failures. Lysinbacillus fusiformis, recovered on November 24, 2017, from the sterility testing of (b)(4) Inj. USP, (b)(4)gm (b)(4)ml, batch (b)(4) was recovered m the filling line ((b)(4) flow area) on September 1, 2017. Similarly, Bacillus cereus, recovered on June 4, 2018 from the sterility testing of (b)(4) injection USP (b)(4)mg(b)(4)mL, batch (b)(4) was recovered in the vial filling room on December 2, 2017.
+
+Your review of environmental data was insufficient in that it relied too heavily on findings in the laboratory. You concluded that data indicated potential contamination control risks in the testing facility, but did not sufficiently address production failure modes. Specifically, your  investigation failed to thoroughly address container-closure integrity hazards, including but not limited to robustness of the vial sealing process. Your written response provided a table with a retrospective review of container closure integrity test (CCIT) results, but it lacked a comprehensive evaluation of discrepancies, deviations, complaints, and investigations related to a potential container-closure integrity failure mode.
+
+Notably, your film has recalled products in the past due to container-closure integrity failures in batches of products that originally passed CCIT studies. Integrity of container-closure systems is critical to ensure product sterility.
+
+You rejected a portion (sub-lot) of each batch and released the remaining sub-lots for distribution to the United States.
+
+We acknowledge your firm's decision to recall the distributed sub-lots after discussion with FDA, and your decision to install a sterility test isolator. We also acknowledge your commitment to conduct a further review of these failures and evaluate procedures for microbiological out-of­-specification investigations to ensure they provide appropriate details in documenting root cause as well as adequate impact assessments with respect to other lots (or sub-lots) that may be impacted.
+
+In response to this letter, provide:
+
+• An assessment of your overall system for investigations of deviations, atypical events, complaints, out-of-specification results, and failures. Your corrective action and preventive action (CAPA) plan should include, but not be limited to, improved rigor in reviewing the sources of variation in your operation that may cause deviations, failures, or defects. Also include your process for evaluating CAPA effectiveness.
+• A comprehensive, third-party evaluation of records relating to discrepancies, deviations, complaints, maintenance, detailed batch defect history, and investigations related to potential sealing variability and container-closure integrity issues. Include all lots since July 2016 in the review. Based on this evaluation, provide an updated retrospective review to assess the robustness of your sealing process and container-closure systems.
+• Your plans and procedures to ensure that future sterility failure investigations include a comprehensive evaluation of potential vulnerabilities in the manufacturing operation, specifically but not limited to a review of uniformity of biological lethality in your sterilizer as well as container-closure system integrity.
+• Due to your finding of turbid samples during multiple additional sterility tests since 2017 beyond those discussed in this letter, provide a comprehensive third-party review of your sterility test methods. Special emphasis should be placed on improving method robustness to eliminate the root causes of the variations that led to the apparent false turbid readings.
+• A third-party review of your sterilizer reliability, with emphasis on uniformity of heat distribution and lethality throughout your sterilizers. This review should fully assess both physical and biological data and include analysis of current F-value and Z-value data, and any related assumptions incorporated into your sterilization cycle justifications. Include detailed analysis of temperature mapping/load studies, D-value determinations for each biological indicator lot, and causes of any positive biological indicator results. Specify the (b)(4) (or positions that had widest variation) identified in each of your validation studies since 2017.
+
+Repeat Observations at Facility
+
+In a previous inspection, dated August 7 to 17, 2017, FDA cited similar CGMP observations in which you inadequately performed microbiological investigations. Repeated failures demonstrate that executive management oversight and control over the manufacture of drugs is inadequate.
+
+Your executive management remains responsible for fully resolving all deficiencies, and ensuring ongoing CGMP compliance. You should immediately and comprehensively assess your company's manufacturing operations to ensure that systems and processes, and ultimately, the products manufactured conform with CGMP requirements. 
+
+Conclusion
+
+Violations cited in this letter are not intended as an all-inclusive list. You are responsible for investigating these violations, for determining the causes, for preventing their recurrence, and for preventing other violations.
+
+If you are considering an action that is likely to lead to a disruption in the supply of drugs produced at your facility, FDA requests that you contact CDER’s Drug Shortages Staff immediately, at drugshortages@fda.hhs.gov, so that FDA can work with you on the most effective way to bring your operations into compliance with the law. Contacting the Drug Shortages Staff also allows you to meet any obligations you may have to report discontinuances or interruptions in your drug manufacture under 21 U.S.C. 356C(b) and allows FDA to consider, as soon as possible, what actions, if any, may be needed to avoid shortages and protect the health of patients who depend on your products.
+
+Until you correct all violations completely and we confirm your compliance with CGMP, FDA may withhold approval of any new applications or supplements listing your firm as a drug manufacturer.
+
+Failure to correct these violations may also result in FDA continuing to refuse admission of articles manufactured at Emcure Pharmaceuticals Limited at Plot No. P-1 & P-2, I.T.B.T. Park, Phase II, M.I.D.C., Hinjwadi, Pune, Maharashtra into the United States under section 801(a)(3) of the FD&C Act, 21 U.S.C. 381(a)(3). Under the same authority, articles may be subject to refusal of admission, in that the methods and controls used in their manufacture do not appear to conform to CGMP within the meaning of section 501(a)(2)(B) of the FD&C Act, 21 U.S.C. 351(a)(2)(B).
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov or mail your reply to:
+
+Rebecca Parrilla
+Compliance Officer
+U.S. Food and Drug Administration
+White Oak Building 51, Room 4359
+10903 New Hampshire Avenue
+Silver Spring, MD 20993
+USA
+
+Please identify your response with FEI 3005151215.
+
+Sincerely,
+/S/
+Francis Godwin
+Director
+Office of Manufacturing Quality
+Office of Compliance
+Center for Drug Evaluation and Research

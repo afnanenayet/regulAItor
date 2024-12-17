@@ -1,0 +1,191 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+              Reference #: 
+        320-24-28
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Richard Crombie
+          
+
+                                
+  
+    Recipient Title
+              President
+          
+
+          
+            Bodywell Natural Skin Care Inc.
+
+          
+                      7338 Progress Way, Unit 3
+Delta BC V4G 1L4
+Canada
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research | CDER
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter 320-24-28
+
+March 27, 2024
+
+Dear Mr. Crombie:
+
+Your facility is registered with the United States Food and Drug Administration (FDA) as a manufacturer of over-the-counter (OTC) drug products. FDA has reviewed the records you submitted in response to our February 8, 2023 request for records and other information pursuant to section 704(a)(4) of the Federal Food, Drug, and Cosmetic Act (FD&C Act) for your facility, Bodywell Natural Skin Care Inc., FEI 3018011294, at 7338 Progress Way, Unit 3, Delta, British Columbia, V4G 1L4, Canada.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations, parts 210 and 211 (21 CFR, parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act) (21 U.S.C. 351(a)(2)(B)).
+
+In addition, the “VivaLaCara, All Natural, DERMALERE, Advanced Burn and Scar Cream” and “VivaLaCara, All Natural, DERMALERE, Advanced Skin Cream” products are unapproved new drugs in violation of section 505(a) of the FD&C Act, 21 U.S.C. 355(a). Introduction or delivery for introduction of such products into interstate commerce is prohibited under section 301(d) of the FD&C Act, 21 U.S.C. 331(d). These violations are described in more detail below.
+
+704(a)(4) Request for Records and Related CGMP Violations
+
+Following review of records and other information provided pursuant to section 704(a)(4) of the FD&C Act, significant violations were observed including, but not limited to, the following:
+
+1. Your firm failed to conduct at least one test to verify the identity of each component of a drug product. Your firm also failed to validate and establish the reliability of your component supplier’s test analyses at appropriate intervals (21 CFR 211.84(d)(1) and 21 CFR 211.84(d)(2)).
+
+Your firm manufactures OTC drug products including, Prosana Skin & Body Hand Sanitizer Gel and DERMALERE Advanced Burn and Scar Cream.
+
+Based on the records and information you provided, you did not demonstrate that you are adequately testing the identity of incoming components used in the manufacture of your drug products. Additionally, you did not demonstrate that you test incoming lots of ethanol for methanol, which is used to manufacture the hand sanitizers for distribution in the United States.
+
+In your response, you provided your standard operating procedures (SOP) for materials management and your suppliers’ certificates of analyses (COA). Your SOP provides that you “confirm that the material’s identity is correct by testing the ID to specifications requirements” and “conduct complete confirmatory testing against specifications on at least (b)(4) lot per supplier per (b)(4).” However, you state in your response that you only conduct in-house smell, color, and specific gravity tests, and that you do not test for methanol on your incoming lots of ethanol used to manufacture hand sanitizers because you “trust” that your ethanol supplier is “providing accurate information.”
+
+Without adequate testing and establishing the reliability of your component suppliers’ test analyses at appropriate intervals, you do not have scientific evidence that your raw materials conform to appropriate specifications prior to use in the manufacture of your drug products. As a manufacturer, you have a responsibility to sample, test, and examine drug components before use in production to assure adequate quality, including testing for the presence of methanol in ethanol.
+
+The use of ethanol contaminated with methanol has resulted in various lethal poisoning incidents in humans worldwide. See FDA’s guidance document, Policy for Testing of Alcohol (Ethanol) and Isopropyl Alcohol for Methanol, at https://www.fda.gov/media/173005/download.
+
+2. Your firm failed to have, for each batch of drug product, appropriate laboratory determination of satisfactory conformance to final specifications for the drug product, including the identity and strength of each active ingredient, prior to release (21 CFR 211.165(a)).
+
+Based on the records and information you provided, you did not demonstrate that you conduct adequate finished drug product testing on your drug products. Specifically, the COA reports and batch records that you provided do not include an appropriate assay test for active ingredient content or impurity testing.
+
+Full release testing, including strength and identity testing of the active ingredient, must be performed before drug product release and distribution. Without adequate testing, you do not have adequate scientific evidence to assure that your drug products conform to appropriate specifications before release.
+
+3. Your firm failed to establish adequate written procedures for production and process control designed to assure that the drug products you manufacture have the identity, strength, quality, and purity they purport or are represented to possess (21 CFR 211.100(a)).
+
+The records and information you provided did not demonstrate that your processes used to manufacture drug products are validated. Specifically, you state that although your SOPs for production, cleaning, and laboratory methods are periodically reviewed by Health Canada, you “have not validated these procedures with any other source.”
+
+Process validation evaluates the soundness of design and state of control of a process throughout its lifecycle. Each significant stage of a manufacturing process must be designed appropriately and assure the quality of raw material inputs, in-process materials, and finished drugs. Process qualification studies determine whether an initial state of control has been established. Successful process qualification studies are necessary before commercial distribution. Thereafter, ongoing vigilant oversight of process performance and product quality is necessary to ensure you maintain a stable manufacturing operation throughout the product lifecycle.
+
+See FDA’s guidance document Process Validation: General Principles and Practices for general principles and approaches that FDA considers appropriate elements of process validation at https://www.fda.gov/media/71021/download.
+
+4. Your firm failed to prepare batch production and control records that include documentation of the accomplishment of each significant step in the manufacture, processing, packing, or holding of the batch, for each batch of drug product (21 CFR 211.188(b)).
+
+The batch records you provided in response to our request for records lacked adequate production details, including, but not limited to:
+
+
+	Sampling information
+	Actual and theoretical yield calculations
+	Identification and quality approval signatures of the persons performing and directly supervising each significant step
+
+
+Without adequate batch records, you cannot assure the uniformity of your drug products from batch to batch.
+
+Unapproved New Drug Violations
+
+Examples of claims observed on the “VivaLaCara, All Natural, DERMALERE, Advanced Burn and Scar Cream” and “VivaLaCara, All Natural, DERMALERE, Advanced Skin Cream” product labels and labeling, including the firm’s website at www.vivalacara.com printed on the label, that provide evidence of the intended uses (as defined in 21 CFR 201.128) of the product as a drug include, but may not be limited to, the following:
+
+“Bioactive Ingredients for Fast Healing of Minor Burns and Scars, Quick relief of Sunburns, Soothes Skin Irritation and Inflammation” [from “VivaLaCara, All Natural, DERMALERE, Advanced Burn and Scar Cream” carton label]
+
+“Bioactive Ingredients for Fast Healing of Wounds & Damaged Skin, Quick Relief of Skin inflammation and irritation” [from “VivaLaCara, All Natural, DERMALERE, Advanced Skin Cream” carton label]
+
+“Fast Heal Formula, Multi-Action” [from “VivaLaCara, All Natural, DERMALERE, Advanced Burn and Scar Cream” and “VivaLaCara, All Natural, DERMALERE, Advanced Skin Cream” carton labels]
+
+“Calendula officinalis is traditionally used in Herbal Medicine to aid in wound healing and help relieve skin inflammation and irritations. Matricaria chamomile is used in Herbal Medicine to help relieve minor inflammation/or irritation of the skin.” [from “VivaLaCara, All Natural, DERMALERE, Advanced Burn and Scar Cream” and “VivaLaCara, All Natural, DERMALERE, Advanced Skin Cream” carton labels]
+
+“We created a ‘super cream’ using the healthiest and most effective all-natural ingredients, specifically selected for their clinically proven properties (antioxidant, antibacterial, anti-inflammation, antifungal, antiviral, and anti-itching). Our active ingredients are working in synergy and impart their natural regenerative and healing powers to improve the appearance of the skin, reducing redness, and promoting smoothness and elasticity of the skin.” [from your website product page under Description/Download DERMALERE Ingredients Information https://vivalacara.com/downloads/Dermalere%20Advanced%20Skin%20Cream%20Ingredients%20combined.pdf]
+
+“VivaLaCara, All Natural, DERMALERE, Advanced Burn and Scar Cream” and “VivaLaCara, All Natural, DERMALERE, Advanced Skin Cream” are “drugs” as defined by section 201(g)(1)(B) of the FD&C Act, 21 U.S.C. 321(g)(1)(B), because they are intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease, and/or under section 201(g)(1)(C) of the FD&C Act, 21 U.S.C. 321(g)(1)(C), because they are intended to affect the structure or any function of the body.
+
+“VivaLaCara, All Natural, DERMALERE, Advanced Burn and Scar Cream” and “VivaLaCara, All Natural, DERMALERE, Advanced Skin Cream” are “new drugs” within the meaning of section 201(p) of the FD&C Act, 21 U.S.C. 321(p), because they are not generally recognized as safe and effective (GRASE) for use under the conditions prescribed, recommended, or suggested in their labeling. Under section 505(a) of the FD&C Act, 21 U.S.C. 355(a), a new drug may not be introduced or delivered for introduction into interstate commerce without an approved application from FDA in effect. Furthermore, introduction or delivery for introduction of such products into interstate commerce is prohibited under section 301(d) of the FD&C Act, 21 U.S.C. 331(d). There are no FDA-approved applications in effect for the “VivaLaCara, All Natural, DERMALERE, Advanced Burn and Scar Cream” and “VivaLaCara, All Natural, DERMALERE, Advanced Skin Cream” products. Thus, the introduction or delivery for introduction into interstate commerce of these products violates sections 505(a) and 301(d) of the FD&C Act, 21 U.S.C. 355(a) and 331(d).
+
+CGMP Consultant Recommended
+
+If your firm intends to resume manufacturing drugs for the U.S. market, you should engage a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements before resuming drug manufacturing operations. The qualified consultant should also perform a comprehensive six-system audit of your entire operation for CGMP compliance and evaluate the completion and efficacy of all CAPAs before you pursue resolution of your firm’s compliance status per FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+FDA placed your firm on Import Alert 66-40 on February 5, 2024.
+
+Correct any violations promptly. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to any violations.
+
+Failure to address any violations may also result in the FDA continuing to refuse admission of articles manufactured at Bodywell Natural Skin Care Inc., at 3-7338 Progress Way, Delta, into the United States under section 801(a)(3) of the FD&C Act, 21 U.S.C. 381(a)(3). Articles under this authority that appear to be adulterated or misbranded may be detained or refused admission, in that the methods and controls used in their manufacture do not appear to conform to CGMP within the meaning of section 501(a)(2)(B) of the FD&C Act, 21 U.S.C. 351(a)(2)(B) and are misbranded under section 502 of the FD&C Act, respectively.
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov. Identify your response with FEI 3018011294 and ATTN: Bryce Hammer.
+
+Sincerely,
+/S/
+
+Francis Godwin
+Director
+Office of Manufacturing Quality
+Office of Compliance
+Center for Drug Evaluation and Research

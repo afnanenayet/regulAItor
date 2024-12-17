@@ -1,0 +1,272 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Charles Kasten
+          
+
+                                
+  
+    Recipient Title
+              Principal Owner
+          
+
+          
+            Cross Brands Contract Filling, LLC
+
+          
+                      1938 Murrell Road
+Rockledge, FL 32955
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Office of Pharmaceutical Quality
+        
+         
+          4040 North Central Expressway, Suite 300
+Dallas, TX 75204-3128
+United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+
+December 17, 2019
+
+Case #: 589295
+
+WARNING LETTER
+
+
+Mr. Kasten:
+
+The U.S. Food and Drug Administration (FDA) conducted an inspection at Cross-Brands Manufacturing LLC, FEI 1000525249, at 1938 Murrell Road, Rockledge, Florida, from June 6 to 10, 2019.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See 21 CFR, parts 210 and 211.
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your June 28, 2019, response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence.
+
+During our inspection, our investigator observed specific violations including, but not limited to, the following.
+
+CGMP Violations
+
+1. Your firm failed to conduct at least one test to verify the identity of each component of a drug product. Your firm also failed to validate and establish the reliability of your component supplier's test analyses at appropriate intervals (21 CFR 211.84(d)(1) and (2)).
+
+Your firm manufactured over-the-counter (OTC) sunscreens (e.g., “Sea and Ski”). Additionally, your firm contract manufactured OTC topical salicylic acid-containing products. During the inspection, we observed that your firm did not perform testing on the components used in the manufacture of your drug products. Your management explained that raw materials are received from vendors with the certificates of analysis (COA) which indicate the results for each lot.
+
+You are required to verify the identity of each component used in the manufacture of your drug products. Additionally, you must test each component for conformity with appropriate written specifications for purity, strength, and quality unless and until you have appropriately qualified the suppliers and validated their test results at appropriate intervals.
+
+In your response you provided SOP 007-04, Raw Material Certification, which provides procedures for the testing of raw materials, including identity for all incoming components. However, your response is inadequate in that it lacks specificity regarding your validation program. Additionally, your response did not address retrospective identity testing to assess the quality of components used in the manufacture of your drug products distributed within expiry.
+
+In response to this letter, provide:
+
+• The chemical and microbiological quality control specifications you use to test and release each incoming lot of component for use in manufacturing.
+
+• A description of how you will test each component lot for conformity with all appropriate specifications for identity, strength, quality, and purity. Alternatively, if you intend to accept any results from your suppliers’ COA instead of testing each component lot for strength, quality, and purity, specify how you will robustly establish the reliability of your suppliers’ results through initial validation as well as periodic re-validation. In addition, include a commitment to always conduct at least one specific identity test for each incoming component lot.
+
+• A summary of results obtained from testing all components to evaluate the reliability of the COA from each component manufacturer. Include all SOPs that describe this COA validation program.
+
+• A summary of your program for qualifying and overseeing contract facilities that test the drug products you manufacture.• A comprehensive, independent review of your material system to determine whether all suppliers of components, containers, and closures are each qualified, and the materials are assigned appropriate expiration or retest dates. The review should also determine whether incoming material controls are adequate to prevent use of unsuitable components, containers, and closures.
+
+2. Your firm lacks an adequate quality control unit with adequate facilities and procedures to ensure that drugs are manufactured in compliance with CGMP regulations and meet established specifications for identity, strength, quality, and purity (21 CFR 211.22).
+
+During the inspection, we observed that your Quality Unit (QU) did not provide adequate oversight over the manufacture of your drug products. For example, you lacked adequate written procedures describing your manufacturing operations and you failed to ensure that all batch and laboratory records are complete.
+
+Our inspection found that your QU misrepresented results for the absence of Staphylococcus aureus and Pseudomonas aeruginosa on COA that were released to your customers. Your QU allowed distribution of these products.
+
+Without complete laboratory and batch records, and adequate procedures, you cannot ensure the accuracy and reliability of your data.
+
+In your response you provided SOP 007-01, Quality Unit Duties and Responsibilities, which provides a high-level outline of the responsibilities and authority of your QU. However, you failed to provide the SOPs for the areas of responsibility outlined in SOP 007-01 to demonstrate how the functions of the QU will be executed in accordance with CGMP requirements.
+
+In response to this letter, provide:
+
+• A comprehensive assessment and remediation plan to ensure your QU is given the authority and resources to effectively function. The assessment should also include, but not be limited to:
+    o A determination of whether procedures used by your firm are robust and appropriate.
+    o Provisions for QU oversight throughout your operations to evaluate adherence to appropriate procedures.
+    o A complete and final review of each batch and its related information before the QU disposition decision.
+    o Oversight and approval of investigations and discharging of all other QU duties to ensure identity, strength, quality, and purity of all products.
+
+• A complete assessment of documentation systems used throughout your manufacturing and laboratory operations to determine where documentation practices are insufficient. Include a detailed corrective action and preventive action (CAPA) plan that comprehensively remediates your firm’s documentation practices to ensure you retain attributable, legible, complete, original, accurate, and contemporaneous records throughout your operation.
+ 
+• A retrospective evaluation of your drug product batches on the U.S. market within expiry to identify and take appropriate action on any product quality or patient safety risks, such as customer notifications and product recalls
+
+3. Your firm failed to conduct microbiological testing before use of each lot of a component with potential for objectionable microbiological contamination in light of its intended use (21 CFR 211.84(d)(6)).
+
+During our inspection, we discovered that your firm did not have an established monitoring program for microbiological quality of the water used as a component in the production of your topical drug products.
+
+We noted in your subsequent response that you have committed to performing weekly microbiological monitoring. However, your response did not demonstrate that you established and can maintain a state of control (i.e., sufficiency of system validation and ongoing monitoring program).
+
+In response to this letter provide:
+
+• A comprehensive, independent assessment of your water system design, control, and maintenance.
+
+• Ensure that your total microbial count limit for water is appropriate in view of the intended use of the products produced by your firm. Also provide a third-party evaluation of the sufficiency, frequency, timing, and locations of monitoring of your revised monitoring program.
+
+• A detailed risk assessment addressing the potential effects of any observed water system failures on the quality of all drug product lots currently in U.S. distribution or within expiry. Specify actions that you will take in response to the risk assessment, such as customer notifications and product recalls.
+
+Data Integrity Remediation
+
+Your quality system does not adequately ensure the accuracy and integrity of data to support the safety, effectiveness, and quality of the drugs you manufacture. See FDA’s guidance document Data Integrity and Compliance with Drug CGMP for guidance on establishing and following CGMP compliant data integrity practices at https://www.fda.gov/media/97005/download.
+
+We strongly recommend that you retain a qualified consultant to assist in your remediation.
+
+In response to this letter, provide the following:
+
+• A comprehensive investigation into the extent of inaccuracies in data records and reporting, including results of the data review for drugs distributed to the United States. Describe the scope and root causes of your data integrity lapses in detail.
+
+• A current risk assessment of the potential effects of the observed failures on the quality of your drugs. Your assessment should include analyses of the risks to patients caused by the release of drugs affected by a lapse of data integrity and analyses of the risks posed by ongoing operations.
+
+• A management strategy for your firm that includes the details of your global CAPA plan. The detailed corrective action plan should describe how you intend to ensure the reliability and completeness of all data generated by your firm, including microbiological and analytical data, manufacturing records, and all data submitted to FDA.
+
+Unapproved New Drug Charges
+
+“(b)(4) Facial Cleanser,” “(b)(4) BodyWash,” “(b)(4) SportWash,” “(b)(4) healthy scalp Shampoo,” and “(b)(4)Gentle Shampoo” “(b)(4) Facial Cleanser,” “(b)(4) BodyWash,” “(b)(4) SportWash,” “(b)(4) healthy scalp Shampoo,” and “(b)(4) Gentle Shampoo” are drugs as defined by section 201(g)(1)(B) of the FD&C Act, 21 U.S.C. 321(g)(1)(B), because they are intended for the diagnosis, cure, mitigation, treatment, or prevention of disease and/or under section 201(g)(1)(C) of the FD&C Act, 21 U.S.C. 321(g)(1)(C), because they are intended to affect the structure or any function of the body.
+
+Examples of claims observed on the product labels and website, which are printed on your product labels that establish the intended uses (as defined in 21 CFR 201.128) of your products include, but may not be limited to, the following:
+
+“(b)(4) Facial Cleanser”
+Statements that appear on the product label
+“[F]or skin prone to dryness, eczema, rosacea and acne. . . (b)(4) Facial Cleanser is an innovative, concentrated formula that effectively cleanses and moisturizes the skin”
+
+Statements that appear on website’s Customer Reviews page
+“Really helps keep my facial eczema manageable.”
+
+“(b)(4) BodyWash”
+Statements that appear on the product label
+“[F]or skin prone to eczema, folliculitis, acne and infection. . . (b)(4)BodyWash is a gentle, non-drying formula that effectively cleanses skin prone to eczema, acne, folliculitis and infection.”
+
+Statements that appear on the website
+“Although individual results will vary, many users with eczema report seeing a reduction in the appearance of skin redness, dryness and flakiness in as few as 3 uses”
+
+Statements that appear on the website’s Customer Reviews page
+“Appears to be helping with the itch, and minor infections.” “Excellent product for my toddler who has eczema and severe allergies that breakout her skin. . .” “It has helped my yeast infection/fungus across my lower abdomen in fat fold area.” “It’s absolutely genius, and once daily use of the BodyWash as a face wash has made an incredible difference in my daughter’s eczema.” “Everyone with eczema should try this product, and doctor’s offices should be handing out samples to patients.” “My six month old was suffering from eczema (red irritated skin with some open skin sections). Since we read research on the role that Staph plays in triggering eczema, we bought (b)(4) after watching videos and clinical evaluations (useful PDFs online put out by (b)(4)). Our baby’s skin irritation was tremendously reduced after just two applications. We are bathing our little one using (b)(4) three times per week. We are on the 2nd week of treatment and eczema has receded by a rate of over 95%.”
+
+Statements that appear on the website, video entitled “How to use (b)(4) Bodywash”:
+“Our products. . . have been awarded acceptance by the National Eczema Association”
+
+“(b)(4) SportWash”
+Statements that appear on the product label
+“[F]or skin prone to infection, acne, and folliculitis. . . (b)(4) SportWash is an innovative, concentrated formula designed to effectively cleanse infection-prone skin”
+
+Statements that appear on the website’s Customer Reviews page
+“The (b)(4) [sic] Sportwash has been the only product to keep the eczema on my hands at bay. None of the prescription ointments made a difference. . . I've been using (b)(4) skin care sport wash since February and it has really helped with my Chronic eczema. I highly recommend this product.”
+
+“(b)(4) healthy scalp Shampoo”
+Statements that appear on the product label
+“[F]or normal to oily scalp prone to itching, folliculitis and dandruff. . . (b)(4) Shampoo is an innovative formula that effectively cleanses hair and scalp prone to itching, folliculitis and dandruff”
+
+Statements that appear on the website’s Customer Reviews page
+
+“(b)(4) body wash did wonders for my daughter's severe eczema, so when she started to have flares at the nape of her neck and behind her ears, we tried the (b)(4) shampoo. WONDERFUL results. She has extremely thick, wavy hair, but the shampoo left it soft and shiny, and not too hard to comb. But the best part is the improvement we have seen in her skin. No more itchy neck or ears. I think the shampoo works every bit as well as the body wash.”
+
+“(b)(4) Gentle Shampoo”
+Statements that appear on the product label
+“[F]or normal to dry scalp prone to itching and dryness. . . (b)(4) Gentle Shampoo is an innovative, formula that effectively and gently cleanses hair and scalp prone to itching and dryness”
+
+Statements that appear on the website Customer Reviews page
+“This item helped in many way [sic] for my eczema. . . Keeps kiddos nice clean and free of staph infections due to eczema. Finally something that works!”
+
+General Statements that appear on the website, www.(b)(4).com (video entitled “Coping with Eczema, Skin Infections and bullying”)
+“The efficacy of clean products have been proven against a broad range of common skin diseases such as eczema, staph colonization, acne-prone skin, folliculitis and many other types of common skin inflammation”
+
+Drug products intended for the treatment of eczema, such as “(b)(4) Facial Cleanser,” “(b)(4) BodyWash,” “(b)(4) SportWash,” “(b)(4) healthy scalp Shampoo,” and “(b)(4) Gentle Shampoo” are not covered under any OTC drug monograph. The Final Rule for Skin Protectant Drug Products for Over-the-Counter Human Use (21 CFR Part 347) and the Tentative Final Monograph for External Analgesic Drug Products for Over-the-Counter Human Use (48 FR 5852, February 8, 1983) address products that are intended to help protect or relieve minor skin irritation or itching from eczema, whereas products intended to actually treat eczema require an FDA-approved application prior to being marketed.
+
+FDA determines intended use by considering the objective intent of the persons legally responsible for the labeling of drugs. The intent is determined by such persons’ expressions or may be shown by the circumstances surrounding the distribution of the article (see 21 CFR 201.128). Labeling claims take into account all printed and/or graphic matter which appears on the labeling. For example, while the product label for “(b)(4) BodyWash” does not specifically state that it will treat eczema, only that it is intended for “skin prone to eczema,” the additional statements found on your website, such as “We are on the 2nd week of treatment and eczema has receded by a rate of over 95%” suggest the product is intended for the treatment of eczema.
+
+Furthermore, we are not aware of sufficient evidence to show “(b)(4) Facial Cleanser,” “(b)(4) BodyWash,” “(b)(4) SportWash,” “(b)(4) healthy scalp Shampoo,” and “(b)(4) Gentle Shampoo” as formulated and labeled, are generally recognized as safe and effective. Therefore, these products are new drugs within the meaning of section 201(p) of the FD&C Act, 21 U.S.C. 321(p). As new drugs, “(b)(4) Facial Cleanser,” “(b)(4) BodyWash,” “(b)(4) SportWash,” “(b)(4) healthy scalp Shampoo,” and “(b)(4) Gentle Shampoo” may not be legally marketed in the United States absent approval of an application filed in accordance with section 505(a) of the FD&C Act, 21 U.S.C. 355(a).
+
+“(b)(4) Facial Cleanser,” “(b)(4) BodyWash,” “(b)(4) SportWash,” “(b)(4) healthy scalp Shampoo,” and “(b)(4) Gentle Shampoo” are not the subject of FDA-approved applications, and therefore, the current marketing of these products violates section 505(a) of the FD&C Act, 21 U.S.C. 355(a). Introduction or delivery for introduction of such products into interstate commerce is prohibited under section 301(d) of the FD&C Act, 21 U.S.C. 331(d).
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of these violations and for preventing their recurrence or the occurrence of other violations.
+
+Correct the violations cited in this letter promptly. Failure to promptly correct these violations may result in legal action without further notice including, without limitation, seizure and injunction. Unresolved violations in this warning letter may also prevent other Federal agencies from awarding contracts.
+
+FDA may also withhold approval of requests for export certificates and approval of pending new drug applications or supplements listing your facility as a supplier or manufacturer until the above violations are corrected. We may re-inspect to verify that you have completed your corrective actions.
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Your written notification should refer to case # 589295.
+
+Please electronically submit your reply, on company letterhead, to Rebecca A. Asente, Compliance Officer, at ORAPHARM2_RESPONSES@fda.hhs.gov. In addition, please submit a signed copy of your response to John W. Diehl, Director, Compliance Branch, at john.diehl@fda.hhs.gov.
+
+If you have questions regarding the contents of this letter, you may contact Ms. Asente via (504) 846-8104 or Rebecca.asente@fda.hhs.gov.
+
+Sincerely,
+/S/
+
+Monica R. Maxwell
+Program Division Director
+Office of Pharmaceutical Quality Operations, Division II
+
+ 
+
+CC:
+Renee Alsobrook, Chief
+Department of Business and Professional Regulation
+Division of Drugs, Devices and Cosmetics
+Compliance and Enforcement
+2601 Blair Stone Road
+Tallahassee, Florida 32399-1047

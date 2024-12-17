@@ -1,0 +1,216 @@
+Delivery Method: 
+        VIA UNITED PARCEL SERVICE
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Biologics                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Habib (nmi) Torfi
+          
+
+                                
+  
+    Recipient Title
+              Chief Executive Officer
+          
+
+          
+            Invitrx Therapeutics Inc.
+
+          
+                      20503 Crescent Bay Drive
+Lake Forest, CA 92630
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Biologics Evaluation and Research (CBER)
+        
+         
+          10903 New Hampshire Avenue
+Silver Spring, MD 20993
+United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+WARNING LETTER
+
+March 16, 2020
+
+Warning Letter #OBPO 20-581182
+
+
+Dear Mr. Torfi,
+
+During an inspection of your firm Invitrx Therapeutics, Inc., located at 20503 Crescent Bay Drive, Lake Forest, CA 92630, conducted between March 25, 2019 and April 3, 2019, the Food and Drug Administration (FDA) documented that your firm processes products for allogeneic use, including the following products (referred to collectively in this letter as “your products”): human umbilical cord blood, or umbilical cord derived products, Invitra CBSCTM and Invitra WJTM (Cellular and Acellular); amniotic fluid derived product Invitra AFTM; and amniotic membrane derived product Invitra ATTM. You distribute your products to (b)(4), located in (b)(4). These products are intended for injection and are purported to be sterile.
+
+Information and records gathered during the course of the inspection and information available on your website, www.invitrx.com, and the (b)(4), reflect that your products are intended to treat a variety of diseases or conditions. Therefore, your products are drugs as defined in section 201(g) of the Federal Food, Drug, and Cosmetic Act (the FD&C Act) [21 U.S.C. 321(g)] and biological products as defined in section 351(i) of the Public Health Service Act (PHS Act) [42 U.S.C. 262(i)].1
+
+Certain of your products are also human cells, tissues, or cellular or tissue-based products (HCT/Ps) as defined in 21 CFR 1271.3(d)2 and are subject to regulation under 21 CFR Part 1271, issued under authority of section 361 of the PHS Act [42 U.S.C. 264]. Invitrx does not qualify for any exception in 21 CFR 1271.15, and your HCT/Ps fail to meet all the criteria in 21 CFR 1271.l0(a). Therefore, your HCT/Ps are not regulated solely under section 361 of the PHS Act [42 U.S.C. 264] and the regulations in 21 CFR Part 1271.
+
+Specifically, an HCT/P meets the criterion established by 21 CFR 1271.10(a)(2) if it is “intended for homologous use only, as reflected by the labeling, advertising, or other indications of the manufacturer's objective intent.”3 As noted above, your products are intended to treat a variety of diseases or conditions. The umbilical cord blood and umbilical cord products are intended to treat orthopedic conditions, for example, and are not intended to perform the same basic function or functions of umbilical cord blood or umbilical cord in the recipient as in the donor, such as forming and replenishing the lymphohematopoietic system (for cord blood) and serving as a conduit (for umbilical cord). It appears that your product derived from amniotic membrane is also intended to treat orthopedic conditions, for example, and is not intended to perform the same basic function or functions of amniotic membrane in the recipient as in the donor, such as covering, protecting, serving as a selective barrier for the movement of nutrients between the external and in utero environment, and retaining fluid in utero. Using these products to treat orthopedic conditions is not homologous use as defined in 21 CFR 1271.3(c).
+
+Your HCT/Ps fail to meet other criteria set forth in 21 CFR 1271.10(a). Your products derived from umbilical cord blood fail to meet 21 CFR 1271.10(a)(4). These products, manufactured from donated umbilical cord blood, are dependent on the metabolic activity of living cells for their primary function and are not for autologous use, allogeneic use in a first-degree or second-degree blood relative, or reproductive use. In addition, your products derived from umbilical cord and amniotic membrane fail to meet the minimal manipulation criterion set forth in 21 CFR 1271.10(a)(1) and defined for structural tissue in 21 CFR 1271.3(f)(1), because your processing alters the original relevant characteristics of the umbilical cord and amniotic membrane related to their utility for reconstruction, repair, or replacement.
+
+As stated above, because your HCT/Ps do not meet all the criteria in 21 CFR 1271.10(a), and Invitrx does not qualify for any exception in 21 CFR 1271.15, your HCT/Ps are regulated as drugs as defined in section 201(g) of the FD&C Act [21 U.S.C. 321(g)] and biological products as defined in section 351(i) of the PHS Act [42 U.S.C. 262(i)].
+
+Please be advised that to lawfully market a drug that is a biological product, a valid biologics license must be in effect [42 U.S.C. 262(a)]. Such licenses are issued only after showing that the product is safe, pure, and potent. While in the development stage, such products may be distributed for clinical use in humans only if the sponsor has an investigational new drug application (IND) in effect as specified by FDA regulations [21 U.S.C. 355(i); 42 U.S.C. 262(a)(3); 21 CFR Part 312]. None of your products are the subject of an approved biologics license application (BLA), nor is there an IND in effect for any of them. Based on this information, we have determined that your actions have violated the FD&C Act and the PHS Act.
+
+Additionally, during the inspection, FDA investigators documented evidence of significant deviations from current good manufacturing practice (CGMP) and current good tissue practice (CGTP), including deviations from section 501(a)(2)(B) of the FD&C Act and 21 CFR Parts 210, 211, and 1271. The deviations in manufacturing processes observed as well as those noted in documents collected during the inspection indicate that the use of your products raises potential significant safety concerns. For example, Invitrx’s deficient donor eligibility practices, unvalidated manufacturing processes, deficient environmental monitoring, and inadequate aseptic practices, as described below, pose a significant risk that your products may be contaminated with viruses or microorganisms or have other serious product quality defects.
+
+At the close of the inspection, the FDA investigators issued a Form FDA 483 to you listing inspectional observations, which described a number of significant deviations from CGMP applicable to your products as well as significant CGTP deviations applicable to your HCT/Ps. FDA has found additional significant deviations upon further review of the information collected during the inspection, as discussed below. The deficiencies include, but are not limited to, the following:
+
+1. Failure of a responsible person to determine and document the eligibility of a cell or tissue donor based upon the results of donor screening and donor testing [21 CFR 1271.50(a)]. For example:
+
+a. Invitrx is the establishment responsible for making the donor eligibility determination, but since operations began in March 2018, Invitrx has failed to document whether over (b)(4) HCT/P donors are eligible.
+
+b. When Invitrx receives relevant medical records, including the donor medical history interview and physical exams from its suppliers, those records are not reviewed to determine donor eligibility.
+
+2. Failure to determine a donor to be ineligible whose specimen tests reactive on a screening test for a communicable disease agent in accordance with 21 CFR 1271.85 [21 CFR 1271.80(d)(1)]. Specifically, cord blood donor (b)(6) tested positive for Hepatitis B (HBc) on August 24, 2018, and donor eligibility was not determined. The cord blood was used to manufacture thirty-three vials of Invitra CBSCTM product (label number (b)(4)) on August 18, 2018. (b)(4) of these vials were distributed. We acknowledge below that your firm initiated a voluntary recall of the distributed product.
+
+3. Failure to screen a donor of human cells or tissue by reviewing the donor’s relevant medical records for risk factors for, and clinical evidence of, relevant communicable disease agents and diseases [21 CFR 1271.75(a)]. For example, FDA has identified Zika virus (ZIKV) as a relevant communicable disease agent or disease (RCDAD) under 21 CFR 1271.3(r)(2). Therefore, review of relevant medical records, as defined in 21 CFR 1271.3(s), must indicate that a potential donor is free from risk factors for, or clinical evidence of, ZIKV infection for the purpose of determining donor eligibility. The DT-001 Form 4 “Donor Risk Assessment Interview” you receive from your primary cord blood supplier, (b)(4), does not adequately assess a donor's risk for ZIKV. We note that (b)(4) is located in (b)(4), which has been identified by the Centers for Disease Control and Prevention as an area with current or past transmission of ZIKV. We recommend that you review FDA Guidance for Industry, Donor Screening Recommendations to Reduce the Risk of Transmission of Zika Virus by Human Cells, Tissues, and Cellular and Tissue-Based Products (updated May 2018). This and all tissue guidances available to industry can be found at: https://www.fda.gov/vaccines-blood-biologics/biologics-guidances/tissue-guidances.
+
+4. Failure to establish and maintain procedures for all steps performed in testing, screening, and determining donor eligibility, and complying with all other requirements of Subpart C “Donor Eligibility” in 21 CFR 1271.45-1271.90. “Establish and maintain” means define, document (in writing or electronically), and implement; then follow, review, and as needed, revise on an ongoing basis [21 CFR 1271.47(a)]. Specifically, you failed to establish and maintain procedures for determining donor eligibility to adequately and appropriately reduce the risk of transmission of relevant communicable diseases.
+
+5. Failure to retain the accompanying records with the HCT/Ps at all times following a donor eligibility determination including a statement whether, based on the results of screening and testing, the donor has been determined to be eligible or ineligible; and a summary of records used to make the donor-eligibility determination [21 CFR 1271.55(a)]. For example, your HCT/Ps distributed to (b)(4), were distributed without a statement of donor eligibility.
+
+6. Failure to establish and follow appropriate written procedures designed to prevent microbiological contamination of drug products purporting to be sterile, including procedures for validation of all aseptic and sterilization processes [21 CFR 211.113(b)]. For example:
+
+a. Your firm failed to validate the aseptic process used to manufacture Invitra AFTM, Invitra ATTM, Invitra CBSCTM, and Invitra WJTM since product manufacturing began in 2018. By the nature of their routes of administration, your products purport to be sterile and are expected to be sterile.
+
+b. During the inspection, FDA investigators observed personnel practices that do not adequately protect against microbiological contamination of your products, including:
+
+    i. Operators donned sterile outer gloves over non-sterile inner gloves in the Biological Safety Cabinets (BSCs).
+    ii. An operator was observed processing cord blood in a BSC with only the inner non-sterile gloves.
+
+c. Open sharps containers were observed with visible accumulation of debris and dried residues inside the BSCs where human umbilical cord blood is aseptically processed.
+
+7. Failure to reject drug products that do not meet established standards or specifications and any other quality control criteria [21 CFR 211.165(f)]. For example:
+
+a. You failed to reject batch (b)(4), (b)(6) of umbilical cord blood product due to microbial growth on the initial cord blood (donor (b)(6)) plate. (b)(4) vials of final product (label number (b)(4)) were distributed.
+
+b. You failed to reject batch (b)(4), (b)(4) of umbilical cord blood product due to the inprocess plasma (b)(4) sterility positive test result for gram positive cocci. (b)(4) vials of final product (label number (b)(4)) were distributed.
+
+8. Failure to establish and follow written procedures for cleaning and maintenance of equipment used in the manufacture, processing, packing, or holding of a drug product [21 CFR 211.67(b)]. For example:
+
+a. Your firm failed to validate the cleaning process for your BSCs.
+
+b. There is no data or rationale for the cleaning agents used or their rotation.
+
+9. Failure to thoroughly investigate any unexplained discrepancy, or the failure of a batch or any of its components to meet any of its specifications [21 CFR 211.192]. Specifically, you failed to adequately investigate all sterility failures from March 2018 to present. Numerous batches of your umbilical cord blood and umbilical cord products failed sterility and were discarded after speciation without further investigation, including identification of the contamination source, and without implementing corrective actions.
+
+10. Failure to establish written procedures for production and process control designed to assure that the drug products have the identity, strength, quality, and purity they purport or are represented to possess [21 CFR 211.100(a)]. Specifically, the manufacturing process has not been validated for your products.
+
+11. Failure to have separate or defined areas or such other control systems for operations as are necessary to prevent contamination or mix-ups during the course of manufacturing and processing operations [21 CFR 211.42(c)(5)]. For example:
+
+a. FDA investigators observed operators conducting processing of two separate umbilical cord product lots ((b)(4) and (b)(4)), in separate BSCs, and removing unlabeled vials from the BSCs for centrifugation using one shared (b)(4). Products manufactured from different donors lacked unique identifiers.
+
+b. Freezers for quarantine of finished product and released finished product are not labeled.
+
+12. Failure to have an adequate system for monitoring environmental conditions in an aseptic processing area [21 CFR 211.42(c)(10)(iv)]. Specifically, your firm has not established an adequate system for environmental and personnel monitoring in the aseptic processing areas where the products are manufactured.
+
+13. Failure to test your Invitra ATTM and Invitra WJTM products, non-penicillin drug products, for the presence of penicillin although a reasonable possibility exists that the non-penicillin drug products have been exposed to cross contamination with penicillin [21 CFR 211.176]. Specifically, penicillin was used in an antibiotic wash during manufacture of approximately (b)(4) vials of Invitra ATTM and approximately (b)(4) vials of Invitra WJTM from March 2018 to April 2019, and there is no documentation that testing for penicillin has been performed.
+
+14. Failure to establish and follow written procedures describing the handling of all written and oral complaints regarding a drug product [21 CFR 211.198(a)]. You have not established and followed written procedures that describe a process for documenting and investigating complaints. The inspection revealed that Invitrx received at least 19 complaints, in the form of an e-mail, but there was no documentation that your firm performed adequate follow-up and/or investigations of those complaints.
+
+15. Failure to establish and follow a written testing program designed to assess the stability characteristics of drug products and to use results of such stability testing to determine appropriate storage conditions and expiration dates [21 CFR 211.166(a)]. Specifically, you assign a two-year expiration date without supporting data.
+
+16. Failure to establish and follow written procedures describing in sufficient detail the control procedures employed for the issuance of labeling [21 CFR 211.125(f)]. For example:
+
+a. Your firm has not established a written procedure for the control of printed labels.
+
+b. Four additional primary labels are printed and included in every shipment for “physician use” without documentation, accounting, or reconciliation.
+
+17. Failure to withhold from use each lot of components, drug product containers, and closures until the lot has been sampled, tested, or examined, as appropriate, and released for use by the quality control unit [21 CFR 211.84(a)]. For example, the following components and containers are not tested or examined before release:
+
+a. (b)(4) used to homogenize amniotic and umbilical cord tissue in the manufacture process of Invitra ATTM and Invitra WJTM.
+
+b. (b)(4) used to “wash” amniotic and umbilical cord tissue in the manufacture process of Invitra ATTM and Invitra WJTM.
+
+c. (b)(4) GMP grade cryopreservation solution used in the final formulation of Invitra AFTM, Invitra CBSCTM, and Invitra WJTM.
+
+We received your written responses, dated May 1 and October 1, 2019, to the inspectional observations on the Form FDA 483, and we have reviewed their contents. FDA acknowledges your decision to voluntary recall distributed Invitra CBSCTM (label number (b)(4)) manufactured from cord blood of a donor who tested positive for Hepatitis B, and your decision to temporarily cease the receipt of HCT/Ps from (b)(4), located in (b)(4). We also acknowledge the other corrective actions you represent that you have taken in response to the observations and your hiring of (b)(4), a third-party consultant, to assist with investigations and the implementation of corrective actions. However, the responses do not provide sufficient detail to fully assess the adequacy of your corrective actions to date, lack a timeline for completion of all necessary corrective actions, and lack documentation to demonstrate that you have corrected your violations.
+
+In addition, as noted above, in order to lawfully market a drug that is a biological product, a valid biologics license must be in effect [42 U.S.C. 262(a)]. Such licenses are issued only after showing that the product is safe, pure, and potent. While in the development stage, such products may be distributed for clinical use in humans only if the sponsor has an IND in effect as specified by FDA regulations [21 U.S.C. 355(i); 42 U.S.C. 262(a)(3); 21 CFR Part 312]. Your products are not the subject of an approved BLA nor is there an IND in effect for your products.
+
+Neither this letter nor the observations noted on the Form FDA 483, which were discussed with you at the conclusion of the inspection, are intended to be an all-inclusive list of deficiencies that may exist at your facility. It is your responsibility to ensure full compliance with the FD&C Act, PHS Act, and all applicable regulations.
+
+You should take prompt action to correct these violations. Failure to promptly do so may result in regulatory action without further notice. Such actions include seizure and/or injunction.
+
+For further information about IND requirements for biological products, contact the Center for Biologics Evaluation and Research (CBER), Division of Regulatory Project Management, Office of Tissues and Advanced Therapies, at (240) 402-8190, or OTATRPMS@fda.hhs.gov. Please include a copy of this letter with your initial submission to CBER.
+
+We request that you respond in writing within fifteen (15) working days from your receipt of this letter, outlining the specific steps you have taken or plan to take to correct the noted violations and prevent their recurrence. Include any documentation necessary to show that correction has been achieved. If you do not believe your products are in violation of the FD&C Act, PHS Act, or applicable regulations, include your reasoning and any supporting information for our consideration. If you cannot complete all corrections within fifteen (15) working days, please explain the reason for your delay and the time frame within which the remaining corrections will be completed.
+
+Your response should be sent to the following address: Daniel W. Cline, Compliance Officer, U.S. Food and Drug Administration, 19701 Fairchild, Irvine, CA 92612 or emailed to Daniel.Cline@fda.hhs.gov. If you have any questions, please contact Mr. Cline at (949) 608-4433 or via e-mail.
+
+Sincerely,
+/S/
+Karlton Watson
+Program Division Director
+Office of Biological Products Operations - Division 2
+
+cc: (b)(4), (b)(6)
+
+__________________
+
+1 FDA investigators gathered evidence pertaining to your exosome product, Invitra EXTM (or, (b)(4)), but FDA’s inspection did not focus on that product. Nor does this letter. Nevertheless, please be advised that as a general matter, exosome products intended to treat diseases or conditions in humans are regulated as drugs and biological products under section 351 of the PHS Act and the FD&C Act and are subject to premarket review and approval requirements. We also direct your attention to FDA’s recent Public Safety Notification on Exosome Products, available at https://www.fda.gov/vaccinesblood-biologics/safety-availability-biologics/public-safety-notification-exosome-products.
+
+2 HCT/Ps are defined as “articles containing or consisting of human cells or tissues that are intended for implantation, transplantation, infusion, or transfer into a human recipient.” 21 CFR 1271.3(d). The definition of HCT/P excludes secreted or extracted human products; accordingly, secreted body fluids, such as amniotic fluid, are generally not considered HCT/Ps subject to regulation under 21 CFR Part 1271. Although not an HCT/P, your product derived from amniotic fluid is also regulated as a drug and biological product under section 351 of the PHS Act and the FD&C Act.
+
+3 Under 21 CFR 1271.3(e), manufacture “means, but is not limited to, any or all steps in the recovery, processing, storage, labeling, packaging, or distribution of any human cell or tissue, and the screening or testing of the cell or tissue donor.” Because both Invitrx and (b)(4) manufacture the products, within the meaning of 21 CFR 1271.3(e), FDA considered both firms’ objective intent in evaluating whether the products are “intended for homologous use only” under 21 CFR 1271.10(a)(2).

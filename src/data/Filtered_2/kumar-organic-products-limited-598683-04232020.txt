@@ -1,0 +1,217 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+              Reference #: 
+        320-20-34
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. K. K. Singh
+          
+
+                                
+  
+    Recipient Title
+              Chairman
+          
+
+          
+            Kumar Organic Products Limited 
+
+          
+                      Plot No. 379 Canal Road, Maitri Marg, Village Luna
+Taluka Padra District
+Vadodara 391440
+Gujarat
+India
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research | CDER
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter 320-20-34
+
+
+April 23, 2020
+
+
+Dear Mr. Singh:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Kumar Organic Products Limited, FEI 3009167769, at Plot No. 379, Canal Road, Maitri Marg, Village Luna, Taluka-Padra District, Vadodara, Gujarat, from November 11 to 14, 2019.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Our inspection noted that your firm produces the active pharmaceutical ingredient (API) (b)(4). The (b)(4) by definition an in-process material for a finished drug product under Title 21, Code of Federal Regulations section 210.3(b)(9), and therefore subject to the CGMP regulations at 21 CFR 211.
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug product is adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your December 5, 2019, response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence.
+
+During our inspection, our investigator observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to use equipment in the manufacture, processing, packing, or holding of drug products that is of appropriate design, adequate size, and suitably located to facilitate operations for its intended use and for its cleaning and maintenance (21 CFR 211.63).
+
+Your firm manufactures an over-the-counter topical drug product intended to treat (b)(4). You use (b)(4) produced at your facility as a component in manufacturing this drug product. Your firm’s (b)(4) system was not adequately designed, maintained, or monitored to ensure that it consistently produces (b)(4) suitable for its intended use.
+
+Inadequate (b)(4) System Design Features and Maintenance
+
+Your (b)(4) distribution system had multiple design deficiencies and also lacked proper maintenance, both of which can foster the development of biofilms. For example:
+
+• You informed our investigator that you turn off your (b)(4) system when not in use.
+• Your maintenance records indicate that the (b)(4) were last changed in August of 2014.
+• Your (b)(4) were found actively leaking when in use.
+• Your cleaning procedures did not adequately address how your storage tanks are sanitized.
+
+Inadequate (b)(4) System Monitoring
+
+Your procedures for testing your (b)(4) system required (b)(4) point-of-use sampling for chemical analysis and (b)(4) sampling for microbiological analysis. Your (b)(4) sampling intervals were inadequate to ensure your (b)(4) meets its specifications before using it for production activities.
+
+In your response, you submitted drug product microbial test results. Your response is inadequate. Your results for microbial release testing of your drug product cannot be used to compensate for a poorly designed and maintained (b)(4) system.
+
+Further, you stated that you have not designed your system to control bioburden. However, you also stated that you rely on the (b)(4) system’s filtration components and (b)(4) sanitization program to control the microbial load. You also committed to evaluate your (b)(4) system to identify needed design changes, implement the changes, and revalidate the system.
+
+Your response is inadequate. Your response did not address leaks from your (b)(4) or the lack of continuous circulation. Your response also lacked scientific details of your overall maintenance program including but not limited to your sanitization program.
+
+You also stated that your (b)(4) is tested on a (b)(4) basis. However, the revised sampling procedure included in your response did not revise your microbial monitoring interval. Your sampling intervals remain inadequate. Significantly more frequent microbial monitoring at all points of use for your (b)(4) system is necessary to ensure your (b)(4) meets its established limits before using it as a component for your drug product.
+
+In response to this letter, provide the following:
+
+• A comprehensive remediation plan for the design, control, and maintenance of the (b)(4) system.
+
+• A (b)(4) system validation report. Also include the summary of all improvements made to system design (e.g., newly installed equipment, elimination of deadlegs) and to the program for ongoing control and maintenance.
+
+• Your total microbial count and objectionable microbes limits to monitor whether this system is producing (b)(4) suitable for the intended uses for each of your products and API.
+
+• A detailed risk assessment addressing the potential effects of your inadequate monitoring on the quality of all drug product lots currently in U.S. distribution. Specify actions that you will take in response to the risk assessment, such as customer notifications and product recalls.
+
+• A procedure for your (b)(4) system monitoring that specifies routine microbial testing of (b)(4) points of use to ensure its acceptability for use in each batch of drug products produced by your firm.
+
+• A procedure governing your program for ongoing control, maintenance, and monitoring that ensures the remediated system consistently produces (b)(4) that meets (b)(4), USP monograph specifications and appropriate microbial limits.
+
+• A comprehensive, independent assessment of your laboratory practices and competencies, with special focus on (b)(4) testing methods. Based on this review, provide a detailed plan to remediate and evaluate the effectiveness of your laboratory system.
+
+2. Your firm failed to test samples of each component for identity and conformity with all appropriate written specifications for purity, strength, and quality. Your firm also failed to validate and establish the reliability of your component supplier’s test analyses at appropriate intervals (21 CFR 211.84(d)(1) and (2)).
+
+Your failed to test incoming components (e.g., (b)(4)) for identity. Identity testing is required for each component lot before use in drug product manufacturing. For example, you did not conduct a specific identity test for (b)(4) used in the manufacture of (b)(4).
+
+In addition, your firm used a technical grade of (b)(4) as a component in your drug product. You failed to analyze incoming lots of (b)(4) for the presence of diethylene glycol (DEG) and (b)(4) before use in the manufacture of your drug product. Your (b)(4) supplier’s certificate of analysis (COA) did not include testing for DEG (b)(4).
+
+DEG contamination has resulted in various lethal poisoning incidents in humans worldwide. See FDA’s guidance document Testing for Glycerin for Diethylene Glycol to help you meet the CGMP requirements when manufacturing drugs containing glycerin at https://www.fda.gov/media/71029/download.
+
+In your response, you stated that you reviewed all raw material specifications and committed to revise the specifications to include identity testing. You also revised the specifications for (b)(4) to include impurity testing for DEG and (b)(4) impurities with a specification limit of Not More Than (NMT) (b)(4). In addition, you committed to evaluating batches distributed to the U.S. for “this impurity” along with related substances. Lastly, you revised your vendor qualification procedure to require qualification of all raw material (component) manufacturers and associated suppliers to verify the reliability of the received COAs.
+
+Your response is inadequate. You did not commit to testing all component lots from your retain samples to ensure each were of expected quality for drug product batches within expiry. In addition, you did not provide a plan of action for any lots of components that failed to meet specifications. Lastly, your specifications for DEG and (b)(4) differed from the current USP monograph of NMT (b)(4).
+
+In response to this letter, provide the following:
+
+• A comprehensive, independent review of your material system to determine whether all suppliers of components, containers, and closures are each qualified and the materials are assigned appropriate expiration or retest dates. The review should also determine whether incoming material controls are adequate to prevent use of unsuitable components, containers, and closures.
+
+• The chemical and microbiological quality control specifications you use to determine disposition of each incoming lot of components before use in manufacturing.
+
+• A description of how you will test each component lot for conformity with all appropriate specifications for identity, strength, quality, and purity. If you intend to accept any results from your supplier’s COA instead of testing each component lot for strength, quality, and purity, specify how you will robustly establish the reliability of your supplier’s results through initial validation as well as periodic re-validation. In addition, include a commitment to always conduct at least one specific identity test for each incoming component lot.
+
+• A summary of test results obtained from comprehensive testing of all incoming components to validate the COA from each manufacturer of raw material.
+
+• A commitment that you will use only pharmaceutical-grade components going forward.
+
+• Results of tests for DEG and (b)(4) in retain samples of all (b)(4) lots used to manufacture your drug products.
+
+• A full risk assessment for drug products that contain (b)(4) and are within expiry in the U.S. market. Take prompt corrective actions and preventive actions, and detail your future actions to ensure appropriate selection of your suppliers, ongoing scrutiny of their supply chain, and appropriate incoming lot controls.
+
+• A full risk assessment for drug products manufactured with component lots that did not include testing for identification that are within expiry in the U.S. market. Take prompt corrective actions and preventive actions, and detail your future actions to ensure appropriate selection of your suppliers, ongoing scrutiny of their supply chain, and appropriate incoming lot controls.
+
+CGMP Consultant Recommended
+Based upon the nature of the violations we identified at your firm, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements.
+
+Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of these violations and for preventing their recurrence or the occurrence of other violations.
+
+Until you correct all violations completely and we confirm your compliance with CGMP, FDA may withhold approval of any new drug applications or supplements listing your firm as a drug manufacturer.
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov or mail your reply to:
+
+Michael Klapal
+Compliance Officer
+U.S. Food and Drug Administration
+White Oak Building 51, Room 4235
+10903 New Hampshire Avenue
+Silver Spring, MD 20993
+USA
+
+
+Please identify your response with FEI 3009167769.
+
+Sincerely,
+/S/
+Francis Godwin
+Director
+Office of Manufacturing Quality
+Office of Compliance
+Center for Drug Evaluation and Research

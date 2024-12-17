@@ -1,0 +1,298 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Philippe Agostini
+          
+
+                                
+  
+    Recipient Title
+              Executive Chairman
+          
+
+          
+            CGA Limited 
+
+          
+                      Eastern Main Road
+Laventille
+Trinidad & Tobago
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research | CDER
+        
+         
+          10903 New Hampshire Avenue
+Silver Spring, MD 20993
+United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter 320-20-14
+
+ 
+
+December 19, 2019
+
+   
+
+Dear Mr. Agostini:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, CGA Limited, FEI 3008527957, at Eastern Main Road, Laventille, from May 27 to 31, 2019.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See 21 CFR, parts 210 and 211. 
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+In addition, your firm manufactures “CARIB® Germicidal Soap.” This product is an unapproved new drug in violation of section 505(a) of the FD&C Act, 21 U.S.C. 355(a). Introduction or delivery for introduction of such product into interstate commerce is prohibited under section 301(d) of the FD&C Act, 21 U.S.C. 331(d). These violations are described in more detail below.
+
+We reviewed your June 18, 2019, response to our Form FDA 483 in detail.
+
+During our inspection, our investigator observed specific violations including, but not limited to, the following.
+
+CGMP Violations
+
+
+	Your firm failed to test samples of each component for identity and conformity with all appropriate written specifications for purity, strength, and quality. Your firm also failed to validate and establish the reliability of your component supplier’s test analyses at appropriate intervals (21 CFR 211.84(d)(1) and (2)).
+
+
+You failed to adequately test your incoming components for identity, purity, strength, and other appropriate quality attributes. Specifically, you did not perform the identity test for (b)(4) listed in the USP monograph. Additionally, you failed to perform impurity testing for (b)(4), also listed in the USP monograph. Your firm released active pharmaceutical ingredients (API) for use in drug manufacturing based on component supplier’s analysis reports although you had not established the reliability of the analyses through appropriate validation. 
+
+In your response, you stated that you do not have the capability to perform the required incoming raw material tests, and contracted an external laboratory to complete testing on the API, (b)(4).
+
+Your response is inadequate because you did not detail the type of testing you will perform for the API. In addition, you did not describe plans for validation of your raw material suppliers’ test results and qualification of your contract testing laboratory. 
+
+In response to this letter, provide the following:
+
+
+	A comprehensive, independent review of your material system to determine whether all suppliers of components, containers, and closures are each qualified and the materials are assigned appropriate expiration or retest dates. The review should also determine whether incoming material controls are adequate to prevent use of unsuitable components, containers, and closures.
+	The chemical and microbiological quality control specifications you use to test and release each incoming lot of component for use in manufacturing. 
+	A description of how you will test each component lot for conformity with all appropriate specifications for identity, strength, quality, and purity. If you intend to accept any results from your supplier’s certificates of analyses (COA) instead of testing each component lot for strength, quality, and purity, specify how you will robustly establish the reliability of your supplier’s results through initial validation as well as periodic re-validation. In addition, include a commitment to always conduct at least one specific identity test for each incoming component lot.
+	Your standard operation procedure (SOP) that describes this COA validation program.
+	A summary of your program for qualifying and overseeing contract facilities that test the drug products you manufacture. Detail how you will ensure that your qualification is completed for these facilities.
+
+
+
+	Your firm failed to have, for each batch of drug product, appropriate laboratory determination of satisfactory conformance to final specifications for the drug product, including the identity and strength of each active ingredient, prior to release (21 CFR 211.165(a)).
+
+
+Your firm released your topical over-the-counter (OTC) drug product, (b)(4),” to the United States market although your COAs lacked critical tests including but not limited to the (b)(4) active ingredient assay and identity testing. In addition, you lacked stability data to demonstrate that the properties of your drug product remain acceptable throughout its assigned (b)(4) shelf-life.
+
+Complete testing of each batch before release is essential part of ensuring that the drug product you manufacture meets established specifications.    
+
+We acknowledge that you have contracted an external laboratory to retrospectively test batches of finished drug product shipped to the U.S. market for the percent of (b)(4). You also plan to complete an independent stability study of your OTC drug product using an external laboratory. However, your response lacked sufficient details regarding the active ingredient analyses.
+
+In response to this letter, provide the following:
+
+
+	A comprehensive, independent assessment of your laboratory practices, procedures, methods, equipment, documentation, analyst competencies. Based on this review, provide a detailed plan to remediate and evaluate the effectiveness of your laboratory system. A similar assessment should be performed to address any functions performed on your behalf by a contract testing laboratory.
+	A list of chemical and microbial test methods and specifications used to analyze each lot of your drug product before making a lot disposition decision, and the associated written procedures. 
+	A summary of all results obtained from testing retain samples from each batch. If such testing reveals substandard quality drug products, take rapid corrective actions, such as notifying customers and product recalls. 
+	Your plan, with timelines, to develop and implement a complete drug stability program.
+
+
+
+	Your firm failed to establish and follow adequate written procedures for cleaning and maintenance of equipment (21 CFR 211.67(b)).
+
+
+We observed apparent rust and peeling paint on product contact surfaces of your non-dedicated equipment, which you use to manufacture drugs and cosmetics. In addition, you have not validated your cleaning methods to demonstrate that they are reproducible to ensure cleaning efficacy. 
+
+In your response, you stated that you will review and revise the relevant written procedures to ensure they comply with FDA regulations. 
+
+Your response is inadequate because it lacked sufficient details regarding remediations to your equipment cleaning program.
+
+In response to this letter, provide the following:
+
+
+	Your corrective actions and preventive actions (CAPA) plan to implement routine, vigilant operations management oversight of facilities and equipment. This plan should ensure, among other things, prompt detection of equipment/facilities performance issues, effective execution of repairs, adherence to appropriate preventive maintenance schedules, timely technological upgrades to the equipment/facility infrastructure, and improved systems for ongoing management review.
+	A comprehensive, independent retrospective assessment of your cleaning effectiveness to evaluate the scope of cross-contamination hazards. Include the identity of residues, other manufacturing equipment that may have been improperly cleaned, and an assessment whether cross-contaminated products may have been released for distribution. The assessment should identify any inadequacies of cleaning procedures and practices, and encompass each piece of equipment used to manufacture more than one product.
+	A CAPA plan, based on the retrospective assessment, that includes appropriate remediations to your cleaning processes and practices, cleaning validation justification, and timelines for completion. Summarize vulnerabilities in your process for lifecycle management of equipment cleaning in detail. Describe improvements to your cleaning program, including enhancements to cleaning effectiveness; improved ongoing verification of proper cleaning execution for all products and equipment; and all other needed remediations.
+	Appropriate improvements to your cleaning validation program, with special emphasis on incorporating conditions identified as worst case in your drug manufacturing operation. This should include but not be limited to identification and evaluation of all worst-case:
+
+
+                  o products with higher toxicities
+
+                  o products with higher potencies 
+
+                  o products of lower solubility in their cleaning solvents
+
+                  o products with characteristics that make them difficult to clean
+
+                  o swabbing locations for areas that are most difficult to clean
+
+                  o maximum hold times before cleaning
+
+In addition, describe the steps that must be taken in your change management system before introducing new manufacturing equipment or a new product.
+
+
+	A summary of updated SOPs that ensure an appropriate program is in place for verification and validation of cleaning procedures for products, processes, and equipment.
+
+
+
+	Your firm failed to use equipment in the manufacture, processing, packing, or holding of drug products that is of appropriate design, adequate size, and suitably located to facilitate operations for its intended use and for its cleaning and maintenance (21 CFR 211.63).
+
+
+Your firm did not assure that the (b)(4) generated from your (b)(4) system used to manufacture drug products was fit for purpose. You manufactured drug products using (b)(4)” from a (b)(4) system that had not been validated, adequately monitored for objectionable microorganisms, and designed to produce (b)(4). Your (b)(4) system was also routinely (b)(4) which leads to (b)(4) and can cause the system to become insanitary. 
+
+In your response, you stated that you will review and revise written procedures including, but not limited to, equipment qualification, validation, and controls for (b)(4). You also stated that your external contactor recommended replacement of the (b)(4) system and that you may also replace your (b)(4). 
+
+Your response is inadequate because you failed to include sufficient remediations to design, monitoring, and control of the system as well as a (b)(4) system validation protocol. It is also unclear if you require (b)(4) used in manufacturing operations to meet (b)(4) USP standards. 
+
+In response to this letter, provide the following:
+
+
+	A comprehensive, independent assessment of your (b)(4) system design, control, and maintenance. 
+	A thorough remediation plan to design and operate a suitable (b)(4) system. Include a robust ongoing control, maintenance, and monitoring program to ensure the new system consistently produces (b)(4) adhering to (b)(4) USP monograph specifications and appropriate microbial limits. 
+	Regarding the latter, ensure that your total microbial count limit for (b)(4) is appropriate in view of the intended use of the products produced by your firm.
+	Validation report for the (b)(4) system obtained after its design has been comprehensively remediated and any maintenance repairs have been completed. Include the system validation protocol, the complete test results, and the final validation report.
+	Revised procedures for routine (b)(4) sampling and analysis for all points-of-use for manufacturing operations.
+	A detailed risk assessment addressing the potential effects of (b)(4) system deficiencies on the quality of all drug product lots currently in U.S. distribution. Specify actions that you will take in response to the risk assessment.
+
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements. We also recommend that the qualified consultant perform a comprehensive audit of your entire operation for CGMP compliance and that the consultant evaluates the completion and efficacy of your CAPA before you pursue resolution of your firm’s compliance status with FDA. 
+
+Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all violations and systemic flaws to ensure ongoing CGMP compliance. 
+
+Unapproved New Drug Charge
+
+“CARIB® Germicidal Soap”
+
+“CARIB® Germicidal Soap” is a drug as defined by section 201(g)(1)(B) of the FD&C Act, 21 U.S.C. 321(g)(1)(B), because it is intended for the diagnosis, cure, mitigation, treatment, or prevention of disease, and/or under section 201(g)(1)(C) of the FD&C Act, 21 U.S.C. 321(g)(1)(C), because it is intended to affect the structure or any function of the body. Specifically, “CARIB® Germicidal Soap” is intended for use as a consumer antiseptic. 
+
+Examples of claims observed on your product label that establish the intended use (as defined in 21 CFR 201.128) of the product include, but may not be limited to, the following:
+
+Label Claim:
+
+     “GERMICIDAL SOAP”
+
+Drug products intended as OTC consumer antiseptics washes, such as “CARIB® Germicidal Soap,” are subject to the Final Rule for Safety and Effectiveness of Consumer Antiseptics; Topical Antimicrobial Drug Products for Over-the-Counter Human Use (see 81 FR 61106, June 29, 2016). This final rule establishes that nineteen of the twenty-two active ingredients that were eligible for review as OTC consumer antiseptics washes are not generally recommended as safe and effective (GRASE) (see 21 310.545(a)(27)(iii) and (iv)).[1] 
+
+The final rule also deferred the active ingredients benzalkonium chloride, benzethonium chloride, and chloroxylenol for further evaluation. Therefore, pending a promulgation of a final rule establishing whether benzalkonium chloride, benzethonium chloride, and chloroxylenol are or are not GRASE, FDA generally does not intend to object to the marketing of products that meet both the proposed formulation and labeling conditions outlined in the applicable Tentative Final Monographs (TFM) (see 43 FR 1210, (January 6, 1978; and amended at 59 FR 31402, June 17, 1994; and 78 FR 76446, December 17, 2013) for these deferred ingredients and each general condition in 21 CFR 330.1 unless a particular product poses a public health concern.[2] Such marketing, however, is subject to the risk that a final rule may require reformulation and/or relabeling or FDA approval through the “new drug” procedures of the FD&C Act (section 505). 
+
+However, “CARIB® Germicidal Soap” is not covered by the before-named TFM because it is not formulated with one of the three deferred ingredients. Specifically, “CARIB® Germicidal Soap” product label lists the ingredients as: Sodium Palmitate, Sodium Cocoate, Sodium Stearate, Water, Cresylic Acid, Coconut Oil, Water, D&C Yellow #11 (C.I. 47000), E.D.T.A., D&C Red #17 (C.I. 26100).  
+
+We are not aware of any adequate and well-controlled clinical trials in the published literature that support a determination that “CARIB® Germicidal Soap” is generally recognized as safe and effective for its labeled indications. Additionally, we are not aware of a similar OTC product as formulated and labeled that was available in the United States market on or before the inception of the OTC Drug Review.
+
+“CARIB® Germicidal Soap,” as labeled, is therefore a new drug within the meaning of section 201(p) of the FD&C Act because it is not generally recognized among scientific experts as safe and effective for the drug uses described in its labeling. “New drugs” may not be introduced or delivered for introduction into interstate commerce unless an application approved by FDA under section 505 of the FD&C Act is in effect for the drug. “CARIB® Germicidal Soap” is not the subject of an approved new drug application; therefore, the introduction or delivery for introduction of this product into interstate commerce is prohibited under section 301(d) of the FD&C Act, 21 U.S.C. 331(d), and violates section 505 of the FD&C Act.
+
+Conclusion
+
+Violations cited in this letter are not intended as an all-inclusive list. You are responsible for investigating these violations, for determining the causes, for preventing their recurrence, and for preventing other violations.
+
+FDA placed your firm on Import Alert 66-40 on November 21, 2019.
+
+Until you correct all violations completely and we confirm your compliance with CGMP, FDA may withhold approval of any new applications or supplements listing your firm as a drug manufacturer.
+
+Failure to correct these violations may also result in FDA continuing to refuse admission of articles manufactured at CGA Limited at Eastern Main Road, Laventille into the United States under section 801(a)(3) of the FD&C Act (21 U.S.C. 381(a)(3)). Under the same authority, articles may be subject to refusal of admission, in that the methods and controls used in their manufacture do not appear to conform to CGMP within the meaning of section 501(a)(2)(B) of the FD&C Act (21 U.S.C. 351(a)(2)(B)).
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion. 
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov or mail your reply to:
+
+ 
+
+Christina Alemu-Cruickshank
+
+Compliance Officer 
+
+U.S. Food and Drug Administration
+
+White Oak Building 51, Room 4212
+
+10903 New Hampshire Avenue
+
+Silver Spring, MD 20993
+
+USA
+
+ 
+
+Please identify your response with FEI 3008527957.
+
+ 
+
+Sincerely,
+
+/S/
+
+Francis Godwin
+
+Director
+
+Office of Manufacturing Quality
+
+Office of Compliance
+
+Center for Drug Evaluation and Research
+
+ 
+
+
+[1] The proposed rule for Safety and Effectiveness of Consumer Antiseptics; Topical Antimicrobial Products for Over-the-Counter; Proposed Amendment of Tentative Final Monograph; Reopening of Administrative Record (see 78 FR 75585, December 17, 2013), established twenty-two eligible active ingredients for OTC consumer antiseptics washes.
+
+
+
+[2] An OTC drug product intended for use as an OTC consumer antiseptics wash, formulated with one of the three deferred ingredients, is subject to the ongoing rulemaking for Over-the-Counter Drugs Generally Recognized as Safe and Effective and Not Misbranded OTC Topical Antimicrobial Products Tentative Final Order, (see 43 FR 1210, (January 6, 1978; and amended at 59 FR 31402, June 17, 1994; and 78 FR 76446, December 17, 2013).

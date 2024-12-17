@@ -1,0 +1,195 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Shaoshan Chen
+          
+
+                                
+  
+    Recipient Title
+              Sales Manager
+          
+
+          
+            Guangzhou Zhongkebaishi Health Industry Co., Ltd. 
+
+          
+                      Floor 2C, No. 1, Fengying Fourth Rd, High Tech Industrial
+Conghua Qu
+Guangzhou Shi
+Guangdong Sheng, 510990
+China
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research | CDER
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter 320-22-13
+
+April 19, 2022
+
+Dear Mr. Chen:
+
+Your firm was registered as a human drug manufacturer. The United States Food and Drug Administration (FDA) conducted testing of a consumer antiseptic hand rub drug product (also referred to as a consumer hand sanitizer), labeled as Hand Sanitizer Gel. This drug product was listed as being as manufactured at your facility, Guangzhou Zhongkebaishi Health Industry Co., Ltd., FEI: 3016706196, at Floor 2C, No. 1, Fengying Fourth Rd, High Tech Industrial, Conghua District Guangzhou, Guangdong. Following an attempt to import Hand Sanitizer Gel into the United States, it was detained and refused admission at the border.
+
+The results of the FDA laboratory testing of a batch of this product detained at the border demonstrate that this drug product listed as being manufactured at your facility is adulterated within the meaning of section 501(c) of the Federal Food, Drug, and Cosmetic Act (FD&C Act or Act), 21 U.S.C. 351(c), in that its strength, purity, or quality falls below that which it purports or is represented to possess. In addition, this product is adulterated within the meaning of section 501(a)(2)(B) of the FD&C Act (21 U.S.C. 351(a)(2)(B)), in that the subpotency demonstrates that the quality assurance within your facility is not functioning in accordance with Current Good Manufacturing Practice (CGMP) requirements.
+
+In addition, Hand Sanitizer Gel drug product is an unapproved new drug introduced or delivered for introduction into interstate commerce in violation of section 505(a) of the FD&C Act, 21 U.S.C. 355(a), and is misbranded under sections 502(a), (c), (x), and (ee) of the FD&C Act, 21 U.S.C. 352(a), (c), (x) and (ee). Introduction or delivery for introduction of such a product into interstate commerce is prohibited under sections 301(d) and (a) of the FD&C Act, 21 U.S.C. 331(d) and (a). These violations are described in more detail below.
+
+Adulteration Violations
+
+Hand Sanitizer Gel, listed as being manufactured at your facility, is labeled to contain 75% of the active ingredient alcohol (ethanol). However, FDA laboratory testing of a batch of this product detained at the border found that the drug product contained an average of only 51% volume/volume (v/v) ethanol. This hand sanitizer drug product is adulterated under section 501(c) of the FD&C Act in that the active ingredient of ethanol is present at levels in the product lower than that which is declared on its labeling.
+
+CDC recommends1 that, if soap and water are not readily available, consumers use an alcohol-based hand sanitizer that contains not less than 60% alcohol (ethanol). This is the minimum active ingredient concentration of ethanol specified in the 1994 Tentative Final Monograph for Health-Care Antiseptic Drug Products (59 FR 31402), as further amended by “Safety and Effectiveness of Consumer Antiseptics; Topical Antimicrobial Drug Products for Over-the-Counter Human Use; Proposed Amendment of the Tentative Final Monograph; Reopening of Administrative Record,” Proposed Rule, 81 FR 42912 (June 30, 2016).
+
+On November 2, 2020, FDA held a teleconference with you and RGLM Consulting LLC, your Registered U.S. Agent. During the call, we requested additional information concerning your CGMP operations, including test methods for finished product, active pharmaceutical ingredient supplier information, a statement confirming that you follow drug CGMP per 21 CFR Parts 210 and 211, and your investigation into the subpotent batch test by FDA. Following the teleconference, FDA sent multiple requests to your firm to provide additional information. Your firm has since exhibited a pattern of not providing adequate or complete responses to FDA’s requests for information regarding drug quality. In your responses, you did not provide any documentation of your finished product test methods, analytical procedures, impurity testing, stability reports or batch records. Without adequate testing of incoming raw materials and finished product, as required under 21 CFR 211.84 and 21 CFR 211.165 respectively, you cannot assure that your drug products conform to appropriate standards of identity, strength, quality and purity. Further, as noted above, your hand sanitizer drug product labeled to contain 75% ethanol contained only 51% ethanol. We requested information related to the investigation into how your hand sanitizer drug product was manufactured with subpotent ethanol. You explained this was a one-time accident but did not provide a detailed investigation.
+
+In response to this letter, provide the following:
+
+• A detailed investigation into how the hand sanitizer drug product described above, labeled as containing 75% ethanol, in fact contained an average of 51% ethanol.
+• A list of all raw materials used to manufacture your hand sanitizer drug products, including the suppliers’ names, addresses, and contact information.
+• A list of all batches of any hand sanitizer drug products shipped to the United States by your firm, and a full reconciliation of all material you distributed.
+• Copies of the complete batch records for all batches distributed to the United States.
+
+The subpotency of hand sanitizer drug products declared or labeled as manufactured in your facility, in addition to the deficiencies in your response to the information we requested during the November 2, 2020 teleconference, demonstrates that the quality assurance within your facility is not functioning in accordance with CGMP requirements under section 501(a)(2)(B) of the FD&C Act.2
+
+Unapproved New Drug and Misbranding Violations
+
+Hand Sanitizer Gel is a “drug” as defined by section 201(g)(1)(B) of the FD&C Act, 21 U.S.C. 321(g)(1)(B), because it is intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease and/or under section 201(g)(1)(C) of the FD&C Act, 21 U.S.C. 321(g)(1)(C), because it is intended to affect the structure or any function of the body. Specifically, this product is intended for use as a consumer topical antiseptic.
+
+Examples of claims observed on the Hand Sanitizer Gel product label and labeling that provide evidence of the intended use (as defined in 21 CFR 201.128) of the product include, but may not be limited to, the following:
+
+“Drug Facts: … Directions: √ Rump [sic] a small amount of gel into palm of hand…√ Rub thoroughly over all surfaces of both hands…√ Rub hands together briskly until dry…Use: For hand sanitizing to decrease bacteria on the skin…√ Recommended for repeated use...”
+
+This topical antiseptic product is a “new drug” within the meaning of section 201(p) of the FD&C Act, 21 U.S.C. 321(p), because it is not generally recognized as safe and effective (GRASE) for use under the conditions prescribed, recommended, or suggested in its labeling. New drugs may not be introduced or delivered for introduction into interstate commerce without prior approval from FDA, as described in section 505(a) of the FD&C Act, 21 U.S.C. 355(a), unless they are lawfully marketed under section 505G of the Act (which is not the case for this product, as further described below) or under other exceptions not applicable here. No FDA-approved application pursuant to section 505 of the FD&C Act, 21 U.S.C. 355, is in effect for this drug product, nor are we aware of any adequate and well-controlled clinical studies in the published literature that support a determination that your Hand Sanitizer Gel drug product is GRASE for use under the conditions suggested, recommended, or prescribed in its labeling. Accordingly, this product is an unapproved new drug marketed in violation of sections 505(a) and 301(d) of the FD&C Act, 21 U.S.C 355(a) and 331(d).
+
+We note that over-the-counter (OTC) topical antiseptic products had been the subject of rulemaking under FDA’s OTC Drug Review. In particular, such products were addressed in a tentative final monograph (TFM) entitled “Topical Antimicrobial Drug Products for Over-the-Counter Human Use; Tentative Final Monograph for Health-Care Antiseptic Drug Products,”
+
+Proposed Rule, 59 FR 31402 (June 17, 1994) (1994 TFM), as further amended by “Safety and Effectiveness of Consumer Antiseptics; Topical Antimicrobial Drug Products for Over-the-Counter Human Use; Proposed Amendment of the Tentative Final Monograph; Reopening of Administrative Record,” Proposed Rule, 81 FR 42912 (June 30, 2016) (Consumer Antiseptic Rubs Proposed Rule). Over the course of these rulemakings, three active ingredients (benzalkonium chloride, ethyl alcohol (ethanol), and isopropyl alcohol) were classified as Category III for use in consumer antiseptic rub products, meaning that additional safety and effectiveness data are needed to support a determination that a drug product containing one of these active ingredients would be GRASE for use as a consumer antiseptic rub.
+
+Section 505G of the FD&C Act, addresses nonprescription drugs marketed without an approved application. Under 505G(a)(3) of the FD&C Act, drugs that were classified as Category III for safety or effectiveness in a TFM that is the most recently applicable proposal or determination for such drug issued under 21 CFR Part 330 – and that were not classified as Category II for safety or effectiveness – are not required to have an approved application under section 505 in order to be marketed, as long as they are in conformity with the relevant conditions of use outlined in the applicable TFM, including the active ingredient, and comply with all other applicable requirements.
+
+However, Hand Sanitizer Gel does not conform to the 1994 TFM, as further amended by the 2016 Consumer Antiseptic Rubs Proposed Rule, nor any other TFM, proposed rule, or final rule, and does not meet the conditions under section 505G(a)(3) of the FD&C Act for marketing without an approved application under section 505.
+
+According to the product label, Hand Sanitizer Gel, purportedly contains the active ingredient ethanol 75%. However, as previously discussed, FDA laboratory analyses of a batch of this product detained at the border demonstrated that Hand Sanitizer Gel contains ethanol in a concentration that is less than the 75% stated on its product label and less than the amount of ethanol described in the 1994 TFM.3 Such a product does not conform with the TFM or the applicable requirements.
+
+Additionally, this hand sanitizer is misbranded under section 502(a) of the FD&C Act, 21 U.S.C 352(a), because its labeling is false or misleading. As noted above, Hand Sanitizer Gel is labeled to contain ethanol 75% v/v. However, FDA laboratory analysis of a batch of this product demonstrate that the product contains a concentration of ethanol that is far less than that stated on its product label. Thus, the misleading representation of the concentration of the active ingredient ethanol on the Hand Sanitizer Gel labeling cause this product to be misbranded under section 502(a) of the FD&C Act, 21 U.S.C. 352(a).
+
+Hand Sanitizer Gel is also misbranded under section 502(a) of the FD&C Act, 21 U.S.C. 352(a), because the “FDA” logo is displayed on the product principal display panel which creates the impression that the drug is approved or legally marketable (see 21 CFR 207.77(b)). As previously noted, your Hand Sanitizer Gel is not the subject of an FDA-approved application. Therefore, a labeling representation suggesting that your product is FDA-approved is false or misleading.
+
+Furthermore, your Hand Sanitizer Gel is not labeled in accordance with the “Drug Facts” labeling requirements described in 21 CFR 201.66. Specifically, your product label fails to include headings for the Active ingredient(s) and Purpose(s), nor is the “Drug Facts” panel labeled, organized, or presented in accordance with 21 CFR 201.66(c). Therefore, this product is misbranded under section 502(c) of the FD&C Act, 21 U.S.C. 352(c), because the information that is required to appear on the labeling is not prominently placed thereon with such conspicuousness and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use.
+
+In addition, Hand Sanitizer Gel is also misbranded under section 502(c) of the FD&C Act, 21 U.S.C. 352(c), because the product’s Drug Facts panel contains extraneous information that goes beyond the required information described in 21 CFR 201.66. Specifically, 21 CFR 201.66(d)(7) states that additional information not described in the content requirements for OTC drug products should not appear in the Drug Facts panel. However, your Drug Facts panel contains a “Properties & Functions” section which includes extraneous statements such as “Leaves skin feeling soft, dry, and free.”
+
+Hand Sanitizer Gel is misbranded under section 502(x) of the FD&C Act because the product label fails to disclose a complete domestic address or domestic telephone number through which the responsible person may receive a report of a serious adverse event with such drug.
+
+Lastly, this product is misbranded under section 502(ee) of the FD&C Act, 21 U.S.C. 352(ee) because Hand Sanitizer Gel is a nonprescription drug subject to section 505G of the FD&C Act, 21 U.S.C. 355h, but does not comply with the requirements for marketing under that section and is not the subject of an application approved under section 505 of the FD&C Act, 21 U.S.C. 355.
+
+The introduction or delivery for introduction of a misbranded drug into interstate commerce is prohibited under section 301(a) of the FD&C Act, 21 U.S.C. 331(a).
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to evaluate your operations and to assist your firm in meeting CGMP requirements if your firm intends to resume manufacturing drugs for the U.S. market. We also recommend that the qualified consultant perform a comprehensive audit of your entire operation for CGMP compliance and that the consultant evaluates the completion and efficacy of your corrective actions and preventive actions before you pursue resolution of your firm’s compliance status with FDA. Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations associated with your drug products. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+Note that FDA placed all drugs and drug products manufactured by your firm on Import Alert 66-78 on March 29, 2021, as the methods used in and controls used for the manufacture, processing, packing, or holding of these products do not appear to conform to current good manufacturing practices within the meaning of section 501(a)(2)(B) of the FD&C Act. Drugs and drug products that appear to be adulterated or misbranded may be detained or refused admission without physical examination.
+
+All drugs and drug products manufactured by your firm may remain listed on this import alert until there is evidence establishing that the conditions that gave rise to the appearance of a violation have been resolved, and the Agency has confidence that future entries will be in compliance with the FD&C Act. This may include an inspection prior to the Agency considering the appearance of adulteration to be addressed.
+
+If you decide you want to manufacture drugs for the United States in the future, request a Regulatory Meeting to discuss corrective actions.
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot do so within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov. Identify your response with FEI 3016706196 and ATTN: Tamara S. Rosbury.
+
+Sincerely,
+/S/
+Francis Godwin
+Director
+Office of Manufacturing Quality
+Office of Compliance
+Center for Drug Evaluation and Research
+
+
+cc:
+Registered U.S. Agent
+Wei Zhang
+RGLM Consulting LLC
+3302 171st PL SE
+Bothell, WA 98012
+
+________________________
+
+1 https://www.cdc.gov/handwashing/hand-sanitizer-use.html
+
+2 We note that Hand Sanitizer Gel also did not conform to any temporary policy FDA has implemented during the public health emergency. In March 2020, the Agency published three guidance documents to provide regulatory flexibility to certain firms to help meet the demand for alcohol-based hand sanitizer during the COVID-19 public health emergency (PHE). Because Hand Sanitizer Gel was not consistent with the formulations described in these guidances, they did not fall within any temporary Agency policy not to take action against firms manufacturing hand sanitizer products for violations of section 505 of the FD&C Act. Additionally, on December 31, 2021 these guidances were withdrawn, and firms were required to cease distribution, by March 31, 2022, of any remaining hand sanitizer products that were prepared under the temporary policies before or on December 31, 2021. See, 86 FR 56960, October 13, 2021.
+
+3 The 1994 TFM, which does not distinguish between antiseptic hand washes and rubs, proposed for antiseptic handwashes and healthcare personnel handwashes an alcohol concentration of “60 to 95 percent by volume in an aqueous solution denatured according to Bureau of Alcohol, Tobacco and Firearms regulations in 27 CFR part 20.” 59 FR at 31442. Later amendments to the 1994 TFM distinguished between antiseptic hand washes and rubs, and between consumer and healthcare personnel antiseptics, but did not change the alcohol concentration originally proposed in 1994.

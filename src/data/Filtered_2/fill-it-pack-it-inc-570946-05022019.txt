@@ -1,0 +1,225 @@
+Delivery Method: 
+        VIA SIGNATURE CONFIRMED DELIVE
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Robert L. Miller
+          
+
+                                
+  
+    Recipient Title
+              Vice President
+          
+
+          
+            Fill It Pack It Inc 
+
+          
+                      2555 East Del Amo Boulevard
+Compton, CA 90221
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Division of Pharmaceutical Quality Operations IV
+        
+         
+          19701 Fairchild
+Irvine, CA 92612-2506
+United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+WARNING LETTER
+
+VIA SIGNATURE CONFIRMED DELIVERY
+
+CMS 570946
+
+May 2, 2019
+
+Mr. Robert L. Miller
+Vice President
+Fill It Pack It Inc.
+2555 East Del Amo Boulevard
+Compton, CA 90221
+
+Dear Mr. Miller:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Fill It Pack It Inc., FEI 3010770024, at 2555 E. Del Amo Blvd., Compton, from October 26 to November 5, 2018.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See 21 CFR, parts 210 and 211.
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your November 23, 2018, response in detail.
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to establish and follow appropriate written procedures that are designed to prevent microbiological contamination of drug products purporting to be sterile, and that include validation of all aseptic and sterilization processes. Your firm also failed to perform operations within specifically defined areas of adequate size and to have separate or defined areas or such other control systems necessary to prevent contamination or mix-ups in aseptic processing areas (21 CFR 211.113(b) and 211.42(c)(10)).
+
+You manufacture under contract a multi-dose, preservative-free, homeopathic ophthalmic drug product for (b)(4) without adequate controls to ensure the finished ophthalmic drug product is sterile. If ophthalmic drugs are not sterile, they pose unacceptable risks to patients including infection and potential for vision loss.
+
+In addition, it is essential that multi-dose ophthalmic drug products contain one or more suitable substances that will preserve a product and minimize the hazard of injury resulting from incidental contamination during use.
+
+Your filling suite is not suitable for filling sterile drugs, whether aseptically filled or terminally sterilized. For example, you lacked the following:
+
+ Floors, walls, and ceilings of smooth, hard surfaces that are easily cleaned
+ An air supply filtered through high-efficiency particulate air filters under positive pressure
+ A system for monitoring environmental conditions
+ A system for cleaning and disinfecting the room to produce aseptic conditions
+ A system for maintaining equipment used to control the aseptic conditions
+
+Significantly, you also failed to establish procedures for the sterilization of a drug product that is required to be sterile.
+
+For example, evidence collected during the inspection showed that some bulk drug product was held for seven weeks and used to fill finished ophthalmic drug product without sterilization before or after filling. Your firm did not perform any steps in the process to render the product sterile. Even though you manufacture this drug product on a contractual basis, you still have the responsibility for ensuring compliance with CGMP for the manufacturing activities you perform.
+
+To help you meet the CGMP requirements when manufacturing sterile drugs using aseptic processing, see FDA’s guidance document Sterile Drug Products Produced by Aseptic Processing—Current Good Manufacturing Practice at https://www.fda.gov/media/71026/download.
+
+In your response, you committed to cease filling eye drops and any other sterile drug products in the future. You also mention several other corrective actions and preventive actions (CAPA) such as bulk hold time procedural updates. Your response was inadequate because you failed to provide supporting documentation for evaluation. In addition, you did not provide information on how you will determine what drugs are required to be sterile. You also failed to provide the process you will use to screen drug products you are requested to manufacture to avoid manufacturing drug products that require controls beyond your capability.
+
+In response to this letter, provide the following:
+
+ Detailed supporting documentation of your CAPA, including, but not limited to, bulk hold times, cleaning validation, and screening criteria for drugs that you may manufacture.
+ Your CAPA to implement routine management oversight of manufacturing to ensure you have appropriate facilities, capable equipment, vigilant performance monitoring, prompt execution of repairs, effective preventive maintenance, timely upgrades to equipment and facilities, and any other needed actions.
+
+2. Your firm failed to establish an adequate quality control unit with the responsibility and authority to approve or reject all components, drug product containers, closures, in-process materials, packaging materials, labeling, and drug products. Your firm also failed to establish adequate written responsibilities and procedures applicable to the quality control unit (21 CFR 211.22(a) and (d)).
+
+Your Quality Unit (QU) released ophthalmic drug product manufactured under contract without ensuring sterility. For example, you did not require that containers and closures, used in the aseptic manufacture of an ophthalmic drug product, were sterile. You received containers and closures from your client, (b)(4) You did not ensure that these containers and closures were sterilized before permitting their use in manufacturing.
+
+You also failed to establish adequate written procedures governing the responsibilities and functions of the QU. This is a repeat violation from our previous August 2018 FDA inspection.
+
+Without an adequate QU, you cannot ensure that drug products meet required specifications and manufacturing standards to ensure safety, identity, strength, quality, and purity.
+
+In your response, you agreed that your QU was operating without procedures outlining its responsibilities. You also stated that you have written a Standard Operating Procedure (SOP) detailing the QU’s job responsibilities, and that you will improve control of in-process material
+and production. However, your response was inadequate because you failed to provide supporting documentation for evaluation and your plan for remediation of processes and systems to ensure the drugs you produce are in conformance with CGMP.
+
+It is also important that your procedures ensure that roles and responsibilities are in writing and clearly detailed for each respective party.
+
+For help implementing quality systems and risk management approaches to meet the requirements of CGMP regulations 21 CFR, parts 210 and 211, see FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations at https://www.fda.gov/media/71023/download.
+
+In response to this letter, provide the following.
+
+oDetailed supporting documentation of your CAPA including, but not limited to, your QU SOP and training completion records.
+
+oA retrospective evaluation of any drug product that remains on the U.S. market. You should address any drug product quality or patient safety risks including those potentially affected by your lack of adequate quality oversight, and assess the adequacy of investigations into any deviations, out-of-specification results, or other manufacturing quality issues. Include a full CAPA (e.g., notification to customers; recall) for any drug products that may have a quality or safety risk.
+
+oA comprehensive assessment with CAPA to ensure your QU is given the needed authority and resources to effectively discharge its function. The assessment should also include, but not be limited to:
+
+
+	  A determination of whether procedures used by your firm are robust and appropriate
+	  Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices
+	  Complete and final review of each batch and its related information before the QU disposition decision
+	  Oversight and approval of investigations and discharging of all other QU duties to ensure safety, identity, strength, quality, and purity of all products
+
+
+o   A comprehensive, independent review of your material system to determine whether all containers, closures, and ingredients from each supplier are adequately qualified, assigned appropriate expiration or retest dates, and incoming material controls are adequate to prevent use of unsuitable containers, closures, and components.
+o   Regarding the latter, include a detailed plan for ongoing assessments of each lot of component used for production of finished drug product to meet appropriate standards of identity, strength, quality, and purity. Also provide your plans to establish a robust supplier qualification program, including a detailed supplier qualification and audit program that specifies how you ensure that oversight of suppliers is commensurate with risk to finished product.
+
+FDA Sample Results & Drug Recall
+
+Finished drug product samples manufactured at your facility were collected for FDA laboratory analysis.
+
+FDA laboratory analysis of multiple lots of collected ophthalmic drug product confirmed they were contaminated with Bacillus spp., high levels of particulate matter, or both.
+
+The product owner (b)(4) recalled all lots of (b)(4) after being contacted by the FDA regarding contaminated ophthalmic drug product.
+
+Responsibilities of a Contractor
+
+You produce drugs under contract for customers. You are responsible for the quality of drugs you produce as a contract facility regardless of agreements in place with product owners. You are required to ensure that drugs are made in accordance with section 501(a)(2)(B) of the
+FD&C Act for safety, identity, strength, quality, and purity. See FDA’s guidance document Contract Manufacturing Arrangements for Drugs: Quality Agreements at https://www.fda.gov/media/86193/download.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements. We recommend you engage a consultant to help you identify drugs that are required to be sterile, so you can meet your commitment to cease filling ophthalmic drugs or other sterile drugs.
+
+Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+If you decide to pursue the manufacture of sterile drugs, notify the FDA of your plans in writing. A meeting can then be scheduled between you and the FDA to discuss the CGMP requirements for the manufacture of sterile drugs.
+
+Conclusion
+
+Violations cited in this letter are not intended as an all-inclusive list. You are responsible for investigating these violations, for determining the causes, for preventing their recurrence, and for preventing other violations.
+
+Correct the violations cited in this letter promptly. Failure to promptly correct these violations may result in legal action without further notice including, without limitation, seizure and injunction. Unresolved violations in this warning letter may also prevent other Federal agencies from awarding contracts.
+
+Until these violations are corrected, we may withhold approval of pending drug applications listing your facility. We may re-inspect to verify that you have completed your corrective actions. We may also refuse your requests for export certificates.
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Your written response should refer to the Warning Letter number above (CMS 570946). Please address your reply to:
+
+CDR Steven E. Porter, Jr.
+Director, Division of Pharmaceutical Quality Operations IV
+United States Food and Drug Administration
+19701 Fairchild
+Irvine, CA 92612
+
+If you have any questions about the content of this letter, please contact Jessica Mu, Compliance Officer, at 949-608-4477 and reference unique identifier CMS 570946 on all correspondence.
+
+Sincerely,
+/S/
+
+CDR Steven E. Porter, Jr.
+Director, Division of Pharmaceutical Quality Operations IV
+
+CC: (b)(4)

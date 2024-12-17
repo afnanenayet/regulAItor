@@ -1,0 +1,192 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Vano Baghdasarian
+          
+
+                                
+  
+    Recipient Title
+              Lab Director
+          
+
+          
+            Accu Bio-Chem Laboratories
+
+          
+                      1755 Victory Blvd
+Glendale, CA 91201-2864
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Division of Pharmaceutical Quality Operations IV
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+WARNING LETTER
+
+February 24, 2022
+
+Dear Mr. Baghdasarian:
+
+The U.S. Food and Drug Administration (FDA) inspected your contract testing laboratory, Accu Bio-Chem Laboratories, FEI 3004876794, at 1755 Victory Blvd, Glendale, California from August 24 to 31, 2021.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, the drug products you tested are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your October 12, 2021 response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence.
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following:
+
+1. Your firm failed to thoroughly investigate any unexplained discrepancy or failure of a batch or any of its components to meet any of its specifications, whether or not the batch has already been distributed (21 CFR 211.192).
+
+Your firm did not adequately investigate out-of-specification (OOS) results. Specifically, you prepared a new test preparation of the original sample for multiple over-the-counter (OTC) drug products with OOS results for assay. Your practice of preparing and testing new samples of OTC drug products to confirm the original test results without first adequately investigating the initial failing result is not scientifically justified. Also, your procedure, (b)(4) Out of Specification Investigation, lacks appropriate instructions to determine the root cause of the OOS results. Your procedure allows laboratory personnel (b)(4). There is no scientific justification (b)(4).
+
+In your response, you stated that you updated your standard operating procedure for OOS investigations to include directions to perform a retest of the original sample to confirm the original result. You also stated that your OOS investigations always included (b)(4); however, (b)(4) were not included in your OOS investigation reports. Further, you stated that you have updated your OOS procedure and OOS investigation report to include (b)(4).
+
+Your response is inadequate because you did not provide a retrospective review of (b)(4) to ensure that you have fully identified and thoroughly investigated all OOS results. Your revised OOS procedure remains unchanged regarding when an OOS result can be invalidated. In addition, neither your current OOS procedure nor your OOS investigation report assessment at the time of inspection (b)(4) of the original sample preparation (b)(4).
+
+For more information about handling failing, out-of-specification, out-of-trend, or other unexpected results and documentation of your investigations, see FDA’s guidance document Investigating Out-of-Specification (OOS) Test Results for Pharmaceutical Production at https://www.fda.gov/regulatory-information/search-fda-guidance-documents/investigating-out-specification-test-results-pharmaceutical-production.
+
+In response to this letter, provide the following:
+
+• A retrospective, independent review of all invalidated OOS (including release and stability testing) results for drug product testing conducted for the last three years and a report summarizing the findings of the analysis, including the following for each OOS:
+o Determine whether the scientific justification and evidence relating to all invalidated OOS result conclusively or inconclusively demonstrates causative laboratory error.
+o For investigations that conclusively establish laboratory root cause, provide rationale, and ensure that all other laboratory methods vulnerable to the same or similar root cause are identified for remediation.
+o For all OOS results found by the retrospective review to have an inconclusive or no root cause identified in the laboratory, include notifications sent to the client.
+
+• A comprehensive review and remediation plan for your OOS result investigation systems. The corrective action and preventive action (CAPA) should include, but not be limited to, addressing the following:
+o Quality unit oversight of laboratory investigations
+o Identification of adverse laboratory control trends
+o Resolution of causes of laboratory variation
+o Adequately scoping of each investigation and its CAPA
+o Revised OOS investigation procedures with these and other remediations
+
+2. Your firm failed to establish and document the accuracy, sensitivity, specificity, and reproducibility of its test methods (21 CFR 211.165(e)).
+
+You failed to perform method verification to ensure that the chemical and microbiological test methods used to analyze OTC drug products were suitable for their intended use. For example, you used the same assay test method for the active ingredient (b)(4) in different drug products of varying formulations. You also tested various drug products for the presence of microorganisms using compendial test methods without verifying the suitability of the methods for each drug product.
+
+Your response is inadequate. You have not provided assurance that the data you generated from your testing methods is accurate. The timeframe you have given to complete method verification studies is not appropriate.
+
+In response to this letter, provide the following:
+
+• A comprehensive independent assessment of your chemical and microbiological drug test methods to determine the suitability of the method (i.e., method verification or method validation when performing analysis for clients). If verification or validation is needed, provide a plan and timeline for completion of the appropriate activity and commitment that you will notify your clients of the outcome.
+
+• Updated procedures documenting how the suitability of all testing methods will be determined, when method verification and validation occur, and corresponding training records.
+
+3. Your firm failed to exercise appropriate controls over computer or related systems to assure that only authorized personnel institute changes in master production and control records, or other records (21 CFR 211.68(b)).
+
+The electronic data systems that you use to generate drug product results lack appropriate controls. There is no assurance that your systems have the appropriate controls to prevent deletion of data and record all modifications to data. For example, electronic data files generated from your (b)(4) system, used for identity testing of drug products, could be deleted. In addition, the (b)(4) that controls your high-performance liquid chromatography and gas chromatography systems for testing the actives in OTC drug products did not have all appropriate audit trails enabled to record significant changes.
+
+In your response, you stated that you have contacted the equipment and software manufacturers with requests for guidance on implementing the necessary controls to prevent data deletion. Your response is inadequate because you did not provide an assessment of your data systems to determine what data was deleted and its impact on the drug products that you test. In addition, you failed to have adequate interim measures in place while you apply updates for your software systems.
+
+In response to this letter, provide the following:
+
+• A complete assessment of documentation systems (paper and electronic) used throughout your laboratory testing operations to determine where documentation practices are insufficient. Include a detailed CAPA plan that comprehensively remediates your firm’s documentation practices to ensure you retain attributable, legible, complete, original, accurate, contemporaneous records throughout your operation.
+
+• Your action plan with timelines to enable audit trails for all applicable electronic laboratory data systems. Also describe your interim controls and specify when procedures will be implemented for the review of all audit trails.
+
+Responsibility of a Contract Testing Lab
+
+FDA considers contractors as extensions of the manufacturer’s own facility. Your failure to comply with CGMP may affect the quality, safety, and efficacy of the drugs you test for your clients.
+
+It is essential that you understand your responsibility to operate in full compliance with CGMP, and that you inform all your customers of any out-of-specification results or significant problems encountered during the testing of these drugs.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements.
+
+Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+Correct any violations promptly. Failure to promptly and adequately address this matter may result in regulatory or legal action without further notice including, without limitation, seizure, and injunction. Unresolved violations in this warning letter may also prevent other Federal agencies from awarding contracts.
+
+Failure to address violations may also cause the FDA to withhold issuance of Export Certificates. The FDA may withhold approval of new applications or supplements listing your firm as a manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to address any violations.
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to ORAPHARM4_Responses@FDA.HHS.GOV or mail your reply to:
+
+CDR Steven E. Porter, Jr.
+Director, Division of Pharmaceutical Quality Operations IV
+U.S. Food & Drug Administration
+19701 Fairchild Road
+Irvine, California 92612-2506
+
+Please identify your responses with the unique identifier: CMS 619450.
+
+If you have questions regarding the contents of this letter, please contact Bryan Galvez, Acting Compliance Officer via email at, Bryan.Galvez@fda.hhs.gov or by telephone at 949-608-2960.
+
+Sincerely,
+/S/
+
+Lance M. De Souza
+Acting Director, Division of Pharmaceutical Quality Operations IV

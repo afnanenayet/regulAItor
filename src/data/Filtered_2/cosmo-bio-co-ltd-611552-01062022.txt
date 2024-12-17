@@ -1,0 +1,213 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Kum Yun-Hyun
+          
+
+                                
+  
+    Recipient Title
+              President
+          
+
+          
+            Cosmo Bio Co., Ltd.
+
+          
+                      A101, 17, Techno4-Ro
+Yuseong-gu
+Daejeon
+South Korea
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research | CDER
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter 320-22-09
+
+January 6, 2022
+
+Dear Mr. Yun-Hyun:
+
+While your facility was registered with the United States Food and Drug Administration (FDA) as a manufacturer of over-the-counter (OTC) drug products, FDA reviewed the records you submitted in response to our April 22, 2020, request for records and other information pursuant to section 704(a)(4) of the Federal Food, Drug, and Cosmetic Act (FD&C Act) for your facility, Cosmo Bio Co., Ltd., FEI 3015297228, at D101, D102, D103, 17, Techno4-Ro, Yuseong-Gu, Daejeon.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug product, Georganic Propolis Acne Care Serum, is adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+In addition, Georganic Propolis Acne Care Serum is an unapproved new drug introduced or delivered for introduction into interstate commerce in violation of sections 505(a) of the FD&C Act, 21 U.S.C. 355(a), and is misbranded under section 502(ee) of the FD&C Act, 21 U.S.C. 352(ee). Introduction or delivery for introduction of such products into interstate commerce is prohibited under sections 301(d) and (a) of the FD&C Act, 21 U.S.C. 331(d) and (a). These violations are described in more detail below.
+
+1. Your firm failed to have, for each batch of drug product, appropriate laboratory determination of satisfactory conformance to final specifications for the drug product, including the identity and strength of each active ingredient, prior to release. (21 CFR 211.165(a)).
+
+Your firm manufactured an OTC drug product, Georganic Propolis Acne Care Serum. Your response to our request for records and other information indicates that you do not conduct appropriate laboratory (i.e., assay) testing before the release of the drug product for distribution to the United States. Without adequate testing, there is no scientific evidence to assure your drug product batches conform to the label claim before release.
+
+In response to this letter, provide the following for all drug products imported to the United States before and after our request:
+
+
+	A list of chemical and microbial specifications, including test methods, used to analyze each lot of your drug products before a lot disposition decision
+	An action plan and timelines for conducting full chemical and microbiological testing of retain samples to determine the quality of all batches of drug product distributed to the United States that are within expiry as of the date of this letter
+	A summary of all results obtained from testing retain samples from each batch. If such testing reveals substandard quality drug products, take rapid corrective actions, such as notifying customers and product recalls
+
+
+2. Your firm failed to establish and follow an adequate written testing program designed to assess the stability characteristics of drug products and to use results of stability testing to determine appropriate storage conditions and expiration dates. (21 CFR 211.166(a)).
+
+You did not provide adequate stability data to demonstrate the required quality attributes of your drug product through its labeled expiry period. For example, your response to our request for records and other information indicates you only assess products on stability studies for pH, “Particle,” and appearance. You also provided a stability test report indicating you assess the products for different quality attributes including odor, color, “Aspect,” and microbiological quality. Without appropriate stability studies, there is no scientific evidence to support your drug product retains its quality attributes through its labeled expiry.
+
+In response to this letter, provide the following for all drug products imported to the United States before and after our request:
+
+• A comprehensive assessment and corrective and preventive action plan to ensure the adequacy of your stability program. Your remediated program should include, but not be limited to:
+  o Stability indicating methods
+  o Stability studies for each drug product in its marketed container-closure system before distribution is permitted
+  o An ongoing program in which representative batches of each product are added each year to the program to determine if the shelf-life claim remains valid
+  o Detailed definition of the specific attributes to be tested at each station (timepoint)
+• All procedures that describe these and other elements of your remediated stability program
+
+3. Your firm failed to establish and follow adequate written procedures for cleaning and maintenance of equipment. (21 CFR 211.67(b))
+
+You did not validate the cleaning processes for the shared, product-contact equipment used to manufacture OTC drug products including equipment also used to manufacture non-drug products. Chemical and microbiological residues on equipment from previous manufacturing activities can adversely impact the purity, quality, and safety of drug products also manufactured on that equipment.
+
+In response to this letter, provide the following for all drug products imported to the United States before and after our request:
+
+• Implementation of an adequate cleaning validation program, with special emphasis on incorporating conditions identified as worst case in your drug manufacturing operation. This should include, but not be limited to, identification and evaluation of all worst-case:
+  o Drugs with higher toxicities
+  o Drugs with higher drug potencies
+  o Drugs of lower solubility in their cleaning solvents
+  o Drugs with characteristics that make them difficult to clean
+  o Swabbing locations for areas that are most difficult to clean
+  o Maximum hold times before cleaning
+
+In addition, describe the steps that must be taken in your change management system before introduction of new manufacturing equipment or a new product.
+
+• A summary of updated SOPs that ensure an appropriate program is in place for verification and validation of cleaning procedures for products, processes, and equipment.
+
+Unapproved New Drug and Misbranding Violations
+
+GEORGANIC PROPOLIS ACNE CARE SERUM is a “drug” as defined by section 201(g)(1)(B) of the FD&C Act, 21 U.S.C. 321(g)(1)(B), because it is intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease and/or under section 201(g)(1)(C) of the FD&C Act, 21 U.S.C. 321(g)(1)(C) because it is intended to affect the structure or any function of the body.
+
+Examples of claims observed on the GEORGANIC PROPOLIS ACNE CARE SERUM product labeling, including your website WWW.GEORGANIC.CO.KR listed on your product label, that provide evidence of the intended use (as defined in 21 CFR 201.128) of your product as a drug include, but may not be limited to, the following:
+
+Product Label:
+  “Drug Facts…Purpose…Anti acne…Remove sebum secretion…Strengthen skin barrier…Helps improve acne problems.”
+
+Product Website:
+  ““Propolis Acne Care Serum” is a propolis-based serum rich in mineral and vitamin. It controls sebum to soothe the sensitive skin and care [sic] the skin troubles.”
+
+Based on the above labeling claims, your GEORGANIC PROPOLIS ACNE CARE SERUM product is a topical drug intended for the treatment of acne. As described below, this acne drug product is an unapproved new drug marketed in violation of sections 505(a) and 301(d) of the FD&C Act, 21 U.S.C. 355(a) and 331(d).
+
+In general:
+
+
+	a drug product is a “new drug” within the meaning of section 201(p) of the FD&C Act, 21 U.S.C. 321(p), if it is not generally recognized as safe and effective (GRASE) for use under the conditions prescribed, recommended, or suggested in its labeling; and
+	new drugs may not be introduced or delivered for introduction into interstate commerce without an approved application from FDA in effect, as described in section 505(a) of the FD&C Act, 21 U.S.C. 355(a).
+
+
+No FDA-approved application pursuant to section 505 of the FD&C Act, 21 U.S.C. 355, is in effect for your GEORGANIC PROPOLIS ACNE CARE SERUM drug product.
+
+Your GEORGANIC PROPOLIS ACNE CARE SERUM product is made available for sale to consumers without a prescription and is subject to section 505G of the FD&C Act, 21 U.S.C. 355h, which governs nonprescription drugs marketed without an approved application. Under section 505G of the FD&C Act, as added by the CARES Act1, certain nonprescription drugs without an approved application—commonly referred to as "OTC monograph drugs"—may be legally marketed if they meet applicable requirements. In particular, products for the topical treatment of acne are deemed to be GRASE and not a "new drug" if, among other things, they conform to the conditions of use specified in OTC Monograph M006: Topical Acne Drug Products for OTC Human Use (hereinafter "Monograph M006").2 However, your GEORGANIC PROPOLIS ACNE CARE SERUM product does not conform to the conditions of use specified in Monograph M006, because the product's active ingredient "propolis" is not among the permitted active ingredients.3 Although your product labeling does not specifically list "propolis" as an active ingredient, the labeling represents this substance as an active ingredient, as described below. Even if propolis were not considered an active ingredient, your GEORGANIC PROPOLIS ACNE CARE SERUM product is labeled to contain 0.05 percent salicylic acid, which is a recognized active ingredient in Monograph M006, but Monograph M006 requires that salicylic acid be present at 0.5 to 2 percent.4 Thus, your GEORGANIC PROPOLIS ACNE CARE SERUM product does not meet requirements under section 505G of the FD&C Act, under which it would be deemed to be GRASE and not a new drug.
+
+In addition, FDA is not aware of any adequate and well-controlled clinical trials in the published literature that support a determination that your GEORGANIC PROPOLIS ACNE CARE SERUM product is GRASE for use under the conditions prescribed, recommended, or suggested in its labeling. Moreover, there is no evident basis under the FD&C Act under which your product would be legally marketed without an approved application. Accordingly, your GEORGANIC PROPOLIS ACNE CARE SERUM product is an unapproved new drug marketed in violation of sections 505(a) and 301(d) of the FD&C Act, 21 U.S.C 355(a) and 331(d).
+
+Your GEORGANIC PROPOLIS ACNE CARE SERUM product is also misbranded under sections 502(ee) and 502(a) of the FD&C Act, 21 U.S.C. 352(ee), 352(a). GEORGANIC PROPOLIS ACNE CARE SERUM is misbranded under section 502(ee) of the FD&C Act, 21 U.S.C. 352(ee), because this product is a nonprescription drug subject to section 505G of the FD&C Act, 21 U.S.C. 355h, but does not comply with the requirements for marketing under that section and is not the subject of an application approved under section 505 of the FD&C Act, 21 U.S.C. 355.
+
+Further, your GEORGANIC PROPOLIS ACNE CARE SERUM product is misbranded under section 502(a) of the FD&C Act, 21 U.S.C. 352(a), because its labeling is false and misleading. Under 21 CFR 201.66(b)(2), an “active ingredient” means any component that is intended to furnish pharmacological activity or other direct effect in the diagnosis, cure, mitigation, treatment, or prevention of disease, or to affect the structure or any function of the body of humans. Although your firm does not specifically list "propolis" as an active ingredient in your product labeling, the prominent featuring of this substance in your labeling, including your website labeling, represent it in a manner that suggests this substance is intended to furnish pharmacological activity. For example, in addition to the intended use claims referenced above, the product name is "GEORGANIC PROPOLIS ACNE CARE SERUM" and "Propolis Extract (10%)" is the first ingredient listed under "Main Ingredients" on your website. Yet, your product labeling, in listing the ingredients, does not indicate that "propolis" is an active ingredient. Under section 201(n) of the FD&C Act, "in determining whether the labeling or advertising is misleading there shall be taken into account (among other things) not only representations made or suggested by statement, word, design, device, or any combination thereof, but also the extent to which the labeling or advertising fails to reveal facts material in the light of such representations". Because your GEORGANIC PROPOLIS ACNE CARE SERUM product fails to identify propolis as an active ingredient, despite representations to that effect on the labeling, your product is misbranded under section 502(a) of the FD&C Act, which deems a drug to be misbranded if its labeling is “false or misleading in any particular”.
+
+Even if "propolis" were not considered an active ingredient, the prominent featuring of this substance on the product labeling would still cause the product to be misbranded under section 502(a) of the FD&C Act and under 21 CFR 201.10(c)(4). Under 21 CFR 201.10(c)(4), “[t]he labeling of a drug may be misleading by reason … [of] the featuring in the labeling of inert or inactive ingredients in a manner that creates an impression of value greater than their true functional role in the formulation.”
+
+The introduction or delivery for introduction of a misbranded drug into interstate commerce violates section 301(a) of the FD&C Act, 21 U.S.C. 331(a).
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility/in connection with your product(s). You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+FDA placed your firm on Import Alert 66-40 on September 20, 2021.
+
+Correct any violations promptly. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to any violations.
+
+Failure to address any violations may also result in the FDA refusing admission of articles manufactured at Cosmo Bio Co., Ltd., at D101, D102, D103, 17, Techno4-Ro, Yuseong-Gu, Daejeon into the United States under section 801(a)(3) of the FD&C Act, 21 U.S.C. 381(a)(3). Articles under this authority that appear to be adulterated or misbranded may be detained or refused admission, in that the methods and controls used in their manufacture do not appear to conform to CGMP within the meaning of section 501(a)(2)(B) of the FD&C Act, 21 U.S.C. 351(a)(2)(B).
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov. Identify your response with FEI 3015297228 and ATTN: Jason F. Chancey.
+
+Sincerely,
+/S/
+Francis Godwin
+Director
+Office of Manufacturing Quality
+Office of Compliance
+Center for Drug Evaluation and Research
+
+________________________
+
+1 Public Law 116-136 (March 27, 2020).
+
+2 Section 505G(a)(1) of the FD&C Act specifies criteria under which certain nonprescription drugs without an approved application are deemed GRASE and not "new drugs", notably conformance with conditions detailed in applicable OTC monograph documents issued by FDA under 21 C.F.R. part 330, prior to enactment of the CARES Act. In the case of topical OTC drugs for the treatment of acne, relevant documents were deemed under section 505G to be a final administrative order, Over-the-Counter Monograph M006: Topical Acne Drug Products for Over-the-Counter Human Use. (See Order ID OTC000013, available at OTC Monographs@FDA, https://www.accessdata.fda.gov/scripts/cder/omuf/index.cfmURL.)
+
+3 See section M006.10, "Acne active ingredients".
+
+4 See section M006.10(d).

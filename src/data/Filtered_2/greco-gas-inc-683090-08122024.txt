@@ -1,0 +1,262 @@
+Delivery Method: 
+        Via Email
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Joseph R. Greco
+          
+
+                                
+  
+    Recipient Title
+              President
+          
+
+          
+            Greco Gas, Inc.
+
+          
+                      450 Grantham St.
+Tarentum, PA 15084-1322
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Office of Pharmaceutical Quality
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Warning Letter #683090
+
+August 12, 2024
+
+Dear Mr. Greco:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Greco Gas, Inc., FEI 2516287, at 450 Grantham St., Tarentum, PA, from March 27 to April 5, 2024.
+
+This warning letter summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your April 25, 2024 response to our Form FDA 483 in detail.
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to conduct at least one test to verify the identity of each component of a drug product. Your firm also failed to validate and establish the reliability of your component supplier’s test analyses at appropriate intervals (21 CFR 211.84(d)(1) and 211.84(d)(2)).
+
+Your firm failed to conduct identity testing for each component lot used in medical gas manufacturing, including Oxygen, USP and Nitrogen, NF. Additionally, you relied on the certificates of analysis (COAs) from suppliers of your components without establishing the reliability of your component suppliers’ test analyses at appropriate intervals.
+
+CGMP requires identity testing for each component lot used in medical gas manufacturing, and you can only rely on the COA for other component attributes by appropriately validating the supplier’s testing results at appropriate intervals. 
+
+In your response, you state that you implemented procedures for testing of Oxygen, USP, and provide an updated training record for your raw material. Further, you committed to (b)(4).
+
+Your response is inadequate. The procedures you provided appear to be the same version as those observed during the inspection. You also did not provide sufficient detail or evidence of corrective actions taken to ensure each shipment of each batch of component received will be tested for identity or how you will ensure your suppliers’ COAs will be appropriately validated. Additionally, you did not consider a retrospective evaluation of potential impact to medical gases (e.g., Oxygen, USP and Nitrogen, NF) currently on the U.S. market.
+
+In response to this letter, provide:
+
+
+	A comprehensive, independent review of your material system to determine whether all suppliers of components, containers, and closures, are each qualified and the materials are assigned appropriate expiration or retest dates. The review should also determine whether incoming material controls are adequate to prevent use of unsuitable components, containers, and closures.
+	The chemical and microbiological quality control specifications you use to test and release each incoming lot of component for use in manufacturing.
+	A description of how you will test each component lot for conformity with all appropriate specifications for identity, strength, quality, and purity. If you intend to accept any results from your supplier’s COA instead of testing each component lot for strength, quality, and purity, specify how you will robustly establish the reliability of your supplier’s results through initial validation as well as periodic re-validation. In addition, include a commitment to always conduct at least one specific identity test for each incoming component lot.
+	A summary of results obtained from testing all components to evaluate the reliability of the COA from each component manufacturer. Include your standard operating procedure that describes this COA validation program.
+
+
+2. Your firm failed to have, for each batch of drug product, appropriate laboratory determination of satisfactory conformance to final specifications for the drug product, including the identity and strength of each active ingredient, prior to release (21 CFR 211.165(a)).
+
+Your firm failed to adequately test finished batches of your medical gases for impurities and for the identity and strength of your active ingredients, Oxygen, USP and Nitrogen, NF.
+
+Full release testing, which includes strength and identity testing of the active ingredient and appropriate impurity testing, must be performed before medical gas release and distribution. Without adequate testing, you do not have adequate scientific evidence to assure that your medical gases conform to appropriate specifications before release.
+
+In your response, you provide an updated training record for your procedure for finished product testing and release. You also commit to (b)(4).
+
+Your response is inadequate. The procedures you provided appear to be the same version as those observed during the inspection. You also did not provide sufficient detail or evidence of corrective actions taken to ensure each lot of finished medical gas (e.g., Oxygen, USP) will be tested for all established quality attributes prior to their release. Additionally, you did not consider a retrospective evaluation of potential impact to medical gases (e.g., Oxygen, USP and Nitrogen, NF) currently on the U.S. market.
+
+In response to this letter, provide:
+
+
+	A list of chemical and microbial test methods and specifications used to analyze each lot of your drug product before making a lot disposition decision, and the associated written procedures.
+	A comprehensive, independent assessment of your laboratory practices, procedures, methods, equipment, documentation, and analyst competencies. Based on this review, provide a detailed plan to remediate and evaluate the effectiveness of your laboratory system.
+
+
+3. Your firm failed to routinely calibrate, inspect, or check according to a written program designed to assure proper performance of and to maintain adequate written records of calibration checks and inspections of automatic, mechanical, electronic equipment, or other types of equipment, including computers, used in the manufacture, processing, packing, and holding of a drug product (21 CFR 211.68(a)).
+
+You failed to routinely calibrate numerous pieces of equipment that your firm used to manufacture medical gases. For example, your pressure and vacuum gauges had not been calibrated since November 2020, despite subsequent continued manufacturing of medical gases using this equipment. Further, per your procedure, you were required to calibrate your oxygen analyzer prior to each fill; however, this equipment was only calibrated (b)(4), despite manufacturing (b)(4) lots of Oxygen, USP each month.
+
+It is essential that calibration of your medical gas equipment is conducted and documented at appropriate intervals to ensure its suitability for testing and manufacturing.
+
+In your response, you state that you installed new pressure and vacuum gauges with up-to-date calibration. You also provided an updated training record for your procedures for calibration of equipment.
+
+Your response is inadequate. The procedures you provided appear to have been the same version as those observed during the inspection. You also did not provide sufficient detail or evidence of corrective actions taken that will ensure your manufacturing and testing equipment will remain in a continued state of calibration. Additionally, you did not consider a retrospective evaluation of potential impact to medical gases (e.g., Oxygen, USP and Nitrogen, NF) currently on the U.S. market.
+
+In response to this letter, provide:
+
+
+	Your corrective action and preventive action (CAPA) plan to implement routine, vigilant operations management oversight of facilities and equipment. This plan should ensure, among other things, prompt detection of equipment/facilities performance issues, effective execution of repairs, adherence to appropriate preventive maintenance schedules, timely technological upgrades to the equipment/facility infrastructure, and improved systems for ongoing management review.
+	An assessment into how pressure excursions during manufacturing could affect product quality, as well as an assessment into how a poorly calibrated oxygen analyzer could affect test results and product quality.
+
+
+4. Your firm failed to thoroughly investigate any unexplained discrepancy or failure of a batch or any of its components to meet any of its specifications, whether or not the batch has already been distributed (21 CFR 211.192).
+
+Your firm failed to adequately investigate manufacturing and testing discrepancies during the production of your medical gases. For example, our investigator observed recurrent container-closure defects, such as neck leaks and valves, identified during the manufacture of your medical gases, including Oxygen, USP.
+
+These container-closure defects are critical to the integrity of the medical gases throughout the duration of their intended use(s) and present several potential health risks to patients such as asphyxia, burns, and hypoxemia. Additional controls are imperative to protect against container-closure defects and provide sufficient assurance of the durability of the container-closure system throughout its period of use. Container-closure defects must be investigated upon discovery to determine a root cause and implement an appropriate CAPA.
+
+Additionally, you lacked investigations into the following instances where your employees failed to record manufacturing and testing data during the production of medical gases concurrent with their performance.
+
+
+	Filling operators stated that they document assay testing results for Oxygen, USP despite another individual conducting the testing.
+	Filling operators stated that they duplicate the results from oxygen analyzer calibrations between production records without performing the testing.
+	Testing results for Nitrogen, NF were reported on production records without the equipment necessary to perform the testing.
+
+
+It is essential that each significant step in the manufacture of each batch of medical gases is documented at the time of performance by the individual that conducted the step.
+
+In your response, you confirm that our investigators “identified a concerning issue regarding the documentation of incorrect serial numbers for (b)(4) gases.” You also state that container-closure leaks detected during the normal filling process are anticipated, and therefore do not require an investigation. You also provided an updated training record for your filling and testing procedures.
+
+Your response is inadequate. The procedures you provided appear to be the same version as those observed during the inspection. You did not provide any assurance that your leaking container-closures do not present a significant risk of harm to patients. You also did not address how your training is sufficient to ensure your employees will follow your filling and testing procedures to include accurate manufacturing and testing data. Additionally, you did not consider a retrospective evaluation of potential impact to medical gases (e.g., Oxygen, USP and Nitrogen, NF) currently on the U.S. market.
+
+In response to the letter, provide:
+
+
+	A comprehensive, independent assessment of your overall system for investigating deviations, discrepancies, complaints, out-of-specification results, and failures. Provide a detailed action plan to remediate this system. Your action plan should include, but not be limited to, significant improvements in investigation competencies, scope determination, root cause evaluation, CAPA effectiveness, quality unit (QU) oversight, and written procedures. Address how your firm will ensure all phases of investigations are appropriately conducted.
+	A complete assessment of documentation systems used throughout your manufacturing and laboratory operations to determine where documentation practices are insufficient. Include a detailed CAPA plan that comprehensively remediates your firm’s documentation practices to ensure you retain attributable, legible, complete, original, accurate, contemporaneous records throughout your operation.
+
+
+5. Your firm failed to establish an adequate quality control unit with the responsibility and authority to approve or reject all components, drug product containers, closures, in-process materials, packaging materials, labeling, and drug products and the authority to review production records to assure that no errors have occurred or, if errors have occurred, that they have been fully investigated (21 CFR 211.22(a)).
+
+Your firm failed to establish an adequate QU with the responsibilities and authority to oversee the manufacturing of medical gases. For example, your QU released medical gases without adequately reviewing the finished batch records or determining that each batch met all quality attributes, including identity, assay, impurities, and labeling.
+
+Your QU must review all the raw data generated during each test and all the completed laboratory control and production records before batch release.
+
+In your response, you state that you have formalized your QU and developed written procedures delineating its roles and responsibilities. You also provided an updated training record for your quality standards and regulatory requirements procedures.
+
+Your response is inadequate. The procedures you provided appear to have been the same version as those observed during the inspection. You also did not provide sufficient detail or evidence of corrective actions taken that will ensure your QU maintains proper oversight of your firm’s operations. Additionally, you failed to investigate the scope and magnitude of the violation on your medical gases to include a retrospective evaluation of potential impact to the medical gases currently on the U.S. market.
+
+Your firm’s quality systems are inadequate. See FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations for help in implementing quality systems and risk management approaches to meet the requirements of CGMP regulations 21 CFR parts 210 and 211, at https://www.fda.gov/media/71023/download.
+
+In response to this letter, provide:
+
+
+	A comprehensive assessment and remediation plan to ensure your QU is given the authority and resources to effectively function. The assessment should also include, but not be limited to:
+
+
+  o A determination of whether procedures used by your firm are robust and appropriate.
+  o Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices.
+  o A complete and final review of each batch and its related information before the QU disposition decision.
+  o Oversight and approval of investigations and discharging of all other QU duties to ensure identity, strength, quality, and purity of all products.
+  o Also describe how top management supports quality assurance and reliable operations, including but not limited to, timely provision of resources to proactively address emerging manufacturing/quality issues and to assure a continuing state of control.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, you should engage a consultant qualified as set forth in 21 CFR 211.34 to evaluate your operations and to assist your firm in meeting CGMP requirements. The qualified consultant should also perform a comprehensive six-system audit of your entire operation for CGMP compliance and evaluate the completion and efficacy of your CAPA before you pursue resolution of your firm’s compliance status with FDA.
+
+Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Data Integrity Remediation
+
+Your quality system does not adequately ensure the accuracy and integrity of data to support the safety, effectiveness, and quality of the drugs you manufacture. See FDA’s guidance document Data Integrity and Compliance With Drug CGMP for guidance on establishing and following CGMP compliant data integrity practices at https://www.fda.gov/media/119267/download.
+
+We strongly recommend that you retain an independent third-party qualified consultant to assist in your remediation. In response to this letter, provide:
+
+
+	A comprehensive investigation into the extent of the inaccuracies in data records and reporting. Your investigation should include:
+
+
+  o A detailed investigation protocol and methodology; a summary of all laboratories, manufacturing operations, and systems to be covered by the assessment; and a justification for any part of your operation that you propose to exclude.
+  o Interviews of current and former employees to identify the nature, scope, and root cause of data inaccuracies. We recommend that these interviews be conducted by a qualified third party.
+  o An assessment of the extent of data integrity deficiencies at your facility. Identify omissions, alterations, deletions, record destruction, non-contemporaneous record completion, and other deficiencies. Describe all parts of your facility’s operations in which you discovered data integrity lapses.
+  o A comprehensive retrospective evaluation of the nature of the testing and manufacturing data integrity deficiencies. We recommend that a qualified third party with specific expertise in the area where potential breaches were identified should evaluate all data integrity lapses.
+
+
+	A current risk assessment of the potential effects of the observed failures on the quality of your drugs. Your assessment should include analyses of the risks to patients caused by the release of drugs affected by a lapse of data integrity and analyses of the risks posed by ongoing operations.
+	A management strategy for your firm that includes the details of your global CAPA plan. Your strategy should include:
+
+
+  o A detailed corrective action plan that describes how you intend to ensure the reliability and completeness of all the data you generate including analytical data, manufacturing records, and all data submitted to FDA.
+  o A comprehensive description of the root causes of your data integrity lapses including evidence that the scope and depth of the current action plan is commensurate with the findings of the investigation and risk assessment. Indicate whether individuals responsible for data integrity lapses remain able to influence CGMP-related or drug application data at your firm.
+  o Interim measures describing the actions you have taken or will take to protect patients and to ensure the quality of your drugs, such as notifying your customers, recalling product, conducting additional testing, adding lots to your stability programs to assure stability, drug application actions, and enhanced complaint monitoring.
+  o Long-term measures describing any remediation efforts and enhancements to procedures, processes, methods, controls, systems, management oversight, and human resources (e.g., training, staffing improvements) designed to ensure the integrity of your company’s data.
+  o A commitment to have a qualified consultant conduct extensive annual audits, for at least two years, to assist in evaluating CAPA effectiveness after you have executed your data integrity remediation protocol.
+  o Inform FDA if you will be hiring a Chief Integrity Officer who is fully empowered to receive anonymous complaints from employees reporting data integrity concerns and with the authority to ensure any potential breach is promptly investigated (by independent quality assurance function, along with expertise from outside entities whenever needed).
+  o A status report for any of the above activities already underway or completed.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+Correct any violations promptly. Failure to promptly and adequately address this matter may result in regulatory or legal action without further notice including, without limitation, seizure and injunction. Unresolved violations may also prevent other Federal agencies from awarding contracts.
+
+Failure to address violations may also cause FDA to withhold issuance of Export Certificates. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to address any violations.
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Please send your electronic reply to Samina Khan, Compliance Officer at Samina.Khan@fda.hhs.gov and ORAPHARM1_RESPONSES@fda.hhs.gov.
+
+Sincerely,
+/S/
+
+Lisa Harlan
+Program Division Director
+US Food and Drug Administration
+Office of Pharmaceutical Quality Operations Division I

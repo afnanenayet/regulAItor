@@ -1,0 +1,19 @@
+<!-- File: templates/reupload.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Validation Failed</title>
+</head>
+<body>
+    <h1>Validation Failed</h1>
+    <p>{{ error_message }}</p>
+    <form action="/process_warning_letter" method="post" enctype="multipart/form-data">
+        <label for="warning_letter">Please upload a valid Warning Letter:</label>
+        <input type="file" name="warning_letter" id="warning_letter" required><br><br>
+        <label for="template">Template:</label>
+        <input type="file" name="template" id="template" required><br><br>
+        <input type="submit" value="Process">
+    </form>
+</body>
+</html>

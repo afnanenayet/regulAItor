@@ -1,0 +1,194 @@
+Delivery Method: 
+        VIA UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Ravi Deshpande
+          
+
+                                
+  
+    Recipient Title
+              President
+          
+
+          
+            Acino Products, LLC
+
+          
+                      9B South Gold Drive
+Hamilton, NJ 08691-1642
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Division of Pharmaceutical Quality Operations I
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+
+WARNING LETTER
+
+CMS # 589471
+
+February 10, 2020
+
+Dear Mr. Deshpande:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Acino Products, LLC, FEI 3004723334, at 9B South Gold Drive, Hamilton, New Jersey, from May 28 to June 12, 2019.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We acknowledge receipt of your facility’s response on July 10, 2019.
+
+During our inspection, our investigator observed specific violations, including, but not limited to, the following.
+
+1. Your firm failed to maintain buildings used in the manufacture, processing, packing or holding of drug products in a good state of repair (21 CFR 211.58).
+
+You manufacture, under contract, over-the-counter drugs, such as suppositories and topical solutions. While your firm was manufacturing bisacodyl suppositories, our investigator observed dislodged and missing ceiling tiles directly above your mixing tank, open hopper, and filling machine. It is essential that your facility is in a good state of repair to prevent contamination and ensure ongoing suitability for drug manufacturing.
+
+In your response, you committed to fixing the ceiling tiles and implementing a cleanliness checklist for completion before batch processing.
+
+Your response is inadequate because you did not provide evidence of your repairs, such as photographs, nor did you provide a systemic and comprehensive corrective actions and preventive actions (CAPA) plan to ensure that your facility is and remains in a good state of repair.
+
+In response to this letter, provide:
+• The checklist referenced in your response and any related procedures.
+• Photographs of the repairs made to your facilities and equipment.
+• Your CAPA plan to implement routine, vigilant operations management oversight of facilities and equipment. This plan should ensure, among other things, prompt detection of equipment and facilities performance issues, effective execution of repairs, adherence to appropriate preventive maintenance schedules, timely technological upgrades to the equipment and facility infrastructure, and improved systems for ongoing management review.
+
+2. Your firm failed to clean, maintain, and, as appropriate for the nature of the drug, sanitize and/or sterilize equipment and utensils at appropriate intervals to prevent malfunctions or contamination that would alter the safety, identity, strength, quality, or purity of the drug product beyond the official or other established requirements and you failed to establish and follow adequate written procedures for cleaning and maintenance of equipment (21 CFR 211.67(a) and (b)).
+
+Failure to Clean Equipment
+We observed that non-dedicated filling equipment used to manufacture your drug products was filthy and covered with residue. In addition, you could not provide data to support that you had validated cleaning procedures for your dedicated manufacturing equipment used to manufacture your clotrimazole topical solution drug product. You also informed our investigator that you use a different cleaning agent than the one identified in your cleaning procedures. Also, you could not provide cleaning logs for your manufacturing equipment. Cleaning deficiencies are a repeat observation from the 2017 inspection at your facility.
+
+Failure to Maintain Equipment
+We observed (b)(4) attached to your suppository filling machine with tape and plastic wrap. According to your bisacodyl suppositories batch records, the filling temperature should be maintained at (b)(4)°C. You lacked assurance that your filling equipment or the (b)(4) can achieve or maintain this temperature for your filling operations. You also could not provide equipment maintenance logs for your manufacturing equipment.
+
+Your response stated that the (b)(4) attached to your filling equipment with tape and plastic wrap can control the temperature within ±1°C, but you provided no equipment qualification to support this. You indicated that specific equipment will be cleaned or replaced but did not include systemic CAPA. You also stated that you previously conducted cleaning validation for bisacodyl suppositories because it represents the worst case scenario but did not provide supporting documentation.
+
+In response to this letter, provide:
+• Qualification reports for your manufacturing equipment.
+• A comprehensive, independent retrospective assessment of your cleaning effectiveness to evaluate the scope of cross-contamination hazards. Include the identity of residues, other manufacturing equipment that may have been improperly cleaned, and an assessment whether cross-contaminated products may have been released for distribution. The assessment should identify any inadequacies of cleaning procedures and practices, and encompass each piece of manufacturing equipment used to manufacture more than one product.
+• A comprehensive plan to evaluate cleaning procedures and practices for each piece of manufacturing equipment.
+• A CAPA plan, based on the retrospective assessment, that includes appropriate remediations to your cleaning processes and practices, and timelines for completion. Provide a detailed summary of vulnerabilities in your process for lifecycle management of equipment cleaning. Describe improvements to your cleaning program, including enhancements to cleaning effectiveness; improved ongoing verification of proper cleaning execution for all products and equipment; and all other needed remediations.
+• Appropriate improvements to your cleaning validation program, with special emphasis on incorporating conditions identified as worst case in your drug manufacturing operation. This should include but not be limited to identification and evaluation of all worst-case:
+    o Drugs with higher toxicities
+    o Drugs with higher drug potencies
+    o Drugs of lower solubility in their cleaning solvents
+    o Drugs with characteristics that make them difficult to clean
+    o Swabbing locations for areas that are most difficult to clean
+    o Maximum hold times before cleaning
+
+In addition, describe the steps that must be taken in your change management system before introduction of new manufacturing equipment or a new product.
+
+• A summary of updated SOPs that ensure an appropriate program is in place for verification and validation of cleaning procedures for products, processes, and equipment.
+
+3. Your firm failed to ensure that laboratory records included complete data derived from all tests necessary to ensure compliance with established specifications and standards (21 CFR 211.194(a)).
+
+When requested, your firm could not provide test results to support the microbiological testing results on your certificate of analysis (COA) for bisacodyl and phenylephrine suppositories, yet your firm signed the COA indicating conforming results for microbiological testing and released the batches. During the inspection, you also could not explain whether samples had been sent to your third-party lab for analysis to support the results on your COA.
+
+Your response stated that, going forward, no COA will be signed without receipt of the actual results, but did not include information about the review and management data to support release of your drug products.
+
+In response to this letter, provide:
+• A list of chemical and microbial test methods and specifications used to analyze each lot of your drug products before a lot disposition decision, including but not limited to impurities testing for clotrimazole topical solution.
+• A comprehensive, independent assessment of your laboratory practices, procedures, methods, equipment, documentation, and analyst competencies. Based on this review, provide a detailed plan to remediate and evaluate the effectiveness of your laboratory system.
+
+Your quality system does not adequately ensure the accuracy and integrity of data to support the safety, effectiveness, and quality of the drugs you manufacture. See FDA’s guidance document Data Integrity and Compliance With Drug CGMP for guidance on establishing and following CGMP compliant data integrity practices at https://www.fda.gov/media/119570/download.
+
+We strongly recommend that you retain a qualified consultant to assist in your remediation. In response to this letter, provide the following:
+• A comprehensive investigation into the extent of the inaccuracies in data records and reporting including results of the data review for drugs distributed to the United States. Include a detailed description of the scope and root causes of your data integrity lapses.
+• A current risk assessment of the potential effects of the observed failures on the quality of your drugs. Your assessment should include analyses of the risks to patients caused by the release of drugs affected by a lapse of data integrity and analyses of the risks posed by ongoing operations.
+• A management strategy for your firm that includes the details of your global corrective action and preventive action plan. The detailed corrective action plan should describe how you intend to ensure the reliability and completeness of all data generated by your firm including microbiological and analytical data, manufacturing records, and all data submitted to FDA.
+
+Repeat Violations at Facility
+
+In a previous inspection, dated November 7-14, 2017, FDA cited similar CGMP violations. You proposed specific remediation for these violations in your response. Repeated failures demonstrate that executive management oversight and control over the manufacture of drugs is inadequate.
+
+CGMP Consultant Recommended
+
+Because you failed to correct repeat violations, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements. Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of these violations and for preventing their recurrence or the occurrence of other violations.
+
+Correct the violations cited in this letter promptly. Failure to promptly correct these violations may result in legal action without further notice including, without limitation, seizure and injunction. violations in this warning letter may also prevent other Federal agencies from awarding contracts.
+
+Additionally, we note that you are subject to a Consent Decree for Permanent Injunction (3:15-cv-3769, dated June 30, 2015) for manufacturing unapproved hydrocortisone acetate 25 mg suppositories. You should ensure you are adhering to all terms of the decree.
+
+FDA may also withhold approval of requests for export certificates and approval of pending new drug applications or supplements listing your facility as a supplier or manufacturer until the above violations are corrected. We may re-inspect to verify that you have completed your corrective actions.
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov and ORAPharm1_responses@fda.hhs.gov. Please identify your response with FEI: 3004723334 and CMS # 589471.
+
+Sincerely,
+/S/
+
+Diana Amador-Toro
+Program Division Director/District Director
+Office of Pharmaceutical Quality Operations
+Division I/New Jersey District

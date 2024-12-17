@@ -1,0 +1,175 @@
+Delivery Method: 
+        VIA Electronic Mail
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Harold A. Deas, Jr.
+          
+
+                                
+  
+    Recipient Title
+              Chief Executive Officer
+          
+
+          
+            Acella Pharmaceuticals, LLC
+
+          
+                      1880 McFarland Parkway
+Suite 110-B
+Alpharetta, GA 30005-1794
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Office of Pharmaceutical Quality Operations, Division II
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Mr. Deas:
+
+The U.S. Food and Drug Administration (FDA) inspected your facility, Acella Pharmaceuticals, LLC, FEI 3006691461, at 1880 McFarland Parkway, Suite 110-B, Alpharetta, Georgia, from December 17, 2019, to January 7, 2020.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug product is adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+Additionally, your NP Thyroid drug products are adulterated under section 501(b) of the FD&C Act, 21 U.S.C. 351(b), for failure to conform to compendial standards for strength, quality, or purity.
+
+Information and records gathered during the course of the inspection and information available on your website, www.acellapharma.com, reflect that your products are intended to treat a disease or condition. Therefore, your NP Thyroid products are drugs as defined in section 201(g) of the FD&C Act, 21 U.S.C. 321(g). Your products, which contain thyroglobulin (an alpha amino acid polymer with a specific defined sequence consisting of 2770 amino acids), are also biological products as defined in section 351(i)(1) of the Public Health Service Act (PHS Act), 42 U.S.C. 262(i)(1) because they are a “protein” as defined in 21 C.F.R. 600.3(h)(6), or are “analogous” to a protein because the identified biological product (i.e., protein) component in these naturally derived mixtures is necessary for the activity of the product and contributes to achieving the intended therapeutic effect.
+
+We reviewed your January 28, 2020, response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence on February 28, 2020, on March 31, 2020 and on April 17, 2020.
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to establish laboratory controls that include scientifically sound and appropriate specifications, standards, sampling plans, and test procedures designed to assure that components, drug product containers, closures, in-process materials, labeling, and drug products conform to appropriate standards of identity, strength, quality, and purity (21 CFR 211.160(b)).
+
+In your quality agreement with your contract manufacturer (CMO), (b)(4), both you and your CMO are responsible for determining adequate drug specifications. The active ingredient assay specification you developed with your CMO for levothyroxine and liothyronine in your NP Thyroid products were not appropriate. The active ingredient assay specifications you established with your CMO for levothyroxine and liothyronine was (b)(4). However, the United States Pharmacopeia (USP) monograph for Thyroid Tablets, USP has levothyroxine and liothyronine assay acceptance criteria of (b)(4). Thyroid Tablets outside of the USP acceptance criteria are adulterated within the meaning of 501(b) of the FD&C Act, 21 U.S.C. 351(b), in that their strength, quality, or purity falls below the standards set forth in an official compendium recognized in the FD&C Act.
+
+We acknowledge that you updated the NP Thyroid active ingredient assay specification as committed in your April 17, 2020, letter. This communication also indicated that there were no lots released exceeding 110.0% made with your current active pharmaceutical ingredient (API) supplier and current process. However, FDA inspected your CMO from May 5 to 15, 2020, and found 13 lots within expiry made with your previous API supplier that exceeded 110.0% USP specification during release or stability testing. We acknowledge that your firm subsequently agreed to voluntarily recall these 13 lots. However, these lots should have been identified in your earlier investigation and communication.
+
+In response to this letter, provide:
+
+• A review of all other products that you are the product owner or own-label distributor to determine whether or not their specifications are appropriate and justifiable. Conduct a risk assessment for any products and corresponding lots lacking appropriate and justifiable specifications. If any products are found to be outside of compendial standards or other appropriate specifications, indicate the corrective actions you will take, including notifying customers and initiating recalls.
+
+• Updated procedures to ensure that product specifications undergo a routine review to ensure they remain appropriate.
+
+2. Your firm failed to establish an adequate quality control unit with the responsibility and authority to approve or reject all components, drug product containers, closures, in-process materials, packaging materials, labeling, and drug products (21 CFR 211.22(a)).
+
+Your quality control unit failed to provide adequate oversight of your CMO to ensure that expiration dating claims were supported by adequate stability data. Per the quality agreement with your CMO, both you and your CMO are responsible for all label claims for the product, including any expiration dating claims.
+
+FDA inspected your CMO May 5 to 15, 2020, and found there was no long-term stability data to support the batches that had been manufactured with your new API supplier. The validation batches manufactured by your CMO using the new API supplier were made in May and June 2019, yet were not placed into a long-term stability study until May 1, 2020.
+
+Furthermore, your firm was responsible for auditing your CMO to ensure a stability program was appropriately implemented and followed. Stability data is critical for ensuring that products maintain their identity, strength, quality, purity, and safety throughout their labeled shelf-lives.
+
+In response to this letter, provide:
+
+• An action plan with timelines and a summary of results from testing retain samples of all NP Thyroid batches within expiry. You should test all appropriate quality attributes including, but not limited to, identity and strength of active ingredients of each batch. If testing yields an OOS result, indicate the corrective actions you will take, including notifying customers and initiating recalls.
+
+• A comprehensive assessment and remediation plan to ensure your QU is given the authority and resources to effectively function. The assessment should also include, but not be limited to:
+o A determination of whether procedures used by your firm are robust and appropriate;
+o Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices;
+o Oversight and approval of investigations and discharging of all other QU duties to ensure identity, strength, quality, and purity of all products; and,
+
+• A description of improvements to your procedures and processes for conducting audits of your contract manufacturers to ensure that they operate in compliance with CGMP.
+
+FDA Sample Results of Thyroid Tablets
+
+FDA sampled NP Thyroid (Thyroid Tablets, USP), 120mg strength lot M328J19-8 from your facility and found low, out-of-specification results for both active ingredients. Because of the narrow therapeutic range of this product, content uniformity is critical and it is especially important to prevent patients with hypothyroidism from receiving insufficient or excessive doses. We acknowledge that your firm did not distribute this lot from your contract warehouse and agreed to voluntarily destroy it.
+
+Use of Contract Manufacturers
+
+Drugs must be manufactured in conformance with CGMP. FDA is aware that many drug manufacturers use independent contractors such as production facilities, testing laboratories, packagers, and labelers. FDA regards contractors as extensions of the manufacturer.
+
+You are responsible for the quality of your drugs regardless of agreements in place with your contract facilities. You are required to ensure that drugs are made in accordance with section 501(a)(2)(B) of the FD&C Act to ensure safety, identity, strength, quality, and purity. See FDA’s guidance document Contract Manufacturing Arrangements for Drugs: Quality Agreements at https://www.fda.gov/media/86193/download.
+
+Unapproved New Drugs
+
+Based on the information your firm submitted to FDA's electronic Drug Registration and Listing System and the information collected during the December 17, 2019 – January 7, 2020 inspection, FDA has determined that your firm is distributing NP Thyroid, a biological product, without FDA approval or a valid biologics license.
+ 
+We encourage you to contact FDA's unapproved drugs coordinator, Dr. Sally Loewke, at 301-796-0710 for assistance in communicating with the FDA on the application process for your unapproved biological product.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist in connection with your product(s). You are responsible for investigating and determining the causes of these violations and for preventing their recurrence or the occurrence of other violations.
+
+If you are considering an action that is likely to lead to a disruption in the supply of drugs produced on your behalf, FDA requests that you contact CDER’s Drug Shortages Staff immediately, at drugshortages@fda.hhs.gov, so that FDA can work with you on the most effective way to bring your operations into compliance with the law. Contacting the Drug Shortages Staff also allows you to meet any obligations you may have to report discontinuances or interruptions in your drug supply under 21 U.S.C. 356C(b). This also allows FDA to consider, as soon as possible, what actions, if any, may be needed to avoid shortages and protect the health of patients who depend on your products.
+
+Correct the violations cited in this letter promptly. Failure to promptly correct these violations may result in legal action without further notice including, without limitation, seizure and injunction. Unresolved violations in this warning letter may also prevent other Federal agencies from awarding contracts.
+
+FDA may also withhold approval of requests for export certificates and approval of pending new drug applications or supplements listing your facility as a supplier or manufacturer until the above violations are corrected. We may re-inspect to verify that you have completed your corrective actions.
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Please identify your response with FEI 3006691461.  Send your electronic reply to Dr. Shawn Larson – Compliance Officer at Shawn.Larson@fda.hhs.gov and ORAPHARM2_Responses@fda.hhs.gov. 
+
+If you have questions regarding the contents of this letter, please contact Dr. Larson at 214-253-5216. 
+
+Sincerely,
+/S/
+Tamala Bogan
+Acting Program Division Director
+Office of Pharmaceutical Quality Operations,
+Division II

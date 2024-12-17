@@ -1,0 +1,249 @@
+Delivery Method: 
+        Via Email
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Richard Blackburn
+          
+
+                                
+  
+    Recipient Title
+              Chief Executive Officer
+          
+
+          
+            Azurity Pharmaceuticals, Inc.
+
+          
+                      8 Cabot Road
+Woburn, MA 01801
+United States
+          
+          
+            
+            
+
+     richard.blackburn@azurity.com
+
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research (CDER)
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+WARNING LETTER
+
+September 20, 2024
+
+RE: 656489
+
+Dear Mr. Blackburn:
+
+The U.S. Food and Drug Administration inspected your drug manufacturing facility, Azurity Pharmaceuticals, Inc. FEI 3003395329, at 841 Woburn Street, Wilmington, MA, from February 2, 2023, to March 2, 2023. Based on our inspection and subsequent review of your firm’s website, we found violations of the Federal Food, Drug, and Cosmetic Act (the FD&C Act).
+
+Your firm manufactures various prescription drug products referred to as FIRST Unit-of-Use Kits, including FIRST® Lansoprazole, FIRST® Pantoprazole, FIRST® Metronidazole, and FIRST® Mouthwash BLM. As explained further below, introducing or delivering these products for introduction into interstate commerce is prohibited under sections 301(d) and 505(a) of the FD&C Act, 21 U.S.C. 331(d) and 355(a).
+
+This warning letter also summarizes significant violations of Current Good Manufacturing Practice (CGMP) regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP regulations, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the FD&C Act, 21 U.S.C. 351(a)(2)(B).
+
+Unapproved New Drug Violations
+
+FIRST® Lansoprazole, FIRST® Pantoprazole, FIRST® Metronidazole, and FIRST® Mouthwash BLM are drugs as defined by section 201(g)(1) of the FD&C Act, 21 U.S.C. 321(g)(1), because they are intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease and/or intended to affect the structure or any function of the body.
+
+The labeling published on your website http://www.azurity.com for the above-listed FIRST Unit-of-Use Kits provides evidence of the intended uses1 of these products as drugs. Examples of these claims include, but may not be limited to, the following:
+
+FIRST® Lansoprazole and FIRST® Pantoprazole Kits
+
+
+	The package inserts for FIRST® Lansoprazole and FIRST® Pantoprazole refer to these products as proton pump inhibitors. According to medical references, the mechanism of action for proton pump inhibitors is to decrease acid secretion in gastric parietal cells through inhibition of the (H+, K+)-ATPase enzyme system, blocking the final step in gastric acid production, thus reducing gastric acidity.2
+
+
+FIRST® Metronidazole Kit
+
+
+	The package insert for FIRST® Metronidazole states that this product is a prescription drug for oral use that meets USP <51> Antimicrobial Effectiveness Testing, and it directs healthcare professionals to “See PRECAUTIONS and usage described in the [FDA] approved labeling for metronidazole containing products for additional information.” The labeling for FDA-approved metronidazole products includes, but are not limited to, indications for use such as the treatment of symptomatic and asymptomatic trichomoniasis amebiasis, anaerobic bacterial infections and amebiasis.3
+
+
+FIRST® Mouthwash BLM
+
+
+	The package insert for FIRST® Mouthwash BLM states that this product is an oral prescription product comprised of diphenhydramine powder USP and lidocaine powder USP and provides a suspension “comparable to the active ingredients contained in 1:1:1 Magic Mouthwash.” According to medical references, Magic Mouthwash is used for palliation of generalized oral mucositis.4
+
+
+FIRST® Lansoprazole, FIRST® Pantoprazole, FIRST® Metronidazole, and FIRST® Mouthwash BLM are new drugs as defined by section 201(p)(1) of the FD&C Act, 21 U.S.C. 321(p)(1), because they are not generally recognized as safe and effective for their labeled uses. With certain exceptions not applicable here, a new drug may not be legally introduced or delivered for introduction into interstate commerce without an approved application from FDA in effect, as described in sections 505(a) and 301(d) of the FD&C Act, 21 U.S.C. 355(a) and 331(d). No FDA-approved applications pursuant to section 505 of the FD&C Act are in effect for these products. Accordingly, the introduction or delivery for introduction into interstate commerce of these products violates sections 301(d) and 505(a) of the FD&C Act, 21 U.S.C. 331(d) and 355(a).
+
+CGMP Violations
+1. Your firm failed to thoroughly investigate any unexplained discrepancy or failure of a batch or any of its components to meet any of its specifications, whether or not the batch has already been distributed (21 CFR 211.192).
+
+Your firm’s investigations into unexplained discrepancies were inadequate. Your quality unit (QU) failed to thoroughly investigate all finished product batches and components associated with unexplained discrepancies. For example:
+
+
+	Your QU did not investigate numerous complaints involving crystallization of two (b)(4) Injection (b)(4) mg/mL batches. Your firm received approximately 86 complaints of crystallization within the first two months of distribution from early December 2022 to February 2023. Your QU did not evaluate this adverse trend until our inspection was initiated. A Field Alert Report was submitted during the inspection and the two batches were recalled before the conclusion of our inspection.
+	Upon receiving a consumer complaint regarding the potential presence of lead in two batches of (b)(4) mg/mL, (b)(4)-ounce (b)(4), your subsequent investigation focused solely on one of the two batches. Notably, a third batch, utilizing the same (b)(4) component as one of the complaint batches, was not included as part of your investigation. Additionally, your firm stated during our inspection that no testing was conducted to investigate whether lead was present.
+
+
+Inadequate investigations can lead to unidentified root causes, ineffective corrective actions and preventive actions (CAPAs), and recurring problems that compromise the ability to manufacture safe and effective drug products.
+
+In your response, you acknowledge the investigations were not adequate. You commit to implement a more robust process for evaluating complaints and expediting actions.
+
+Your response is inadequate as you fail to provide supporting documentation of your commitments. Additionally, you fail to provide a retrospective review of complaints and manufacturing investigations.
+
+In response to this letter, provide the following:
+
+
+	A comprehensive, independent assessment of your overall system for investigating deviations, discrepancies, complaints, out-of-specification (OOS) results, and failures. Provide a detailed action plan to remediate this system. Your action plan should include, but not be limited to, significant improvements in investigation competencies, scope determination, root cause evaluation, CAPA effectiveness, QU oversight, and written procedures. Address how your firm will ensure all phases of investigations are appropriately conducted.
+	An independent assessment of your CAPA program. Based on this assessment, provide a plan that evaluates and remediates the program, including but not limited to ensuring robust:
+
+
+    o Triggers for fulfilling both corrective and preventive objectives
+    o Root cause analysis
+    o CAPA effectiveness
+    o Analysis of investigations trends on a routine basis
+    o CAPA program improvements, whenever needed
+    o Implementation of final QU decisions
+    o Support of the program by executive management
+
+
+	An independent, retrospective review of all complaints and associated investigations for your drug products. Provide the consultant’s recommendations based on a review that includes but is not limited to an evaluation of:
+
+
+    o All investigations related to complaints of drug products currently within expiry, the level of criticality for each defect, all potentially impacted batches (i.e., distributed, undistributed and rejected batches; approved and pending application drug products), and any associated issues identified during both product/process development and via commercial batch experience.
+    o The sufficiency (i.e., scope, trend analysis, root cause, CAPA) of the investigations, whether the complaint sample was obtained, all results of analysis of complaint and reserve samples.
+
+
+	An independent, comprehensive review of your company’s complaint handling program that identifies deficiencies and a corresponding CAPA.
+	A management strategy including the interim measures describing the actions you have taken or will take to protect patients and to ensure the quality of your drugs, such as notifying your customers, recalling product, conducting additional testing, supplier changes, adding batches to your stability program to assure stability, drug application actions, and steps to enhance vigilance in response to serious quality complaints.
+
+
+2. Your firm failed to establish and follow an adequate written testing program designed to assess the stability characteristics of drug products and to use results of stability testing to determine appropriate storage conditions and expiration dates (21 CFR 211.166(a)).
+
+You did not adequately assess stability test results for your (b)(4) mg/mL, (b)(4)-ounce (b)(4) to determine appropriate storage conditions and expiration dates. For example, stability testing of process performance qualification batches and annual stability batches of this drug product resulted in numerous OOS individual unknown impurity results during related substances testing. Your firm’s investigations documented that this unknown impurity had been seen in stability studies since 2019 and had increased over time for all batches. At the time of our inspection, you had not identified a root cause nor steps taken to mitigate the unknown impurity.
+
+During the inspection, your firm decided to cease production of this product until a thorough investigation into the impurity could be conducted.
+
+In your response, you acknowledge your inadequate evaluation of impurities during process validation of (b)(4) mg/mL, (b)(4)-ounce (b)(4) and commit to reassess the stability method.
+
+Your response is inadequate as you fail to provide documentation supporting your commitments. Additionally, you fail to provide a retrospective review of stability results of your other drug products.
+
+In response to this letter, provide the following:
+
+
+	A comprehensive, independent assessment and CAPA plan to ensure the adequacy of your stability program. Your remediated program should include, but not be limited to:
+
+
+    o Stability indicating methods
+    o Stability studies for each drug product in its marketed container-closure system before distribution is permitted
+    o An ongoing program in which representative batches of each product are added each year to the program to determine if the shelf-life claim remains valid
+    o Detailed definition of the specific attributes to be tested at each station (timepoint)
+
+All procedures that describe these and other elements of your remediated stability program.
+
+
+	A retrospective risk assessment of the stability of all batches of your drug product on the U.S. market within expiry which should include retain sample testing using validated stability indicating test methods. The assessment and testing should include assay, impurity, and degradants. If the test results or risk assessments indicate substandard quality of your drug products, take rapid corrective actions, such as customer notifications and product recalls.
+
+
+Test Results Out-of-Specification
+
+For more information about handling failing, out-of-specification, out-of-trend, or other unexpected results and documentation of your investigations, see FDA’s guidance document Investigating Out-of-Specification (OOS) Test Results for Pharmaceutical Production at https://www.fda.gov/media/158416/download.
+
+Quality Systems
+
+Your firm’s quality systems are inadequate. See FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations for help implementing quality systems and risk management approaches to meet the requirements of CGMP regulations 21 CFR parts 210 and 211 at https://www.fda.gov/media/71023/download.
+
+CGMP Consultant Recommended
+
+Based upon the nature of the violations we identified at your firm, you should engage a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements. Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist in connection with your products. You are responsible for investigating and determining the causes of violations identified above and for preventing their recurrence and the occurrence of other violations. It is your responsibility to ensure that your firm complies with all requirements of federal law and FDA regulations.
+
+You should take prompt action to correct the violations cited in this letter. Failure to promptly correct these violations may result in legal actions without further notice, including, without limitation, seizure and injunction. Other federal agencies may take this warning letter into account when considering the award of contracts. You should discontinue marketing all of the unapproved prescription drugs manufactured at your facility immediately. Additionally, FDA may withhold approval of requests for export certificates or approval of pending new drug applications listing your facility as a manufacturer until the above violations are corrected. A reinspection may be necessary to verify corrective actions have been completed.
+
+FDA requests that you contact CDER’s Drug Shortages Staff immediately at
+drugshortages@fda.hhs.gov so that we can work with you to meet any obligations you may have to report discontinuances or interruptions in your drug manufacture, as required under section 506c(a) of the FD&C Act, 21 U.S.C. 356c(a), and to allow FDA to consider, as soon as possible, what actions, if any, may be needed to avoid shortages and protect the health of patients who use your products.
+
+Please notify this office in writing within fifteen (15) working days of receiving this letter of the steps you have taken to bring your firm into compliance with the law. Your response should include each step that has been taken or will be taken to correct the violations and prevent their recurrence. If the corrective action cannot be completed within fifteen (15) working days of receiving this letter, state the reason for the delay and the timeframe within which the corrections will be completed. Please include copies of any documentation demonstrating that corrections have been made. If you no longer manufacture or market the above-mentioned products, or any other unapproved new drug products that you have listed in the FDA electronic Drug Registration and Listing System (eDRLS), your response should indicate this, including the reasons that, and the date on which, you ceased production. Also, please indicate your progress in updating the drug listing eDRLS files in accordance with 21 CFR 207.30(a)(2). If you believe that your products are not in violation of the FD&C Act, include your reasoning and any supporting information for our consideration within 15 working days.
+
+Your response should be sent to U.S. Food and Drug Administration, CDER/OC/Office of Unapproved Drugs and Labeling Compliance by email to FDAAdvisory@fda.hhs.gov. Please include your firm name and the unique identifier “CMS 656489” in the subject line of the email.
+
+Sincerely,
+/S/
+
+Jill Furman, J.D.
+Director
+Office of Compliance
+Center for Drug Evaluation and Research
+U.S. Food and Drug Administration
+
+____________________
+
+1 See 21 CFR 201.128.
+
+2 Proton Pump Inhibitors. Drug Facts and Comparisons [online]. Available from Wolters Kluwer Health, Inc. Accessed April 25, 2024
+
+3 See FDA-approved labeling for Metronidazole: https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/018845s014,018930s013lbl.pdf.
+
+4 Magic Mouthwash Oral. Drug Facts and Comparisons [online]. Available from Wolters Kluwer Health, Inc. Accessed April 25, 2024.

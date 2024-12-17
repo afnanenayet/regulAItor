@@ -1,0 +1,302 @@
+Delivery Method: 
+        UPS
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+      
+      
+              Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. David J. Holls
+          
+
+                                
+  
+    Recipient Title
+              President
+          
+
+          
+            Drivergent, Inc.
+
+          
+                      34575 Commerce Rd.
+Fraser, MI 48026-3419
+United States
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+           Division of Pharmaceutical Quality Operations III
+        
+         
+          United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+May 1, 2023
+
+WARNING LETTER
+
+WL #647234
+
+Dear Mr. Holls:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Drivergent, Inc., FEI 3016775373, at 34575 Commerce Rd., Fraser, MI, from October 31 to November 3, 2022.
+
+The results of the FDA laboratory testing of lots of your drug products demonstrate that these drug products manufactured at your facility are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (the FD&C Act) (21 U.S.C. 351(a)(2)(B)), in that contamination with the impurities acetaldehyde and acetal at unacceptable levels demonstrates that the quality assurance within your facility is not functioning in accordance with Current Good Manufacturing Practice (CGMP) requirements.
+
+This warning letter summarizes significant violations of CGMP regulations for finished pharmaceuticals. See Title 21 Code of Federal Regulations (CFR), parts 210 and 211 (21 CFR parts 210 and 211).
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the FD&C Act, 21 U.S.C. 351(a)(2)(B).
+
+In addition, DRIVERGENT HAND SANITIZER GEL and DRIVERGENT HAND SANITIZER LIQUID are misbranded under sections 502(a), (i)(1), and (x) of the FD&C Act, 21 U.S.C. 352(a), (i)(1), and (x). Introduction or delivery for introduction of such products into interstate commerce is prohibited under sections 301(a) of the FD&C Act, 21 U.S.C. 331(a). These violations are described in more detail below.
+
+FDA Tested Samples
+
+You manufactured DRIVERGENT HAND SANITIZER, 80% Alcohol Antiseptic Topical Hand Rub, Non-Sterile Solution at your facility. FDA collected two lots of your drug products and FDA laboratory testing of your products found that both lots of the drug products contained acetaldehyde and acetal impurities at unacceptable levels. See table below.
+
+
+	
+		
+			
+			Product Name
+			
+			
+			Lot Number
+			
+			
+			Test Results (ppm)
+			
+		
+		
+			
+			DRIVERGENT HAND SANITIZER, 80% Alcohol
+
+			Antiseptic Topical Hand Rub, Non-Sterile Solution, 2 x 1 Gallon, Exp. Date 10-2023
+			
+			
+			L31
+			
+			
+			Acetaldehyde
+			
+			
+			211
+			
+		
+		
+			
+			Acetal
+			
+			
+			578
+			
+		
+		
+			
+			DRIVERGENT HAND SANITIZER, 80% Alcohol
+
+			Antiseptic Topical Hand Rub, Non-Sterile Solution, 2 x 1 Quart, Exp. Date 10-2023
+			
+			
+			L30
+			
+			
+			Acetaldehyde
+			
+			
+			221
+			
+		
+		
+			
+			Acetal
+			
+			
+			575
+			
+		
+	
+
+
+ 
+
+Acetaldehyde and acetal are known impurities of alcohol, as delineated in the United States Pharmacopeia (USP). The USP monograph for alcohol limits acetaldehyde and acetal to not more than (NMT) 10mL/L, 10 ppm (expressed as acetaldehyde). Alcohol not meeting the specification for acetaldehyde and acetal is deemed adulterated under section 501(b) of the FD&C Act. Alcohol represents a significant component of your drug product; therefore, you must have a specification for acetaldehyde and acetal per 21 CFR 211.160(b). Further, finished product testing of each batch of drug product is required under 21 CFR 211.165. The test results for acetaldehyde and acetal impurities in your drug products are unacceptable because these results are higher than the levels expected if the alcohol contained in your products complied with compendial standards and if you had conducted finished product testing with a specification for acetaldehyde and acetal. Therefore, your drug products are deemed adulterated under section 501(a)(2)(B) of the FD&C Act.
+
+Acetaldehyde appears to be genotoxic, and potentially carcinogenic, when in direct contact with tissues.
+
+On August 16, 2022, FDA sent you an information request letter informing you of the unacceptable levels of impurities in your DRIVERGENT HAND SANITIZER, 80% Alcohol Antiseptic Topical Hand Rub, Non-Sterile Solution and requested additional information including impurity testing of reserve samples to determine the quality of all lots of your hand sanitizer drug products within expiry1. However, you failed to respond.
+
+On January 24, 2023, FDA held a teleconference with you. We recommended you consider removing any batches of drug product currently in distribution from the U.S. market.
+
+On February 1, 2023, FDA notified the public of the unacceptable impurity results in your hand sanitizer drugs products at the following website: https://www.fda.gov/drugs/drug-safety-and-availability/fda-updates-hand-sanitizers-consumers-should-not-use
+
+The contamination with acetaldehyde and acetal in drug products manufactured in your facility demonstrate that the quality assurance within your facility is not functioning in accordance with CGMP requirements under section 501(a)(2)(B) of the FD&C Act.
+
+CGMP Violations
+
+We have not received a response from your firm for corrective actions to the observations identified during the inspection in our Form FDA 483.
+
+During our inspection, our investigators observed specific violations including, but not limited to, the following.
+
+1. Your firm failed to have, for each batch of drug product, appropriate laboratory determination of satisfactory conformance to final specifications for the drug product, including the identity and strength of each active ingredient, prior to release (21 CFR 211.165(a)).
+
+Your firm manufactures over-the-counter (OTC) drug products such as hand sanitizer.2 You failed to adequately test your OTC drug product, DRIVERGENT HAND SANITIZER 80% Alcohol Antiseptic Topical Hand Rub Non-Sterile Solution, for the identity and strength of each active ingredient prior to release for distribution. Testing is an essential part of CGMP to ensure that the drug products you manufacture conform to all pre-determined quality attributes appropriate for their intended use. Drug products must be tested for identity, strength, quality, and purity prior to release and distribution. Without adequate testing, there is no scientific evidence to assure that your drug product conforms to appropriate specifications before release.
+
+2. Your firm failed to conduct at least one test to verify the identity of each component of a drug product. Your firm also failed to validate and establish the reliability of your component supplier’s test analyses at appropriate intervals (21 CFR 211.84(d)(1) and 211.84(d)(2)).
+
+Component Testing
+
+You failed to conduct an adequate identity test on each shipment of each lot of components used in the production of your drug products, including the active ingredient (i.e., ethyl alcohol). Additionally, you relied on the certificates of analysis (COA) from your suppliers and failed to establish the reliability of each of your suppliers’ COA for component specifications and characteristics.
+
+Products Contain Ethanol (Methanol Risk)
+
+You manufacture drugs that contain ethanol. The use of ethanol contaminated with methanol has resulted in various lethal poisoning incidents in humans worldwide. See FDA’s guidance document Policy for Testing of Alcohol (Ethanol) and Isopropyl Alcohol for Methanol, Including During the Public Health Emergency (COVID-19) at: https://www.fda.gov/media/145262/download.
+
+Products Contain Glycerin
+
+You manufacture drugs that contain glycerin. The use of glycerin contaminated with diethylene glycol (DEG) has resulted in various lethal poisoning incidents in humans worldwide. See FDA’s guidance document Testing of Glycerin for Diethylene Glycol to help you meet the CGMP requirements when manufacturing drugs containing glycerin at: https://www.fda.gov/media/71029/download.
+
+You also failed to determine whether each component conformed with all appropriate written specifications for purity, strength, and quality before using them.
+
+3. Your firm failed to maintain buildings used in the manufacture, processing, packing, or holding of drug products in a good state of repair (21 CFR 211.58).
+
+Our investigators observed paint peeling on the ceiling, flakes of paint dropping from the ceiling onto the floor, and several flakes of paint on top of the mixing tote in the production area where you manufacture drug products. Ingredients are added to this mixing tote through an opening in the top of the container.
+
+It is essential that your facility is in a good state of repair and sanitary conditions are maintained to protect drug products from potential routes of contamination.
+
+4. Your firm failed to establish an adequate quality unit and the responsibilities and procedures applicable to the quality control unit are not in writing and fully followed (21 CFR 211.22(a) and 211.22(d)).
+
+Your quality unit (QU) did not provide adequate oversight for the manufacture of your drug products. For example, your QU failed to ensure:
+
+
+	Adequate procedures describing roles and responsibilities of the QU, including the handling of vendor qualification, batch release, reserve samples, complaints, change management, process validation, equipment cleaning, and CGMP training (21 CFR 211.22(a) and (d)).
+	Adequate testing of your incoming components for identity, purity, strength, and other appropriate quality attributes (21 CFR 211.84(d)(1) and (2)).
+	Adequate procedures for production and process controls (21 CFR 211.100(a)).
+	Adherence to a stability program (21 CFR 211.166(a)).
+	Adequate procedures for the performance of annual product reviews (21 CFR 211.180(e)).
+	Adequate equipment cleaning and use logs (21 CFR 211.182).
+	Adequate maintenance of batch records (21 CFR 211.188).
+	Adequate investigations and deviations (21 CFR 211.192).
+	Adequate handling of all written and oral complaints (21 CFR 211.198).
+
+
+Your firm’s quality systems are inadequate. See FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations for help in implementing quality systems and risk management approaches to meet the requirements of CGMP regulations 21 CFR parts 210 and 211, at https://www.fda.gov/media/71023/download.
+
+Misbranding Violations
+
+DRIVERGENT HAND SANITIZER GEL and DRIVERGENT HAND SANITIZER LIQUID are “drugs” as defined by section 201(g)(1)(B) of the FD&C Act, 21 U.S.C. 321(g)(1)(B), because they are intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease, and/or under section 201(g)(1)(C) of the FD&C Act, 21 U.S.C. 321(g)(1)(C), because they are intended to affect the structure or any function of the body. Specifically, these products are intended for use as consumer and health care topical antiseptics.
+
+Examples of claims observed on certain DRIVERGENT HAND SANITIZER GEL and DRIVERGENT HAND SANITIZER LIQUID3 product labels and labeling that provide evidence of the intended uses (as defined in 21 CFR 201.128) of the products include, but may not be limited to, the following:
+
+“Drivergent Hand Sanitizer allows you to wash your hands whenever conventional soap and water use may not be available.” [from your product label on all varieties and sizes except DRIVERGENT HAND SANITIZER LIQUID 2 fl oz size]
+
+“Drug Facts . . . Use[s] . . . Health care personnel hand rub to help reduce bacteria that potentially can cause disease. . . . Directions . . . Place enough product on hands to cover all surfaces. Rub hands together until dry.” [from your product label on all varieties and sizes]
+
+“DRIVERGENT HAND SANITIZER…We can assist Schools and Transportation with Reopen Plans” [from your product website: https://www.drivergent.com/shop/]
+
+DRIVERGENT HAND SANITIZER GEL and DRIVERGENT HAND SANITIZER LIQUID are misbranded under section 502(a) of the FD&C Act, 21 U.S.C. 352(a), because the acronym “FDA,” in a form that is similar to the FDA logo, is displayed on inserts included with product shipments, beneath the term, “MADE IN” and above the term, “REGISTERED FACILITY.” FDA’s regulations provide that “[r]egistration of an establishment or listing of a drug does not denote approval of the establishment, the drug, or other drugs of the establishment, nor does it mean that a product may be legally marketed” (21 CFR 207.77(a)). However, the general public is not likely to be familiar with the details of FDA’s regulations. The assertion that your products were “Made in FDA Registered Facility” combined with your use of the acronym FDA in a form that is similar to the FDA logo on an insert accompanying your products misleadingly suggests that the drug products are approved or endorsed by FDA in some way. Your DRIVERGENT HAND SANITIZER GEL and DRIVERGENT HAND SANITIZER LIQUID products are not the subjects of an FDA-approved application. Therefore, these products are misbranded under section 502(a) of the FD&C Act, 21 U.S.C. 352(a), because their labeling is false or misleading.
+
+Section 502(i)(1) of the FD&C Act, 21 U.S.C. 352(i)(1), provides that a drug is misbranded if “its container is so made, formed, or filled as to be misleading . . .” The one quart size of DRIVERGENT HAND SANITIZER GEL and DRIVERGENT HAND SANITIZER LIQUID is packaged in a container that resembles beverage containers customarily purchased by U.S. consumers. OTC hand sanitizer drug products packaged in containers that resemble beverage containers commonly used by adults and children may mislead consumers into believing the products are food and, thereby, increase the risk of accidental ingestion. As such, your DRIVERGENT HAND SANITIZER GEL and DRIVERGENT HAND SANITIZER LIQUID, packaged in a one quart bottle container that has a similar shape, size, and function as a plastic bottle ordinarily used to package beverages, is misbranded under section 502(i)(1) of the FD&C Act, 21 U.S.C. 352(i)(1).
+
+DRIVERGENT HAND SANITIZER GEL and DRIVERGENT HAND SANITIZER LIQUID are further misbranded under section 502(x) of the FD&C Act, 21 U.S.C. 352(x) because the product labels do not include a complete domestic address or domestic telephone number through which the responsible person may receive a report of a serious adverse event with such drugs.
+
+The introduction or delivery for introduction of a misbranded drug into interstate commerce is prohibited under section 301(a) of the FD&C Act, 21 U.S.C. 331(a).
+
+Drug Production
+
+During the inspection, you told our investigators your intention to de-register as an FDA drug manufacturer, and to send a letter of commitment to cease all production. However, we have yet to receive your letter of commitment. In response to this letter, confirm whether you intend to resume manufacturing any drugs at this facility or any other facility in the future. If you plan to resume any manufacturing regulated under the FD&C Act, notify this office prior to resuming your drug manufacturing operations. If you resume CGMP activities, you are responsible for resolving all deficiencies and systemic flaws to ensure your firm is capable of ongoing CGMP compliance. In addition, based upon the nature of the violations we identified at your firm, you should engage a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements. The qualified consultant should also perform a comprehensive six-system audit4 of your entire operation for CGMP compliance and evaluate the completion and efficacy of all corrective actions and preventive actions before you pursue resolution of your firm’s compliance status with FDA.
+
+Additionally, we note that your DRIVERGENT HAND SANITIZER GEL and DRIVERGENT HAND SANITIZER LIQUID are marketed as “hand sanitizers.” Hand sanitizers generally refer to consumer or health care antiseptic rubs. However, the label for some of your Drivergent hand sanitizers also suggests that they can be used as consumer or health care antiseptic washes. For instance, the label states that the products can be used “to wash your hands whenever conventional soap and water use may not be available.” An ethyl alcohol (ethanol) drug product marketed under section 505G of the FD&C Act cannot be a consumer or health care antiseptic wash because ethanol (in any concentration) is not an active ingredient permitted for use in consumer or health care antiseptic hand washes.5
+
+Conclusion
+
+The violations cited in this letter are not intended to be an all-inclusive list of violations that exist at your facility. You are responsible for investigating and determining the causes of any violations and for preventing their recurrence or the occurrence of other violations.
+
+Correct any violations promptly. Failure to promptly and adequately address this matter may result in regulatory or legal action without further notice including, without limitation, seizure and injunction. Unresolved violations may also prevent other Federal agencies from awarding contracts.
+
+Failure to address violations may also cause FDA to withhold issuance of Export Certificates. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any violations are completely addressed and we confirm your compliance with CGMP. We may re-inspect to verify that you have completed corrective actions to address any violations.
+
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any violations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Please address your reply via email to: ORAPHARM3_RESPONSES@fda.hhs.gov
+
+Attention: Russell K. Riley
+Compliance Officer
+U.S. Food and Drug Administration
+Division of Pharmaceutical Quality Operations III
+
+Your electronic reply should refer to the Warning Letter Case Number above (#647234). If you have questions regarding the contents of this letter, please contact Mr. Riley at (630) 277-1908.
+
+Sincerely,
+/S/
+
+CDR Jeffrey D. Meng
+Program Division Director
+Division of Pharmaceutical Quality Operations III
+
+________________________________
+
+1 In the August 16, 2022 letter, FDA had described “unacceptable” levels of acetal and acetaldehyde as being above 50 ppm. That number had originally been described in the Temporary Policy for Preparation of Certain Alcohol-Based Hand Sanitizer Products During the Public Health Emergency (COVID-19) and had represented FDA’s intent to not take action against products within that level of impurity, provided that the other circumstances described in the guidance were present. As noted in Footnote 2 below, that temporary policy has been withdrawn. Acetal and acetaldehyde levels in alcohol must not exceed the 10 ppm limit prescribed by the USP.
+
+2 Due to an increased demand for alcohol-based hand sanitizers during the COVID-19 pandemic, the FDA published the Guidance for Industry: Temporary Policy for Preparation of Certain Alcohol-Based Hand Sanitizer Products During the Public Health Emergency (COVID-19) on March 19, 2020, and subsequently updated the guidance several times. This guidance communicated the Agency’s temporary policy that we did not intend to take action against firms for CGMP violations under section 501(a)(2)(B) of the FD&C Act if such firms prepared alcohol-based hand sanitizers for consumer use (or for use as a health care personnel hand rub) during the public health emergency, provided certain circumstances described in the guidance were present. These circumstances included preparation of hand sanitizer products using only the ingredients and formulas set forth in the guidance. The guidance was withdrawn effective December 31, 2021 (86 Fed Reg at 56960). Because Drivergent, Inc. hand sanitizer products were not prepared under the circumstances described in this guidance, they do not fall within any temporary agency policy not to take action against firms manufacturing hand sanitizer products for violations of section 501(a)(2)(B) of the FD&C Act.
+
+3 DRIVERGENT HAND SANITIZER GEL is packaged in 8 fl oz, 1 quart, ½ gal, and 1 gal containers and DRIVERGENT HAND SANITIZER LIQUID is packaged in 2 fl oz, 8 fl oz, 1 quart, ½ gal, and 1 gal containers.
+
+4 i.e., Quality System, Facilities & Equipment System, Materials System, Production System, Packaging & Labeling System, and Laboratory Control System per FDA’s guidance document Quality Systems Approach to Pharmaceutical CGMP Regulations.
+
+5 Section 505G of the FD&C Act addresses nonprescription drugs marketed without an approved application. Under section 505G(a)(3) of the FD&C Act, drugs that were classified as Category III for safety or effectiveness in a TFM that is the most recently applicable proposal or determination for such drug issued under 21 CFR Part 330 – and that were not classified as Category II for safety or effectiveness – are not required to have an approved application under section 505 in order to be marketed, as long as they are in conformity with the relevant conditions of use outlined in the applicable TFM, including the active ingredient, and comply with all other applicable requirements. The permitted active ingredients for consumer washes are set forth here: “Safety and Effectiveness of Consumer Antiseptics; Topical Antimicrobial Drug Products for Over-the-Counter Human Use,” Proposed Rule, 78 FR 76444 (December 17, 2013) and “OTC Safety and Effectiveness of Topical Antimicrobial Drug Products for Over-the-Counter Human Use,” Final Rule, 81 FR 61106 (September 6, 2016). The permitted active ingredients for health care personnel washes are set forth here: “Safety and Effectiveness of Health Care Antiseptics; Topical Antimicrobial Drug Products for Over-the-Counter Human Use; Proposed Amendment of the Tentative Final Monograph; Reopening of Administrative Record,” Proposed Rule, 80 FR 25166 (May 1, 2015) and “Safety and Effectiveness of Health Care Antiseptics; Topical Antimicrobial Drug Products for Over-the-Counter Human Use,” Final Rule, 82 FR 60474 (December 20, 2017).
