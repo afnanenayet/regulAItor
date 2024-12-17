@@ -15,7 +15,7 @@ class CorrectiveActionValidationAgent(ConversableAgent):
 You validate corrective action plans for compliance, accuracy, and completeness.
 """,
             llm_config={
-                "model": os.getenv("OPENAI_MODEL", "gpt-4o"),
+                "model": os.getenv("OPENAI_MODEL", "gpt-4"),
                 "api_key": os.getenv("OPENAI_API_KEY"),
             },
         )

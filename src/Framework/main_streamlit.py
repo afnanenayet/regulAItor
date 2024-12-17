@@ -7,7 +7,7 @@ from docx import Document
 import io
 
 # Initialize logging
-logging.basicConfig(level=logging.INFO)
+# logging.basicConfig(level=logging.INFO)
 
 
 # Function to check allowed file extensions
@@ -73,7 +73,7 @@ def run_workflow(group_chat):
         return result
     except Exception as e:
         st.error(f"An error occurred during processing: {e}")
-        logging.error(f"Error during workflow: {e}")
+        # logging.error(f"Error during workflow: {e}")
         return None
 
 
@@ -121,6 +121,10 @@ def main():
             color: black;
             border: none;
         }}
+        /* Ensure image captions are black */
+        .stImage figcaption {{
+            color: black;
+        }}
         </style>
         """,
         unsafe_allow_html=True,
@@ -138,7 +142,7 @@ def main():
     st.header("🚀 Berkeley AI Hackathon 2024 Submission")
     st.markdown(
         """
-    Join us at the **world's largest AI Hackathon** hosted by **Berkeley SkyDeck** and **Cal Hacks**! We're excited to present our project and contribute to innovative solutions during this event.
+    Join us at the **world's largest AI Hackathon** hosted by **Berkeley** Large Language Model Agents **MOOC, Fall 2024**! We're excited to present our project and contribute to innovative solutions during this event.
     """
     )
 
@@ -149,9 +153,19 @@ def main():
         "Joan Cheung, PharmD": "images/joan.jpeg",
     }
     cols = st.columns(len(team_members))
+
     for idx, (name, photo) in enumerate(team_members.items()):
         with cols[idx]:
-            st.image(photo, caption=name, width=150)
+            st.markdown(
+                "<div style='background-color: #f0f0f0; padding: 10px; text-align: center;'>",
+                unsafe_allow_html=True,
+            )
+            st.image(photo, width=150)
+            st.markdown(
+                f"<p style='color:black; font-weight:bold;'>{name}</p>",
+                unsafe_allow_html=True,
+            )
+            st.markdown("</div>", unsafe_allow_html=True)
 
     # Add a sidebar with some information
     st.sidebar.title("ℹ️ Instructions")
