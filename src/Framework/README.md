@@ -106,8 +106,8 @@ cd RegulAItor/Framework
 ### 2. Create a Virtual Environment
 
 ```bash
-python -m venv venv
-source venv/bin/activate  # On Windows, use 'venv\Scripts\activate'
+uv venv
+source .venv/bin/activate  # On Windows, use 'venv\Scripts\activate'
 ```
 
 ### 3. Install Dependencies
@@ -122,7 +122,7 @@ Create a `.env` file in the `root` directory with the following content:
 
 ```env
 OPENAI_API_KEY=your_openai_api_key
-OPENAI_MODEL=gpt-4
+OPENAI_MODEL=gpt-4o
 QDRANT_HOST=localhost
 QDRANT_PORT=6333
 OPENAI_MODEL_Corrective_Action_Model=gpt-4o
@@ -324,7 +324,7 @@ Modify the `.env` file and settings in `settings.py` and `config.py` to suit you
 
 
       logging_session_id = runtime_logging.start(logger_type="file", config={"filename": "runtime.log"})
-      
+
 
       runtime_logging.stop()
 
