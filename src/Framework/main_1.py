@@ -301,16 +301,11 @@ We consider this item to be closed.
 
 
 """
-    group_chat.context = {
-        "warning_letter": warning_letter,
-        "template": template
-    }
+    group_chat.context = {"warning_letter": warning_letter, "template": template}
 
     # Run the conversation workflow
     result = await conversation_workflow(group_chat)
 
-    # Print the result
-    print(result)
 
 if __name__ == "__main__":
     asyncio.run(main())
