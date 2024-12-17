@@ -3,7 +3,6 @@ import logging
 from agents.agent_manager import group_chat
 from agents.conversation_workflow import conversation_workflow
 import asyncio
-import threading
 from docx import Document
 import io
 
@@ -43,7 +42,7 @@ def extract_text_from_pdf(file):
         pdf_reader = PyPDF2.PdfReader(file)
         text = ""
         for page in pdf_reader.pages:
-            text += page.extract_text()
+            text += page.extract_text() or ""
         return text
     except Exception as e:
         st.error(f"Error extracting text from PDF: {e}")
@@ -66,10 +65,10 @@ def extract_text_from_docx(file):
 
 
 # Function to run the workflow synchronously
-def run_workflow(group_chat, text_input):
+def run_workflow(group_chat):
     # Run the conversation workflow
     try:
-        with st.spinner("Processing..."):
+        with st.spinner("🤖 AI is processing your request..."):
             result = asyncio.run(conversation_workflow(group_chat))
         return result
     except Exception as e:
@@ -78,20 +77,107 @@ def run_workflow(group_chat, text_input):
         return None
 
 
-def get_user_input():
-    text_input = input("Enter text here: ")
-    return text_input
-
-
 def create_word_file(content):
     document = Document()
     document.add_paragraph(content)
     return document
 
 
+def get_base64_image(image_path):
+    import base64
+
+    with open(image_path, "rb") as f:
+        data = f.read()
+    return base64.b64encode(data).decode()
+
+
 def main():
-    st.title("Warning Letter Processor")
-    st.write("Please upload the warning letter and the template files.")
+    # Set page configuration
+    st.set_page_config(
+        page_title="FDA Warning Letter Processor",
+        page_icon="📄",
+        layout="centered",
+        initial_sidebar_state="expanded",
+    )
+
+    # Custom CSS for Berkeley colors and black font
+    berkeley_blue = "#003262"
+    california_gold = "#FDB515"
+
+    st.markdown(
+        f"""
+        <style>
+        .stApp {{
+            background-color: white;
+        }}
+        h1, h2, h3, h4 {{
+            color: {berkeley_blue};
+        }}
+        body, p, div {{
+            color: black;
+        }}
+        .stButton>button {{
+            background-color: {california_gold};
+            color: black;
+            border: none;
+        }}
+        </style>
+        """,
+        unsafe_allow_html=True,
+    )
+
+    # Add the Berkeley Hackathon banner at the top
+    st.image("images/berkeley_hackathon_banner.png", use_container_width=True)
+
+    st.title("📄 FDA Warning Letter Processor")
+    st.markdown(
+        "Welcome to **RegulAItor**! Please upload the warning letter and the template files to get started."
+    )
+
+    # Add Hackathon and team information
+    st.header("🚀 Berkeley AI Hackathon 2024 Submission")
+    st.markdown(
+        """
+    Join us at the **world's largest AI Hackathon** hosted by **Berkeley SkyDeck** and **Cal Hacks**! We're excited to present our project and contribute to innovative solutions during this event.
+    """
+    )
+
+    # Display team members
+    st.header("👥 Meet the Team")
+    team_members = {
+        "Mobin AZIMIPANAH": "images/mobin.jpeg",
+        "Joan Cheung, PharmD": "images/joan.jpeg",
+    }
+    cols = st.columns(len(team_members))
+    for idx, (name, photo) in enumerate(team_members.items()):
+        with cols[idx]:
+            st.image(photo, caption=name, width=150)
+
+    # Add a sidebar with some information
+    st.sidebar.title("ℹ️ Instructions")
+    st.sidebar.info(
+        """
+        **How to use this app:**
+
+        1. **Upload** the FDA warning letter (TXT, PDF, DOCX).
+        2. **Upload** your corrective action plan template (TXT, PDF, DOCX).
+        3. Click on **Start Processing** to generate the corrective action plan.
+        4. **Download** and review the generated Corrective Action Plan.
+        """
+    )
+
+    st.sidebar.title("ℹ️ About")
+    st.sidebar.info(
+        """
+        **RegulAItor** helps you process FDA warning letters and generate corrective action plans using AI. Streamline your compliance workflow and ensure accuracy with advanced AI capabilities.
+
+        **Team Innovators**  
+        Submitted for the UC Berkeley AI Hackathon 2024.
+        """
+    )
+
+    # Sidebar Hackathon logo
+    st.sidebar.image("images/berkeley_logo.png", use_container_width=True)
 
     # Initialize session state variables
     if "stage" not in st.session_state:
@@ -103,23 +189,31 @@ def main():
 
     # Stage: Upload
     if st.session_state.stage == "upload":
-        warning_letter_file = st.file_uploader(
-            "Upload Warning Letter", type=["txt", "pdf", "docx"], key="warning_letter"
-        )
-        template_file = st.file_uploader(
-            "Upload Template", type=["txt", "pdf", "docx"], key="template"
-        )
+        st.header("Step 1: Upload Files")
+        col1, col2 = st.columns(2)
+        with col1:
+            warning_letter_file = st.file_uploader(
+                "📄 Upload FDA Warning Letter",
+                type=["txt", "pdf", "docx"],
+                key="warning_letter",
+            )
+        with col2:
+            template_file = st.file_uploader(
+                "📄 Upload Corrective Action Plan Template",
+                type=["txt", "pdf", "docx"],
+                key="template",
+            )
 
         if warning_letter_file and template_file:
             # Validate and read files
             if not allowed_file(warning_letter_file.name):
                 st.error(
-                    "Invalid warning letter file type. Only TXT, PDF, and DOCX files are allowed."
+                    "⚠️ Invalid warning letter file type. Only TXT, PDF, and DOCX files are allowed."
                 )
                 return
             if not allowed_file(template_file.name):
                 st.error(
-                    "Invalid template file type. Only TXT, PDF, and DOCX files are allowed."
+                    "⚠️ Invalid template file type. Only TXT, PDF, and DOCX files are allowed."
                 )
                 return
 
@@ -132,29 +226,27 @@ def main():
                 st.session_state.warning_letter_content
                 and st.session_state.template_content
             ):
-                if st.button("Start Processing"):
+                st.header("Step 2: Process Warning Letter")
+                process_button = st.button("🚀 Start Processing")
+
+                if process_button:
                     # Set context for the group chat
                     group_chat.context = {
                         "warning_letter": st.session_state.warning_letter_content,
                         "template": st.session_state.template_content,
                     }
 
-                    # Create a new thread to get user input
-                    user_input_thread = threading.Thread(target=get_user_input)
-                    user_input_thread.daemon = (
-                        True  # Set as daemon so it exits when main thread exits
-                    )
-                    user_input_thread.start()
-
                     # Run the workflow synchronously and provide updates
-                    result = run_workflow(group_chat, "")
+                    result = run_workflow(group_chat)
 
                     if result:
-                        st.success("Processing completed!")
+                        st.balloons()
+                        st.success("✅ Processing completed successfully!")
                         approved_corrective_action_plan = group_chat.context.get(
                             "Approved_corrective_action_plan"
                         )
                         if approved_corrective_action_plan:
+                            st.header("Step 3: Download Corrective Action Plan")
                             word_file = create_word_file(
                                 approved_corrective_action_plan
                             )
@@ -162,14 +254,37 @@ def main():
                                 word_file.save(output)
                                 data = output.getvalue()
                             st.download_button(
-                                label="Download Approved Corrective Action Plan",
+                                label="💾 Download Corrective Action Plan",
                                 data=data,
-                                file_name="approved_corrective_action_plan.docx",
+                                file_name="corrective_action_plan.docx",
                                 mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document",
                             )
-                            st.write(approved_corrective_action_plan)
+                            with st.expander("👀 Preview Corrective Action Plan"):
+                                st.markdown(
+                                    approved_corrective_action_plan.replace(
+                                        "\n", "  \n"
+                                    ),
+                                    unsafe_allow_html=True,
+                                )
                     else:
-                        st.error("An error occurred during processing.")
+                        st.error("⚠️ An error occurred during processing.")
+            else:
+                st.error("⚠️ Could not read the uploaded files. Please try again.")
+
+    # Add a footer with Hackathon and Berkeley logo
+    st.markdown(
+        """
+    <hr>
+    <div style='text-align: center;'>
+        <img src='data:image/png;base64,{}' width='150'>
+        <p>Submitted for the UC Berkeley AI Hackathon 2024</p>
+        <p>Developed with ❤️ by Team Innovators</p>
+    </div>
+    """.format(
+            get_base64_image("images/berkeley_logo.png")
+        ),
+        unsafe_allow_html=True,
+    )
 
 
 if __name__ == "__main__":
