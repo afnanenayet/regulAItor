@@ -8,8 +8,23 @@ License-File: LICENSE
 Requires-Dist: beautifulsoup4>=4.12.3
 Requires-Dist: scrapy-playwright>=0.0.41
 Requires-Dist: scrapy>=2.11.2
-Requires-Dist: pyautogen
-Requires-Dist: tenacity
+Requires-Dist: pyautogen>=0.2
+Requires-Dist: sentence_transformers>=2.2.2
+Requires-Dist: streamlit>=1.41.0
+Requires-Dist: watchdog>=6.0.0
+Requires-Dist: python-dotenv>=1.0.1
+Requires-Dist: openai>=1.56.1
+Requires-Dist: python-docx>=1.1.2
+Requires-Dist: dspy>=2.5.43
+Requires-Dist: requests>=2.32.3
+Requires-Dist: flask>=3.1.0
+Requires-Dist: pypdf>=5.1.0
+Requires-Dist: markdownify>=0.14.1
+Requires-Dist: chromadb>=0.5.23
+Requires-Dist: ipython>=8.30.0
+Requires-Dist: flaml>=2.3.2
+Requires-Dist: qdrant-client>=1.12.1
+Requires-Dist: tenacity>=9.0.0
 
 # regulAItor
 
@@ -40,3 +55,18 @@ Set up the virtual environment by running `uv venv`.
 
 Run `direnv allow` in your shell so that the virtual environment is loaded whenever
 you navigate to the directory.
+
+# Running FDA summarizer locally
+
+You can run the streamlit dashboard for extracting FDA warning letter summaries locally.
+Simply run:
+
+```bash
+./scripts/run_dashboard.bash
+```
+
+This script will run streamlit for you.
+
+# Run full app locally
+
+See the [Agent readme](/src/Framework/README.md).
