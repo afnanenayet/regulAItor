@@ -25,9 +25,29 @@ dependencies = [
   "dspy",
   "python-docx",
   "openai",
-  "python-dotenv"
+  "python-dotenv",
+  "torch>=2.5.1",
+  "torchvision>=0.20.1",
 ]
-
 
 [dependency-groups]
 dev = ["black>=24.10.0", "isort>=5.13.2"]
+
+# [tool.uv.sources]
+# torch = [{ index = "pytorch-cpu", marker = "platform_system != 'Darwin'" }]
+# torchvision = [
+#   { index = "pytorch-cpu", marker = "platform_system != 'Darwin'" },
+# ]
+#
+# [[tool.uv.index]]
+# name = "pytorch-cpu"
+# url = "https://download.pytorch.org/whl/cpu"
+# explicit = true
+
+# [tool.uv.sources]
+# torch = [{ index = "pytorch-cu124", marker = "platform_machine == 'x86_64'" }]
+#
+# [[tool.uv.index]]
+# name = "pytorch-cu124"
+# url = "https://download.pytorch.org/whl/cu124"
+# explicit = true

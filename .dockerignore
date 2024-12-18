@@ -5,7 +5,6 @@ __pycache__/
 .cache/
 .DS_Store
 .venv/
-.env
 src/Framework/RAG/scripts/.cache/*
 src/data/.cache/*
 openai_keys.env
