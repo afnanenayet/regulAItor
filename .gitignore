@@ -13,3 +13,4 @@ src/Framework/.cache/*
 
 # macOS artifact
 .DS_Store/
+dist/
