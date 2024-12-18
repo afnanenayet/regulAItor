@@ -1,0 +1,13 @@
+__pycache__/
+.direnv/
+*.pyc
+/data/*
+.cache/
+.DS_Store
+.venv/
+.env
+src/Framework/RAG/scripts/.cache/*
+src/data/.cache/*
+openai_keys.env
+src/Framework/.cache/*
+dist/
