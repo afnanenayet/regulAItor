@@ -80,6 +80,8 @@ def state_transition(last_speaker, groupchat):
                 # Extract the JSON string from the dict's content field
                 if isinstance(last_validation, dict) and "content" in last_validation:
                     last_validation = last_validation["content"]
+                else:
+                    return validation_agent
 
                 # Remove markdown code block markers if present
                 last_validation = (
@@ -102,6 +104,8 @@ def state_transition(last_speaker, groupchat):
                             "recommendations"
                         ],
                     }
+                    return violation_extraction_agent
+
             except (json.JSONDecodeError, TypeError) as e:
                 print(f"Error exception: {str(e)}")
                 print(f"Debug - Failed validation content: {last_validation}")

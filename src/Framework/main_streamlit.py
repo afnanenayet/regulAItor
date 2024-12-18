@@ -5,6 +5,9 @@ from agents.conversation_workflow import conversation_workflow
 import asyncio
 from docx import Document
 import io
+import os
+import shutil
+import stat
 
 # Initialize logging
 # logging.basicConfig(level=logging.INFO)
@@ -92,6 +95,26 @@ def get_base64_image(image_path):
 
 
 def main():
+
+    # Remove .cache file or directory
+    cache_path = ".cache"
+    if os.path.exists(cache_path):
+        try:
+            # Change the permissions of the file/directory to ensure it can be removed
+            os.chmod(cache_path, stat.S_IRWXU | stat.S_IRWXG | stat.S_IRWXO)
+
+            if os.path.isfile(cache_path):
+                os.remove(cache_path)
+                logging.info(f"Successfully removed file {cache_path}")
+            elif os.path.isdir(cache_path):
+                shutil.rmtree(cache_path)
+                logging.info(f"Successfully removed directory {cache_path}")
+            else:
+                logging.warning(f"{cache_path} is neither a file nor a directory.")
+        except Exception as e:
+            logging.error(f"Error removing {cache_path}: {e}")
+    else:
+        logging.info(f"No cache file or directory found at {cache_path}")
     # Set page configuration
     st.set_page_config(
         page_title="FDA Warning Letter Processor",
@@ -185,7 +208,7 @@ def main():
         """
         **RegulAItor** helps you process FDA warning letters and generate corrective action plans using AI. Streamline your compliance workflow and ensure accuracy with advanced AI capabilities.
 
-        **Team Innovators**  
+        **Team Innovators**
         Submitted for the UC Berkeley AI Hackathon 2024.
         """
     )
@@ -253,7 +276,7 @@ def main():
                     # Run the workflow synchronously and provide updates
                     result = run_workflow(group_chat)
 
-                    if result:
+                    if result.get(True):
                         st.balloons()
                         st.success("✅ Processing completed successfully!")
                         approved_corrective_action_plan = group_chat.context.get(
@@ -280,6 +303,10 @@ def main():
                                     ),
                                     unsafe_allow_html=True,
                                 )
+                    elif result.get(False):
+                        st.error(
+                            "⚠️ User input is not valid. Please review the warning letter or template."
+                        )
                     else:
                         st.error("⚠️ An error occurred during processing.")
             else:

@@ -19,18 +19,16 @@ async def conversation_workflow(group_chat):
 
     if group_chat.context.get("user_input_required"):
         return {
-            "error": (
+            False: (
                 f"User's input is not valid because of "
-                f"warning letter: {group_chat.context.get('input_validation_result', '')} "
-                f"OR template: {group_chat.context.get('valid_Template', '')}"
+                f"warning letter: {group_chat.context.get('input_validation_result_feedback', '')} "
+                f"OR template: {group_chat.context.get('valid_Template_feedback', '')}"
             )
         }
 
-    # Extract results from agent contexts
-    result = {}
+    # Extract results from agent context
     for agent in group_chat.agents:
         if agent.name == "corrective_action_agent":
             corrective_action_plan = agent.context.get("corrective_action_plan", "")
-            result["corrective_action_plan"] = corrective_action_plan
 
-    return result
+    return {True: corrective_action_plan}

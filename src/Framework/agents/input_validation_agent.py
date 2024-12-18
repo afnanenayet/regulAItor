@@ -84,7 +84,8 @@ class InputValidationAgent(ConversableAgent):
             elif json_data.get("status") == "Rejected" and i < max_iterations - 1:
                 continue
             else:
-                self.context["Valid_Template"] = json_data.get("issues")
+                self.context["Valid_Template"] = False
+                self.context["Valid_Template_feedback"] = json_data.get("issues")
 
         if not warning_letter:
             logging.error(f"{self.name}: No warning letter found in context.")
@@ -95,11 +96,12 @@ class InputValidationAgent(ConversableAgent):
         # Perform validation on the warning letter
         is_valid, validation_feedback = self.validate_warning_letter(warning_letter)
 
-        if is_valid:
+        if is_valid is True:
             self.context["input_validation_result"] = is_valid
             response_content = "Validation successful."
         else:
-            self.context["input_validation_result"] = validation_feedback
+            self.context["input_validation_result"] = False
+            self.context["input_validation_result_feedback"] = validation_feedback
             response_content = f"Validation failed. {validation_feedback}"
 
         return {"role": "assistant", "content": response_content}
@@ -107,12 +109,10 @@ class InputValidationAgent(ConversableAgent):
     def validate_warning_letter(self, warning_letter):
         # Define key phrases that should be present in a valid FDA warning letter
         violation_phrases = [
-            "violations of the FD&C Act",
+            "FD&C Act",
             "violation of the Federal Food, Drug, and Cosmetic Act",
-            "not in compliance with the FD&C Act",
-            "FD&C Act compliance issues",
-            "violative under the FD&C Act",
-            "contrary to the FD&C Act",
+            "ederal Food, Drug, and Cosmetic Act",
+            "Food and Drug Administration",
         ]
 
         # Check for violation phrases
@@ -123,11 +123,5 @@ class InputValidationAgent(ConversableAgent):
                 False,
                 "Missing key phrase indicating legal violations under the FD&C Act.",
             )
-
-        # Check for FDA identification
-        if not (
-            "Food and Drug Administration" in warning_letter or "FDA" in warning_letter
-        ):
-            return False, "Missing FDA identification."
 
         return True, "Input warning letter is not Valid"
