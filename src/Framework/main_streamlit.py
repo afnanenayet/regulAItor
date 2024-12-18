@@ -14,7 +14,7 @@ IMAGE_DIR = Path(__file__).parent.resolve() / "images"
 assert IMAGE_DIR.is_dir()
 berkeley_logo_path = IMAGE_DIR / "berkeley_logo.png"
 assert berkeley_logo_path.is_file()
-berkeley_hackathon_banner_path = IMAGE_DIR / "/berkeley_hackathon_banner.png"
+berkeley_hackathon_banner_path = IMAGE_DIR / "berkeley_hackathon_banner.png"
 assert berkeley_hackathon_banner_path.is_file()
 
 
