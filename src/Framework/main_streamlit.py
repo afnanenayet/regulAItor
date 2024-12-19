@@ -1,3 +1,4 @@
+from pathlib import Path
 import streamlit as st
 import logging
 from agents.agent_manager import group_chat
@@ -8,6 +9,13 @@ import io
 
 # Initialize logging
 # logging.basicConfig(level=logging.INFO)
+
+IMAGE_DIR = Path(__file__).parent.resolve() / "images"
+assert IMAGE_DIR.is_dir()
+berkeley_logo_path = IMAGE_DIR / "berkeley_logo.png"
+assert berkeley_logo_path.is_file()
+berkeley_hackathon_banner_path = IMAGE_DIR / "berkeley_hackathon_banner.png"
+assert berkeley_hackathon_banner_path.is_file()
 
 
 # Function to check allowed file extensions
@@ -131,7 +139,7 @@ def main():
     )
 
     # Add the Berkeley Hackathon banner at the top
-    st.image("images/berkeley_hackathon_banner.png", use_container_width=True)
+    st.image(str(berkeley_hackathon_banner_path), use_container_width=True)
 
     st.title("📄 FDA Warning Letter Processor")
     st.markdown(
@@ -149,8 +157,8 @@ def main():
     # Display team members
     st.header("👥 Meet the Team")
     team_members = {
-        "Mobin AZIMIPANAH": "images/mobin.jpeg",
-        "Joan Cheung, PharmD": "images/joan.jpeg",
+        "Mobin AZIMIPANAH": IMAGE_DIR / "mobin.jpeg",
+        "Joan Cheung, PharmD": IMAGE_DIR / "joan.jpeg",
     }
     cols = st.columns(len(team_members))
 
@@ -191,7 +199,7 @@ def main():
     )
 
     # Sidebar Hackathon logo
-    st.sidebar.image("images/berkeley_logo.png", use_container_width=True)
+    st.sidebar.image(berkeley_logo_path, use_container_width=True)
 
     # Initialize session state variables
     if "stage" not in st.session_state:
@@ -295,7 +303,7 @@ def main():
         <p>Developed with ❤️ by Team Innovators</p>
     </div>
     """.format(
-            get_base64_image("images/berkeley_logo.png")
+            get_base64_image(str(berkeley_logo_path))
         ),
         unsafe_allow_html=True,
     )

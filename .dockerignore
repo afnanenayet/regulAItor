@@ -2,15 +2,11 @@ __pycache__/
 .direnv/
 *.pyc
 /data/*
-src/data/.cache/*
+.cache/
 .DS_Store
 .venv/
-.env
 src/Framework/RAG/scripts/.cache/*
 src/data/.cache/*
 openai_keys.env
 src/Framework/.cache/*
-
-# macOS artifact
-.DS_Store/
 dist/
