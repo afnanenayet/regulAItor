@@ -25,7 +25,6 @@ dependencies = [
   "flaml>=2.3.2",
   "qdrant-client>=1.12.1",
   "tenacity>=9.0.0",
-  "pypdf2>=3.0.1",
   "torch>=2.5.1",
   "torchvision>=0.20.1",
 ]
