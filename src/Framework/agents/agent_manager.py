@@ -72,46 +72,35 @@ def state_transition(last_speaker, groupchat):
         return validation_agent
 
     elif last_speaker is validation_agent:
-        is_valid = False
-        while not is_valid:
-            try:
-                last_validation = validation_agent.last_message()
+        try:
+            last_validation = validation_agent.last_message()
 
-                # Extract the JSON string from the dict's content field
-                if isinstance(last_validation, dict) and "content" in last_validation:
-                    last_validation = last_validation["content"]
-                else:
-                    return validation_agent
+            # Extract the JSON string from the dict's content field
+            last_validation = last_validation["content"].replace("```json", "").replace("```", "").strip()
 
-                # Remove markdown code block markers if present
-                last_validation = (
-                    last_validation.replace("```json", "").replace("```", "").strip()
-                )
-
-                json_data = json.loads(last_validation)
-                is_valid = True
-                if json_data.get("status") == "APPROVED":
-                    context["summary"] = {
-                        "violated_terms": json_data["summary"]["violated_terms"],
-                        "recommendations": json_data["summary"]["recommendations"],
-                    }
-                elif json_data.get("status") == "REJECTED":
-                    context["summary"] = {
-                        "violated_terms": json_data["revised_summary"][
-                            "violated_terms"
-                        ],
-                        "recommendations": json_data["revised_summary"][
-                            "recommendations"
-                        ],
-                    }
-                    return violation_extraction_agent
-
-            except (json.JSONDecodeError, TypeError) as e:
-                print(f"Error exception: {str(e)}")
-                print(f"Debug - Failed validation content: {last_validation}")
+            json_data = json.loads(last_validation)
+            if json_data.get("status") == "APPROVED":
+                context["summary"] = {
+                    "violated_terms": json_data["summary"]["violated_terms"],
+                    "recommendations": json_data["summary"]["recommendations"],
+                }
+                return similarity_search_agent
+            elif json_data.get("status") == "REJECTED":
+                context["summary"] = {
+                    "violated_terms": json_data["revised_summary"][
+                        "violated_terms"
+                    ],
+                    "recommendations": json_data["revised_summary"][
+                        "recommendations"
+                    ],
+                }
                 return violation_extraction_agent
 
-        return similarity_search_agent
+        except (json.JSONDecodeError, TypeError) as e:
+            print(f"Error exception: {str(e)}")
+            print(f"Debug - Failed validation content: {last_validation}")
+            return violation_extraction_agent
+
 
     elif last_speaker is similarity_search_agent:
         # Proceed to regulation_content_agent
