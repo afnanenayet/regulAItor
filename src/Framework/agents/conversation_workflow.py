@@ -4,13 +4,13 @@ from .agent_manager import initiating_agent
 
 
 async def conversation_workflow(group_chat):
+    group_chat_manager = GroupChatManager(group_chat)
+    group_chat_manager.reset()
     warning_letter = group_chat.context.get("warning_letter")
     template = group_chat.context.get("template", "")
 
     for agent in group_chat.agents:
         agent.context = group_chat.context
-
-    group_chat_manager = GroupChatManager(group_chat)
 
     if not warning_letter:
         return {"error": "Warning letter is missing or empty"}
