@@ -42,3 +42,7 @@ This script will run streamlit for you.
 # Run full app locally
 
 See the [Agent readme](/src/Framework/README.md).
+
+You can also run it with docker compose. Make sure you have a `.env` file in the root
+of the git repository with your OpenAI API credentials, then run `docker compose up`, and
+the streamlit frontend will run.

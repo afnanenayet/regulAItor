@@ -1,0 +1,63 @@
+services:
+  # vector db used by the app
+  qdrant:
+    image: qdrant/qdrant
+    container_name: qdrant
+    ports:
+      - "6333:6333"
+    volumes:
+      - qdrant_data:/qdrant/data
+
+  # one-off service to load embedding data into qdrant
+  embed_data:
+    build:
+      context: .
+      dockerfile: multistage.Dockerfile
+    container_name: embed_data
+    depends_on:
+      - qdrant
+    command: uv run /app/src/Framework/RAG/scripts/embed_data.py
+    restart: "no"
+    environment:
+      QDRANT_HOST: qdrant
+      QDRANT_PORT: 6333
+
+  web:
+    # Build the image from the Dockerfile in the current directory
+    build:
+      context: .
+      dockerfile: multistage.Dockerfile
+    depends_on:
+      qdrant:
+        condition: service_started
+      embed_data:
+        condition: service_completed_successfully
+
+    command: uv run streamlit run /app/src/Framework/main_streamlit.py --server.port 8501
+    environment:
+      QDRANT_HOST: qdrant
+      QDRANT_PORT: 6333
+
+    # Host the FastAPI application on port 8000
+    ports:
+      - "8501:8501"
+
+    develop:
+      # Create a `watch` configuration to update the appl
+      # https://docs.docker.com/compose/file-watch/#compose-watch-versus-bind-mounts
+      watch:
+        # Sync the working directory with the `/app` directory in the container
+        - action: sync
+          path: .
+          target: /app
+          # Exclude the project virtual environment — it could be for a
+          # different platform in the container
+          ignore:
+            - .venv/
+
+        # Rebuild the image on changes to the `pyproject.toml`
+        - action: rebuild
+          path: ./pyproject.toml
+
+volumes:
+  qdrant_data:
