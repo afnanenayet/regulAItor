@@ -37,29 +37,33 @@ You are a compliance assistant tasked with drafting a full corrective action pla
         regulation_texts = self.context.get("regulation_full_texts", {})
         template = self.context.get("template", "")
         validation_feedback = self.context.get("feedback", "")
+        corrective_action_plan = self.context.get("corrective_action_plan", "")
         messages = [
             {
                 "role": "user",
                 "content": f"""
             Using the following template, create a comprehensive corrective action plan that addresses all violated terms.
-            
+
+            Rejected corrective action plan:
+            {corrective_action_plan}
+
             Previous Validation Feedback (if any):
             {validation_feedback}
 
-            **Template:**  
-            {template}  
+            **Template:**
+            {template}
 
             **Warning Letter**
             {warning_letter}
 
-            **Violated Terms:**  
-            {violated_terms}  
+            **Violated Terms:**
+            {violated_terms}
 
-            **Recommendations:**  
-            {recommendations}  
+            **Recommendations:**
+            {recommendations}
 
-            **Regulation Context:**  
-            {regulation_texts}  
+            **Regulation Context:**
+            {regulation_texts}
 
             Ensure the corrective action plan incorporates the recommendations and aligns thoroughly with the full regulatory context, addressing each violated term systematically.
             """,
