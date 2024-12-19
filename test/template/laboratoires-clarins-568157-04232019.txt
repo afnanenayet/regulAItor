@@ -1,0 +1,235 @@
+Product: 
+        Drugs                          
+            
+            
+            
+            
+            
+            
+            
+             
+            
+            
+            
+              
+            
+            
+            
+      
+          
+              
+
+
+
+
+
+  
+    
+
+        Recipient:
+
+                      
+  
+    Recipient Name
+              Mr. Denis Martin
+          
+
+                                
+  
+    Recipient Title
+              Operations Director
+          
+
+          
+            Laboratoires Clarins 
+
+          
+                      5 rue Ampére
+95300 Pontoise
+France
+          
+          
+          
+    
+              
+
+       
+    
+          
+          Issuing Office:
+        
+         
+          Center for Drug Evaluation and Research
+        
+         
+          10903 New Hampshire Avenue
+Silver Spring, MD 20993
+United States
+        
+        
+        
+        
+        
+    
+     
+      
+    
+    
+      
+
+
+ 
+
+ 
+
+
+
+Via UPS                                                                                  Warning Letter # 320-19-20
+
+Return Receipt Requested
+
+ 
+
+April 23, 2019
+
+           
+
+Mr. Denis Martin
+
+Operations Director
+
+Laboratoires Clarins
+
+5 rue Ampére
+
+95300 Pontoise
+
+France
+
+ 
+
+Dear Mr. Martin:
+
+The U.S. Food and Drug Administration (FDA) inspected your drug manufacturing facility, Laboratoires Clarins at 5 rue Ampére, Pontoise, from September 17 to 21, 2018.
+
+This warning letter summarizes significant violations of current good manufacturing practice (CGMP) regulations for finished pharmaceuticals. See 21 CFR, parts 210 and 211.
+
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your drug products are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+
+We reviewed your October 11, 2018, response in detail and acknowledge receipt of your subsequent correspondence.
+
+During our inspection, our investigator observed specific violations including, but not limited to, the following.
+
+1.      Your firm failed to thoroughly investigate any unexplained discrepancy or failure of a batch or any of its components to meet any of its specifications, whether or not the batch has already been distributed (21 CFR 211.192).
+
+You failed to conduct adequate investigations into out-of-specification (OOS) test results for critical product attributes, such as assay, for your (b)(4) drug products. Your investigations into the OOS results did not determine root causes and include effective corrective action and preventive action (CAPA) to prevent their recurrence. In addition, your rationales for invalidating the testing failures lacked a substantive scientific evaluation.
+
+In your response, you committed to reviewing and revising your OOS, deviation, complaints, and CAPA management systems. You also provided an assessment of the impact of the OOS results to consumer safety, and you concluded that there was no impact. However, your response was inadequate because you failed to provide a comprehensive investigation including, but not limited to, an adequate evaluation of root causes of the OOS results and the scope of the failures.
+
+In response to this letter, provide the following.
+
+
+	A retrospective, independent review of all invalidated OOS (in-process and finished testing) results obtained for products currently on the U.S. market and within expiry. Assess whether the scientific justification and evidence for each invalidated OOS result was conclusive. For investigations that conclusively establish laboratory root cause, determine effectiveness of the CAPA, and ensure that other laboratory methods vulnerable to the same root cause are identified for remediation. For any OOS results with inconclusive or no root cause identified in the laboratory, include a thorough review of production (e.g., batch manufacturing records, adequacy of the manufacturing steps, raw materials, process capability, deviation history, batch failure history). Provide a CAPA plan that identifies manufacturing root causes and specifies meaningful improvements.
+	Review and remediate your overall system for investigating OOS results. Provide a CAPA plan to improve OOS handling. Your CAPA plan should ensure that your revised OOS investigations procedure includes enhanced quality unit oversight of laboratory investigations, identification of adverse laboratory control trends, resolution of causes of laboratory variation, and investigations of potential manufacturing causes when a laboratory cause cannot be conclusively identified.
+	A comprehensive, independent assessment of your system for investigating deviations, atypical events, complaints, OOS results, and failures. Your CAPA plan should include, but not be limited to, improvements in investigations, root cause analysis, written procedures, and quality unit oversight. Also include your process for evaluating CAPA plan effectiveness.
+	A full evaluation of scope and magnitude to determine the impact of the failing results on the batches that had OOS results and additional drug products you manufacture. 
+
+
+2.      Your firm failed to establish adequate written procedures for production and process control designed to assure that the drug products you manufacture have the identity, strength, quality, and purity they purport or are represented to possess (21 CFR 211.100(a)).
+
+You failed to validate your processes and qualify equipment used to manufacture your (b)(4) drug products. Specifically, you did not perform process qualification studies, nor did you have a rigorous ongoing program for monitoring process control to ensure stable manufacturing operations and consistent drug quality.
+
+In your response, you committed to pursuing an improved process validation program for new drug products, to assessing the manufacturing processes for existing products, and to qualifying your current and future manufacturing equipment. However, you failed to provide assurance that your manufacturing equipment is suitable for its intended uses and that your manufacturing processes are reproducible and capable of meeting all predetermined quality attributes.
+
+In response to this letter, provide the following.
+
+
+	A validation plan for ensuring a state of control throughout the product lifecycle. Include a timeline for performing appropriate process performance qualification (PPQ) for each of your drug products. Describe your program for monitoring batch-to-batch variation to ensure an ongoing state of control.
+	The process performance protocols and studies that evaluate whether your manufacturing equipment and processes are reliable. This includes but is not limited to determining whether your production parameters are consistently met and whether your process is capable of reproducibly yielding a product that meets its quality attributes. 
+
+
+3.      Your firm failed to clean, maintain, and, as appropriate for the nature of the drug, sanitize and/or sterilize equipment and utensils at appropriate intervals to prevent malfunctions or contamination that would alter the safety, identity, strength, quality, and purity of the drug product beyond the official or other established requirements (21 CFR 211.67(a)).
+
+You failed to demonstrate that your cleaning and disinfection practices are adequate to remove contaminants from equipment you use to manufacture your (b)(4) drug products. Your determination of the adequacy of your cleaning and disinfection process is limited to a visual examination of the surfaces to detect any contaminants.
+
+In your response, you provide an outline for your cleaning validation strategy and timeframes for completion. However, your response was inadequate because you failed to provide the specifics of your plan and rationale for your approach. Further, you provided no data to ensure that your cleaning and disinfection practices are sufficient to reproducibly remove contaminants from equipment product surfaces between manufacturing runs.
+
+In response to this letter, provide the following. 
+
+
+	A comprehensive plan to evaluate cleaning and disinfection procedures and practices. Your plan should include the cleaning and disinfection techniques, agents used, agents’ application times, testing methods, and respective testing criteria to effectively address potential chemical or microbiological contaminants.
+	Scientific rationale for your cleaning and disinfection validation strategy to ensure your cleaning and disinfection procedures are effective.
+	A summary of updates to your cleaning and disinfection validation protocols incorporating conditions identified as worst case. This should include, but not be limited to:
+
+
+o   Evaluating drugs of the highest toxicity
+
+o   Assessing drugs of the lowest solubility in their cleaning solvents
+
+o   Evaluating drugs with characteristics that make them difficult to clean
+
+o   Swabbing equipment locations that are most difficult to clean
+
+
+	A summary of updated SOPs that ensure an appropriate program is in place for verification and validation of cleaning and disinfection procedures for new products, processes, and equipment. 
+
+
+Out-of-Specification Test Results
+
+For more information about handling failing, out-of-specification, out-of-trend, or other unexpected results and documentation of your investigations, see FDA’s guidance document Investigating Out-of-Specification (OOS) Test Results for Pharmaceutical Production at https://www.fda.gov/downloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/UCM070287.pdf.
+
+Process Controls 
+
+Your firm lacks an ongoing program for monitoring process control to ensure stable manufacturing operations and consistent drug quality. See FDA’s guidance document Process Validation: General Principles and Practices for general principles and approaches that FDA considers appropriate elements of process validation at https://www.fda.gov/downloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/UCM070336.pdf.  
+
+CGMP Consultant Recommended 
+
+Based upon the nature of the violations we identified at your firm and because you failed to correct repeat observations, we strongly recommend engaging a consultant qualified as set forth in 21 CFR 211.34 to assist your firm in meeting CGMP requirements. Your use of a consultant does not relieve your firm’s obligation to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+
+Conclusion
+
+Violations cited in this letter are not intended as an all-inclusive list. You are responsible for investigating these violations, for determining the causes, for preventing their recurrence, and for preventing other violations.
+
+Until you correct all violations completely and we confirm your compliance with CGMP, FDA may withhold approval of any new applications or supplements listing your firm as a drug manufacturer.
+
+Failure to correct these violations may also result in FDA refusing admission of articles manufactured at Laboratoires Clarins at 5 rue Ampére, Pontoise into the United States under section 801(a)(3) of the FD&C Act, 21 U.S.C. 381(a)(3). Under the same authority, articles may be subject to refusal of admission, in that the methods and controls used in their manufacture do not appear to conform to CGMP within the meaning of section 501(a)(2)(B) of the FD&C Act, 21 U.S.C. 351(a)(2)(B).
+
+After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done since our inspection to correct your violations and to prevent their recurrence. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov or mail your reply to:
+
+Philip Kreiter
+
+Compliance Officer
+
+U.S. Food and Drug Administration
+
+White Oak Building 51, Room 4359
+
+10903 New Hampshire Avenue
+
+Silver Spring, MD 20993
+
+USA
+
+ 
+
+Please identify your response with FEI 3002759467.
+
+ 
+
+ 
+
+Sincerely,
+
+/S/ 
+
+Francis Godwin
+
+Director
+
+Office of Manufacturing Quality
+
+Office of Compliance
+
+Center for Drug Evaluation and Research
